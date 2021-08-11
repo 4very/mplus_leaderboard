@@ -8,10 +8,11 @@ import { DataGrid } from '@material-ui/data-grid';
 import moment from 'moment';
 
 interface Props {
-  teams: string[][];
-  teamNames: string[][];
-  runs: string[][];
-  rows: RunRow[];
+  // teams: string[][];
+  // teamNames: string[][];
+  // runs: string[][];
+  runRows: RunRow[];
+  teamRows: TeamRow[];
 }
 
 interface RunRow {
@@ -23,10 +24,20 @@ interface RunRow {
   dateCompleted: string;
 }
 
+interface TeamRow {
+  id: string;
+  team: string;
+  tank: string;
+  healer: string;
+  dps1: string;
+  dps2: string;
+  dps3: string;
+}
+
 export default function ContentPage(props: Props) { // eslint-disable-line
   // const router = useRouter();
 
-  const columns = [
+  const runColumns = [
     { field: 'id', headerName: 'ID', width: 100, hide: true },
     { field: 'team', headerName: 'Team', width: 120 },
     {
@@ -45,71 +56,56 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       headerName: 'Completed',
       width: 200,
     },
+  ];
 
-    // {
-    //   field: 'lastName',
-    //   headerName: 'Last name',
-    //   width: 200,
-    //   editable: true,
-    // },
-    // {
-    //   field: 'age',
-    //   headerName: 'Age',
-    //   type: 'number',
-    //   width: 150,
-    //   editable: true,
-    // },
-    // {
-    //   field: 'fullName',
-    //   headerName: 'Full name',
-    //   description: 'This column has a value getter and is not sortable.',
-    //   sortable: false,
-    //   width: 160,
-    //   valueGetter: (params) =>
-    //     `${params.getValue(params.id, 'firstName') || ''} ${
-    //       params.getValue(params.id, 'lastName') || ''
-    //     }`,
-    // },
+  const teamColumns = [
+    { field: 'id', headerName: '#', width: 90 },
+    { field: 'team', headerName: 'Team Name', width: 300 },
+    {
+      field: 'tank',
+      headerName: 'Tank',
+      width: 200,
+    },
+    {
+      field: 'healer',
+      headerName: 'Healer',
+      width: 150,
+    },
+    {
+      field: 'dps1',
+      headerName: 'DPS',
+      width: 150,
+    },
+    {
+      field: 'dps2',
+      headerName: 'DPS',
+      width: 150,
+    },
+    {
+      field: 'dps3',
+      headerName: 'DPS',
+      width: 150,
+    },
   ];
 
   return (
     <div>
-      <div style={{ height: 300, width: '100%' }}>
-        <DataGrid rows={props.rows} columns={columns} disableSelectionOnClick />
+      <div style={{ height: '400px', width: '100%' }}>
+        <DataGrid
+          rows={props.runRows}
+          columns={runColumns}
+          disableSelectionOnClick
+          hideFooter
+        />
       </div>
-      <ul>
-        {props.teams.map((team) => (
-          <li key={team[0]}>
-            {team[0]}
-            <ul>
-              {team.slice(1).map((team_member) => (
-                <li key={team_member}>{team_member}</li>
-              ))}
-            </ul>
-          </li>
-        ))}
-      </ul>
-      <ul>
-        {props.runs.map((run) => (
-          <li key={`${run[1]}`}>
-            {run[0]}
-            <ul>
-              {run.slice(1).map((run_data) => (
-                <li key={`${run_data}`}>{run_data}</li>
-              ))}
-            </ul>
-          </li>
-        ))}
-      </ul>
-      <ul>
-        {props.teamNames.map((teamName) => (
-          <li key={teamName[1]}>
-            {teamName[0]}
-            <br />
-            {teamName[1]}
-          </li>
-        ))}
-      </ul>
+      <div style={{ height: '700px', width: '100%' }}>
+        <DataGrid
+          rows={props.teamRows}
+          columns={teamColumns}
+          disableSelectionOnClick
+          hideFooter
+        />
+      </div>
     </div>
   );
 }
@@ -139,10 +135,22 @@ export async function getStaticProps() {
     runs.push(runsRaw[i]?.split(',') ?? []);
   }
 
-  const rows: RunRow[] = [];
+  const teamRows: TeamRow[] = [];
+  for (let i: number = 0; i < teams.length; i += 1) {
+    teamRows.push({
+      id: teams[i][0].split(' ')[1],
+      team: teamNames[i][1],
+      tank: teams[i][1],
+      healer: teams[i][2],
+      dps1: teams[i][3],
+      dps2: teams[i][4],
+      dps3: teams[i][5],
+    });
+  }
 
+  const runRows: RunRow[] = [];
   for (let i: number = 0; i < runs.length; i += 1) {
-    rows.push({
+    runRows.push({
       id: runs[i][1],
       team: runs[i][0],
       dunegonName: runs[i][2],
@@ -154,10 +162,11 @@ export async function getStaticProps() {
 
   return {
     props: {
-      teams,
-      teamNames,
-      runs,
-      rows,
+      // teams,
+      // teamNames,
+      // runs,
+      runRows,
+      teamRows,
     },
   };
 }
