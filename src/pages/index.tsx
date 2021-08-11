@@ -10,4 +10,12 @@ const Index = () => {
   );
 };
 
+export async function getStaticProps() {
+  return {
+    props: {
+      posts: 'aa',
+    },
+  };
+}
+
 export default Index;
