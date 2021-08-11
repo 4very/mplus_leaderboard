@@ -60,7 +60,7 @@ export default function ContentPage(props: Props) { // eslint-disable-line
 
   const teamColumns = [
     { field: 'id', headerName: '#', width: 90 },
-    { field: 'team', headerName: 'Team Name', width: 300 },
+    { field: 'team', headerName: 'Team Name', width: 300, flex: 1 },
     {
       field: 'tank',
       headerName: 'Tank',
@@ -69,22 +69,22 @@ export default function ContentPage(props: Props) { // eslint-disable-line
     {
       field: 'healer',
       headerName: 'Healer',
-      width: 150,
+      width: 200,
     },
     {
       field: 'dps1',
       headerName: 'DPS',
-      width: 150,
+      width: 200,
     },
     {
       field: 'dps2',
       headerName: 'DPS',
-      width: 150,
+      width: 200,
     },
     {
       field: 'dps3',
       headerName: 'DPS',
-      width: 150,
+      width: 200,
     },
   ];
 
@@ -98,7 +98,7 @@ export default function ContentPage(props: Props) { // eslint-disable-line
           hideFooter
         />
       </div>
-      <div style={{ height: '700px', width: '100%' }}>
+      <div style={{ height: '380px', width: '100%' }}>
         <DataGrid
           rows={props.teamRows}
           columns={teamColumns}
