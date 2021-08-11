@@ -8,11 +8,7 @@ import React from 'react';
 import { Typography } from '@material-ui/core';
 import '@fontsource/roboto';
 
-import {
-  DataGrid,
-  GridCellParams,
-  GridSortModel,
-} from '@material-ui/data-grid';
+import { DataGrid, GridCellParams } from '@material-ui/data-grid';
 import moment from 'moment';
 
 interface Props {
@@ -32,6 +28,7 @@ interface RunRow {
   score: number;
   dateCompleted: string;
   timerDiff: number;
+  fullTeam: boolean;
   link: string;
 }
 
@@ -111,6 +108,12 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       renderCell: timeToString,
     },
     {
+      field: 'fullTeam',
+      headerName: 'Full team?',
+      width: 150,
+      type: 'boolean',
+    },
+    {
       field: 'link',
       headerName: 'Link',
       width: 70,
@@ -162,13 +165,6 @@ export default function ContentPage(props: Props) { // eslint-disable-line
     },
   ];
 
-  const [sortModel, setSortModel] = React.useState<GridSortModel>([
-    {
-      field: 'dateCompleted',
-      sort: 'desc',
-    },
-  ]);
-
   return (
     <div>
       <Typography
@@ -184,8 +180,6 @@ export default function ContentPage(props: Props) { // eslint-disable-line
           disableSelectionOnClick
           hideFooter
           autoHeight
-          sortModel={sortModel}
-          onSortModelChange={(model) => setSortModel(model)}
         />
       </div>
       <Typography
@@ -281,6 +275,7 @@ export async function getStaticProps() {
       score: +runs[i][4],
       dateCompleted: runs[i][7],
       timerDiff: diff,
+      fullTeam: runs[i][9] === 'True',
       link: runs[i][1],
     });
   }
