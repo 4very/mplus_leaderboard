@@ -6,6 +6,7 @@ import os
 import croniter
 import pytz as tz
 import pandas as pd
+from time import gmtime, strftime
 
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
@@ -125,9 +126,10 @@ def writeDateToFile():
 
   dateFile.write(datetime.datetime.now(tz=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
   dateFile.write("\n")
-  dateFile.write(datetime.datetime.fromtimestamp(croniter.croniter(r'0 0-23 * * *', datetime.datetime.now()).get_next(), tz=tz.timezone('UTC'))
-    .replace(tzinfo=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
+
+  cron = croniter.croniter(r'0 0-23 * * *', datetime.datetime.now(tz=tz.timezone('America/New_York'))).get_next()
   
+  dateFile.write(datetime.datetime.fromtimestamp(cron).strftime("%A, %B %d at %H:%M:%S EDT"))
   dateFile.close()
 
 if __name__ == '__main__':
