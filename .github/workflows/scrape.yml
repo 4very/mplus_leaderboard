@@ -5,7 +5,7 @@ name: Hourly Scrape
 # Controls when the action will run. 
 on:
   schedule:
-    - cron:  '@hourly'
+    - cron:  '0 */1 * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   
