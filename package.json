@@ -19,6 +19,7 @@
     "@material-ui/core": "^5.0.0-beta.3",
     "@material-ui/data-grid": "^4.0.0-alpha.35",
     "@material-ui/styles": "^4.11.4",
+    "moment": "^2.29.1",
     "next": "^11.0.1",
     "next-seo": "^4.26.0",
     "react": "^17.0.2",

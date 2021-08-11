@@ -5,30 +5,47 @@ import path from 'path';
 import React from 'react';
 
 import { DataGrid } from '@material-ui/data-grid';
+import moment from 'moment';
 
 interface Props {
   teams: string[][];
   teamNames: string[][];
   runs: string[][];
+  rows: RunRow[];
 }
 
 interface RunRow {
-  id: number;
+  id: string;
   team: string;
   dunegonName: string;
+  keystoneLevel: string;
+  score: number;
+  dateCompleted: string;
 }
 
 export default function ContentPage(props: Props) { // eslint-disable-line
   // const router = useRouter();
 
   const columns = [
-    { field: 'id', headerName: 'ID', width: 100 },
-    { field: 'team', headerName: 'Team Name', width: 200 },
+    { field: 'id', headerName: 'ID', width: 100, hide: true },
+    { field: 'team', headerName: 'Team', width: 120 },
     {
       field: 'dunegonName',
       headerName: 'Dungeon',
-      width: 700,
+      width: 200,
     },
+    {
+      field: 'keystoneLevel',
+      headerName: 'Key Level',
+      width: 150,
+    },
+    { field: 'score', headerName: 'Score', width: 130, type: 'number' },
+    {
+      field: 'dateCompleted',
+      headerName: 'Completed',
+      width: 200,
+    },
+
     // {
     //   field: 'lastName',
     //   headerName: 'Last name',
@@ -55,35 +72,10 @@ export default function ContentPage(props: Props) { // eslint-disable-line
     // },
   ];
 
-  // const rows = [
-  //   { id: 1, lastName: 'Snow', firstName: 'Jon', age: 35 },
-  //   { id: 2, lastName: 'Lannister', firstName: 'Cersei', age: 42 },
-  //   { id: 3, lastName: 'Lannister', firstName: 'Jaime', age: 45 },
-  //   { id: 4, lastName: 'Stark', firstName: 'Arya', age: 16 },
-  //   { id: 5, lastName: 'Targaryen', firstName: 'Daenerys', age: null },
-  //   { id: 6, lastName: 'Melisandre', firstName: null, age: 150 },
-  //   { id: 7, lastName: 'Clifford', firstName: 'Ferrara', age: 44 },
-  //   { id: 8, lastName: 'Frances', firstName: 'Rossini', age: 36 },
-  //   { id: 9, lastName: 'Roxie', firstName: 'Harvey', age: 65 },
-  // ];
-
-  //
-  // for (let i: number = 0; i < props.runs.length; i += 1) {
-  //   rows.push({ id: i, team: props.runs[i][0], dungeon: runs[i][2] ?? '' });
-  // }
-
-  const rows: RunRow[] = [
-    {
-      id: 1,
-      team: 'team 1',
-      dunegonName: 'Mists of Tirna Scithe',
-    },
-  ];
-
   return (
     <div>
       <div style={{ height: 300, width: '100%' }}>
-        <DataGrid rows={rows} columns={columns} disableSelectionOnClick />
+        <DataGrid rows={props.rows} columns={columns} disableSelectionOnClick />
       </div>
       <ul>
         {props.teams.map((team) => (
@@ -147,11 +139,25 @@ export async function getStaticProps() {
     runs.push(runsRaw[i]?.split(',') ?? []);
   }
 
+  const rows: RunRow[] = [];
+
+  for (let i: number = 0; i < runs.length; i += 1) {
+    rows.push({
+      id: runs[i][1],
+      team: runs[i][0],
+      dunegonName: runs[i][2],
+      keystoneLevel: runs[i][5],
+      score: +runs[i][4],
+      dateCompleted: moment(runs[i][7]).utcOffset(-6).format('h:m a, MM/DD'),
+    });
+  }
+
   return {
     props: {
       teams,
       teamNames,
       runs,
+      rows,
     },
   };
 }
