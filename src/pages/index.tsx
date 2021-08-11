@@ -4,7 +4,7 @@ import path from 'path';
 
 import React from 'react';
 
-import { DataGrid } from '@material-ui/data-grid';
+import { DataGrid, GridCellParams } from '@material-ui/data-grid';
 import moment from 'moment';
 
 interface Props {
@@ -37,6 +37,16 @@ interface TeamRow {
 export default function ContentPage(props: Props) { // eslint-disable-line
   // const router = useRouter();
 
+  const usernameToLink = (params: GridCellParams) => (
+    <a
+      href={`https://raider.io/characters/us/${
+        params.value.toString().split('-')[1]
+      }/${params.value.toString().split('-')[0]}`}
+    >
+      {params.value}
+    </a>
+  );
+
   const runColumns = [
     { field: 'id', headerName: 'ID', width: 100, hide: true },
     { field: 'team', headerName: 'Team', width: 120 },
@@ -65,26 +75,31 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       field: 'tank',
       headerName: 'Tank',
       width: 200,
+      renderCell: usernameToLink,
     },
     {
       field: 'healer',
       headerName: 'Healer',
       width: 200,
+      renderCell: usernameToLink,
     },
     {
       field: 'dps1',
       headerName: 'DPS',
       width: 200,
+      renderCell: usernameToLink,
     },
     {
       field: 'dps2',
       headerName: 'DPS',
       width: 200,
+      renderCell: usernameToLink,
     },
     {
       field: 'dps3',
       headerName: 'DPS',
       width: 200,
+      renderCell: usernameToLink,
     },
   ];
 
