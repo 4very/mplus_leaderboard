@@ -138,7 +138,7 @@ def writeDateToFile():
   dateFile.write(datetime.datetime.now(tz=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S %Z"))
   dateFile.write("\n")
   dateFile.write(datetime.datetime.fromtimestamp(croniter.croniter(r'0 0-23 * * *', datetime.datetime.now()).get_next(), tz=tz.timezone('UTC'))
-    .replace(tzinfo=tz.timezone('America/New_York')).astimezone(tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
+    .replace(tzinfo=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
   
   
 
