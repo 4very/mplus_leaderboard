@@ -22,6 +22,7 @@ interface RunRow {
   keystoneLevel: string;
   score: number;
   dateCompleted: string;
+  timerDiff: number;
 }
 
 interface TeamRow {
@@ -46,6 +47,14 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       {params.value}
     </a>
   );
+  const timeToString = (params: GridCellParams) => (
+    <div style={{ color: +params.value.valueOf() > 0 ? 'red' : 'green' }}>
+      {`${Math.floor(Math.abs(+params.value.valueOf()) / 60000)}:${(
+        (Math.abs(+params.value.valueOf()) % 60000) /
+        1000
+      ).toFixed(0)}`}
+    </div>
+  );
 
   const runColumns = [
     { field: 'id', headerName: 'ID', width: 100, hide: true },
@@ -65,6 +74,13 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       field: 'dateCompleted',
       headerName: 'Completed',
       width: 200,
+    },
+    {
+      field: 'timerDiff',
+      headerName: 'Time Difference',
+      width: 200,
+      type: 'number',
+      renderCell: timeToString,
     },
   ];
 
@@ -150,6 +166,14 @@ export async function getStaticProps() {
     runs.push(runsRaw[i]?.split(',') ?? []);
   }
 
+  const timersRaw = fs
+    .readFileSync(path.join(process.cwd(), 'data', 'dungeontimers.csv'), 'utf8')
+    .split('\n');
+  const timers: string[][] = [];
+  for (let i: number = 0; i < timersRaw.length; i += 1) {
+    timers.push(timersRaw[i]?.split(',') ?? []);
+  }
+
   const teamRows: TeamRow[] = [];
   for (let i: number = 0; i < teams.length; i += 1) {
     teamRows.push({
@@ -165,6 +189,19 @@ export async function getStaticProps() {
 
   const runRows: RunRow[] = [];
   for (let i: number = 0; i < runs.length; i += 1) {
+    let timer = 0;
+    for (let j: number = 0; j < timers.length; j += 1) {
+      if (timers[j][0] === runs[i][3]) {
+        timer = +timers[j][1];
+        break; // lol
+      }
+    }
+
+    const diff = +runs[i][6] - timer;
+    // if (diff < 0) {
+    //   diff = +diff + 60000;
+    // }
+
     runRows.push({
       id: runs[i][1],
       team: runs[i][0],
@@ -172,6 +209,7 @@ export async function getStaticProps() {
       keystoneLevel: runs[i][5],
       score: +runs[i][4],
       dateCompleted: moment(runs[i][7]).utcOffset(-6).format('h:m a, MM/DD'),
+      timerDiff: diff,
     });
   }
 
