@@ -5,6 +5,7 @@ import datetime
 import os
 import croniter
 import pytz as tz
+import pandas as pd
 
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
@@ -50,13 +51,29 @@ def joinRuns(members: list):
   
   return_value = []
 
-  for member1_run in member_runs[0]:
-    url = member1_run['url']
-    for rest_member_run in member_runs[1:]:
-      if not any(itr['url'] == url for itr in rest_member_run):
-        url = ''
-        break
-    if url!='': return_value.append(member1_run)
+  dictvalues = {}
+  run_urls = []
+
+  for member_run in member_runs:
+    for run in member_run:
+      run_urls.append(run['url'])
+      dictvalues[run['url']] = run
+  
+  data = pd.Series(run_urls).value_counts()
+
+  for key,val in data.iteritems():
+    if val < 4: continue
+    return_value.append(dictvalues[key])
+    
+  # print(data.value_counts())
+
+  # for member1_run in member_runs[0]:
+  #   url = member1_run['url']
+  #   for rest_member_run in member_runs[1:]:
+  #     if not any(itr['url'] == url for itr in rest_member_run):
+  #       url = ''
+  #       break
+  #   if url!='': return_value.append(member1_run)
 
   
   return return_value
