@@ -171,6 +171,12 @@ export default function ContentPage(props: Props) { // eslint-disable-line
 
   return (
     <div>
+      <Typography
+        variant="h4"
+        style={{ padding: '20px', boxSizing: 'border-box', paddingBottom: '0' }}
+      >
+        Dungeon Log:
+      </Typography>
       <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
         <DataGrid
           rows={props.runRows}
@@ -182,6 +188,12 @@ export default function ContentPage(props: Props) { // eslint-disable-line
           onSortModelChange={(model) => setSortModel(model)}
         />
       </div>
+      <Typography
+        variant="h4"
+        style={{ padding: '20px', boxSizing: 'border-box', paddingBottom: '0' }}
+      >
+        Teams:
+      </Typography>
       <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
         <DataGrid
           rows={props.teamRows}
