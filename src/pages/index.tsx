@@ -21,6 +21,7 @@ interface Props {
   // runs: string[][];
   runRows: RunRow[];
   teamRows: TeamRow[];
+  upDATES: string[];
 }
 
 interface RunRow {
@@ -191,8 +192,8 @@ export default function ContentPage(props: Props) { // eslint-disable-line
         />
       </div>
       <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
-        Last Updated at: DATE <br />
-        Will Update Next at: DATE
+        Last Updated: {props.upDATES[0]} <br />
+        Next Update: {props.upDATES[1]}
       </Typography>
     </div>
   );
@@ -244,6 +245,10 @@ export async function getStaticProps() {
     });
   }
 
+  const upDATES = fs
+    .readFileSync(path.join(process.cwd(), 'data', 'upDATES.csv'), 'utf8')
+    .split('\n');
+
   const runRows: RunRow[] = [];
   for (let i: number = 0; i < runs.length; i += 1) {
     let timer = 0;
@@ -255,11 +260,6 @@ export async function getStaticProps() {
     }
 
     const diff = +runs[i][6] - timer;
-    // if (diff < 0) {
-    //   diff = +diff + 60000;
-    // }
-
-    // moment(runs[i][7]).utcOffset(-6).format('h:m a, MM/DD')
 
     runRows.push({
       id: runs[i][1],
@@ -280,6 +280,7 @@ export async function getStaticProps() {
       // runs,
       runRows,
       teamRows,
+      upDATES,
     },
   };
 }
