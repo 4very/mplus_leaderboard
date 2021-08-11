@@ -4,7 +4,11 @@ import path from 'path';
 
 import React from 'react';
 
-import { DataGrid, GridCellParams } from '@material-ui/data-grid';
+import {
+  DataGrid,
+  GridCellParams,
+  GridSortModel,
+} from '@material-ui/data-grid';
 import moment from 'moment';
 
 interface Props {
@@ -153,6 +157,13 @@ export default function ContentPage(props: Props) { // eslint-disable-line
     },
   ];
 
+  const [sortModel, setSortModel] = React.useState<GridSortModel>([
+    {
+      field: 'dateCompleted',
+      sort: 'desc',
+    },
+  ]);
+
   return (
     <div>
       <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
@@ -162,6 +173,8 @@ export default function ContentPage(props: Props) { // eslint-disable-line
           disableSelectionOnClick
           hideFooter
           autoHeight
+          sortModel={sortModel}
+          onSortModelChange={(model) => setSortModel(model)}
         />
       </div>
       <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
