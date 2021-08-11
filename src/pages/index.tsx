@@ -23,6 +23,7 @@ interface RunRow {
   score: number;
   dateCompleted: string;
   timerDiff: number;
+  link: string;
 }
 
 interface TeamRow {
@@ -43,6 +44,8 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       href={`https://raider.io/characters/us/${
         params.value.toString().split('-')[1]
       }/${params.value.toString().split('-')[0]}`}
+      target="_blank"
+      rel="noreferrer"
     >
       {params.value}
     </a>
@@ -55,6 +58,18 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       ).toFixed(0)}`}
     </div>
   );
+  const strtolink = (params: GridCellParams) => (
+    <a href={params.value.toString()} target="_blank" rel="noreferrer">
+      Link
+    </a>
+  );
+
+  const strToDate = (params: GridCellParams) => (
+    <>{moment(params.value.toString()).utcOffset(-6).format('h:m a, MM/DD')}</>
+  );
+
+  const compareDate = (param1: string, param2: string) =>
+    moment(param1).diff(moment(param2));
 
   const runColumns = [
     { field: 'id', headerName: 'ID', width: 100, hide: true },
@@ -75,6 +90,9 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       field: 'dateCompleted',
       headerName: 'Completed',
       width: 200,
+      type: 'date',
+      renderCell: strToDate,
+      sortComarator: compareDate,
     },
     {
       field: 'timerDiff',
@@ -82,6 +100,14 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       width: 200,
       type: 'number',
       renderCell: timeToString,
+    },
+    {
+      field: 'link',
+      headerName: 'Link',
+      width: 70,
+      renderCell: strtolink,
+      disableColumnMenu: true,
+      sortable: false,
     },
   ];
 
@@ -213,14 +239,17 @@ export async function getStaticProps() {
     //   diff = +diff + 60000;
     // }
 
+    // moment(runs[i][7]).utcOffset(-6).format('h:m a, MM/DD')
+
     runRows.push({
       id: runs[i][1],
       team: runs[i][0],
       dunegonName: runs[i][2],
       keystoneLevel: runs[i][5],
       score: +runs[i][4],
-      dateCompleted: moment(runs[i][7]).utcOffset(-6).format('h:m a, MM/DD'),
+      dateCompleted: runs[i][7],
       timerDiff: diff,
+      link: runs[i][1],
     });
   }
 
