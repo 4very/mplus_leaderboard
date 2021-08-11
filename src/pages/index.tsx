@@ -68,6 +68,7 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       field: 'keystoneLevel',
       headerName: 'Key Level',
       width: 150,
+      type: 'number',
     },
     { field: 'score', headerName: 'Score', width: 130, type: 'number' },
     {
@@ -85,8 +86,15 @@ export default function ContentPage(props: Props) { // eslint-disable-line
   ];
 
   const teamColumns = [
-    { field: 'id', headerName: '#', width: 90 },
-    { field: 'team', headerName: 'Team Name', width: 300, flex: 1 },
+    {
+      field: 'id',
+      headerName: '#',
+      width: 30,
+      type: 'number',
+      disableColumnMenu: true,
+      sortable: false,
+    },
+    { field: 'team', headerName: 'Team Name', minWidth: 300, flex: 1 },
     {
       field: 'tank',
       headerName: 'Tank',
@@ -121,22 +129,25 @@ export default function ContentPage(props: Props) { // eslint-disable-line
 
   return (
     <div>
-      <div style={{ height: '400px', width: '100%' }}>
+      <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
         <DataGrid
           rows={props.runRows}
           columns={runColumns}
           disableSelectionOnClick
           hideFooter
+          autoHeight
         />
       </div>
-      <div style={{ height: '380px', width: '100%' }}>
+      <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
         <DataGrid
           rows={props.teamRows}
           columns={teamColumns}
           disableSelectionOnClick
           hideFooter
+          autoHeight
         />
       </div>
+      <div />
     </div>
   );
 }
