@@ -4,6 +4,10 @@ import path from 'path';
 
 import React from 'react';
 
+// eslint-disable-next-line import/order
+import { Typography } from '@material-ui/core';
+import '@fontsource/roboto';
+
 import {
   DataGrid,
   GridCellParams,
@@ -186,7 +190,10 @@ export default function ContentPage(props: Props) { // eslint-disable-line
           autoHeight
         />
       </div>
-      <div />
+      <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
+        Last Updated at: DATE <br />
+        Will Update Next at: DATE
+      </Typography>
     </div>
   );
 }

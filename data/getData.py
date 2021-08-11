@@ -3,6 +3,8 @@ import json
 import csv
 import datetime
 import os
+import croniter
+import pytz as tz
 
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
@@ -112,4 +114,20 @@ def addInformationToFile(checkedRuns: list, teamName: str):
   runs_file.close()
   return written
 
-print(getTeamInformation())
+def writeDateToFile():
+  dateFile = open(os.path.join(__location__, 'upDATES.csv'),'w')
+  
+
+  dateFile.write(datetime.datetime.now(tz=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S %Z"))
+  dateFile.write("\n")
+  dateFile.write(datetime.datetime.fromtimestamp(croniter.croniter(r'0 0-23 * * *', datetime.datetime.now()).get_next(), tz=tz.timezone('UTC'))
+    .replace(tzinfo=tz.timezone('America/New_York')).astimezone(tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
+  
+  
+
+
+  dateFile.close()
+
+if __name__ == '__main__':
+  print(getTeamInformation())
+  writeDateToFile()
