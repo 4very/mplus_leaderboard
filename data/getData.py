@@ -63,19 +63,9 @@ def joinRuns(members: list):
 
   for key,val in data.iteritems():
     if val < 4: continue
+    dictvalues[key]['full'] = val == 5
     return_value.append(dictvalues[key])
-    
-  # print(data.value_counts())
 
-  # for member1_run in member_runs[0]:
-  #   url = member1_run['url']
-  #   for rest_member_run in member_runs[1:]:
-  #     if not any(itr['url'] == url for itr in rest_member_run):
-  #       url = ''
-  #       break
-  #   if url!='': return_value.append(member1_run)
-
-  
   return return_value
 
 def getTeamInformation():
@@ -113,8 +103,6 @@ def removeBefore(runs: list):
     if datetime.datetime.strptime(run['CompleteDateTime'], "%Y-%m-%dT%H:%M:%S.000Z") > startDate:
       return_value.append(run)
 
-
-
   return return_value
 
 def addInformationToFile(checkedRuns: list, teamName: str):
@@ -135,14 +123,11 @@ def writeDateToFile():
   dateFile = open(os.path.join(__location__, 'upDATES.csv'),'w')
   
 
-  dateFile.write(datetime.datetime.now(tz=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S %Z"))
+  dateFile.write(datetime.datetime.now(tz=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
   dateFile.write("\n")
   dateFile.write(datetime.datetime.fromtimestamp(croniter.croniter(r'0 0-23 * * *', datetime.datetime.now()).get_next(), tz=tz.timezone('UTC'))
     .replace(tzinfo=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
   
-  
-
-
   dateFile.close()
 
 if __name__ == '__main__':
