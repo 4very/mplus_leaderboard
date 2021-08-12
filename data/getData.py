@@ -115,7 +115,7 @@ def addInformationToFile(checkedRuns: list, teamName: str):
 
   for checkedRun in checkedRuns:
     run_list: list = list(checkedRun.values())
-    written += runs_file_csv.writerow([teamName, *run_list])
+    written += runs_file_csv.writerow([teamName, *run_list, None])
 
   runs_file.close()
   return written
@@ -132,6 +132,39 @@ def writeDateToFile():
   dateFile.write(datetime.datetime.fromtimestamp(cron).strftime("%A, %B %d at %H:%M:%S EDT"))
   dateFile.close()
 
+def updateMaxScores():
+
+  teams_file = open(os.path.join(__location__, 'teams.csv'),'r')
+  teams_file_csv = csv.reader(teams_file)
+
+  bestFile = open(os.path.join(__location__, 'topRuns.csv'),'w')
+  bestFileCsv = csv.writer(bestFile)
+
+  for line in teams_file_csv:
+
+    teamId = line[0]
+    best = []
+
+    runsFile = open(os.path.join(__location__, 'runs.csv'),'r')
+    runsFileCsv = csv.reader(runsFile)
+
+    for line2 in runsFileCsv:
+      if teamId == line2[0] and (best == [] or line2[4] > best[4]):
+          best = line2
+
+    if best == []:
+      best = [teamId, None, None, None, None, None, None, None, None, None,]
+    
+    bestFileCsv.writerow(best)
+    runsFile.close()
+
+  teams_file.close()
+  bestFile.close()
+
+
+
+
 if __name__ == '__main__':
   print(getTeamInformation())
+  updateMaxScores()
   writeDateToFile()

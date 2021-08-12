@@ -199,7 +199,7 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       </div>
       <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
         Last Updated: {props.upDATES[0]} <br />
-        Next Update: {props.upDATES[1]}
+        Updates on the hour every hour.
       </Typography>
     </div>
   );
@@ -210,15 +210,15 @@ export async function getStaticProps() {
     .readFileSync(path.join(process.cwd(), 'data', 'teams.csv'), 'utf8')
     .split('\n');
   const teams: string[][] = [];
-  for (let i: number = 0; i < teamsRaw.length; i += 1) {
-    teams.push(teamsRaw[i]?.split(',') ?? []);
+  for (let i: number = 0; i < teamsRaw.length - 1; i += 1) {
+    teams.push(teamsRaw[i].split(','));
   }
 
   const teamsNamesRaw = fs
     .readFileSync(path.join(process.cwd(), 'data', 'team_names.csv'), 'utf8')
     .split('\n');
   const teamNames: string[][] = [];
-  for (let i: number = 0; i < teamsNamesRaw.length; i += 1) {
+  for (let i: number = 0; i < teamsNamesRaw.length - 1; i += 1) {
     teamNames.push(teamsNamesRaw[i]?.split(';') ?? []);
   }
 
@@ -226,7 +226,7 @@ export async function getStaticProps() {
     .readFileSync(path.join(process.cwd(), 'data', 'runs.csv'), 'utf8')
     .split('\n');
   const runs: string[][] = [];
-  for (let i: number = 0; i < runsRaw.length; i += 1) {
+  for (let i: number = 0; i < runsRaw.length - 1; i += 1) {
     runs.push(runsRaw[i]?.split(',') ?? []);
   }
 
