@@ -61,7 +61,9 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       {`${Math.floor(Math.abs(+params.value.valueOf()) / 60000)}:${(
         (Math.abs(+params.value.valueOf()) % 60000) /
         1000
-      ).toFixed(0)}`}
+      )
+        .toFixed(0)
+        .padStart(2, '0')}`}
     </div>
   );
   const strtolink = (params: GridCellParams) => (
@@ -71,7 +73,7 @@ export default function ContentPage(props: Props) { // eslint-disable-line
   );
 
   const strToDate = (params: GridCellParams) => (
-    <>{moment(params.value.toString()).utcOffset(-6).format('h:m a, MM/DD')}</>
+    <>{moment(params.value.toString()).utcOffset(-6).format('h:MM a, MM/DD')}</>
   );
 
   const compareDate = (param1: string, param2: string) =>
