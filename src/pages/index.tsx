@@ -30,6 +30,7 @@ interface RunRow {
   timerDiff: number;
   fullTeam: boolean;
   link: string;
+  keyUpgrade: number;
 }
 
 interface TeamRow {
@@ -73,7 +74,7 @@ export default function ContentPage(props: Props) { // eslint-disable-line
   );
 
   const strToDate = (params: GridCellParams) => (
-    <>{moment(params.value.toString()).utcOffset(-6).format('h:MM a, MM/DD')}</>
+    <>{moment(params.value.toString()).utcOffset(-6).format('h:mm a, MM/DD')}</>
   );
 
   const compareDate = (param1: string, param2: string) =>
@@ -122,6 +123,13 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       renderCell: strtolink,
       disableColumnMenu: true,
       sortable: false,
+    },
+    {
+      field: 'keyUpgrade',
+      headerName: 'Key Upgrade',
+      width: 150,
+      type: 'number',
+      hide: true,
     },
   ];
 
@@ -279,6 +287,7 @@ export async function getStaticProps() {
       timerDiff: diff,
       fullTeam: runs[i][9] === 'True',
       link: runs[i][1],
+      keyUpgrade: +runs[i][8],
     });
   }
 
