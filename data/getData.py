@@ -78,12 +78,13 @@ def getTeamInformation():
   teams_file = open(os.path.join(__location__, 'teams.csv'),'r')
   teams_file_csv = csv.reader(teams_file)
 
-  written = 0
+  info = []
 
-  for row in teams_file_csv:
-    written += addInformationToFile(removeDupes(joinRuns(row[1:6])),row[0])
+  for line in teams_file_csv:
+    info.append(line)
   
-  return written
+  teams_file.close()
+  return info
 
 def removeDupes(runs: list):
 
@@ -129,6 +130,17 @@ def addInformationToFile(checkedRuns: list, teamName: str):
   runs_file.close()
   return written
 
+def writeTeamInformation():
+
+  teamInfo = getTeamInformation()
+
+  written = 0
+
+  for row in teamInfo:
+    written += addInformationToFile(removeDupes(joinRuns(row[1:6])),row[0])
+  
+  return written
+
 def writeDateToFile():
   dateFile = open(os.path.join(__location__, 'upDATES.csv'),'w')
   
@@ -170,10 +182,71 @@ def updateMaxScores():
   teams_file.close()
   bestFile.close()
 
+def getTeamScores():
+
+  teamInfo = getTeamInformation()
+  
+  teams_file = open(os.path.join(__location__, 'teams.csv'),'w')
+  teams_file_csv = csv.writer(teams_file)
+
+  for i in range(len(teamInfo)):
+    teamScore = 0
+    for player in teamInfo[i][1:6]:
+      data = RIO_getRankingInfo(*player.split("-"))
+      teamScore += data["mythic_plus_scores_by_season"][0]["scores"]['all']
+    teams_file_csv.writerow([*teamInfo[i][0:6], round(teamScore), None])
+
+def RIO_getRankingInfo(name: str, realm: str):
+  url = "https://raider.io/api/v1/characters/profile"
+
+  querystring = {"region":"us","realm":realm.lower(),"name":name.lower(),"fields":"mythic_plus_scores_by_season:current"}
+
+  payload = ""
+  response = requests.request("GET", url, data=payload, params=querystring)
+
+  try: data = json.loads(response.text)
+  except: 
+    print("Cannot get Data, trying again in 30 seconds")
+    sleep(30)
+    return RIO_getRankingInfo(name, realm)
+  
+  return data
+
+
+def RIO_getColoring():
+  url = "https://raider.io/api/v1/mythic-plus/score-tiers"
+
+  payload = ""
+  response = requests.request("GET", url, data=payload)
+
+  try: data = json.loads(response.text)
+  except: 
+    print("Cannot get Data, trying again in 30 seconds")
+    sleep(30)
+    return RIO_getColoring()
+  
+  return data
+
+
+def coloringToFile():
+
+  coloringData = RIO_getColoring()
+
+
+  coloringFile = open(os.path.join(__location__, 'coloring.csv'),'w')
+  coloringFileCSV = csv.writer(coloringFile)
+
+
+  for value in coloringData:
+    coloringFileCSV.writerow([value['score'], value['rgbHex'], None])
+  
+  coloringFile.close()
 
 
 
 if __name__ == '__main__':
-  print(getTeamInformation())
+  getTeamScores()
+  coloringToFile()
+  print(writeTeamInformation())
   updateMaxScores()
   writeDateToFile()

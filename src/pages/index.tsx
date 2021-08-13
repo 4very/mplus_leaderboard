@@ -11,41 +11,9 @@ import '@fontsource/roboto';
 import { DataGrid, GridCellParams } from '@material-ui/data-grid';
 import moment from 'moment';
 
-interface Props {
-  // teams: string[][];
-  // teamNames: string[][];
-  // runs: string[][];
-  runRows: RunRow[];
-  teamRows: TeamRow[];
-  upDATES: string[];
-}
+import { PropsType, RunRow, TeamRow } from '../types/types';
 
-interface RunRow {
-  id: string;
-  team: string;
-  dunegonName: string;
-  keystoneLevel: string;
-  score: number;
-  dateCompleted: string;
-  timerDiff: number;
-  fullTeam: boolean;
-  link: string;
-  keyUpgrade: number;
-}
-
-interface TeamRow {
-  id: string;
-  team: string;
-  tank: string;
-  healer: string;
-  dps1: string;
-  dps2: string;
-  dps3: string;
-}
-
-export default function ContentPage(props: Props) { // eslint-disable-line
-  // const router = useRouter();
-
+export default function ContentPage(props: PropsType) {
   const usernameToLink = (params: GridCellParams) => (
     <a
       href={`https://raider.io/characters/us/${
@@ -79,6 +47,70 @@ export default function ContentPage(props: Props) { // eslint-disable-line
 
   const compareDate = (param1: string, param2: string) =>
     moment(param1).diff(moment(param2));
+
+  const teamScoreRender = (params: GridCellParams) => (
+    <div
+      style={{
+        // @ts-ignore
+        color: params.value.valueOf()[1],
+        fontFamily: 'Salesforce Sans,sans-serif',
+        fontWeight: 600,
+        fontSize: '1.1em',
+      }}
+    >
+      {/* @ts-ignore */}
+      {params.value.valueOf()[0]}
+    </div>
+  );
+
+  const teamColumns = [
+    {
+      field: 'id',
+      headerName: '#',
+      width: 30,
+      type: 'number',
+      disableColumnMenu: true,
+      sortable: false,
+    },
+    { field: 'team', headerName: 'Team Name', minWidth: 300, flex: 1 },
+    {
+      field: 'score',
+      headerName: 'Team Score',
+      width: 200,
+      type: 'number',
+      renderCell: teamScoreRender,
+    },
+    {
+      field: 'tank',
+      headerName: 'Tank',
+      width: 200,
+      renderCell: usernameToLink,
+    },
+    {
+      field: 'healer',
+      headerName: 'Healer',
+      width: 200,
+      renderCell: usernameToLink,
+    },
+    {
+      field: 'dps1',
+      headerName: 'DPS',
+      width: 200,
+      renderCell: usernameToLink,
+    },
+    {
+      field: 'dps2',
+      headerName: 'DPS',
+      width: 200,
+      renderCell: usernameToLink,
+    },
+    {
+      field: 'dps3',
+      headerName: 'DPS',
+      width: 200,
+      renderCell: usernameToLink,
+    },
+  ];
 
   const runColumns = [
     { field: 'id', headerName: 'ID', width: 100, hide: true },
@@ -133,53 +165,15 @@ export default function ContentPage(props: Props) { // eslint-disable-line
     },
   ];
 
-  const teamColumns = [
-    {
-      field: 'id',
-      headerName: '#',
-      width: 30,
-      type: 'number',
-      disableColumnMenu: true,
-      sortable: false,
-    },
-    { field: 'team', headerName: 'Team Name', minWidth: 300, flex: 1 },
-    {
-      field: 'tank',
-      headerName: 'Tank',
-      width: 200,
-      renderCell: usernameToLink,
-    },
-    {
-      field: 'healer',
-      headerName: 'Healer',
-      width: 200,
-      renderCell: usernameToLink,
-    },
-    {
-      field: 'dps1',
-      headerName: 'DPS',
-      width: 200,
-      renderCell: usernameToLink,
-    },
-    {
-      field: 'dps2',
-      headerName: 'DPS',
-      width: 200,
-      renderCell: usernameToLink,
-    },
-    {
-      field: 'dps3',
-      headerName: 'DPS',
-      width: 200,
-      renderCell: usernameToLink,
-    },
-  ];
-
   return (
-    <div>
+    <>
       <Typography
         variant="h4"
-        style={{ padding: '20px', boxSizing: 'border-box', paddingBottom: '0' }}
+        style={{
+          padding: '20px',
+          boxSizing: 'border-box',
+          paddingBottom: '0',
+        }}
       >
         Dungeon Log:
       </Typography>
@@ -194,7 +188,11 @@ export default function ContentPage(props: Props) { // eslint-disable-line
       </div>
       <Typography
         variant="h4"
-        style={{ padding: '20px', boxSizing: 'border-box', paddingBottom: '0' }}
+        style={{
+          padding: '20px',
+          boxSizing: 'border-box',
+          paddingBottom: '0',
+        }}
       >
         Teams:
       </Typography>
@@ -208,10 +206,10 @@ export default function ContentPage(props: Props) { // eslint-disable-line
         />
       </div>
       <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
-        Last Updated: {props.upDATES[0]} <br />
+        Last Updated: {props.upDATE} <br />
         Updates on the hour every hour.
       </Typography>
-    </div>
+    </>
   );
 }
 
@@ -219,9 +217,10 @@ export async function getStaticProps() {
   const teamsRaw = fs
     .readFileSync(path.join(process.cwd(), 'data', 'teams.csv'), 'utf8')
     .split('\n');
+
   const teams: string[][] = [];
   for (let i: number = 0; i < teamsRaw.length - 1; i += 1) {
-    teams.push(teamsRaw[i].split(','));
+    if (teamsRaw[i].length > 10) teams.push(teamsRaw[i].split(','));
   }
 
   const teamsNamesRaw = fs
@@ -250,11 +249,29 @@ export async function getStaticProps() {
     timers.push(timersRaw[i]?.split(',') ?? []);
   }
 
+  const colorsRaw = fs
+    .readFileSync(path.join(process.cwd(), 'data', 'coloring.csv'), 'utf8')
+    .split('\n');
+  const colors: string[][] = [];
+  for (let i: number = 0; i < colorsRaw.length - 1; i += 1) {
+    colors.push(colorsRaw[i]?.split(',') ?? []);
+  }
+
   const teamRows: TeamRow[] = [];
   for (let i: number = 0; i < teams.length; i += 1) {
+    let color = '#ffffff';
+    for (let j: number = 0; j < colors.length; j += 1) {
+      if (+colors[j][0] * 5 <= +teams[i][6]) {
+        // eslint-disable-next-line prefer-destructuring
+        color = colors[j][1];
+        break;
+      }
+    }
+
     teamRows.push({
       id: teams[i][0].split(' ')[1],
       team: teamNames[i][1],
+      score: [+teams[i][6], color],
       tank: teams[i][1],
       healer: teams[i][2],
       dps1: teams[i][3],
@@ -263,7 +280,7 @@ export async function getStaticProps() {
     });
   }
 
-  const upDATES = fs
+  const upDATE = fs
     .readFileSync(path.join(process.cwd(), 'data', 'upDATES.csv'), 'utf8')
     .split('\n');
 
@@ -295,12 +312,9 @@ export async function getStaticProps() {
 
   return {
     props: {
-      // teams,
-      // teamNames,
-      // runs,
       runRows,
       teamRows,
-      upDATES,
+      upDATE,
     },
   };
 }
