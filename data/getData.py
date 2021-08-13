@@ -6,7 +6,7 @@ import os
 import croniter
 import pytz as tz
 import pandas as pd
-from time import gmtime, strftime
+from time import sleep
 
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
@@ -18,7 +18,12 @@ def RIO_GetCharData(name: str, realm: str)-> dict:
   payload = ""
   response = requests.request("GET", url, data=payload, params=querystring)
 
-  data = json.loads(response.text)
+  try: data = json.loads(response.text)
+  except: 
+    print("Cannot get Data, trying again in 30 seconds")
+    sleep(30)
+    return RIO_GetCharData(name, realm)
+  
   return data
 
 def RIO_GetRecentRuns(name: str, realm: str)-> list:
@@ -86,12 +91,16 @@ def removeDupes(runs: list):
 
   runs_file = open(os.path.join(__location__, 'runs.csv'),'r')
   runs_file_csv = csv.reader(runs_file)
+  runsInFile = []
+  for line in runs_file_csv: runsInFile.append(line[1])
+  runs_file.close()
+
   return_value = []
 
   for run in runs:
-    if not any(row[1] == run['url'] for row in runs_file_csv): return_value.append(run)
+    if not any(url == run['url'] for url in runsInFile): return_value.append(run)
 
-  runs_file.close()
+  
   return return_value
 
 def removeBefore(runs: list):
