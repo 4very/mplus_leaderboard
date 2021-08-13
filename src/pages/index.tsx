@@ -236,8 +236,10 @@ export async function getStaticProps() {
     .readFileSync(path.join(process.cwd(), 'data', 'runs.csv'), 'utf8')
     .split('\n');
   const runs: string[][] = [];
-  for (let i: number = 0; i < runsRaw.length - 1; i += 1) {
-    runs.push(runsRaw[i]?.split(',') ?? []);
+  for (let i: number = 0; i < runsRaw.length; i += 1) {
+    if (runsRaw[i].length > 10) {
+      runs.push(runsRaw[i]?.split(',') ?? []);
+    }
   }
 
   const timersRaw = fs
