@@ -1,8 +1,13 @@
 module.exports = {
+  important: true,
   mode: 'jit',
   purge: ['./src/**/*.{js,ts,jsx,tsx}'],
   darkMode: false,
   theme: {
+    fontFamily: {
+      sans: ['Libertinus Sans', 'sans-serif'],
+      serif: ['Libertinus Serif', 'serif'],
+    },
     fontSize: {
       xs: '0.75rem',
       sm: '0.875rem',
@@ -38,6 +43,12 @@ module.exports = {
           700: '#2b6cb0',
           800: '#2c5282',
           900: '#2a4365',
+        },
+        bgGrey: {
+          DEFAULT: '#202020',
+        },
+        fontGrey: {
+          DEFAULT: '#fffff8',
         },
       },
     },

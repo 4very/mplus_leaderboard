@@ -2,14 +2,45 @@
 @tailwind components;
 @tailwind utilities;
 
-.font {
-  font-smoothing: antialiased;
+
+html {
+  @apply bg-bgGrey text-fontGrey !important
 }
 
-a {
-  color: 'blue' !important
+.MuiDataGrid-main{
+  @apply text-fontGrey font-sans
 }
 
-a:hover {
-  text-decoration: underline;
+.MuiTypography-h4 {
+  @apply font-serif
+}
+.MuiTypography-subtitle1 {
+  @apply font-serif text-lg
+}
+
+.MuiSvgIcon-root {
+  @apply text-fontGrey
+}
+
+.MuiPaper-root {
+  @apply text-fontGrey bg-bgGrey
+}
+
+.MuiGridPanel-paper {
+  @apply bg-bgGrey !important
+}
+
+.MuiDataGridPanelHeader-root {
+  @apply hidden
+}
+
+.MuiGridFilterForm-root {
+  @apply bg-white
+}
+.MuiSvgIcon-root {
+  @apply text-gray-400 !important
+}
+
+a{
+  @apply hover:underline text-blue-100
 }

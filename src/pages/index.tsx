@@ -26,7 +26,11 @@ export default function ContentPage(props: PropsType) {
     </a>
   );
   const timeToString = (params: GridCellParams) => (
-    <div style={{ color: +params.value.valueOf() > 0 ? 'red' : 'green' }}>
+    <div
+      className={
+        +params.value.valueOf() > 0 ? 'text-red-300' : 'text-green-300'
+      }
+    >
       {`${Math.floor(Math.abs(+params.value.valueOf()) / 60000)}:${(
         (Math.abs(+params.value.valueOf()) % 60000) /
         1000
@@ -53,9 +57,6 @@ export default function ContentPage(props: PropsType) {
       style={{
         // @ts-ignore
         color: params.value.valueOf()[1],
-        fontFamily: 'Salesforce Sans,sans-serif',
-        fontWeight: 600,
-        fontSize: '1.1em',
       }}
     >
       {/* @ts-ignore */}
