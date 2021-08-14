@@ -124,7 +124,7 @@ def addInformationToFile(checkedRuns: list, teamName: str):
 
   for checkedRun in checkedRuns:
     run_list: list = list(checkedRun.values())
-    written += runs_file_csv.writerow([teamName, *run_list, None])
+    written += runs_file_csv.writerow([teamName, *run_list, False, None])
 
   runs_file.close()
   return written

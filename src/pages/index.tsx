@@ -163,6 +163,16 @@ export default function ContentPage(props: PropsType) {
       type: 'number',
       hide: true,
     },
+    {
+      field: 'creditCardInfo',
+      headerName: 'Resub Speedrun?',
+      width: 150,
+      type: 'boolean',
+      hide: true,
+      description: 'Did a resub occur during the key?',
+      disableColumnMenu: true,
+      sortable: false,
+    },
   ];
 
   return (
@@ -285,8 +295,6 @@ export async function getStaticProps() {
     'utf8'
   );
 
-  console.log(runs);
-
   const runRows: RunRow[] = [];
   for (let i: number = 0; i < runs.length; i += 1) {
     let timer = 0;
@@ -310,6 +318,7 @@ export async function getStaticProps() {
       fullTeam: runs[i][9] === 'True',
       link: runs[i][1],
       keyUpgrade: +runs[i][8],
+      creditCardInfo: runs[i][10] === 'True',
     });
   }
 

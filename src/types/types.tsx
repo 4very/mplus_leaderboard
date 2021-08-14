@@ -15,6 +15,7 @@ export interface RunRow {
   fullTeam: boolean;
   link: string;
   keyUpgrade: number;
+  creditCardInfo: boolean;
 }
 
 export interface TeamRow {
