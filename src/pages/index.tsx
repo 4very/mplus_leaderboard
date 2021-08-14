@@ -282,7 +282,6 @@ export async function getStaticProps() {
 
   const upDATE = fs
     .readFileSync(path.join(process.cwd(), 'data', 'upDATES.csv'), 'utf8')
-    .split('\n');
 
   const runRows: RunRow[] = [];
   for (let i: number = 0; i < runs.length; i += 1) {
