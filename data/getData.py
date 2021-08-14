@@ -3,7 +3,6 @@ import json
 import csv
 import datetime
 import os
-import croniter
 import pytz as tz
 import pandas as pd
 from time import sleep
@@ -146,11 +145,7 @@ def writeDateToFile():
   
 
   dateFile.write(datetime.datetime.now(tz=tz.timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
-  dateFile.write("\n")
 
-  cron = croniter.croniter(r'0 0-23 * * *', datetime.datetime.now(tz=tz.timezone('America/New_York'))).get_next()
-  
-  dateFile.write(datetime.datetime.fromtimestamp(cron).strftime("%A, %B %d at %H:%M:%S EDT"))
   dateFile.close()
 
 def updateMaxScores():
