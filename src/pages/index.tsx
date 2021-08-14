@@ -218,7 +218,7 @@ export default function ContentPage(props: PropsType) {
       </div>
       <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
         Last Updated: {props.upDATE} <br />
-        Updates on the hour every hour.
+        Updates on the hour every hour or ping avery#1111 on discord.
       </Typography>
     </>
   );
