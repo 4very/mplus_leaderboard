@@ -48,3 +48,14 @@ html {
 a{
   @apply hover:underline text-blue-100
 }
+
+.MuiDataGrid-columnHeader {
+  @apply border-b-2
+}
+.MuiDataGrid-columnsContainer {
+  @apply border-b-0 !important
+}
+
+.MuiDataGrid-cell {
+  @apply border-r-0 !important
+}

@@ -96,7 +96,11 @@ export default function ContentPage(props: PropsType) {
       disableColumnMenu: true,
       sortable: false,
     },
-    { field: 'team', headerName: 'Team Name', minWidth: 300, flex: 1 },
+    {
+      field: 'team',
+      headerName: 'Team Name',
+      width: 600,
+    },
     {
       field: 'runsCompleted',
       headerName: 'Runs',
@@ -234,7 +238,6 @@ export default function ContentPage(props: PropsType) {
       </Typography>
       <div
         style={{
-          maxWidth: '1431px',
           marginLeft: '4vw',
           marginTop: '3vh',
           boxSizing: 'border-box',
@@ -246,6 +249,7 @@ export default function ContentPage(props: PropsType) {
           disableSelectionOnClick
           hideFooter
           autoHeight
+          disableExtendRowFullWidth
         />
       </div>
       <Typography
@@ -262,7 +266,6 @@ export default function ContentPage(props: PropsType) {
       </Typography>
       <div
         style={{
-          maxWidth: '1750px',
           marginLeft: '4vw',
           marginTop: '1vh',
           marginBottom: '4vh',
@@ -274,6 +277,7 @@ export default function ContentPage(props: PropsType) {
           columns={teamColumns}
           disableSelectionOnClick
           hideFooter
+          disableExtendRowFullWidth
           autoHeight
         />
       </div>
