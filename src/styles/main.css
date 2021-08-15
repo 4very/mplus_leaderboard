@@ -11,6 +11,10 @@ html {
   @apply text-fontGrey font-sans
 }
 
+.MuiDataGrid-root{
+  @apply border-none border-0 !important
+}
+
 .MuiTypography-h4 {
   @apply font-serif
 }

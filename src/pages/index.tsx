@@ -223,14 +223,23 @@ export default function ContentPage(props: PropsType) {
       <Typography
         variant="h4"
         style={{
-          padding: '20px',
+          padding: '1%',
+          paddingTop: '5vh',
+          paddingLeft: '3vw',
           boxSizing: 'border-box',
           paddingBottom: '0',
         }}
       >
         Dungeon Log:
       </Typography>
-      <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
+      <div
+        style={{
+          maxWidth: '1440px',
+          marginLeft: '4vw',
+          marginTop: '3vh',
+          boxSizing: 'border-box',
+        }}
+      >
         <DataGrid
           rows={props.runRows}
           columns={runColumns}
@@ -242,14 +251,24 @@ export default function ContentPage(props: PropsType) {
       <Typography
         variant="h4"
         style={{
-          padding: '20px',
+          padding: '1%',
+          paddingTop: '5vh',
+          paddingLeft: '3vw',
           boxSizing: 'border-box',
           paddingBottom: '0',
         }}
       >
         Teams:
       </Typography>
-      <div style={{ width: '100%', padding: '20px', boxSizing: 'border-box' }}>
+      <div
+        style={{
+          maxWidth: '1950px',
+          marginLeft: '4vw',
+          marginTop: '1vh',
+          marginBottom: '4vh',
+          boxSizing: 'border-box',
+        }}
+      >
         <DataGrid
           rows={props.teamRows}
           columns={teamColumns}
