@@ -9,7 +9,7 @@ export interface RunRow {
   team: string;
   dunegonName: string;
   keystoneLevel: string;
-  score: number;
+  score: [number, string];
   dateCompleted: string;
   timerDiff: number;
   percDiff: number;

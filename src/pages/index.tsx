@@ -75,6 +75,18 @@ export default function ContentPage(props: PropsType) {
     </div>
   );
 
+  const runScoreRender = (params: GridCellParams) => (
+    <div
+      style={{
+        // @ts-ignore
+        color: params.value.valueOf()[1],
+      }}
+    >
+      {/* @ts-ignore */}
+      {params.value.valueOf()[0]}
+    </div>
+  );
+
   const teamColumns = [
     {
       field: 'id',
@@ -144,7 +156,13 @@ export default function ContentPage(props: PropsType) {
       width: 150,
       type: 'number',
     },
-    { field: 'score', headerName: 'Score', width: 130, type: 'number' },
+    {
+      field: 'score',
+      headerName: 'Score',
+      width: 130,
+      type: 'number',
+      renderCell: runScoreRender,
+    },
     {
       field: 'dateCompleted',
       headerName: 'Completed',
@@ -339,12 +357,21 @@ export async function getStaticProps() {
     const diff = +runs[i][6] - timer;
     const percDiff = +runs[i][6] / timer - 1;
 
+    let color = '#ffffff';
+    for (let j: number = 0; j < colors.length; j += 1) {
+      if (+colors[j][0] / 16 <= +runs[i][4]) {
+        // eslint-disable-next-line prefer-destructuring
+        color = colors[j][1];
+        break;
+      }
+    }
+
     runRows.push({
       id: runs[i][1],
       team: runs[i][0],
       dunegonName: runs[i][2],
       keystoneLevel: runs[i][5],
-      score: +runs[i][4],
+      score: [+runs[i][4], color],
       dateCompleted: runs[i][7],
       timerDiff: diff,
       percDiff,
