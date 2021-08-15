@@ -86,6 +86,12 @@ export default function ContentPage(props: PropsType) {
     },
     { field: 'team', headerName: 'Team Name', minWidth: 300, flex: 1 },
     {
+      field: 'runsCompleted',
+      headerName: 'Runs',
+      width: 120,
+      type: 'number',
+    },
+    {
       field: 'score',
       headerName: 'Team Score',
       width: 200,
@@ -164,7 +170,7 @@ export default function ContentPage(props: PropsType) {
     {
       field: 'fullTeam',
       headerName: 'Full team?',
-      width: 150,
+      width: 160,
       type: 'boolean',
     },
     {
@@ -297,9 +303,15 @@ export async function getStaticProps() {
       }
     }
 
+    let runsCompleted = 0;
+    for (let j: number = 0; j < runs.length; j += 1) {
+      if (runs[j][0] === teams[i][0]) runsCompleted += 1;
+    }
+
     teamRows.push({
       id: teams[i][0].split(' ')[1],
       team: teamNames[i][1],
+      runsCompleted,
       score: [+teams[i][6], color],
       tank: teams[i][1],
       healer: teams[i][2],

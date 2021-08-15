@@ -22,6 +22,7 @@ export interface RunRow {
 export interface TeamRow {
   id: string;
   team: string;
+  runsCompleted: number;
   score: [number, string];
   tank: string;
   healer: string;
