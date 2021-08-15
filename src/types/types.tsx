@@ -12,6 +12,7 @@ export interface RunRow {
   score: number;
   dateCompleted: string;
   timerDiff: number;
+  percDiff: number;
   fullTeam: boolean;
   link: string;
   keyUpgrade: number;

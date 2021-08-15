@@ -28,7 +28,7 @@ export default function ContentPage(props: PropsType) {
   const timeToString = (params: GridCellParams) => (
     <div
       className={
-        +params.value.valueOf() > 0 ? 'text-red-300' : 'text-green-300'
+        +params.value.valueOf() > 0 ? 'text-red-400' : 'text-green-400'
       }
     >
       {`${Math.floor(Math.abs(+params.value.valueOf()) / 60000)}:${(
@@ -39,6 +39,17 @@ export default function ContentPage(props: PropsType) {
         .padStart(2, '0')}`}
     </div>
   );
+
+  const percentToString = (params: GridCellParams) => (
+    <div
+      className={
+        +params.value.valueOf() > 0 ? 'text-red-400' : 'text-green-400'
+      }
+    >
+      {Math.abs(Math.round(+params.value.valueOf() * 10000) / 100)}%
+    </div>
+  );
+
   const strtolink = (params: GridCellParams) => (
     <a href={params.value.toString()} target="_blank" rel="noreferrer">
       Link
@@ -142,6 +153,13 @@ export default function ContentPage(props: PropsType) {
       width: 200,
       type: 'number',
       renderCell: timeToString,
+    },
+    {
+      field: 'percDiff',
+      headerName: '% Over/Under',
+      width: 200,
+      type: 'number',
+      renderCell: percentToString,
     },
     {
       field: 'fullTeam',
@@ -307,6 +325,7 @@ export async function getStaticProps() {
     }
 
     const diff = +runs[i][6] - timer;
+    const percDiff = +runs[i][6] / timer - 1;
 
     runRows.push({
       id: runs[i][1],
@@ -316,6 +335,7 @@ export async function getStaticProps() {
       score: +runs[i][4],
       dateCompleted: runs[i][7],
       timerDiff: diff,
+      percDiff,
       fullTeam: runs[i][9] === 'True',
       link: runs[i][1],
       keyUpgrade: +runs[i][8],
