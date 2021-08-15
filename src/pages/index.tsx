@@ -234,7 +234,7 @@ export default function ContentPage(props: PropsType) {
       </Typography>
       <div
         style={{
-          maxWidth: '1440px',
+          maxWidth: '1431px',
           marginLeft: '4vw',
           marginTop: '3vh',
           boxSizing: 'border-box',
@@ -262,7 +262,7 @@ export default function ContentPage(props: PropsType) {
       </Typography>
       <div
         style={{
-          maxWidth: '1950px',
+          maxWidth: '1750px',
           marginLeft: '4vw',
           marginTop: '1vh',
           marginBottom: '4vh',
