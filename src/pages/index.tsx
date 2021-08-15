@@ -67,11 +67,11 @@ export default function ContentPage(props: PropsType) {
     <div
       style={{
         // @ts-ignore
-        color: params.value.valueOf()[1],
+        color: params.api.getCellValue(params.id, 'scoreColor'),
       }}
     >
       {/* @ts-ignore */}
-      {params.value.valueOf()[0]}
+      {params.value}
     </div>
   );
 
@@ -79,11 +79,11 @@ export default function ContentPage(props: PropsType) {
     <div
       style={{
         // @ts-ignore
-        color: params.value.valueOf()[1],
+        color: params.api.getCellValue(params.id, 'scoreColor'),
       }}
     >
       {/* @ts-ignore */}
-      {params.value.valueOf()[0]}
+      {params.value}
     </div>
   );
 
@@ -312,11 +312,11 @@ export async function getStaticProps() {
 
   const teamRows: TeamRow[] = [];
   for (let i: number = 0; i < teams.length; i += 1) {
-    let color = '#ffffff';
+    let scoreColor = '#ffffff';
     for (let j: number = 0; j < colors.length; j += 1) {
       if (+colors[j][0] * 5 <= +teams[i][6]) {
         // eslint-disable-next-line prefer-destructuring
-        color = colors[j][1];
+        scoreColor = colors[j][1];
         break;
       }
     }
@@ -330,12 +330,13 @@ export async function getStaticProps() {
       id: teams[i][0].split(' ')[1],
       team: teamNames[i][1],
       runsCompleted,
-      score: [+teams[i][6], color],
+      score: +teams[i][6],
       tank: teams[i][1],
       healer: teams[i][2],
       dps1: teams[i][3],
       dps2: teams[i][4],
       dps3: teams[i][5],
+      scoreColor,
     });
   }
 
@@ -357,11 +358,11 @@ export async function getStaticProps() {
     const diff = +runs[i][6] - timer;
     const percDiff = +runs[i][6] / timer - 1;
 
-    let color = '#ffffff';
+    let scoreColor = '#ffffff';
     for (let j: number = 0; j < colors.length; j += 1) {
       if (+colors[j][0] / 16 <= +runs[i][4]) {
         // eslint-disable-next-line prefer-destructuring
-        color = colors[j][1];
+        scoreColor = colors[j][1];
         break;
       }
     }
@@ -371,7 +372,7 @@ export async function getStaticProps() {
       team: runs[i][0],
       dunegonName: runs[i][2],
       keystoneLevel: runs[i][5],
-      score: [+runs[i][4], color],
+      score: +runs[i][4],
       dateCompleted: runs[i][7],
       timerDiff: diff,
       percDiff,
@@ -379,6 +380,7 @@ export async function getStaticProps() {
       link: runs[i][1],
       keyUpgrade: +runs[i][8],
       creditCardInfo: runs[i][10] === 'True',
+      scoreColor,
     });
   }
 

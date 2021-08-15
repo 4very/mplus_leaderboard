@@ -9,7 +9,7 @@ export interface RunRow {
   team: string;
   dunegonName: string;
   keystoneLevel: string;
-  score: [number, string];
+  score: number;
   dateCompleted: string;
   timerDiff: number;
   percDiff: number;
@@ -17,16 +17,18 @@ export interface RunRow {
   link: string;
   keyUpgrade: number;
   creditCardInfo: boolean;
+  scoreColor: string;
 }
 
 export interface TeamRow {
   id: string;
   team: string;
   runsCompleted: number;
-  score: [number, string];
+  score: number;
   tank: string;
   healer: string;
   dps1: string;
   dps2: string;
   dps3: string;
+  scoreColor: string;
 }
