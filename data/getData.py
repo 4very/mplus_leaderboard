@@ -9,21 +9,21 @@ from time import sleep
 
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
-def RIO_GetCharData(name: str, realm: str)-> dict:
-  url = "https://raider.io/api/v1/characters/profile"
+# def RIO_GetCharData(name: str, realm: str)-> dict:
+#   url = "https://raider.io/api/v1/characters/profile"
 
-  querystring = {"region":"us","realm":realm.lower(),"name":name.lower(),"fields":"mythic_plus_recent_runs"}
+#   querystring = {"region":"us","realm":realm.lower(),"name":name.lower(),"fields":"mythic_plus_recent_runs"}
 
-  payload = ""
-  response = requests.request("GET", url, data=payload, params=querystring)
+#   payload = ""
+#   response = requests.request("GET", url, data=payload, params=querystring)
 
-  try: data = json.loads(response.text)
-  except: 
-    print("Cannot get Data, trying again in 30 seconds")
-    sleep(30)
-    return RIO_GetCharData(name, realm)
+#   try: data = json.loads(response.text)
+#   except: 
+#     print("Cannot get Data, trying again in 30 seconds")
+#     sleep(30)
+#     return RIO_GetCharData(name, realm)
   
-  return data
+#   return data
 
 def RIO_GetRecentRuns(name: str, realm: str)-> list:
 

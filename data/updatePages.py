@@ -23,7 +23,7 @@ def updatePages():
     # if the tournament is over or hasnt started
     if time.time() > page['end-date'] or time.time() < page['start-date']: continue 
 
-    pageFolder = os.path.join(__location__,page['slug'])
+    pageFolder = os.path.join(__location__,slug)
     updatePage(pageFolder, page)
 
 #endregion
@@ -35,5 +35,5 @@ def updateGuild():
 
 
 if __name__ == '__main__':
-  print(updatePages())
+  updatePages()
   updateGuild() 

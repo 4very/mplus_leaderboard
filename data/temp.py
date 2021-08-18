@@ -26,6 +26,7 @@ for i in range(len(runs)):
       'dunegonName': runs[i][2],
       'dungeonAbbr': runs[i][3],
       'keystoneLevel': int(runs[i][5]),
+      'clearTime': int(runs[i][6]),
       'score': float(runs[i][4]),
       'dateCompleted': runs[i][7],
       'timeDiff': 0,
