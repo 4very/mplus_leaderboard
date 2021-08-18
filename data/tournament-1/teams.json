@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "Team 1",
+      "name": "Urban Mayer's Greatest Hits",
+      "players": [
+        "Lichyro-Sargeras",
+        "Ashkrall-Sargeras",
+        "Sânthan-Sargeras",
+        "Thünderlipz-Sargeras",
+        "Demosthanese-Sargeras"
+      ],
+      "score": 9640
+    },
+    {
+      "id": "Team 2",
+      "name": "White Sands Resort & Spa Super Chill M+ Organization",
+      "players": [
+        "Frøgman-Illidan",
+        "Zantãno-Illidan",
+        "Akinn-Illidan",
+        "Grogabusk-Illidan",
+        "Seracide-Illidan"
+      ],
+      "score": 8873
+    },
+    {
+      "id": "Team 3",
+      "name": "I Swear We're Ramping",
+      "players": [
+        "Gharakor-Illidan",
+        "Nerissa-Illidan",
+        "Miserea-Illidan",
+        "Azajin-Illidan",
+        "Fellerosa-Illidan"
+      ],
+      "score": 11177
+    },
+    {
+      "id": "Team 4",
+      "name": "Bobby Kotick Needs Another Boat",
+      "players": [
+        "Mcthornbody-Illidan",
+        "Notouchey-Illidan",
+        "Slyphox-Illidan",
+        "Knaks-Illidan",
+        "Birdlawyer-Illidan"
+      ],
+      "score": 11297
+    },
+    {
+      "id": "Team 5",
+      "name": "Trollsor, Seigyu, Soro, Nixaandria. Shall we form a pick up team for next week?",
+      "players": [
+        "Trollsor-Illidan",
+        "Seigyu-Illidan",
+        "Soroyam-Illidan",
+        "Shikase-Area52",
+        "Felrana-Illidan"
+      ],
+      "score": 7809
+    },
+    {
+      "id": "Team 6",
+      "name": "Turbo 24/7",
+      "players": [
+        "Titô-Illidan",
+        "Aeylianna-Illidan",
+        "Rénshi-Illidan",
+        "Zickyzicky-Illidan",
+        "Sathero-Illidan"
+      ],
+      "score": 10263
+    }
+  ]
+}
