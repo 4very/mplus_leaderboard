@@ -44,6 +44,20 @@ def RIO_GetRecentRuns(name: str, realm: str):
   
   return returnValue
 
+def RIO_GetColorData():
+  url = "https://raider.io/api/v1/mythic-plus/score-tiers"
+
+  payload = ""
+  response = requests.request("GET", url, data=payload)
+
+  try: data = json.loads(response.text)
+  except: 
+    print("Cannot get Data, trying again in 30 seconds")
+    sleep(30)
+    return RIO_GetColorData()
+  
+  return data
+
 
 
 

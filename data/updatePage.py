@@ -2,7 +2,7 @@ import json
 from os.path import join, realpath, dirname
 from os import getcwd
 from RIO import RIO_GetRecentRuns
-from updateMeta import updateTimeFile
+from updateMeta import getColorForRunScore, getDungeonTimings, updateTimeFile
 from datetime import datetime
 import logging
 
@@ -22,33 +22,28 @@ def writeRunsToFile(runs: dict, folder: str):
   with open(runsFile, 'w') as f:
     json.dump(jsonData, f, indent=2)
     logging.info(f'Wrote {len(runs)} new runs to file')
-
+  
 
 def getRuns(folder: str, pageParams: dict) -> dict:
   runs = getAllRuns(folder, pageParams)
   
-  metaFolder = join(realpath(join(getcwd(), dirname(__file__))),"meta")
-  addScoreColors(runs, metaFolder)
-  addTimeAndPercDiff(runs, metaFolder)
+  addScoreColors(runs)
+  addTimeAndPercDiff(runs)
 
   return runs
 
-def addScoreColors(runs, folder):
-  with open(join(folder,'coloring.json'),'r') as f:
-    jsonData = json.load(f)
-  
+def addScoreColors(runs):
   for runId, run in runs.items():
-    for score, color in jsonData.items():
-      if int(score)/16.0 > run['score']:
-        runs[runId]['color'] = color
+    runs[runId]['color'] = getColorForRunScore(run['score'])
   
-def addTimeAndPercDiff(runs,folder):
-  with open(join(folder,'dungeontimers.json'),'r') as f:
-    jsonData = json.load(f)
+def addTimeAndPercDiff(runs):
+  dungeonTimers = getDungeonTimings()
 
   for runId, run in runs.items():
-    runs[runId]['timeDiff'] = run['clearTime'] - jsonData[run['dungeonAbbr']]
-    runs[runId]['percDiff'] = run['clearTime'] / jsonData[run['dungeonAbbr']] - 1
+    runs[runId]['timeDiff'] = \
+      run['clearTime'] - dungeonTimers[run['dungeonAbbr']]
+    runs[runId]['percDiff'] = \
+      run['clearTime'] / dungeonTimers[run['dungeonAbbr']] - 1
     
 
 def getAllRuns(folder: str, pageParams: dict) -> dict:
@@ -60,7 +55,7 @@ def getAllRuns(folder: str, pageParams: dict) -> dict:
 
     for player in team['players']:
       for runId, run in getPlayerRuns(*player.split("-")).items():
-        # if isValidRun(runId, run, folder, pageParams): 
+        # if isValidRun(runId, run, folder, pageParams): TODO
           if runId in validRuns.keys(): 
             validRuns[runId]['count'] += 1
           else:
