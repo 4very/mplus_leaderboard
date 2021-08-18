@@ -99,7 +99,7 @@ export default function ContentPage(props: PropsType) {
     {
       field: 'team',
       headerName: 'Team Name',
-      width: 600,
+      width: 500,
     },
     {
       field: 'runsCompleted',

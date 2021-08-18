@@ -7,7 +7,7 @@ html {
   @apply bg-bgGrey text-fontGrey !important
 }
 
-.MuiDataGrid-main{
+.MuiDataGrid-main {
   @apply text-fontGrey font-sans
 }
 
