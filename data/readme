@@ -16,7 +16,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 # Specs
 ## pages.json
 
-```jsonc
+```json5
 {
   /**
     * Slug of webpage
@@ -51,7 +51,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 }
 ```
 ### Example
-```jsonc
+```json5
 {
   "tournament-1": {
     "name": "Tournament 1",
@@ -64,7 +64,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 
 ## runs.json
 
-```jsonc
+```json5
 {
   "data": {
   /**
@@ -146,7 +146,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 }
 ```
 ### Example
-```jsonc
+```json5
 {
   "data": {
     "5213689": {
@@ -174,7 +174,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 
 ## teams.json
 
-```jsonc
+```json5
 {
 /**
   * Unique identifier of the team
@@ -202,7 +202,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 }
 ```
 ### Example
-```jsonc
+```json5
 {
   "Team 3": {
     "name": "I Swear We're Ramping",
