@@ -23,7 +23,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
     * used to generate [root domain]/slug
     * @type String
     */
-  [slug]: {
+  [Slug]: {
 
     /**
       * Name of page
@@ -141,7 +141,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
   /**
     * All of the top runs from each team
     */
-    [teamId]:[RunId]
+    [TeamId]:[RunId]
   }
 }
 ```
@@ -180,7 +180,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
   * Unique identifier of the team
   * @type String
   */
-  [teamId]: {
+  [TeamId]: {
 
   /**
     * Team name
