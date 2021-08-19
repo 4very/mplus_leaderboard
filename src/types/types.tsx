@@ -6,14 +6,13 @@ export interface PropsType {
 
 export interface RunRow {
   id: string;
-  team: string;
+  name: string;
   dunegonName: string;
   keystoneLevel: string;
   score: number;
   dateCompleted: string;
   timeDiff: number;
   percDiff: number;
-  fullTeam: boolean;
   url: string;
   keyMod: number;
 }

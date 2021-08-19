@@ -91,7 +91,7 @@ def removeNonFullTeamRuns(validRuns: object, pageParams: object):
 
 
 def isDuplicate(id: str, folder: str) -> bool:
-  with open(join(folder,'runs.json'), 'r') as f: 
+  with open(join(folder,'runs.json'), 'r') as f:
     jsonData = json.load(f)
 
   return str(id) in jsonData['data'].keys()
@@ -100,3 +100,16 @@ def isValidDate(completeDate: str, pageStart: int) -> bool:
   return \
       datetime.strptime(completeDate, "%Y-%m-%dT%H:%M:%S.000Z") > \
       datetime.utcfromtimestamp(pageStart)
+
+
+
+def updateAllColors(folder: str):
+  with open(join(folder,'runs.json'), 'r') as f:
+    jsonData = json.load(f)
+  
+  for runId, run in jsonData['data'].items():
+    jsonData['data'][runId]['scoreColor'] = getColorForRunScore(run['score'])
+
+  
+  with open(join(folder,'runs.json'), 'w') as f:
+    json.dump(jsonData, f, indent=2)

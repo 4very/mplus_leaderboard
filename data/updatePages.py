@@ -3,7 +3,7 @@ import time
 from os.path import join, realpath, dirname
 from os import getcwd
 
-from updatePage import updatePage
+from updatePage import updateAllColors, updatePage
 
 
 __location__ = realpath(join(getcwd(), dirname(__file__)))
@@ -35,4 +35,4 @@ def updateGuild():
 
 if __name__ == '__main__':
   updatePages()
-  updateGuild() 
+  updateGuild()
