@@ -16,7 +16,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 # Specs
 ## pages.json
 
-```json
+```js
 {
   /**
     * Slug of webpage
@@ -64,7 +64,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 
 ## runs.json
 
-```json
+```js
 {
   "data": {
   /**
@@ -174,7 +174,7 @@ File `pages.json` in the root data directory describes the sub-folders under `pa
 
 ## teams.json
 
-```json
+```js
 {
 /**
   * Unique identifier of the team
