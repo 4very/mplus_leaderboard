@@ -11,13 +11,11 @@ export interface RunRow {
   keystoneLevel: string;
   score: number;
   dateCompleted: string;
-  timerDiff: number;
+  timeDiff: number;
   percDiff: number;
   fullTeam: boolean;
-  link: string;
-  keyUpgrade: number;
-  creditCardInfo: boolean;
-  scoreColor: string;
+  url: string;
+  keyMod: number;
 }
 
 export interface TeamRow {

@@ -9,6 +9,7 @@ import { Typography } from '@material-ui/core';
 import '@fontsource/roboto';
 
 import { DataGrid, GridCellParams } from '@material-ui/data-grid';
+import jsonfile from 'jsonfile';
 import moment from 'moment';
 
 import { PropsType, RunRow, TeamRow } from '../types/types';
@@ -67,7 +68,7 @@ export default function ContentPage(props: PropsType) {
     <div
       style={{
         // @ts-ignore
-        color: params.api.getCellValue(params.id, 'scoreColor'),
+        color: params.api.getCellValue(params.id, 'color'),
       }}
     >
       {/* @ts-ignore */}
@@ -176,7 +177,7 @@ export default function ContentPage(props: PropsType) {
       sortComarator: compareDate,
     },
     {
-      field: 'timerDiff',
+      field: 'timeDiff',
       headerName: 'Time Difference',
       width: 200,
       type: 'number',
@@ -190,13 +191,7 @@ export default function ContentPage(props: PropsType) {
       renderCell: percentToString,
     },
     {
-      field: 'fullTeam',
-      headerName: 'Full team?',
-      width: 160,
-      type: 'boolean',
-    },
-    {
-      field: 'link',
+      field: 'url',
       headerName: 'Link',
       width: 70,
       renderCell: strtolink,
@@ -204,21 +199,11 @@ export default function ContentPage(props: PropsType) {
       sortable: false,
     },
     {
-      field: 'keyUpgrade',
+      field: 'keyMod',
       headerName: 'Key Upgrade',
       width: 150,
       type: 'number',
       hide: true,
-    },
-    {
-      field: 'creditCardInfo',
-      headerName: 'Resub Speedrun?',
-      width: 150,
-      type: 'boolean',
-      hide: true,
-      description: 'Did a resub occur during the key?',
-      disableColumnMenu: true,
-      sortable: false,
     },
   ];
 
@@ -289,123 +274,69 @@ export default function ContentPage(props: PropsType) {
   );
 }
 
-export async function getStaticProps() {
-  const teamsRaw = fs
-    .readFileSync(path.join(process.cwd(), 'data', 'teams.csv'), 'utf8')
-    .split('\n');
+export async function getStaticProps(context: any) {
+  const { page } = context.params;
+  const folderPath: string = path.join(process.cwd(), 'data', 'pages', page);
 
-  const teams: string[][] = [];
-  for (let i: number = 0; i < teamsRaw.length - 1; i += 1) {
-    if (teamsRaw[i].length > 10) teams.push(teamsRaw[i].split(','));
-  }
-
-  const teamsNamesRaw = fs
-    .readFileSync(path.join(process.cwd(), 'data', 'team_names.csv'), 'utf8')
-    .split('\n');
-  const teamNames: string[][] = [];
-  for (let i: number = 0; i < teamsNamesRaw.length - 1; i += 1) {
-    teamNames.push(teamsNamesRaw[i]?.split(';') ?? []);
-  }
-
-  const runsRaw = fs
-    .readFileSync(path.join(process.cwd(), 'data', 'runs.csv'), 'utf8')
-    .split('\n');
-  const runs: string[][] = [];
-  for (let i: number = 0; i < runsRaw.length; i += 1) {
-    if (runsRaw[i].length > 10) {
-      runs.push(runsRaw[i]?.split(',') ?? []);
-    }
-  }
-
-  const timersRaw = fs
-    .readFileSync(path.join(process.cwd(), 'data', 'dungeontimers.csv'), 'utf8')
-    .split('\n');
-  const timers: string[][] = [];
-  for (let i: number = 0; i < timersRaw.length; i += 1) {
-    timers.push(timersRaw[i]?.split(',') ?? []);
-  }
-
-  const colorsRaw = fs
-    .readFileSync(path.join(process.cwd(), 'data', 'coloring.csv'), 'utf8')
-    .split('\n');
-  const colors: string[][] = [];
-  for (let i: number = 0; i < colorsRaw.length - 1; i += 1) {
-    colors.push(colorsRaw[i]?.split(',') ?? []);
+  // check if page is valid tournament
+  // this is already covered by getStaticPaths but this is reassurance
+  if (!fs.existsSync(folderPath)) {
+    console.log('invalid');
+    return { notFound: true };
   }
 
   const teamRows: TeamRow[] = [];
-  for (let i: number = 0; i < teams.length; i += 1) {
-    let scoreColor = '#ffffff';
-    for (let j: number = 0; j < colors.length; j += 1) {
-      if (+colors[j][0] * 5 <= +teams[i][6]) {
-        // eslint-disable-next-line prefer-destructuring
-        scoreColor = colors[j][1];
-        break;
-      }
-    }
-
-    let runsCompleted = 0;
-    for (let j: number = 0; j < runs.length; j += 1) {
-      if (runs[j][0] === teams[i][0]) runsCompleted += 1;
-    }
-
+  const teamObj = await jsonfile.readFile(path.join(folderPath, 'teams.json'));
+  Object.keys(teamObj).forEach((key) => {
     teamRows.push({
-      id: teams[i][0].split(' ')[1],
-      team: teamNames[i][1],
-      runsCompleted,
-      score: +teams[i][6],
-      tank: teams[i][1],
-      healer: teams[i][2],
-      dps1: teams[i][3],
-      dps2: teams[i][4],
-      dps3: teams[i][5],
-      scoreColor,
+      id: key,
+      ...teamObj[key],
     });
-  }
+  });
 
-  const upDATE = fs.readFileSync(
-    path.join(process.cwd(), 'data', 'upDATES.csv'),
+  const runRows: RunRow[] = [];
+  const runObj = await jsonfile.readFile(path.join(folderPath, 'runs.json'));
+  Object.keys(runObj.data).forEach((key) => {
+    runRows.push({
+      id: key,
+      ...runObj.data[key],
+    });
+  });
+
+  const upDATE: string = fs.readFileSync(
+    path.join(folderPath, 'upDATE'),
     'utf8'
   );
 
-  const runRows: RunRow[] = [];
-  for (let i: number = 0; i < runs.length; i += 1) {
-    let timer = 0;
-    for (let j: number = 0; j < timers.length; j += 1) {
-      if (timers[j][0] === runs[i][3]) {
-        timer = +timers[j][1];
-        break; // lol
-      }
-    }
+  console.log(teamRows);
 
-    const diff = +runs[i][6] - timer;
-    const percDiff = +runs[i][6] / timer - 1;
+  // teamRows.push({
+  //   id: teams[i][0].split(' ')[1],
+  //   team: teamNames[i][1],
+  //   runsCompleted,
+  //   score: +teams[i][6],
+  //   tank: teams[i][1],
+  //   healer: teams[i][2],
+  //   dps1: teams[i][3],
+  //   dps2: teams[i][4],
+  //   dps3: teams[i][5],
+  //   scoreColor,
+  // });
 
-    let scoreColor = '#ffffff';
-    for (let j: number = 0; j < colors.length; j += 1) {
-      if (+colors[j][0] / 16 <= +runs[i][4]) {
-        // eslint-disable-next-line prefer-destructuring
-        scoreColor = colors[j][1];
-        break;
-      }
-    }
-
-    runRows.push({
-      id: runs[i][1],
-      team: runs[i][0],
-      dunegonName: runs[i][2],
-      keystoneLevel: runs[i][5],
-      score: +runs[i][4],
-      dateCompleted: runs[i][7],
-      timerDiff: diff,
-      percDiff,
-      fullTeam: runs[i][9] === 'True',
-      link: runs[i][1],
-      keyUpgrade: +runs[i][8],
-      creditCardInfo: runs[i][10] === 'True',
-      scoreColor,
-    });
-  }
+  // runRows.push({
+  //   id: runs[i][1],
+  //   team: runs[i][0],
+  //   dunegonName: runs[i][2],
+  //   keystoneLevel: runs[i][5],
+  //   score: +runs[i][4],
+  //   dateCompleted: runs[i][7],
+  //   timeDiff: diff,
+  //   percDiff,
+  //   fullTeam: runs[i][9] === 'True',
+  //   url: runs[i][1],
+  //   keyUpgrade: +runs[i][8],
+  //   creditCardInfo: runs[i][10] === 'True',
+  //   scoreColor,
 
   return {
     props: {
@@ -413,5 +344,20 @@ export async function getStaticProps() {
       teamRows,
       upDATE,
     },
+  };
+}
+
+export async function getStaticPaths() {
+  const obj = jsonfile.readFile(path.join(process.cwd(), 'data', 'pages.json'));
+  const paths: Object[] = [];
+  Object.keys(await obj).forEach((page) => {
+    paths.push({
+      params: { page },
+    });
+  });
+
+  return {
+    paths,
+    fallback: false,
   };
 }

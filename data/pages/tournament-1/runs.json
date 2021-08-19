@@ -38,7 +38,7 @@
       "dateCompleted": "2021-08-13T03:15:10.000Z",
       "keyMod": 0,
       "team": "Team 1",
-      "color": "#346cdf",
+      "scoreColor": "#346cdf",
       "timeDiff": 254171,
       "percDiff": 0.09851589147286832
     },
@@ -52,7 +52,7 @@
       "dateCompleted": "2021-08-13T03:55:50.000Z",
       "keyMod": 2,
       "team": "Team 5",
-      "color": "#3f81cb",
+      "scoreColor": "#3f81cb",
       "timeDiff": -606475,
       "percDiff": -0.2465345528455285
     },
@@ -66,7 +66,7 @@
       "dateCompleted": "2021-08-13T03:19:11.000Z",
       "keyMod": 1,
       "team": "Team 5",
-      "color": "#5090bb",
+      "scoreColor": "#5090bb",
       "timeDiff": -314099,
       "percDiff": -0.16359322916666663
     },
@@ -80,7 +80,7 @@
       "dateCompleted": "2021-08-13T04:45:42.000Z",
       "keyMod": 0,
       "team": "Team 1",
-      "color": "#6a5ee5",
+      "scoreColor": "#6a5ee5",
       "timeDiff": 107467,
       "percDiff": 0.04713464912280707
     },
@@ -94,7 +94,7 @@
       "dateCompleted": "2021-08-13T03:55:45.000Z",
       "keyMod": 1,
       "team": "Team 1",
-      "color": "#7858e6",
+      "scoreColor": "#7858e6",
       "timeDiff": -173577,
       "percDiff": -0.07818783783783789
     },
@@ -108,7 +108,7 @@
       "dateCompleted": "2021-08-13T04:41:43.000Z",
       "keyMod": 1,
       "team": "Team 5",
-      "color": "#1b73d9",
+      "scoreColor": "#1b73d9",
       "timeDiff": -233559,
       "percDiff": -0.10243815789473687
     },
@@ -122,7 +122,7 @@
       "dateCompleted": "2021-08-13T05:30:45.000Z",
       "keyMod": 0,
       "team": "Team 5",
-      "color": "#317ad2",
+      "scoreColor": "#317ad2",
       "timeDiff": 611830,
       "percDiff": 0.31866145833333337
     },
@@ -136,7 +136,7 @@
       "dateCompleted": "2021-08-13T19:01:08.000Z",
       "keyMod": 1,
       "team": "Team 1",
-      "color": "#9940ec",
+      "scoreColor": "#9940ec",
       "timeDiff": -140105,
       "percDiff": -0.05987393162393162
     },
@@ -234,7 +234,7 @@
       "dateCompleted": "2021-08-14T03:54:58.000Z",
       "keyMod": 1,
       "team": "Team 6",
-      "color": "#8351e8",
+      "scoreColor": "#8351e8",
       "timeDiff": -322695,
       "percDiff": -0.14535810810810812
     },
@@ -276,7 +276,7 @@
       "dateCompleted": "2021-08-14T05:57:05.000Z",
       "keyMod": 0,
       "team": "Team 2",
-      "color": "#5c63e3",
+      "scoreColor": "#5c63e3",
       "timeDiff": 425489,
       "percDiff": 0.19166171171171165
     },
@@ -290,7 +290,7 @@
       "dateCompleted": "2021-08-15T03:43:19.000Z",
       "keyMod": 1,
       "team": "Team 6",
-      "color": "#ca46bc",
+      "scoreColor": "#ca46bc",
       "timeDiff": -73729,
       "percDiff": -0.031508119658119615
     },
@@ -304,7 +304,7 @@
       "dateCompleted": "2021-08-15T02:55:35.000Z",
       "keyMod": 2,
       "team": "Team 6",
-      "color": "#a335ee",
+      "scoreColor": "#a335ee",
       "timeDiff": -382545,
       "percDiff": -0.21252499999999996
     },
@@ -318,7 +318,7 @@
       "dateCompleted": "2021-08-15T05:18:48.000Z",
       "keyMod": 0,
       "team": "Team 6",
-      "color": "#ab38e6",
+      "scoreColor": "#ab38e6",
       "timeDiff": 196041,
       "percDiff": 0.08598289473684217
     },
@@ -332,7 +332,7 @@
       "dateCompleted": "2021-08-15T05:56:22.000Z",
       "keyMod": 1,
       "team": "Team 2",
-      "color": "#9940ec",
+      "scoreColor": "#9940ec",
       "timeDiff": -13234,
       "percDiff": -0.005961261261261286
     },
@@ -346,7 +346,7 @@
       "dateCompleted": "2021-08-15T04:06:40.000Z",
       "keyMod": 0,
       "team": "Team 2",
-      "color": "#7858e6",
+      "scoreColor": "#7858e6",
       "timeDiff": 27212,
       "percDiff": 0.012257657657657628
     },
@@ -360,7 +360,7 @@
       "dateCompleted": "2021-08-15T03:21:40.000Z",
       "keyMod": 1,
       "team": "Team 2",
-      "color": "#7858e6",
+      "scoreColor": "#7858e6",
       "timeDiff": -138001,
       "percDiff": -0.07666722222222222
     },
@@ -374,7 +374,7 @@
       "dateCompleted": "2021-08-15T05:01:19.000Z",
       "keyMod": 1,
       "team": "Team 2",
-      "color": "#7858e6",
+      "scoreColor": "#7858e6",
       "timeDiff": -1916,
       "percDiff": -0.000887037037037075
     },
@@ -388,7 +388,7 @@
       "dateCompleted": "2021-08-16T02:57:17.000Z",
       "keyMod": 1,
       "team": "Team 6",
-      "color": "#d84fa3",
+      "scoreColor": "#d84fa3",
       "timeDiff": -14419,
       "percDiff": -0.0063241228070175515
     },
@@ -402,7 +402,7 @@
       "dateCompleted": "2021-08-16T03:48:04.000Z",
       "keyMod": 1,
       "team": "Team 4",
-      "color": "#ca46bc",
+      "scoreColor": "#ca46bc",
       "timeDiff": -87354,
       "percDiff": -0.0338581395348837
     },
@@ -416,7 +416,7 @@
       "dateCompleted": "2021-08-16T03:03:15.000Z",
       "keyMod": 1,
       "team": "Team 4",
-      "color": "#b93dd5",
+      "scoreColor": "#b93dd5",
       "timeDiff": -389818,
       "percDiff": -0.1665888888888889
     },
@@ -430,7 +430,7 @@
       "dateCompleted": "2021-08-16T04:53:38.000Z",
       "keyMod": 1,
       "team": "Team 4",
-      "color": "#d84fa3",
+      "scoreColor": "#d84fa3",
       "timeDiff": -110335,
       "percDiff": -0.061297222222222225
     },
@@ -444,7 +444,7 @@
       "dateCompleted": "2021-08-16T06:07:49.000Z",
       "keyMod": 0,
       "team": "Team 4",
-      "color": "#d34cac",
+      "scoreColor": "#d34cac",
       "timeDiff": 91282,
       "percDiff": 0.035380620155038844
     },
@@ -458,7 +458,7 @@
       "dateCompleted": "2021-08-16T05:39:15.000Z",
       "keyMod": 0,
       "team": "Team 6",
-      "color": "#0070dd",
+      "scoreColor": "#0070dd",
       "timeDiff": 545004,
       "percDiff": 0.21124186046511628
     },
@@ -472,7 +472,7 @@
       "dateCompleted": "2021-08-17T02:22:31.000Z",
       "keyMod": 1,
       "team": "Team 3",
-      "color": "#d84fa3",
+      "scoreColor": "#d84fa3",
       "timeDiff": -99607,
       "percDiff": -0.05533722222222226
     },
@@ -486,7 +486,7 @@
       "dateCompleted": "2021-08-17T04:05:16.000Z",
       "keyMod": 1,
       "team": "Team 3",
-      "color": "#dc539b",
+      "scoreColor": "#dc539b",
       "timeDiff": -358778,
       "percDiff": -0.16610092592592596
     },
@@ -500,7 +500,7 @@
       "dateCompleted": "2021-08-17T04:56:44.000Z",
       "keyMod": 1,
       "team": "Team 3",
-      "color": "#d84fa3",
+      "scoreColor": "#d84fa3",
       "timeDiff": -52359,
       "percDiff": -0.022964473684210507
     },
@@ -514,7 +514,7 @@
       "dateCompleted": "2021-08-17T05:41:46.000Z",
       "keyMod": 1,
       "team": "Team 3",
-      "color": "#e3598b",
+      "scoreColor": "#e3598b",
       "timeDiff": -50920,
       "percDiff": -0.022333333333333316
     }

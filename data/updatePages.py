@@ -1,15 +1,15 @@
-import os
 import json
 import time
+from os.path import join, realpath, dirname
+from os import getcwd
 
 from updatePage import updatePage
 
 
-__location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
-jsonPath = os.path.join(__location__, 'pages.json')
+__location__ = realpath(join(getcwd(), dirname(__file__)))
+jsonPath = join(__location__, 'pages.json')
 
 
-#region update pages
 def getListofPages():
   with open(jsonPath,'r') as f:
     return json.load(f)
@@ -17,16 +17,15 @@ def getListofPages():
 
 def updatePages():
   data = getListofPages()
-  for slug in data:
-    page = data[slug]
+  for slug, page in data.items():
 
     # if the tournament is over or hasnt started
-    if time.time() > page['end-date'] or time.time() < page['start-date']: continue 
+    if  time.time() > page['end-date'] or \
+        time.time() < page['start-date']: continue 
 
-    pageFolder = os.path.join(__location__,slug)
+    pageFolder = join(__location__,'pages',slug)
     updatePage(pageFolder, page)
 
-#endregion
 
 def updateGuild():
   #TODO

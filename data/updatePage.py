@@ -34,7 +34,7 @@ def getRuns(folder: str, pageParams: dict) -> dict:
 
 def addScoreColors(runs):
   for runId, run in runs.items():
-    runs[runId]['color'] = getColorForRunScore(run['score'])
+    runs[runId]['scoreColor'] = getColorForRunScore(run['score'])
   
 def addTimeAndPercDiff(runs):
   dungeonTimers = getDungeonTimings()
