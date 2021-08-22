@@ -9,8 +9,8 @@ import { Typography } from '@material-ui/core';
 import { DataGrid } from '@material-ui/data-grid';
 import jsonfile from 'jsonfile';
 
-import { runColumns, teamColumns } from '../types/columnTypes';
-import { PropsType, RunRow, TeamRow } from '../types/types';
+import { runColumns, teamColumns } from '../../types/columnTypes';
+import { PropsType, RunRow, TeamRow } from '../../types/types';
 
 export default function ContentPage(props: PropsType) {
   return (
