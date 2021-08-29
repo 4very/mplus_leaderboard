@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 import json
-import logging
+from logging import warn
 from re import findall
 
 def RIO_GetCharData(name: str, realm, fields: str = ""):
@@ -14,7 +14,7 @@ def RIO_GetCharData(name: str, realm, fields: str = ""):
 
   try: data = json.loads(response.text)
   except: 
-    print("Cannot get Data, trying again in 30 seconds")
+    warn("Cannot get RIO Char data")
     sleep(30)
     return RIO_GetCharData(name, realm)
   
@@ -25,8 +25,8 @@ def RIO_GetRecentRuns(name: str, realm: str):
   RIO_Data = RIO_GetCharData(name, realm, "mythic_plus_recent_runs")
 
   if not 'mythic_plus_recent_runs' in RIO_Data.keys():
-    logging.error(f'{name}-{realm} doesnt have any recent m+ runs')
-    return
+    warn(f'{name}-{realm} doesnt have any recent m+ runs')
+    return {}
   
   returnValue = {}
   for run in RIO_Data['mythic_plus_recent_runs']:
@@ -52,7 +52,7 @@ def RIO_GetColorData():
 
   try: data = json.loads(response.text)
   except: 
-    print("Cannot get Data, trying again in 30 seconds")
+    warn("Cannot get RIO color data")
     sleep(30)
     return RIO_GetColorData()
   

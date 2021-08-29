@@ -1,11 +1,16 @@
 import json
 import time
 from datetime import date, timedelta, datetime
-from os.path import join, realpath, dirname
-from os import getcwd
+from logging import DEBUG, basicConfig, INFO
+from os.path import join, realpath, dirname, exists, isdir
+from os import getcwd, mkdir
+from sys import argv
 from math import ceil
 
 from updatePage import updateAllColors, updatePage
+from updateGuild import UpdateGuildRoster, UpdateGuildRuns, PrepFolder
+from updateMeta import updateAllMeta
+
 
 
 __location__ = realpath(join(getcwd(), dirname(__file__)))
@@ -40,11 +45,29 @@ def updateGuild():
   lastWeekStartDate = startDate - 604800
   lastWeekEndDate = startDate
 
-  print(endDate)
+  rootFolder = join(__location__,'pages','g')
+  rosterFile = join(rootFolder,'roster.json')
+
+  UpdateGuildRoster(rosterFile)
+
+  lastWeekFolder = join(rootFolder,str(lastWeekNumber))
+  PrepFolder(lastWeekFolder, lastWeekStartDate, lastWeekEndDate, lastWeekNumber)
+  UpdateGuildRuns(lastWeekFolder,rosterFile,lastWeekStartDate,lastWeekEndDate)
+
+  weekFolder = join(rootFolder,str(weekNumber))
+  PrepFolder(weekFolder, startDate, endDate, weekNumber)
+  UpdateGuildRuns(weekFolder,rosterFile,startDate,endDate)
+  
   return
 
 
 
 
 if __name__ == '__main__':
-  updateGuild()
+
+  if '--info' in argv: basicConfig(level=INFO)
+  elif '--debug' in argv: basicConfig(level=DEBUG)
+  if '--guild' in argv: updateGuild()
+  if '--meta' in argv: updateAllMeta()
+  if '--pages' in argv: updatePages()
+  

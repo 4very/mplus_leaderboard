@@ -82,7 +82,13 @@ export default function ContentPage(props: PropsType) {
 
 export async function getStaticProps(context: any) {
   const { page } = context.params;
-  const folderPath: string = path.join(process.cwd(), 'data', 'pages', page);
+  const folderPath: string = path.join(
+    process.cwd(),
+    'data',
+    'pages',
+    't',
+    page
+  );
 
   // check if page is valid tournament
   // this is already covered by getStaticPaths but this is reassurance

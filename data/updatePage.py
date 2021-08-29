@@ -4,6 +4,7 @@ from os import getcwd
 from RIO import RIO_GetRecentRuns
 from updateMeta import getColorForRunScore, getDungeonTimings, updateTimeFile
 from datetime import datetime
+
 import logging
 
 def updatePage(folder: str, pageParams: dict):
@@ -27,16 +28,16 @@ def writeRunsToFile(runs: dict, folder: str):
 def getRuns(folder: str, pageParams: dict) -> dict:
   runs = getAllRuns(folder, pageParams)
   
-  addScoreColors(runs)
-  addTimeAndPercDiff(runs)
+  AddScoreColors(runs)
+  AddTimeAndPercDiff(runs)
 
   return runs
 
-def addScoreColors(runs):
+def AddScoreColors(runs):
   for runId, run in runs.items():
     runs[runId]['scoreColor'] = getColorForRunScore(run['score'])
   
-def addTimeAndPercDiff(runs):
+def AddTimeAndPercDiff(runs):
   dungeonTimers = getDungeonTimings()
 
   for runId, run in runs.items():
