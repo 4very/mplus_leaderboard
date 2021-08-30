@@ -57,7 +57,7 @@ export const compareDate = (param1: string, param2: string) =>
 export const teamScoreRender = (params: GridCellParams) => (
   <div
     style={{
-      color: params.api.getCellValue(params.id, 'color'),
+      color: params.row.color,
     }}
   >
     {params.value}
@@ -67,7 +67,7 @@ export const teamScoreRender = (params: GridCellParams) => (
 export const runScoreRender = (params: GridCellParams) => (
   <div
     style={{
-      color: params.api.getCellValue(params.id, 'scoreColor'),
+      color: params.row.scoreColor,
     }}
   >
     {params.value}
@@ -77,7 +77,7 @@ export const runScoreRender = (params: GridCellParams) => (
 export const classColorRender = (params: GridCellParams) => (
   <div
     style={{
-      color: params.api.getCellValue(params.id, 'classColor'),
+      color: params.row.classColor,
     }}
   >
     {params.value}
@@ -126,7 +126,7 @@ export const addFaction = (params: GridCellParams) => (
     <img
       className="w-6 h-8 self-center mr-2"
       title="Faction"
-      src={`/images/${params.api.getCellValue(params.id, 'faction')}.png`}
+      src={`/images/${params.row.faction}.png`}
       alt=""
     />
     {params.value}

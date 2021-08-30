@@ -29,9 +29,6 @@ def UpdateGuildRoster(rosterfile):
 
       rio_data = RIO_GetCharRankings(name,realm)
       
-      # from pprint import pprint
-      # pprint(rio_data)
-      
       if 'statusCode' not in rio_data.keys():
         rio_link = rio_data['profile_url']
         rio_score = rio_data['mythic_plus_scores_by_season'][0]['scores']['all']
@@ -152,3 +149,11 @@ def PrepFolder(folder,start,end,weekNum):
       'start': start.strftime(f'%-I %P, %A %B %-d{suffix(start.day)}'),
       'end': end.strftime(f'%-I %P, %A %B %-d{suffix(end.day)}'),
     },f, indent=2)
+
+
+def updateGuildMeta(folder, weeknumber):
+  with open(join(folder,'meta.json'),'w') as f:
+    dump({
+      'weekNum' : weeknumber
+    }, f)
+  return

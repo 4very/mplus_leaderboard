@@ -8,7 +8,7 @@ from sys import argv
 from math import ceil
 
 from updatePage import updateAllColors, updatePage
-from updateGuild import UpdateGuildRoster, UpdateGuildRuns, PrepFolder
+from updateGuild import UpdateGuildRoster, UpdateGuildRuns, PrepFolder, updateGuildMeta
 from updateMeta import updateAllMeta
 
 
@@ -45,9 +45,11 @@ def updateGuild():
   lastWeekStartDate = startDate - 604800
   lastWeekEndDate = startDate
 
+
   rootFolder = join(__location__,'pages','g')
   rosterFile = join(rootFolder,'roster.json')
 
+  updateGuildMeta(rootFolder,weekNumber)
   UpdateGuildRoster(rosterFile)
 
   lastWeekFolder = join(rootFolder,str(lastWeekNumber))

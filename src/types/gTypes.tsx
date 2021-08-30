@@ -14,6 +14,7 @@ import {
 export interface GuildPropsType {
   runRows: GuildRunRow[];
   rosterRows: GuildRosterRow[];
+  pageMetaData: GuildPageMetaData;
   upDATE: string;
 }
 
@@ -146,3 +147,15 @@ export const GuildRunColumns = [
     hide: true,
   },
 ];
+
+export interface GuildMetaData {
+  weekNum: number;
+}
+
+export interface GuildPageMetaData {
+  num: number;
+  start: string;
+  end: string;
+  nextLink: boolean;
+  prevLink: boolean;
+}
