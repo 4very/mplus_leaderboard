@@ -35,7 +35,13 @@ def getColorForRunScore(score: float):
     if int(colorScore)/16.0 < score:
       return color
 
-
+def getColorForScore(score: float):
+  with open(join(__MetaFolder__,'coloring.json'),'r') as f:
+    jsonData = json.load(f)
+  for colorScore, color in jsonData.items():
+    if int(colorScore) < score:
+      return color
+  return '#ffffff'
 
 def updateRankings(folder):
   return
@@ -54,3 +60,37 @@ def updateTimeFile(folder: str):
   with open(join(folder,"upDATE"),'w') as f:
     f.write(
       datetime.now(tz=timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
+
+
+
+NumberToClassName = {
+  0: 'None',
+  1: 'Warrior',
+  2: 'Paladin',
+  3: 'Hunter',
+  4: 'Rogue',
+  5: 'Priest',
+  6: 'Death Knight',
+  7: 'Shaman',
+  8: 'Mage',
+  9: 'Warlock',
+  10: 'Monk',
+  11: 'Druid',
+  12: 'Demon Hunter'
+}
+
+NumberToClassColor = {
+  0: '#ffffff',
+  1: '#C69B6D',
+  2: '#F48CBA',
+  3: '#AAD372',
+  4: '#FFF468',
+  5: '#FFFFFF',
+  6: '#C41E3A',
+  7: '#0070DD',
+  8: '#3FC7EB',
+  9: '#8788EE',
+  10: '#00FF98',
+  11: '#FF7C0A',
+  12: '#A330C9'
+}

@@ -16,7 +16,7 @@ def RIO_GetCharData(name: str, realm, fields: str = ""):
   except: 
     warn("Cannot get RIO Char data")
     sleep(30)
-    return RIO_GetCharData(name, realm)
+    return RIO_GetCharData(name, realm, fields)
   
   return data
 
@@ -39,7 +39,8 @@ def RIO_GetRecentRuns(name: str, realm: str):
       'keystoneLevel': run['mythic_level'],
       'clearTime': run['clear_time_ms'],
       'dateCompleted': run['completed_at'],
-      'keyMod': run['num_keystone_upgrades']
+      'keyMod': run['num_keystone_upgrades'],
+      'faction': RIO_Data['faction']
     }
   
   return returnValue
@@ -58,10 +59,5 @@ def RIO_GetColorData():
   
   return data
 
-
-
-
-
-
-
-  
+def RIO_GetCharRankings(name,realm):
+  return RIO_GetCharData(name, realm, 'mythic_plus_scores_by_season:current')

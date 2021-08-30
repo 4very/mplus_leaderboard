@@ -1,7 +1,7 @@
 import json
 import time
 from datetime import date, timedelta, datetime
-from logging import DEBUG, basicConfig, INFO
+from logging import DEBUG, basicConfig, INFO, root
 from os.path import join, realpath, dirname, exists, isdir
 from os import getcwd, mkdir
 from sys import argv
@@ -65,7 +65,9 @@ def updateGuild():
 
 if __name__ == '__main__':
 
-  if '--info' in argv: basicConfig(level=INFO)
+  if '--info' in argv: 
+    root.setLevel(INFO)
+    basicConfig(level=INFO)
   elif '--debug' in argv: basicConfig(level=DEBUG)
   if '--guild' in argv: updateGuild()
   if '--meta' in argv: updateAllMeta()

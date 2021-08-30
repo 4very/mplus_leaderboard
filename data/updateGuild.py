@@ -1,6 +1,6 @@
 from time import strftime
 from json import dump, load
-from logging import info
+from logging import root
 from os.path import join, exists
 from os import mkdir
 from datetime import datetime, timedelta
@@ -8,9 +8,11 @@ from requests.api import get
 import pytz
 
 from WOW import WOW_getGuildRoster
-from RIO import RIO_GetRecentRuns
+from updateMeta import NumberToClassName, getColorForRunScore, getColorForScore, NumberToClassColor
+from RIO import RIO_GetCharData, RIO_GetCharRankings, RIO_GetRecentRuns
 from updatePage import AddScoreColors, AddTimeAndPercDiff
 from updateMeta import updateTimeFile
+
 
 
 
@@ -22,18 +24,47 @@ def UpdateGuildRoster(rosterfile):
     char = member['character']
 
     if char['level'] == 60:
+      name = char['name']
+      realm = char['realm']['slug']
+
+      rio_data = RIO_GetCharRankings(name,realm)
+      
+      # from pprint import pprint
+      # pprint(rio_data)
+      
+      if 'statusCode' not in rio_data.keys():
+        rio_link = rio_data['profile_url']
+        rio_score = rio_data['mythic_plus_scores_by_season'][0]['scores']['all']
+        rio_scoreColor = getColorForScore(rio_score)
+      else: 
+        rio_link = None
+        rio_score = 0
+        rio_scoreColor = '#ffffff'
+        
+
 
       writeObj[char['id']] = {
-        'name': char['name'],
-        'realm': char['realm']['slug'],
+        'name': name,
+        'realm': realm,
+        'faction': 'horde' if char['realm']['slug'] == 'illidan' else 'alliance',
         'class': char['playable_class']['id'],
+        'className': NumberToClassName[char['playable_class']['id']],
+        'classColor': NumberToClassColor[char['playable_class']['id']],
         'race': char['playable_race']['id'],
-        'rank': member['rank']
+        'rank': member['rank'],
+        'score': rio_score,
+        'scoreColor': rio_scoreColor,
+        'links': {
+          'rio': rio_link,
+          'armory': f'https://worldofwarcraft.com/en-us/character/us/{realm}/{name}',
+          'wcl': f'https://www.warcraftlogs.com/character/us/{realm}/{name}',
+          'rbot': f'https://www.raidbots.com/simbot/quick?region=us&realm={realm}&name={name}'
+        }
       }
   
   with open(rosterfile,'w') as f:
     dump(writeObj, f, indent=2)
-  info("updated guild roster")
+  root.info("updated guild roster")
   
 
 

@@ -1,72 +1,47 @@
-import { GridCellParams } from '@material-ui/data-grid';
-import moment from 'moment';
+import {
+  compareDate,
+  percentToString,
+  runScoreRender,
+  strToDate,
+  strtolink,
+  teamScoreRender,
+  timeToString,
+  usernameToLink,
+} from './funcs';
 
-const usernameToLink = (params: GridCellParams) => (
-  <a
-    href={`https://raider.io/characters/us/${
-      params.value.toString().split('-')[1]
-    }/${params.value.toString().split('-')[0]}`}
-    target="_blank"
-    rel="noreferrer"
-  >
-    {params.value}
-  </a>
-);
-const timeToString = (params: GridCellParams) => (
-  <div
-    className={+params.value.valueOf() > 0 ? 'text-red-400' : 'text-green-400'}
-  >
-    {`${Math.floor(Math.abs(+params.value.valueOf()) / 60000)}:${(
-      (Math.abs(+params.value.valueOf()) % 60000) /
-      1000
-    )
-      .toFixed(0)
-      .padStart(2, '0')}`}
-  </div>
-);
+export interface TPropsType {
+  runRows: TRunRow[];
+  teamRows: TTeamRow[];
+  upDATE: string;
+}
 
-const percentToString = (params: GridCellParams) => (
-  <div
-    className={+params.value.valueOf() > 0 ? 'text-red-400' : 'text-green-400'}
-  >
-    {Math.abs(Math.round(+params.value.valueOf() * 10000) / 100)}%
-  </div>
-);
+export interface TRunRow {
+  id: string;
+  name: string;
+  dunegonName: string;
+  keystoneLevel: string;
+  score: number;
+  dateCompleted: string;
+  timeDiff: number;
+  percDiff: number;
+  url: string;
+  keyMod: number;
+}
 
-const strtolink = (params: GridCellParams) => (
-  <a href={params.value.toString()} target="_blank" rel="noreferrer">
-    Link
-  </a>
-);
+export interface TTeamRow {
+  id: string;
+  team: string;
+  runsCompleted: number;
+  score: number;
+  tank: string;
+  healer: string;
+  dps1: string;
+  dps2: string;
+  dps3: string;
+  scoreColor: string;
+}
 
-const strToDate = (params: GridCellParams) => (
-  <>{moment(params.value.toString()).utcOffset(-6).format('h:mm a, MM/DD')}</>
-);
-
-const compareDate = (param1: string, param2: string) =>
-  moment(param1).diff(moment(param2));
-
-const teamScoreRender = (params: GridCellParams) => (
-  <div
-    style={{
-      color: params.api.getCellValue(params.id, 'color'),
-    }}
-  >
-    {params.value}
-  </div>
-);
-
-const runScoreRender = (params: GridCellParams) => (
-  <div
-    style={{
-      color: params.api.getCellValue(params.id, 'scoreColor'),
-    }}
-  >
-    {params.value}
-  </div>
-);
-
-export const teamColumns = [
+export const tTeamColumns = [
   {
     field: 'id',
     headerName: '#',
@@ -125,7 +100,7 @@ export const teamColumns = [
   },
 ];
 
-export const runColumns = [
+export const tRunColumns = [
   { field: 'id', headerName: 'ID', width: 100, hide: true },
   { field: 'team', headerName: 'Team', width: 120 },
   {

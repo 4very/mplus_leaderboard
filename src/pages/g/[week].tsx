@@ -6,18 +6,25 @@ import React from 'react';
 import '@fontsource/roboto';
 
 import { Typography } from '@material-ui/core';
-import { DataGrid } from '@material-ui/data-grid';
+import { DataGrid, GridSortModel } from '@material-ui/data-grid';
 import jsonfile from 'jsonfile';
 
 import {
-  TPropsType,
-  tRunColumns,
-  TRunRow,
-  tTeamColumns,
-  TTeamRow,
-} from '../../types/tTypes';
+  GuildPropsType,
+  GuildRosterColumns,
+  GuildRosterRow,
+  GuildRunColumns,
+  GuildRunRow,
+} from '../../types/gTypes';
 
-export default function ContentPage(props: TPropsType) {
+export default function ContentPage(props: GuildPropsType) {
+  const [sortModel, setSortModel] = React.useState<GridSortModel>([
+    {
+      field: 'score',
+      sort: 'desc',
+    },
+  ]);
+
   return (
     <>
       <Typography
@@ -41,7 +48,7 @@ export default function ContentPage(props: TPropsType) {
       >
         <DataGrid
           rows={props.runRows}
-          columns={tRunColumns}
+          columns={GuildRunColumns}
           disableSelectionOnClick
           hideFooter
           autoHeight
@@ -58,7 +65,7 @@ export default function ContentPage(props: TPropsType) {
           paddingBottom: '0',
         }}
       >
-        Teams:
+        Roster:
       </Typography>
       <div
         style={{
@@ -69,12 +76,14 @@ export default function ContentPage(props: TPropsType) {
         }}
       >
         <DataGrid
-          rows={props.teamRows}
-          columns={tTeamColumns}
+          rows={props.rosterRows}
+          columns={GuildRosterColumns}
           disableSelectionOnClick
-          hideFooter
           disableExtendRowFullWidth
           autoHeight
+          sortModel={sortModel}
+          onSortModelChange={(model) => setSortModel(model)}
+          pageSize={50}
         />
       </div>
       <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
@@ -86,13 +95,20 @@ export default function ContentPage(props: TPropsType) {
 }
 
 export async function getStaticProps(context: any) {
-  const { page } = context.params;
+  const { week } = context.params;
   const folderPath: string = path.join(
     process.cwd(),
     'data',
     'pages',
-    't',
-    page
+    'g',
+    week
+  );
+  const rosterPath: string = path.join(
+    process.cwd(),
+    'data',
+    'pages',
+    'g',
+    'roster.json'
   );
 
   // check if page is valid tournament
@@ -101,22 +117,16 @@ export async function getStaticProps(context: any) {
     return { notFound: true };
   }
 
-  const teamRows: TTeamRow[] = [];
-  const teamObj = await jsonfile.readFile(path.join(folderPath, 'teams.json'));
-  Object.keys(teamObj).forEach((key) => {
-    teamRows.push({
+  const rosterRows: GuildRosterRow[] = [];
+  const rosterObj = await jsonfile.readFile(rosterPath);
+  Object.keys(rosterObj).forEach((key) => {
+    rosterRows.push({
       id: key,
-      ...teamObj[key],
-      tank: teamObj[key].players[0],
-      healer: teamObj[key].players[1],
-      dps1: teamObj[key].players[2],
-      dps2: teamObj[key].players[3],
-      dps3: teamObj[key].players[4],
-      runsComplete: 0,
+      ...rosterObj[key],
     });
   });
 
-  const runRows: TRunRow[] = [];
+  const runRows: GuildRunRow[] = [];
   const runObj = await jsonfile.readFile(path.join(folderPath, 'runs.json'));
   Object.keys(runObj.data).forEach((key) => {
     runRows.push({
@@ -133,23 +143,15 @@ export async function getStaticProps(context: any) {
   return {
     props: {
       runRows,
-      teamRows,
+      rosterRows,
       upDATE,
     },
   };
 }
 
 export async function getStaticPaths() {
-  const obj = jsonfile.readFile(path.join(process.cwd(), 'data', 'pages.json'));
-  const paths: Object[] = [];
-  Object.keys(await obj).forEach((page) => {
-    paths.push({
-      params: { page },
-    });
-  });
-
   return {
-    paths,
+    paths: [{ params: { week: '2' } }, { params: { week: '3' } }],
     fallback: false,
   };
 }

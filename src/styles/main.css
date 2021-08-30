@@ -59,3 +59,15 @@ a{
 .MuiDataGrid-cell {
   @apply border-r-0 !important
 }
+
+.linkImg {
+  @apply w-7 h-7 block ml-2
+}
+
+.MuiTablePagination-root {
+  @apply text-fontGrey font-serif !important
+}
+
+.MuiDataGrid-footerContainer > div:nth-child(1) {
+  @apply hidden !important
+}
