@@ -11,4 +11,28 @@ module.exports = withBundleAnalyzer({
   // So, the source code is "basePath-ready".
   // You can remove `basePath` if you don't need it.
   reactStrictMode: true,
+  async redirects() {
+    return [
+      {
+        source: '/g/',
+        destination: '/g/current',
+        permanent: true,
+      },
+      {
+        source: '/g',
+        destination: '/g/current',
+        permanent: true,
+      },
+      {
+        source: '/t/',
+        destination: '/t/tournament-1',
+        permanent: true,
+      },
+      {
+        source: '/t',
+        destination: '/t/tournament-1',
+        permanent: true,
+      },
+    ];
+  },
 });

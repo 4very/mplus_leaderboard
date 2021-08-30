@@ -8,6 +8,7 @@ import '@fontsource/roboto';
 import { Typography } from '@material-ui/core';
 import { DataGrid, GridSortModel } from '@material-ui/data-grid';
 import jsonfile from 'jsonfile';
+import Link from 'next/link';
 
 import {
   GuildMetaData,
@@ -19,7 +20,7 @@ import {
   GuildRunRow,
 } from '../../types/gTypes';
 
-export default function ContentPage(props: GuildPropsType) {
+export default function GuildPage(props: GuildPropsType) {
   const [sortModel, setSortModel] = React.useState<GridSortModel>([
     {
       field: 'score',
@@ -34,21 +35,18 @@ export default function ContentPage(props: GuildPropsType) {
           Currently Online
         </Typography>
         <div className="sm:pl-2 lg:pl-4">
-          <Typography variant="h5" className="font-serif">
-            Weekly Leaderboard from{' '}
-            <span className="text-blue-200 font-sans font-regular">
-              {props.pageMetaData.start}
-            </span>{' '}
-            to{' '}
-            <span className="text-blue-200 font-sans font-regular">
-              {props.pageMetaData.end}
-            </span>
+          <Typography variant="h4" className="font-serif">
+            Weekly Guild Leaderboard
+          </Typography>
+          <Typography variant="h5" className="font-serif mb-3">
+            <span className="">{props.pageMetaData.start}</span> to{' '}
+            <span className="">{props.pageMetaData.end}</span>
           </Typography>
           <Typography variant="h6" className="font-sans">
             {props.pageMetaData.prevLink && (
-              <a href={`/g/${props.pageMetaData.num - 1}`}>
+              <Link href={`/g/${props.pageMetaData.num - 1}`}>
                 {'<< Previous Week'}
-              </a>
+              </Link>
             )}
 
             {props.pageMetaData.prevLink && props.pageMetaData.nextLink && (
@@ -56,7 +54,9 @@ export default function ContentPage(props: GuildPropsType) {
             )}
 
             {props.pageMetaData.nextLink && (
-              <a href={`/g/${props.pageMetaData.num + 1}`}>{'Next Week >>'}</a>
+              <Link href={`/g/${props.pageMetaData.num + 1}`}>
+                {'Next Week >>'}
+              </Link>
             )}
           </Typography>
           <Typography variant="h4" className="mt-8">
@@ -159,7 +159,7 @@ export async function getStaticProps(context: any) {
   );
 
   pageMetaData.nextLink = curWeek > pageMetaData.num;
-  pageMetaData.prevLink = pageMetaData.num > 1;
+  pageMetaData.prevLink = pageMetaData.num > 2;
 
   return {
     props: {
