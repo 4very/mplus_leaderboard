@@ -103,7 +103,7 @@ export default function ContentPage(props: GuildPropsType) {
 }
 
 export async function getStaticProps(context: any) {
-  const { week } = context.params;
+  let { week } = context.params;
 
   const defFolderPath: string = path.join(process.cwd(), 'data', 'pages', 'g');
   const metaData: GuildMetaData = await jsonfile.readFile(
@@ -113,12 +113,7 @@ export async function getStaticProps(context: any) {
   const curWeek = metaData.weekNum;
 
   if (week === 'current') {
-    return {
-      redirect: {
-        destination: `/g/${curWeek}`,
-        permanent: false,
-      },
-    };
+    week = curWeek.toString();
   }
 
   const folderPath: string = path.join(defFolderPath, week);
