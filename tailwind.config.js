@@ -5,7 +5,7 @@ module.exports = {
   darkMode: false,
   theme: {
     fontFamily: {
-      sans: ['Libertinus Sans', 'sans-serif'],
+      sans: ['Source Sans Pro', 'sans-serif'],
       serif: ['Libertinus Serif', 'serif'],
       serifHeader: ['Lora', 'serif'],
     },

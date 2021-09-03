@@ -3,12 +3,31 @@
 @tailwind utilities;
 
 
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-weight: 400;
+  src: url('../fonts/LibertinusSerif-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-weight: 400;
+  src: url('../fonts/LibertinusSans-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-weight: 400;
+  src: url('../fonts/SourceSansPro-Regular.ttf') format('truetype');
+}
+
+
 html {
   @apply bg-bgGrey text-fontGrey !important
 }
 
 .MuiDataGrid-main {
-  @apply text-fontGrey font-sans
+  @apply text-fontGrey font-sans text-base
 }
 
 .MuiDataGrid-root{
