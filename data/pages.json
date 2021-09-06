@@ -1,8 +1,18 @@
 {
   "tournament-1": {
     "name": "Tournament 1",
-    "start-date": 1628694000,
-    "end-date": 1639298800,
+    "startText": "August 10th 2021",
+    "endText": "August 17th 2021",
+    "start-date": 1628607600,
+    "end-date": 1629298800,
+    "players-required": 4
+  },
+  "tournament-2": {
+    "name": "The Alt Tournament",
+    "start-date": 1631631600,
+    "startText": "September 14th 2021",
+    "end-date": 1633446000,
+    "endText": "October 5th 2021",
     "players-required": 4
   }
 }
