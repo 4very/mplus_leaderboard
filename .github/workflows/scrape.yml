@@ -36,8 +36,7 @@ jobs:
       
     - name: Commit files
       run: |
-        git config user.name 4very
-        git config user.email asommer999@gmail.com
+        git config user.name Scraper
         git add .
         git commit -m "Commit `date +'%Y-%m-%d %H:%M:%S'`" || echo "Nothing to commit"
         git push -f origin main
