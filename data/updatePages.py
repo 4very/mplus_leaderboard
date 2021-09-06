@@ -1,15 +1,11 @@
 import json
 import time
-from datetime import date, timedelta, datetime
-from logging import DEBUG, basicConfig, INFO, root
-from os.path import join, realpath, dirname, exists, isdir
-from os import getcwd, mkdir
-from sys import argv
+from os.path import join, realpath, dirname
+from os import getcwd
 from math import ceil
 
-from updatePage import updateAllColors, updatePage
+from updatePage import updatePage
 from updateGuild import UpdateGuildRoster, UpdateGuildRuns, PrepFolder, updateGuildMeta
-from updateMeta import updateAllMeta
 
 
 
@@ -68,14 +64,5 @@ def updateGuildRoster():
 
 
 
-if __name__ == '__main__':
 
-  if '--info' in argv: 
-    root.setLevel(INFO)
-    basicConfig(level=INFO)
-  elif '--debug' in argv: basicConfig(level=DEBUG)
-  if '--roster' in argv: updateGuildRoster()
-  if '--guild' in argv: updateGuild()
-  if '--meta' in argv: updateAllMeta()
-  if '--pages' in argv: updatePages()
   
