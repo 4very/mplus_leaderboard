@@ -12,12 +12,11 @@
       "faction": "horde",
       "members": [
         "112259843",
-        "189081947",
         "198501487",
         "202264022",
         "203339500"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#a335ee",
       "timeDiff": -288746,
       "percDiff": -0.13367870370370372
@@ -34,12 +33,11 @@
       "faction": "horde",
       "members": [
         "112259843",
-        "189081947",
         "198501487",
         "202264022",
         "203339500"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#8e49ea",
       "timeDiff": 297213,
       "percDiff": 0.1270141025641025
@@ -54,7 +52,12 @@
       "dateCompleted": "2021-08-28T05:51:37.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": ["112259843", "198501487", "202264022", "203339500"],
+      "members": [
+        "112259843",
+        "198501487",
+        "202264022",
+        "203339500"
+      ],
       "count": 4,
       "scoreColor": "#8e49ea",
       "timeDiff": -584266,
@@ -70,8 +73,12 @@
       "dateCompleted": "2021-08-27T05:55:10.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["163279137", "203738573", "217589860", "219403136"],
-      "count": 4,
+      "members": [
+        "163279137",
+        "203738573",
+        "219403136"
+      ],
+      "count": 3,
       "scoreColor": "#e65c82",
       "timeDiff": -338901,
       "percDiff": -0.14482948717948718
@@ -86,8 +93,12 @@
       "dateCompleted": "2021-08-27T04:59:11.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["163279137", "203738573", "217589860", "219403136"],
-      "count": 4,
+      "members": [
+        "163279137",
+        "203738573",
+        "219403136"
+      ],
+      "count": 3,
       "scoreColor": "#e3598b",
       "timeDiff": 7058,
       "percDiff": 0.0030162393162393997
@@ -102,7 +113,12 @@
       "dateCompleted": "2021-08-26T05:57:03.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": ["163279137", "183203691", "217819077", "219403136"],
+      "members": [
+        "163279137",
+        "183203691",
+        "217819077",
+        "219403136"
+      ],
       "count": 4,
       "scoreColor": "#ab38e6",
       "timeDiff": -633082,
@@ -118,7 +134,11 @@
       "dateCompleted": "2021-08-26T05:01:25.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["163279137", "217819077", "219403136"],
+      "members": [
+        "163279137",
+        "217819077",
+        "219403136"
+      ],
       "count": 3,
       "scoreColor": "#d34cac",
       "timeDiff": 229765,
@@ -134,11 +154,15 @@
       "dateCompleted": "2021-08-26T00:35:52.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["163279137", "203738573", "219403136"],
+      "members": [
+        "163279137",
+        "203738573",
+        "219403136"
+      ],
       "count": 3,
       "scoreColor": "#ec6371",
       "timeDiff": -104,
-      "percDiff": -5.7777777777823225e-5
+      "percDiff": -5.7777777777823225e-05
     },
     "6982070": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/6982070-9-spires-of-ascension",
@@ -238,7 +262,10 @@
       "dateCompleted": "2021-08-28T03:58:34.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["178531751", "213555984"],
+      "members": [
+        "178531751",
+        "213555984"
+      ],
       "count": 2,
       "scoreColor": "#e65c82",
       "timeDiff": -338179,
@@ -254,7 +281,11 @@
       "dateCompleted": "2021-08-28T03:12:13.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["178531751", "213555984", "214792237"],
+      "members": [
+        "178531751",
+        "213555984",
+        "214792237"
+      ],
       "count": 3,
       "scoreColor": "#e95f7a",
       "timeDiff": -415725,
@@ -270,7 +301,11 @@
       "dateCompleted": "2021-08-28T02:30:57.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["178531751", "213555984", "214792237"],
+      "members": [
+        "178531751",
+        "213555984",
+        "214792237"
+      ],
       "count": 3,
       "scoreColor": "#e3598b",
       "timeDiff": -79108,
@@ -286,7 +321,11 @@
       "dateCompleted": "2021-08-28T01:52:11.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["178531751", "213555984", "214792237"],
+      "members": [
+        "178531751",
+        "213555984",
+        "214792237"
+      ],
       "count": 3,
       "scoreColor": "#d84fa3",
       "timeDiff": -243775,
@@ -302,7 +341,10 @@
       "dateCompleted": "2021-08-26T04:40:40.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": ["199498006", "220065005"],
+      "members": [
+        "199498006",
+        "220065005"
+      ],
       "count": 2,
       "scoreColor": "#8e49ea",
       "timeDiff": -545849,
@@ -318,7 +360,10 @@
       "dateCompleted": "2021-08-26T03:56:35.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["199498006", "220065005"],
+      "members": [
+        "199498006",
+        "220065005"
+      ],
       "count": 2,
       "scoreColor": "#5c63e3",
       "timeDiff": 355975,
@@ -334,7 +379,10 @@
       "dateCompleted": "2021-08-26T20:21:46.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["217819077", "220278881"],
+      "members": [
+        "217819077",
+        "220278881"
+      ],
       "count": 2,
       "scoreColor": "#e3598b",
       "timeDiff": -64553,
@@ -350,8 +398,12 @@
       "dateCompleted": "2021-08-28T03:58:04.000Z",
       "keyMod": 1,
       "faction": "alliance",
-      "members": ["155866761", "159787507", "183061786", "186030028"],
-      "count": 4,
+      "members": [
+        "155866761",
+        "183061786",
+        "186030028"
+      ],
+      "count": 3,
       "scoreColor": "#9940ec",
       "timeDiff": -104274,
       "percDiff": -0.04238780487804883
@@ -366,7 +418,10 @@
       "dateCompleted": "2021-08-27T22:16:21.000Z",
       "keyMod": 1,
       "faction": "alliance",
-      "members": ["155866761", "159787507"],
+      "members": [
+        "155866761",
+        "159787507"
+      ],
       "count": 2,
       "scoreColor": "#b93dd5",
       "timeDiff": -113280,
@@ -404,7 +459,11 @@
       "dateCompleted": "2021-08-29T03:11:12.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["183421074", "198501487", "218681851"],
+      "members": [
+        "183421074",
+        "198501487",
+        "218681851"
+      ],
       "count": 3,
       "scoreColor": "#0070dd",
       "timeDiff": 257123,
@@ -420,7 +479,10 @@
       "dateCompleted": "2021-08-29T02:28:16.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["183421074", "218681851"],
+      "members": [
+        "183421074",
+        "218681851"
+      ],
       "count": 2,
       "scoreColor": "#0070dd",
       "timeDiff": 405200,
@@ -480,7 +542,11 @@
       "dateCompleted": "2021-08-29T05:03:00.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["189783435", "213555984", "214792237"],
+      "members": [
+        "189783435",
+        "213555984",
+        "214792237"
+      ],
       "count": 3,
       "scoreColor": "#ec6371",
       "timeDiff": -46036,
@@ -496,7 +562,11 @@
       "dateCompleted": "2021-08-29T03:57:16.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["189783435", "213555984", "214792237"],
+      "members": [
+        "189783435",
+        "213555984",
+        "214792237"
+      ],
       "count": 3,
       "scoreColor": "#ec6371",
       "timeDiff": -11426,
@@ -512,7 +582,10 @@
       "dateCompleted": "2021-08-29T03:03:43.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["213555984", "214792237"],
+      "members": [
+        "213555984",
+        "214792237"
+      ],
       "count": 2,
       "scoreColor": "#ee6669",
       "timeDiff": -62699,
@@ -528,7 +601,10 @@
       "dateCompleted": "2021-08-29T02:26:17.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["213555984", "214792237"],
+      "members": [
+        "213555984",
+        "214792237"
+      ],
       "count": 2,
       "scoreColor": "#e65c82",
       "timeDiff": -228976,
@@ -544,7 +620,10 @@
       "dateCompleted": "2021-08-29T01:47:57.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["213555984", "214792237"],
+      "members": [
+        "213555984",
+        "214792237"
+      ],
       "count": 2,
       "scoreColor": "#e3598b",
       "timeDiff": 159976,
@@ -560,7 +639,10 @@
       "dateCompleted": "2021-08-29T01:25:04.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["218681851", "220543124"],
+      "members": [
+        "218681851",
+        "220543124"
+      ],
       "count": 2,
       "scoreColor": "#8351e8",
       "timeDiff": -352167,
@@ -576,7 +658,10 @@
       "dateCompleted": "2021-08-28T04:49:46.000Z",
       "keyMod": 2,
       "faction": "alliance",
-      "members": ["159787507", "186030028"],
+      "members": [
+        "159787507",
+        "186030028"
+      ],
       "count": 2,
       "scoreColor": "#1b73d9",
       "timeDiff": -605160,
@@ -592,7 +677,12 @@
       "dateCompleted": "2021-08-30T00:19:46.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["170323036", "182359738", "201274632", "220022320"],
+      "members": [
+        "170323036",
+        "182359738",
+        "201274632",
+        "220022320"
+      ],
       "count": 4,
       "scoreColor": "#9940ec",
       "timeDiff": -38310,
@@ -608,7 +698,12 @@
       "dateCompleted": "2021-08-29T23:25:58.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["170323036", "182359738", "201274632", "220022320"],
+      "members": [
+        "170323036",
+        "182359738",
+        "201274632",
+        "220022320"
+      ],
       "count": 4,
       "scoreColor": "#9940ec",
       "timeDiff": -122105,
@@ -624,7 +719,10 @@
       "dateCompleted": "2021-08-29T22:11:16.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": ["182099487", "213555984"],
+      "members": [
+        "182099487",
+        "213555984"
+      ],
       "count": 2,
       "scoreColor": "#ab38e6",
       "timeDiff": -570412,
@@ -640,7 +738,10 @@
       "dateCompleted": "2021-08-29T20:58:29.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["182099487", "214792237"],
+      "members": [
+        "182099487",
+        "214792237"
+      ],
       "count": 2,
       "scoreColor": "#8351e8",
       "timeDiff": -514426,
@@ -656,7 +757,12 @@
       "dateCompleted": "2021-08-30T01:23:44.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["170323036", "182359738", "201274632", "220022320"],
+      "members": [
+        "170323036",
+        "182359738",
+        "201274632",
+        "220022320"
+      ],
       "count": 4,
       "scoreColor": "#9940ec",
       "timeDiff": -76026,
@@ -672,8 +778,11 @@
       "dateCompleted": "2021-08-29T22:35:38.000Z",
       "keyMod": 2,
       "faction": "alliance",
-      "members": ["159787507", "190634616", "190679271"],
-      "count": 3,
+      "members": [
+        "190634616",
+        "190679271"
+      ],
+      "count": 2,
       "scoreColor": "#2877d6",
       "timeDiff": -503959,
       "percDiff": -0.2048613821138211
@@ -688,7 +797,12 @@
       "dateCompleted": "2021-08-31T04:59:27.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["112259843", "215947624", "220065005", "220543124"],
+      "members": [
+        "112259843",
+        "215947624",
+        "220065005",
+        "220543124"
+      ],
       "count": 4,
       "scoreColor": "#346cdf",
       "timeDiff": 151180,
@@ -726,7 +840,11 @@
       "dateCompleted": "2021-08-30T05:02:21.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["112259843", "199498006", "220065005"],
+      "members": [
+        "112259843",
+        "199498006",
+        "220065005"
+      ],
       "count": 3,
       "scoreColor": "#7858e6",
       "timeDiff": -155296,
@@ -742,7 +860,12 @@
       "dateCompleted": "2021-08-30T02:01:56.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["170323036", "182359738", "201274632", "220022320"],
+      "members": [
+        "170323036",
+        "182359738",
+        "201274632",
+        "220022320"
+      ],
       "count": 4,
       "scoreColor": "#9940ec",
       "timeDiff": -53849,
@@ -758,8 +881,12 @@
       "dateCompleted": "2021-08-30T06:32:23.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["182359738", "189081947", "189783435", "199951572"],
-      "count": 4,
+      "members": [
+        "182359738",
+        "189081947",
+        "189783435"
+      ],
+      "count": 3,
       "scoreColor": "#a335ee",
       "timeDiff": -272510,
       "percDiff": -0.11952192982456145
@@ -818,7 +945,12 @@
       "dateCompleted": "2021-08-30T04:05:36.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["183248381", "199498006", "201274632", "220581586"],
+      "members": [
+        "183248381",
+        "199498006",
+        "201274632",
+        "220581586"
+      ],
       "count": 4,
       "scoreColor": "#a335ee",
       "timeDiff": -350832,
@@ -834,7 +966,12 @@
       "dateCompleted": "2021-08-30T03:19:45.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": ["183248381", "199498006", "201274632", "220581586"],
+      "members": [
+        "183248381",
+        "199498006",
+        "201274632",
+        "220581586"
+      ],
       "count": 4,
       "scoreColor": "#a335ee",
       "timeDiff": -259687,
@@ -850,8 +987,12 @@
       "dateCompleted": "2021-08-30T05:51:47.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["189081947", "189783435", "199951572", "200973325"],
-      "count": 4,
+      "members": [
+        "189081947",
+        "189783435",
+        "200973325"
+      ],
+      "count": 3,
       "scoreColor": "#9940ec",
       "timeDiff": 64308,
       "percDiff": 0.02977222222222231
@@ -866,11 +1007,56 @@
       "dateCompleted": "2021-08-31T01:28:06.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": ["217819077", "220278881"],
+      "members": [
+        "217819077",
+        "220278881"
+      ],
       "count": 2,
       "scoreColor": "#c543c4",
       "timeDiff": 144805,
       "percDiff": 0.07541927083333344
+    },
+    "7453393": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/7453393-13-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 0,
+      "keystoneLevel": 13,
+      "clearTime": 3896523,
+      "dateCompleted": "2021-08-31T04:38:34.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "members": [
+        "164946113",
+        "183069290",
+        "190634616",
+        "191127360"
+      ],
+      "count": 4,
+      "scoreColor": null,
+      "timeDiff": 1316523,
+      "percDiff": 0.5102802325581395
+    },
+    "7445884": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/7445884-14-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 0,
+      "keystoneLevel": 14,
+      "clearTime": 3534254,
+      "dateCompleted": "2021-08-31T03:18:43.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "members": [
+        "164946113",
+        "175976047",
+        "183069290",
+        "190634616"
+      ],
+      "count": 4,
+      "scoreColor": null,
+      "timeDiff": 1194254,
+      "percDiff": 0.5103649572649573
     }
   }
 }

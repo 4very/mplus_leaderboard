@@ -1556,7 +1556,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 8,
-    "score": 2398.1,
+    "score": 2405.3,
     "scoreColor": "#e3598b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gharakor",
@@ -4796,7 +4796,7 @@
     "classColor": "#0070DD",
     "race": 36,
     "rank": 8,
-    "score": 2026.7,
+    "score": 2028.3,
     "scoreColor": "#8351e8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alakush",
@@ -6488,8 +6488,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 3,
-    "score": 1530.7,
-    "scoreColor": "#599eac",
+    "score": 1676.5,
+    "scoreColor": "#4889c3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sylneda",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sylneda",
@@ -6812,8 +6812,8 @@
     "classColor": "#FFF468",
     "race": 2,
     "rank": 4,
-    "score": 1461.1,
-    "scoreColor": "#5da9a0",
+    "score": 1668.6,
+    "scoreColor": "#4889c3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tit\u00f5",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tit\u00f5",
@@ -7316,7 +7316,7 @@
     "classColor": "#3FC7EB",
     "race": 10,
     "rank": 8,
-    "score": 2385.4,
+    "score": 2392.6,
     "scoreColor": "#e3598b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Miserea",
@@ -10016,8 +10016,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 8,
-    "score": 2433.2,
-    "scoreColor": "#e65c82",
+    "score": 2440.4,
+    "scoreColor": "#e95f7a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fellerosa",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fellerosa",
@@ -10178,8 +10178,8 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 8,
-    "score": 2271.3,
-    "scoreColor": "#cf49b4",
+    "score": 2296,
+    "scoreColor": "#d34cac",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villanka",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villanka",
@@ -11510,8 +11510,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 8,
-    "score": 2334.7,
-    "scoreColor": "#d84fa3",
+    "score": 2341.9,
+    "scoreColor": "#dc539b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerissa",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nerissa",
@@ -11906,7 +11906,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 8,
-    "score": 2045.7,
+    "score": 2057.5,
     "scoreColor": "#8e49ea",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Panz\u00e8r",
@@ -12644,7 +12644,7 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1193.3,
+    "score": 1207.2,
     "scoreColor": "#5ad270",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Bradysr",
@@ -14030,8 +14030,8 @@
     "classColor": "#3FC7EB",
     "race": 7,
     "rank": 8,
-    "score": 2114.9,
-    "scoreColor": "#a335ee",
+    "score": 2132.4,
+    "scoreColor": "#ab38e6",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Demosthanese",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Demosthanese",
@@ -15095,7 +15095,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Spaceleather",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Spaceleather",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Spaceleather",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Spaceleather"
@@ -16100,7 +16100,7 @@
     "classColor": "#3FC7EB",
     "race": 1,
     "rank": 5,
-    "score": 2021.6,
+    "score": 2027.8,
     "scoreColor": "#8351e8",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/S\u00e2nthan",
