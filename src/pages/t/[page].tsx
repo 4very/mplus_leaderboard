@@ -3,6 +3,7 @@ import * as fs from 'fs';
 import path from 'path';
 
 import React from 'react';
+
 import '@fontsource/roboto';
 
 import { Typography } from '@material-ui/core';
@@ -10,6 +11,7 @@ import { DataGrid } from '@material-ui/data-grid';
 import jsonfile from 'jsonfile';
 
 import {
+  TMetaData,
   TPropsType,
   tRunColumns,
   TRunRow,
@@ -20,59 +22,43 @@ import {
 export default function ContentPage(props: TPropsType) {
   return (
     <>
-      <Typography
-        variant="h4"
-        style={{
-          padding: '1%',
-          paddingTop: '5vh',
-          paddingLeft: '3vw',
-          boxSizing: 'border-box',
-          paddingBottom: '0',
-        }}
-      >
-        Dungeon Log:
-      </Typography>
-      <div
-        style={{
-          marginLeft: '4vw',
-          marginTop: '3vh',
-          boxSizing: 'border-box',
-        }}
-      >
+      <div className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border">
+        <Typography variant="h2" className="font-serif">
+          Currently Online
+        </Typography>
+        <div className="sm:pl-2 lg:pl-4">
+          <Typography variant="h4" className="font-serif">
+            {props.metaData.name}
+          </Typography>
+          <Typography variant="h5" className="font-serif mb-3">
+            <span className="">{props.metaData.startText}</span> to{' '}
+            <span className="">{props.metaData.endText}</span>
+          </Typography>
+          <Typography variant="h4" className="mt-8">
+            Dungeon Log:
+          </Typography>
+        </div>
+      </div>
+      <div className="sm:ml-4 lg:ml-10 mt-6 box-border">
         <DataGrid
           rows={props.runRows}
           columns={tRunColumns}
           disableSelectionOnClick
-          hideFooter
           autoHeight
           disableExtendRowFullWidth
         />
       </div>
       <Typography
         variant="h4"
-        style={{
-          padding: '1%',
-          paddingTop: '5vh',
-          paddingLeft: '3vw',
-          boxSizing: 'border-box',
-          paddingBottom: '0',
-        }}
+        className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border"
       >
-        Teams:
+        Roster:
       </Typography>
-      <div
-        style={{
-          marginLeft: '4vw',
-          marginTop: '1vh',
-          marginBottom: '4vh',
-          boxSizing: 'border-box',
-        }}
-      >
+      <div className="sm:ml-4 lg:ml-10 mt-6 box-border">
         <DataGrid
           rows={props.teamRows}
           columns={tTeamColumns}
           disableSelectionOnClick
-          hideFooter
           disableExtendRowFullWidth
           autoHeight
         />
@@ -94,6 +80,7 @@ export async function getStaticProps(context: any) {
     't',
     page
   );
+  const pagesFile = path.join(process.cwd(), 'data', 'pages.json');
 
   // check if page is valid tournament
   // this is already covered by getStaticPaths but this is reassurance
@@ -130,11 +117,15 @@ export async function getStaticProps(context: any) {
     'utf8'
   );
 
+  const metaDataData = await jsonfile.readFile(pagesFile);
+  const metaData: TMetaData = await metaDataData[page];
+
   return {
     props: {
       runRows,
       teamRows,
       upDATE,
+      metaData,
     },
   };
 }

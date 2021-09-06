@@ -12,7 +12,14 @@ import {
 export interface TPropsType {
   runRows: TRunRow[];
   teamRows: TTeamRow[];
+  metaData: TMetaData;
   upDATE: string;
+}
+
+export interface TMetaData {
+  name: string;
+  startText: string;
+  endText: string;
 }
 
 export interface TRunRow {
