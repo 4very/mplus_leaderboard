@@ -16,7 +16,7 @@ import {
   tRunColumns,
   TRunRow,
   tTeamColumns,
-  TTeamRow,
+  TTeamData,
 } from '../../types/tTypes';
 
 export default function ContentPage(props: TPropsType) {
@@ -46,15 +46,33 @@ export default function ContentPage(props: TPropsType) {
           disableSelectionOnClick
           autoHeight
           disableExtendRowFullWidth
+          hideFooter
         />
       </div>
-      <Typography
-        variant="h4"
-        className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border"
-      >
-        Roster:
-      </Typography>
-      <div className="sm:ml-4 lg:ml-10 mt-6 box-border">
+      <div className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border">
+        <Typography variant="h4">Teams:</Typography>
+        <div className="pt-2 sm:pl-2 lg:pl-6 pb-0 box-border">
+          {props.teamData.map((team) => {
+            return (
+              <div className="mb-10" key={team.id}>
+                <Typography variant="h5" className="font-serif">
+                  {team.name}
+                </Typography>
+
+                <div className="sm:ml-4 lg:ml-10 box-border">
+                  <DataGrid
+                    rows={team.players}
+                    columns={tTeamColumns}
+                    disableSelectionOnClick
+                    disableExtendRowFullWidth
+                    autoHeight
+                    hideFooter
+                  />
+                </div>
+              </div>
+            );
+          })}
+          {/* <div className="sm:ml-4 lg:ml-10 mt-6 box-border">
         <DataGrid
           rows={props.teamRows}
           columns={tTeamColumns}
@@ -62,7 +80,10 @@ export default function ContentPage(props: TPropsType) {
           disableExtendRowFullWidth
           autoHeight
         />
+      </div> */}
+        </div>
       </div>
+
       <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
         Last Updated: {props.upDATE} <br />
         Updates on the hour every hour or ping avery#1111 on discord.
@@ -88,17 +109,12 @@ export async function getStaticProps(context: any) {
     return { notFound: true };
   }
 
-  const teamRows: TTeamRow[] = [];
+  const teamData: TTeamData[] = [];
   const teamObj = await jsonfile.readFile(path.join(folderPath, 'teams.json'));
   Object.keys(teamObj).forEach((key) => {
-    teamRows.push({
+    teamData.push({
       id: key,
       ...teamObj[key],
-      tank: teamObj[key].players[0],
-      healer: teamObj[key].players[1],
-      dps1: teamObj[key].players[2],
-      dps2: teamObj[key].players[3],
-      dps3: teamObj[key].players[4],
       runsComplete: 0,
     });
   });
@@ -123,7 +139,7 @@ export async function getStaticProps(context: any) {
   return {
     props: {
       runRows,
-      teamRows,
+      teamData,
       upDATE,
       metaData,
     },

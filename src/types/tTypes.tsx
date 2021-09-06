@@ -1,17 +1,19 @@
 import {
+  addFaction,
+  classColorRender,
   compareDate,
+  Links,
+  linksRender,
   percentToString,
   runScoreRender,
   strToDate,
   strtolink,
-  teamScoreRender,
   timeToString,
-  usernameToLink,
 } from './funcs';
 
 export interface TPropsType {
   runRows: TRunRow[];
-  teamRows: TTeamRow[];
+  teamData: TTeamData[];
   metaData: TMetaData;
   upDATE: string;
 }
@@ -35,75 +37,84 @@ export interface TRunRow {
   keyMod: number;
 }
 
-export interface TTeamRow {
+export interface TTeamData {
   id: string;
-  team: string;
+  name: string;
   runsCompleted: number;
   score: number;
-  tank: string;
-  healer: string;
-  dps1: string;
-  dps2: string;
-  dps3: string;
+  players: TPlayerRow[];
+  scoreColor: string;
+}
+
+export interface TPlayerRow {
+  id: string;
+  faction: string;
+  name: string;
+  realm: string;
+  className: string;
+  classColor: string;
+  rank: string;
+  score: number;
+  links: Links;
   scoreColor: string;
 }
 
 export const tTeamColumns = [
   {
     field: 'id',
-    headerName: '#',
-    width: 70,
     type: 'number',
+    hide: true,
+  },
+  {
+    field: 'name',
+    headerName: 'Name',
+    width: 200,
+    renderCell: addFaction,
+  },
+  {
+    field: 'faction',
+    headerName: 'Faction',
+    width: 150,
+    hide: true,
+  },
+  {
+    field: 'level',
+    headerName: 'Level',
+    width: 70,
+    disableColumnMenu: true,
+    sortable: false,
+    hide: true,
+  },
+  {
+    field: 'className',
+    headerName: 'Class',
+    width: 200,
+    renderCell: classColorRender,
+  },
+  {
+    field: 'rank',
+    headerName: 'Rank',
+    width: 200,
+    hide: true,
+  },
+  {
+    field: 'score',
+    headerName: 'R.IO Score',
+    width: 150,
+    renderCell: runScoreRender,
+  },
+  {
+    field: 'ilvl',
+    headerName: 'Gear Score',
+    width: 110,
     disableColumnMenu: true,
     sortable: false,
   },
   {
-    field: 'name',
-    headerName: 'Team Name',
-    width: 500,
-  },
-  {
-    field: 'runsCompleted',
-    headerName: 'Runs',
-    width: 120,
-    type: 'number',
-  },
-  {
-    field: 'score',
-    headerName: 'Team Score',
-    width: 200,
-    type: 'number',
-    renderCell: teamScoreRender,
-  },
-  {
-    field: 'tank',
-    headerName: 'Tank',
-    width: 200,
-    renderCell: usernameToLink,
-  },
-  {
-    field: 'healer',
-    headerName: 'Healer',
-    width: 200,
-    renderCell: usernameToLink,
-  },
-  {
-    field: 'dps1',
-    headerName: 'DPS',
-    width: 200,
-    renderCell: usernameToLink,
-  },
-  {
-    field: 'dps2',
-    headerName: 'DPS',
-    width: 200,
-    renderCell: usernameToLink,
-  },
-  {
-    field: 'dps3',
-    headerName: 'DPS',
-    width: 200,
-    renderCell: usernameToLink,
+    field: 'links',
+    headerName: 'Links',
+    width: 170,
+    renderCell: linksRender,
   },
 ];
 

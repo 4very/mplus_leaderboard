@@ -126,7 +126,7 @@ export const addFaction = (params: GridCellParams) => (
     <img
       className="w-6 h-8 self-center mr-2"
       title="Faction"
-      src={`/images/${params.row.faction}.png`}
+      src={`/images/${params.row.faction.toLowerCase()}.png`}
       alt=""
     />
     {params.value}

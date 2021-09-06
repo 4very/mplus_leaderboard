@@ -51,6 +51,23 @@ def getCredentials():
     return
   return (environ.get('WOW_CLIENT_ID'),environ.get('WOW_CLIENT_SECRET'))
 
+def WOW_GetCharData(name, realm):
+  url = f'https://us.api.blizzard.com/profile/wow/character/{realm}/{name}'
+
+  querystring = {"namespace":"profile-us","locale":"en_US","access_token":getAccessToken()}
+
+  payload = ""
+  response = request("GET", url, data=payload, params=querystring)
+
+  try: data = loads(response.text)
+  except: 
+    warn("Cannot get WOW Roster Data")
+    sleep(30)
+    return getRoster(name, realm)
+
+  return data
+
+
 
 if __name__ == '__main__':
-  print(WOW_getGuildRoster())
+  print(WOW_GetCharData('asteraoth','illidan'))
