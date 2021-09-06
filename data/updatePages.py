@@ -50,7 +50,6 @@ def updateGuild():
   rosterFile = join(rootFolder,'roster.json')
 
   updateGuildMeta(rootFolder,weekNumber)
-  UpdateGuildRoster(rosterFile)
 
   lastWeekFolder = join(rootFolder,str(lastWeekNumber))
   PrepFolder(lastWeekFolder, lastWeekStartDate, lastWeekEndDate, lastWeekNumber)
@@ -62,6 +61,10 @@ def updateGuild():
   
   return
 
+def updateGuildRoster():
+    rosterFile = join(__location__,'pages','g','roster.json')
+    UpdateGuildRoster(rosterFile)
+
 
 
 
@@ -71,6 +74,7 @@ if __name__ == '__main__':
     root.setLevel(INFO)
     basicConfig(level=INFO)
   elif '--debug' in argv: basicConfig(level=DEBUG)
+  if '--roster' in argv: updateGuildRoster()
   if '--guild' in argv: updateGuild()
   if '--meta' in argv: updateAllMeta()
   if '--pages' in argv: updatePages()
