@@ -890,8 +890,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 4,
-    "score": 2102.7,
-    "scoreColor": "#7957e7",
+    "score": 2124.6,
+    "scoreColor": "#884ee9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptpally",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corruptpally",
@@ -2924,8 +2924,8 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 8,
-    "score": 2073.7,
-    "scoreColor": "#695ee4",
+    "score": 2096.2,
+    "scoreColor": "#7957e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tit\u00f4",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tit\u00f4",
@@ -4976,8 +4976,8 @@
     "classColor": "#C41E3A",
     "race": 10,
     "rank": 4,
-    "score": 2040,
-    "scoreColor": "#3b6bdf",
+    "score": 2070.7,
+    "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Seracide",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Seracide",
@@ -6812,8 +6812,8 @@
     "classColor": "#FFF468",
     "race": 2,
     "rank": 4,
-    "score": 1668.6,
-    "scoreColor": "#599dad",
+    "score": 1754.9,
+    "scoreColor": "#4f8fbc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tit\u00f5",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tit\u00f5",
@@ -11906,8 +11906,8 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 8,
-    "score": 2057.5,
-    "scoreColor": "#5565e2",
+    "score": 2073,
+    "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Panz\u00e8r",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Panz\u00e8r",
@@ -12071,7 +12071,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -17709,24 +17709,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Naturestoy",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Naturestoy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Naturestoy"
-    }
-  },
-  "191126856": {
-    "name": "Baartzabell",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 22,
-    "rank": 9,
-    "score": 66.2,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Baartzabell",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Baartzabell",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Baartzabell",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Baartzabell"
     }
   },
   "191127360": {
