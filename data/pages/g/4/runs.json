@@ -159,10 +159,11 @@
       "keyMod": 1,
       "faction": "horde",
       "members": [
+        "178531751",
         "213555984",
         "214792237"
       ],
-      "count": 2,
+      "count": 3,
       "scoreColor": "#da519e",
       "timeDiff": -252364,
       "percDiff": -0.10784786324786322
