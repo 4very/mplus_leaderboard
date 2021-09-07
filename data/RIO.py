@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 import json
-from logging import warn
+from logging import root, warn
 from re import findall
 
 def RIO_GetCharData(name: str, realm, fields: str = ""):
@@ -57,6 +57,7 @@ def RIO_GetColorData():
     sleep(30)
     return RIO_GetColorData()
   
+  root.warn(data)
   return data
 
 def RIO_GetCharRankings(name,realm):

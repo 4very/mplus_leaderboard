@@ -2,7 +2,7 @@
 import * as fs from 'fs';
 import path from 'path';
 
-import React from 'react';
+import * as React from 'react';
 import '@fontsource/roboto';
 
 import { Typography } from '@material-ui/core';
