@@ -12,6 +12,13 @@ def RIO_GetCharData(name: str, realm, fields: str = ""):
   payload = ""
   response = requests.request("GET", url, data=payload, params=querystring)
 
+  if response.status_code != 200:
+    if response.status_code == 400: return {}
+    warn(f'Error code: {response.status_code} with response {response.text}')
+    if response.status_code in [429, 502]: 
+      sleep(30)
+      return RIO_GetCharData(name, realm, fields)
+
   try: data = json.loads(response.text)
   except: 
     warn("Cannot get RIO Char data")
@@ -51,14 +58,23 @@ def RIO_GetColorData():
   payload = ""
   response = requests.request("GET", url, data=payload)
 
+  if error(response): return RIO_GetColorData()
+
   try: data = json.loads(response.text)
   except: 
     warn("Cannot get RIO color data")
     sleep(30)
     return RIO_GetColorData()
   
-  root.warn(data)
   return data
 
 def RIO_GetCharRankings(name,realm):
   return RIO_GetCharData(name, realm, 'mythic_plus_scores_by_season:current')
+
+
+def error(response):
+  if response.status_code != 200:
+    warn(f'Error code: {response.status_code} with response {response.text}')
+    sleep(30)
+    return True
+  return False

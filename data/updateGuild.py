@@ -34,7 +34,6 @@ def UpdateGuildRoster(rosterfile):
         rio_score = rio_data['mythic_plus_scores_by_season'][0]['scores']['all']
         rio_scoreColor = getColorForScore(rio_score)
       except:
-        root.warn(rio_data)
         rio_link = None
         rio_score = 0
         rio_scoreColor = '#ffffff'
