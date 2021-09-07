@@ -29,16 +29,14 @@ def UpdateGuildRoster(rosterfile):
 
       rio_data = RIO_GetCharRankings(name,realm)
       
-      if 'statusCode' not in rio_data.keys():
+      try: 
         rio_link = rio_data['profile_url']
         rio_score = rio_data['mythic_plus_scores_by_season'][0]['scores']['all']
         rio_scoreColor = getColorForScore(rio_score)
-      else: 
+      except:
         rio_link = None
         rio_score = 0
         rio_scoreColor = '#ffffff'
-        
-
 
       writeObj[char['id']] = {
         'name': name,
