@@ -17764,5 +17764,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashkrael",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashkrael"
     }
+  },
+  "191166125": {
+    "name": "Kiy\u00e2m",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Kiy\u00e2m",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kiy\u00e2m",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kiy\u00e2m",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kiy\u00e2m"
+    }
   }
 }
