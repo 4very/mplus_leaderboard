@@ -12149,6 +12149,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ragingmeat"
     }
   },
+  "219367561": {
+    "name": "Selexxa",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 10,
+    "rank": 9,
+    "score": 369.2,
+    "scoreColor": "#e6ffdb",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Selexxa",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Selexxa",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Selexxa",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Selexxa"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
