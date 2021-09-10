@@ -17530,5 +17530,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kiy\u00e2m",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kiy\u00e2m"
     }
+  },
+  "163498263": {
+    "name": "Puunjii",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Puunjii",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Puunjii",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Puunjii",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Puunjii"
+    }
   }
 }
