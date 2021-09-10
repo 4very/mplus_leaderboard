@@ -5388,7 +5388,7 @@
     "class": 2,
     "className": "Paladin",
     "classColor": "#F48CBA",
-    "race": 31,
+    "race": 6,
     "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
@@ -8849,7 +8849,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12129,6 +12129,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Stonkula",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Stonkula",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Stonkula"
+    }
+  },
+  "220697684": {
+    "name": "Ragingmeat",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ragingmeat",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ragingmeat",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ragingmeat"
     }
   },
   "989898": {
