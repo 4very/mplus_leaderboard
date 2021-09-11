@@ -75,6 +75,64 @@
       "scoreColor": "#b0ff97",
       "timeDiff": -106582,
       "percDiff": -0.04800990990990994
+    },
+    "8484826": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8484826-21-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 150,
+      "keystoneLevel": 21,
+      "clearTime": 2346689,
+      "dateCompleted": "2021-09-11T02:17:13.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "178531751",
+        "213555984",
+        "214792237"
+      ],
+      "count": 3,
+      "scoreColor": "#d64ea6",
+      "timeDiff": 6689,
+      "percDiff": 0.00285854700854693
+    },
+    "8486217": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8486217-6-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 70,
+      "keystoneLevel": 6,
+      "clearTime": 1087891,
+      "dateCompleted": "2021-09-11T02:47:55.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "members": [
+        "190562532",
+        "214392521"
+      ],
+      "count": 2,
+      "scoreColor": "#3bf436",
+      "timeDiff": -832109,
+      "percDiff": -0.4333901041666667
+    },
+    "8485161": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8485161-2-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 43.6,
+      "keystoneLevel": 2,
+      "clearTime": 1660737,
+      "dateCompleted": "2021-09-11T02:44:16.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "members": [
+        "219851220",
+        "219367561"
+      ],
+      "count": 2,
+      "scoreColor": "#a5ff8b",
+      "timeDiff": -679263,
+      "percDiff": -0.29028333333333334
     }
   }
 }

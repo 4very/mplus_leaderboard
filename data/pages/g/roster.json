@@ -242,7 +242,7 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 9,
-    "score": 1877.2,
+    "score": 1881.9,
     "scoreColor": "#397ece",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pikin",
@@ -2294,7 +2294,7 @@
     "classColor": "#FFFFFF",
     "race": 9,
     "rank": 9,
-    "score": 2313.4,
+    "score": 2319.8,
     "scoreColor": "#c442c6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Notouchey",
@@ -4652,8 +4652,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 492.1,
-    "scoreColor": "#cfffbc",
+    "score": 527.1,
+    "scoreColor": "#c5ffb0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zito",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zito",
@@ -8144,8 +8144,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 4,
-    "score": 907.8,
-    "scoreColor": "#66ff4a",
+    "score": 944.3,
+    "scoreColor": "#5cff41",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Bernice",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bernice",
@@ -11618,8 +11618,8 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 230.1,
-    "scoreColor": "#fbfff9",
+    "score": 295.6,
+    "scoreColor": "#f3ffed",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villsaya",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villsaya",
@@ -12158,8 +12158,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 369.2,
-    "scoreColor": "#e6ffdb",
+    "score": 391,
+    "scoreColor": "#e1ffd5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Selexxa",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Selexxa",
@@ -17583,6 +17583,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Puunjii",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Puunjii",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Puunjii"
+    }
+  },
+  "188445466": {
+    "name": "Vesprlol",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vesprlol",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vesprlol",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vesprlol"
     }
   }
 }
