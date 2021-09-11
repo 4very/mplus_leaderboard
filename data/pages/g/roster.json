@@ -854,7 +854,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 8,
-    "score": 2150.1,
+    "score": 2151.6,
     "scoreColor": "#9643ec",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/R\u00e9nshi",
@@ -6812,7 +6812,7 @@
     "classColor": "#AAD372",
     "race": 8,
     "rank": 8,
-    "score": 2100.5,
+    "score": 2100.9,
     "scoreColor": "#7957e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/D\u00f6m",
@@ -10385,24 +10385,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Laharyth"
     }
   },
-  "218264926": {
-    "name": "Darktsunade",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 8,
-    "score": 1162.6,
-    "scoreColor": "#46ec47",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Darktsunade",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Darktsunade",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Darktsunade",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Darktsunade"
-    }
-  },
   "218265131": {
     "name": "Jouil",
     "realm": "illidan",
@@ -11960,7 +11942,7 @@
     "classColor": "#8788EE",
     "race": 2,
     "rank": 8,
-    "score": 2026.5,
+    "score": 2032.9,
     "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Grogabusk",
@@ -12581,24 +12563,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Therimreepr"
     }
   },
-  "93535668": {
-    "name": "Sh\u00eeftycent",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Sh\u00eeftycent",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sh\u00eeftycent",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sh\u00eeftycent",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sh\u00eeftycent"
-    }
-  },
   "95055565": {
     "name": "Hallelujaahh",
     "realm": "sargeras",
@@ -12759,24 +12723,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ruee",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ruee",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ruee"
-    }
-  },
-  "97838501": {
-    "name": "Khay",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Khay",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Khay",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Khay",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Khay"
     }
   },
   "99145481": {
@@ -14201,24 +14147,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Thundertotes"
     }
   },
-  "160458151": {
-    "name": "Superfuzz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Superfuzz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Superfuzz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Superfuzz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Superfuzz"
-    }
-  },
   "161045886": {
     "name": "Flippyflops",
     "realm": "sargeras",
@@ -14915,7 +14843,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/sargeras/Spaceleather",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Spaceleather",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Spaceleather",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Spaceleather"
@@ -17417,7 +17345,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/sargeras/Pikamein",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Pikamein",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Pikamein",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Pikamein"
@@ -17583,6 +17511,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Puunjii",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Puunjii",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Puunjii"
+    }
+  },
+  "191254048": {
+    "name": "Mechalipz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 37,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Mechalipz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mechalipz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mechalipz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalipz"
     }
   },
   "188445466": {
