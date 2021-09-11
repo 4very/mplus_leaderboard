@@ -194,6 +194,25 @@
       "scoreColor": "#54dd60",
       "timeDiff": -447700,
       "percDiff": -0.24872222222222218
+    },
+    "8490227": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8490227-9-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 87.4,
+      "keystoneLevel": 9,
+      "clearTime": 2085715,
+      "dateCompleted": "2021-09-11T03:35:15.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "190562532",
+        "214392521"
+      ],
+      "count": 2,
+      "scoreColor": "#5ec67e",
+      "timeDiff": -494285,
+      "percDiff": -0.19158333333333333
     }
   }
 }
