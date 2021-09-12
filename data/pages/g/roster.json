@@ -2861,6 +2861,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=\u00d0athos"
     }
   },
+  "183178637": {
+    "name": "Meliod\u00e1s",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Meliod\u00e1s",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meliod\u00e1s",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meliod\u00e1s",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meliod\u00e1s"
+    }
+  },
   "183178712": {
     "name": "Thundrz",
     "realm": "illidan",
@@ -12149,6 +12167,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ragingmeat"
     }
   },
+  "184500657": {
+    "name": "Alathanar",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Alathanar",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alathanar",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Alathanar",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Alathanar"
+    }
+  },
   "219367561": {
     "name": "Selexxa",
     "realm": "illidan",
@@ -13065,6 +13101,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Warkor",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Warkor",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Warkor"
+    }
+  },
+  "136075018": {
+    "name": "Zubaladin",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Zubaladin",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zubaladin",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Zubaladin",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zubaladin"
     }
   },
   "136281301": {
