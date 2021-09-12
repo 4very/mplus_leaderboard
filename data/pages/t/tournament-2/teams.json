@@ -123,7 +123,9 @@
         }
       }
     ],
-    "score": 0
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "avgilvl": 128.2
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -248,7 +250,10 @@
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Likkota"
         }
       }
-    ]
+    ],
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "avgilvl": 105.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -373,6 +378,9 @@
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Notouchey"
         }
       }
-    ]
+    ],
+    "score": 2573.0,
+    "scoreColor": "#b0ff97",
+    "avgilvl": 164.8
   }
 }
