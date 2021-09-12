@@ -5,11 +5,14 @@ import path from 'path';
 import * as React from 'react';
 import '@fontsource/roboto';
 
-import { Typography } from '@material-ui/core';
-import { DataGrid, GridSortModel } from '@material-ui/data-grid';
 import jsonfile from 'jsonfile';
-import Link from 'next/link';
 
+import Dungeons from '../../components/dungeons';
+import Roster from '../../components/g/roster';
+import WeekNav from '../../components/g/weekNav';
+import HeaderBase from '../../components/misc/headerBase';
+import Indent from '../../components/misc/indent';
+import UpdateText from '../../components/update';
 import {
   GuildMetaData,
   GuildPageMetaData,
@@ -21,84 +24,25 @@ import {
 } from '../../types/gTypes';
 
 export default function GuildPage(props: GuildPropsType) {
-  const [sortModel, setSortModel] = React.useState<GridSortModel>([
-    {
-      field: 'score',
-      sort: 'desc',
-    },
-  ]);
-
   return (
-    <>
-      <div className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border">
-        <Typography variant="h2" className="font-serif">
-          Currently Online
-        </Typography>
-        <div className="sm:pl-2 lg:pl-4">
-          <Typography variant="h4" className="font-serif">
-            Weekly Guild Leaderboard
-          </Typography>
-          <Typography variant="h5" className="font-serif mb-3">
-            <span className="">{props.pageMetaData.start}</span> to{' '}
-            <span className="">{props.pageMetaData.end}</span>
-          </Typography>
-          <Typography variant="h6" className="font-sans">
-            {props.pageMetaData.prevLink && (
-              <Link href={`/g/${props.pageMetaData.num - 1}`}>
-                {'<< Previous Week'}
-              </Link>
-            )}
-
-            {props.pageMetaData.prevLink && props.pageMetaData.nextLink && (
-              <div className="w-10 inline-block" />
-            )}
-
-            {props.pageMetaData.nextLink && (
-              <Link href={`/g/${props.pageMetaData.num + 1}`}>
-                {'Next Week >>'}
-              </Link>
-            )}
-          </Typography>
-          <Typography variant="h4" className="mt-8">
-            Dungeon Log:
-          </Typography>
-        </div>
-      </div>
-      <div className="sm:ml-4 lg:ml-10 mt-6 box-border">
-        <DataGrid
-          rows={props.runRows}
-          columns={GuildRunColumns}
-          disableSelectionOnClick
-          autoHeight
-          disableExtendRowFullWidth
-          sortModel={sortModel}
-          onSortModelChange={(model) => setSortModel(model)}
-          pageSize={25}
-        />
-      </div>
-      <Typography
-        variant="h4"
-        className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border"
+    <Indent>
+      <HeaderBase
+        dateFrom={props.pageMetaData.start}
+        dateTo={props.pageMetaData.end}
+        name="Weekly Guild Leaderboard"
       >
-        Roster:
-      </Typography>
-      <div className="sm:ml-4 lg:ml-10 mt-6 box-border">
-        <DataGrid
-          rows={props.rosterRows}
-          columns={GuildRosterColumns}
-          disableSelectionOnClick
-          disableExtendRowFullWidth
-          autoHeight
-          sortModel={sortModel}
-          onSortModelChange={(model) => setSortModel(model)}
-          pageSize={50}
+        <WeekNav
+          currNum={props.pageMetaData.num}
+          nextLink={props.pageMetaData.nextLink}
+          prevLink={props.pageMetaData.prevLink}
         />
-      </div>
-      <Typography variant="subtitle1" align="right" style={{ padding: '20px' }}>
-        Last Updated: {props.upDATE} <br />
-        Updates on the hour every hour or ping avery#1111 on discord.
-      </Typography>
-    </>
+      </HeaderBase>
+      <Indent>
+        <Dungeons runData={props.runRows} columns={GuildRunColumns} />
+        <Roster rosterRows={props.rosterRows} columns={GuildRosterColumns} />
+      </Indent>
+      <UpdateText text={props.upDATE} />
+    </Indent>
   );
 }
 
