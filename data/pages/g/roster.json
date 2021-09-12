@@ -8867,7 +8867,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11834,8 +11834,8 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 3,
-    "score": 2069.4,
-    "scoreColor": "#5565e2",
+    "score": 2072,
+    "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Theor\u00eeze",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Theor\u00eeze",
@@ -11855,7 +11855,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
