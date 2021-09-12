@@ -1,4 +1,6 @@
 import {
+  addClass,
+  addCov,
   addFaction,
   addRole,
   classColorRender,
@@ -58,6 +60,7 @@ export interface TPlayerRow {
   score: number;
   links: Links;
   scoreColor: string;
+  team: string;
 }
 
 export const tTeamColumns = [
@@ -184,5 +187,112 @@ export const tRunColumns = [
     width: 150,
     type: 'number',
     hide: true,
+  },
+];
+
+export const TournTeamDetails = [
+  {
+    field: 'id',
+    type: 'number',
+    hide: true,
+  },
+  {
+    field: 'team',
+    headerName: 'Team',
+    width: 90,
+    headerClassName: 'pr-0',
+    sortable: false,
+    align: 'left',
+    renderCell: addFaction,
+  },
+  {
+    field: 'role',
+    headerName: 'Role',
+    width: 50,
+    renderCell: addRole,
+    headerClassName: 'pr-0',
+    sortable: false,
+  },
+  {
+    field: 'className',
+    headerName: 'Class',
+    width: 60,
+    renderCell: addClass,
+    sortable: false,
+  },
+  {
+    field: 'covenant',
+    headerName: 'Cov',
+    width: 40,
+    headerClassName: 'pr-0',
+    renderCell: addCov,
+    sortable: false,
+  },
+  {
+    field: 'name',
+    headerName: 'Name',
+    width: 130,
+    renderCell: classColorRender,
+    headerClassName: 'pr-0',
+    sortable: false,
+  },
+  {
+    field: 'faction',
+    headerName: 'Faction',
+    width: 150,
+    hide: true,
+    headerClassName: 'pr-0',
+    sortable: false,
+  },
+  {
+    field: 'level',
+    headerName: 'Level',
+    width: 60,
+    headerClassName: 'pr-0',
+    sortable: false,
+    align: 'center',
+  },
+
+  {
+    field: 'rank',
+    headerName: 'Rank',
+    width: 200,
+    hide: true,
+    headerClassName: 'pr-0',
+    sortable: false,
+  },
+  {
+    field: 'score',
+    headerName: 'Score',
+    width: 60,
+    renderCell: runScoreRender,
+    headerClassName: 'pr-0',
+    sortable: false,
+    align: 'center',
+  },
+  {
+    field: 'ilvl',
+    headerName: 'ilvl',
+    width: 40,
+    headerClassName: 'pr-0',
+    sortable: false,
+    align: 'center',
+  },
+  {
+    field: 'renown',
+    headerName: 'Renown',
+    width: 75,
+    headerClassName: 'pr-0',
+    sortable: false,
+    align: 'center',
+  },
+  {
+    field: 'links',
+    headerName: 'Links',
+    width: 150,
+    renderCell: linksRender,
+    hide: false,
+    headerClassName: 'pr-0',
+    sortable: false,
   },
 ];

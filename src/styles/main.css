@@ -90,3 +90,11 @@ a{
 .MuiDataGrid-footerContainer > div:nth-child(1) {
   @apply hidden !important
 }
+
+.MuiButton-text {
+  @apply text-blue-400 !important
+}
+
+.MuiDataGrid-columnHeaderTitleContainer {
+  @apply p-0 !important
+}

@@ -136,8 +136,29 @@ export const addFaction = (params: GridCellParams) => (
 export const addRole = (params: GridCellParams) => (
   <img
     className="w-8 h-8 self-center block ml-auto mr-auto"
-    title="Faction"
+    title="Role"
     src={`/images/${params.row.role.toLowerCase()}.png`}
+    alt=""
+  />
+);
+export const addCov = (params: GridCellParams) => (
+  <img
+    className="max-h-10 self-center block ml-auto mr-auto"
+    title="Covenant"
+    src={
+      params.row.covenant
+        ? `/images/${params.row.covenant.toLowerCase()}.webp`
+        : ''
+    }
+    alt=""
+  />
+);
+
+export const addClass = (params: GridCellParams) => (
+  <img
+    className="max-h-8 self-center block ml-auto mr-auto"
+    title="Covenant"
+    src={`/images/${params.value.toString().toLowerCase()}.webp`}
     alt=""
   />
 );

@@ -1,51 +1,7 @@
 {
-  "Team 1": {
+  "meat": {
     "name": "meat",
     "players": [
-      {
-        "id": 220696049,
-        "name": "Meatspear",
-        "realm": "Illidan",
-        "role": "Damage",
-        "faction": "Horde",
-        "class": 3,
-        "className": "Hunter",
-        "classColor": "#AAD372",
-        "race": 27,
-        "level": 59,
-        "title": "Meatspear",
-        "ilvl": 125,
-        "score": 0,
-        "scoreColor": "#ffffff",
-        "links": {
-          "rio": "https://raider.io/characters/us/illidan/Meatspear",
-          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
-          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Meatspear",
-          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Meatspear"
-        }
-      },
-      {
-        "id": 125290639,
-        "name": "Meatshocks",
-        "realm": "Illidan",
-        "role": "Heal",
-        "faction": "Horde",
-        "class": 2,
-        "className": "Paladin",
-        "classColor": "#F48CBA",
-        "race": 6,
-        "level": 58,
-        "title": "Starcaller Meatshocks",
-        "ilvl": 114,
-        "score": 0,
-        "scoreColor": "#ffffff",
-        "links": {
-          "rio": "https://raider.io/characters/us/illidan/Meatshocks",
-          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
-          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Meatshocks",
-          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Meatshocks"
-        }
-      },
       {
         "id": 220696413,
         "name": "Fingermeat",
@@ -61,11 +17,61 @@
         "ilvl": 129,
         "score": 0,
         "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 1,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
           "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Fingermeat",
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Fingermeat"
+        }
+      },
+      {
+        "id": 125290639,
+        "name": "Meatshocks",
+        "realm": "Illidan",
+        "role": "Heal",
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 6,
+        "level": 59,
+        "title": "Starcaller Meatshocks",
+        "ilvl": 116,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Meatshocks",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Meatshocks",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Meatshocks"
+        }
+      },
+      {
+        "id": 220696049,
+        "name": "Meatspear",
+        "realm": "Illidan",
+        "role": "Damage",
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 27,
+        "level": 59,
+        "title": "Meatspear",
+        "ilvl": 126,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 4,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Meatspear",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Meatspear",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Meatspear"
         }
       },
       {
@@ -83,6 +89,8 @@
         "ilvl": 136,
         "score": 0,
         "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 1,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
@@ -105,6 +113,8 @@
         "ilvl": 134,
         "score": 0,
         "scoreColor": "#ffffff",
+        "covenant": "Necrolord",
+        "renown": 1,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -114,5 +124,255 @@
       }
     ],
     "score": 0
+  },
+  "WSF2T": {
+    "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
+    "players": [
+      {
+        "name": "Palabusk",
+        "realm": "Illidan",
+        "role": "Tank",
+        "id": 220686029,
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 6,
+        "level": 56,
+        "title": "Palabusk",
+        "ilvl": 115,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Palabusk",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Palabusk",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Palabusk"
+        }
+      },
+      {
+        "name": "Zantano",
+        "realm": "Illidan",
+        "role": "Heal",
+        "id": 200481493,
+        "faction": "Horde",
+        "class": 7,
+        "className": "Shaman",
+        "classColor": "#0070DD",
+        "race": 35,
+        "level": 51,
+        "title": "Zantano, Storm's End",
+        "ilvl": 119,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Zantano",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Zantano",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Zantano"
+        }
+      },
+      {
+        "name": "Serakiri",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 220687476,
+        "faction": "Horde",
+        "class": 9,
+        "className": "Warlock",
+        "classColor": "#8788EE",
+        "race": 35,
+        "level": 59,
+        "title": "Serakiri",
+        "ilvl": 125,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Serakiri",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Serakiri",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Serakiri"
+        }
+      },
+      {
+        "name": "Procuts",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 220687025,
+        "faction": "Horde",
+        "class": 4,
+        "className": "Rogue",
+        "classColor": "#FFF468",
+        "race": 35,
+        "level": 41,
+        "title": "Procuts",
+        "ilvl": 44,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": null,
+        "renown": null,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Procuts",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Procuts",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Procuts"
+        }
+      },
+      {
+        "name": "Likkota",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 189860301,
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 35,
+        "level": 59,
+        "title": "Likkota the Patient",
+        "ilvl": 124,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Likkota",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Likkota",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Likkota"
+        }
+      }
+    ]
+  },
+  "TTC": {
+    "name": "Thunderclap Them Cheeks",
+    "players": [
+      {
+        "name": "Mysphux",
+        "realm": "Illidan",
+        "role": "Tank",
+        "id": 200029279,
+        "faction": "Horde",
+        "class": 1,
+        "className": "Warrior",
+        "classColor": "#C69B6D",
+        "race": 36,
+        "level": 57,
+        "title": "Titanslayer Mysphux",
+        "ilvl": 129,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Mysphux",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Mysphux",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Mysphux"
+        }
+      },
+      {
+        "name": "Cylonbruiser",
+        "realm": "Illidan",
+        "role": "Heal",
+        "id": 196071313,
+        "faction": "Horde",
+        "class": 11,
+        "className": "Druid",
+        "classColor": "#FF7C0A",
+        "race": 8,
+        "level": 60,
+        "title": "Darkspear Revolutionary Cylonbruiser",
+        "ilvl": 233,
+        "score": 245.8,
+        "scoreColor": "#fbfff9",
+        "covenant": "Night Fae",
+        "renown": 63,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Cylonbruiser",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonbruiser",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Cylonbruiser",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Cylonbruiser"
+        }
+      },
+      {
+        "name": "Corruptshock",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 220096665,
+        "faction": "Horde",
+        "class": 7,
+        "className": "Shaman",
+        "classColor": "#0070DD",
+        "race": 31,
+        "level": 56,
+        "title": "Corruptshock the Exalted",
+        "ilvl": 105,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Necrolord",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Corruptshock",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Corruptshock",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Corruptshock"
+        }
+      },
+      {
+        "name": "Gobsanity",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 168583004,
+        "faction": "Horde",
+        "class": 7,
+        "className": "Shaman",
+        "classColor": "#0070DD",
+        "race": 9,
+        "level": 57,
+        "title": "Talon King Gobsanity",
+        "ilvl": 110,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Gobsanity",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Gobsanity",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Gobsanity"
+        }
+      },
+      {
+        "name": "Notouchey",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 178531751,
+        "faction": "Horde",
+        "class": 5,
+        "className": "Priest",
+        "classColor": "#FFFFFF",
+        "race": 9,
+        "level": 60,
+        "title": "Notouchey",
+        "ilvl": 247,
+        "score": 2327.2,
+        "scoreColor": "#c945be",
+        "covenant": "Kyrian",
+        "renown": 65,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Notouchey",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Notouchey",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Notouchey",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Notouchey"
+        }
+      }
+    ]
   }
 }
