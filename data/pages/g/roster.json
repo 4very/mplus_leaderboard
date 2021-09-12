@@ -62,7 +62,7 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 4,
-    "score": 1822.4,
+    "score": 1839.4,
     "scoreColor": "#4485c7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerotth",
@@ -6470,7 +6470,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 2104.9,
+    "score": 2111.4,
     "scoreColor": "#7957e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Jidanbo",
@@ -12068,8 +12068,8 @@
     "classColor": "#00FF98",
     "race": 35,
     "rank": 9,
-    "score": 2043.9,
-    "scoreColor": "#3b6bdf",
+    "score": 2050.4,
+    "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Chirei",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Chirei",
@@ -14843,7 +14843,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Spaceleather",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Spaceleather",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Spaceleather",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Spaceleather"
@@ -17345,7 +17345,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Pikamein",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Pikamein",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Pikamein",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Pikamein"
