@@ -1,0 +1,118 @@
+{
+  "Team 1": {
+    "name": "meat",
+    "players": [
+      {
+        "id": 220696049,
+        "name": "Meatspear",
+        "realm": "Illidan",
+        "role": "Damage",
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 27,
+        "level": 59,
+        "title": "Meatspear",
+        "ilvl": 125,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Meatspear",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Meatspear",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Meatspear"
+        }
+      },
+      {
+        "id": 125290639,
+        "name": "Meatshocks",
+        "realm": "Illidan",
+        "role": "Heal",
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 6,
+        "level": 58,
+        "title": "Starcaller Meatshocks",
+        "ilvl": 114,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Meatshocks",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Meatshocks",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Meatshocks"
+        }
+      },
+      {
+        "id": 220696413,
+        "name": "Fingermeat",
+        "realm": "Illidan",
+        "role": "Tank",
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 10,
+        "level": 59,
+        "title": "Fingermeat the Fabulous",
+        "ilvl": 129,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Fingermeat",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Fingermeat",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Fingermeat"
+        }
+      },
+      {
+        "id": 220697684,
+        "name": "Ragingmeat",
+        "realm": "Illidan",
+        "role": "Damage",
+        "faction": "Horde",
+        "class": 1,
+        "className": "Warrior",
+        "classColor": "#C69B6D",
+        "race": 10,
+        "level": 60,
+        "title": "Sinbreaker Ragingmeat",
+        "ilvl": 136,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Ragingmeat",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Ragingmeat"
+        }
+      },
+      {
+        "id": 215572555,
+        "name": "Meatward",
+        "realm": "Illidan",
+        "role": "Damage",
+        "faction": "Horde",
+        "class": 10,
+        "className": "Monk",
+        "classColor": "#00FF98",
+        "race": 10,
+        "level": 59,
+        "title": "Crashin' Thrashin' Meatward",
+        "ilvl": 134,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Meatward",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Meatward",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Meatward"
+        }
+      }
+    ],
+    "score": 0
+  }
+}

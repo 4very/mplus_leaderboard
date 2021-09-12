@@ -132,3 +132,12 @@ export const addFaction = (params: GridCellParams) => (
     {params.value}
   </div>
 );
+
+export const addRole = (params: GridCellParams) => (
+  <img
+    className="w-8 h-8 self-center block ml-auto mr-auto"
+    title="Faction"
+    src={`/images/${params.row.role.toLowerCase()}.png`}
+    alt=""
+  />
+);

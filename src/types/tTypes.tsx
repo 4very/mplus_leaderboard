@@ -1,5 +1,6 @@
 import {
   addFaction,
+  addRole,
   classColorRender,
   compareDate,
   Links,
@@ -64,6 +65,14 @@ export const tTeamColumns = [
     field: 'id',
     type: 'number',
     hide: true,
+  },
+  {
+    field: 'role',
+    headerName: 'Role',
+    width: 70,
+    disableColumnMenu: true,
+    sortable: false,
+    renderCell: addRole,
   },
   {
     field: 'name',
