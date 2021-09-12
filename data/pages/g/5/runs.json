@@ -454,6 +454,45 @@
       "scoreColor": "#0070dd",
       "timeDiff": -71770,
       "percDiff": -0.03738020833333333
+    },
+    "8648658": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8648658-2-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 1071066,
+      "dateCompleted": "2021-09-12T20:18:16.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "members": [
+        "219851220",
+        "219367561"
+      ],
+      "count": 2,
+      "scoreColor": "#9fff84",
+      "timeDiff": -728934,
+      "percDiff": -0.40496333333333334
+    },
+    "8645754": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8645754-12-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 111.9,
+      "keystoneLevel": 12,
+      "clearTime": 2195868,
+      "dateCompleted": "2021-09-12T19:49:27.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "members": [
+        "159787507",
+        "175976047",
+        "190634616"
+      ],
+      "count": 3,
+      "scoreColor": "#4889c3",
+      "timeDiff": -384132,
+      "percDiff": -0.1488883720930233
     }
   }
 }
