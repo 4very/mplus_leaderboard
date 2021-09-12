@@ -98,3 +98,7 @@ a{
 .MuiDataGrid-columnHeaderTitleContainer {
   @apply p-0 !important
 }
+
+.Component-root-3 {
+  @apply font-serif text-fontGrey !important
+}
