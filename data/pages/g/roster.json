@@ -5327,6 +5327,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ratchetyr"
     }
   },
+  "194698252": {
+    "name": "Gharalyn",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gharalyn",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gharalyn",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gharalyn",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gharalyn"
+    }
+  },
   "194851447": {
     "name": "Chuckk",
     "realm": "illidan",
@@ -17547,6 +17565,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vesprlol",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vesprlol",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vesprlol"
+    }
+  },
+  "139057371": {
+    "name": "Shamluck",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Shamluck",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Shamluck",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Shamluck",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Shamluck"
     }
   }
 }
