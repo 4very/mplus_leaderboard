@@ -34,3 +34,5 @@ local
 # vercel
 .vercel
 data/temp.py
+
+./data/__pycache__*
