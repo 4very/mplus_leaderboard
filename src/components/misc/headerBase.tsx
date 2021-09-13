@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { Typography } from '@material-ui/core';
+import Link from 'next/link';
 
 import Indent from './indent';
 
@@ -19,7 +20,7 @@ export default function HeaderBase({
     // <div className=" sm:pl-2 lg:pl-6 pb-0 box-border">
     <div className="pt-10 pb-0 box-border">
       <Typography variant="h2" className="font-serif">
-        Currently Online
+        <Link href="/"> Currently Online </Link>
       </Typography>
       <Indent>
         <Typography variant="h4" className="font-serif">
