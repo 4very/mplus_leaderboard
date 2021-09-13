@@ -29,6 +29,11 @@ export default function HomePage() {
               Guild Tournaments
             </Typography>
             <Typography variant="h4" className="underline">
+              <Link href="/t/tournament-2">
+                the September(ish) M+ Tournament!
+              </Link>
+            </Typography>
+            <Typography variant="h4" className="underline">
               <Link href="/t/tournament-1">Tournament 1</Link>
             </Typography>
           </div>

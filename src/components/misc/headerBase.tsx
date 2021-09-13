@@ -17,7 +17,6 @@ export default function HeaderBase({
   children?: any;
 }) {
   return (
-    // <div className=" sm:pl-2 lg:pl-6 pb-0 box-border">
     <div className="pt-10 pb-0 box-border">
       <Typography variant="h2" className="font-serif">
         <Link href="/"> Currently Online </Link>
