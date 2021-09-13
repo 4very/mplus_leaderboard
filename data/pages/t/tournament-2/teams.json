@@ -268,9 +268,9 @@
         "className": "Warrior",
         "classColor": "#C69B6D",
         "race": 36,
-        "level": 58,
+        "level": 59,
         "title": "Titanslayer Mysphux",
-        "ilvl": 132,
+        "ilvl": 138,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -292,9 +292,9 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 9,
-        "level": 57,
+        "level": 59,
         "title": "Talon King Gobsanity",
-        "ilvl": 110,
+        "ilvl": 127,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 126.4
+    "avgilvl": 131.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
