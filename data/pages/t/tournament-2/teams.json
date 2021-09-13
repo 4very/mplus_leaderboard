@@ -366,7 +366,7 @@
         "race": 10,
         "level": 59,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 133,
+        "ilvl": 132,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 126.2
+    "avgilvl": 126.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -563,27 +563,27 @@
         }
       },
       {
-        "name": "Poke\u00fd",
+        "name": "Arinaki",
         "realm": "Illidan",
         "role": "Damage",
-        "id": 220726593,
+        "id": 220696506,
         "faction": "Horde",
-        "class": 10,
-        "className": "Monk",
-        "classColor": "#00FF98",
-        "race": 28,
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 35,
         "level": 59,
-        "title": "Poke\u00fd",
-        "ilvl": 118,
+        "title": "Huntmaster Arinaki",
+        "ilvl": 130,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 1,
         "links": {
-          "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
-          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
-          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Poke\u00fd",
-          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Poke\u00fd"
+          "rio": "https://raider.io/characters/us/illidan/Arinaki",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Arinaki",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Arinaki"
         }
       },
       {
@@ -637,6 +637,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 122.4
+    "avgilvl": 124.8
   }
 }
