@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import * as fs from 'fs';
-import path from 'path';
+import path, { join } from 'path';
 
 import React from 'react';
 
@@ -51,7 +51,10 @@ export async function getStaticProps(context: any) {
 
   // check if page is valid tournament
   // this is already covered by getStaticPaths but this is reassurance
-  if (!fs.existsSync(folderPath)) {
+  if (
+    !fs.existsSync(folderPath) ||
+    !fs.existsSync(join(folderPath, 'historical.json'))
+  ) {
     return { notFound: true };
   }
 
