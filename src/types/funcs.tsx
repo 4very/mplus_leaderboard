@@ -2,10 +2,10 @@ import { GridCellParams } from '@material-ui/data-grid';
 import moment from 'moment';
 
 export interface Links {
+  rbot: string;
   rio: string;
   armory: string;
   wcl: string;
-  rbots: string;
 }
 
 export const usernameToLink = (params: GridCellParams) => (
@@ -102,7 +102,7 @@ export const linksRender = (params: GridCellParams) => (
         alt=""
       />
     </a>
-    <a target="_blank" href={(params.value as Links).rbots} rel="noreferrer">
+    <a target="_blank" href={(params.value as Links).rbot} rel="noreferrer">
       <img
         className="linkImg"
         title="View Raidbots Page"
