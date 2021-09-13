@@ -37,7 +37,7 @@ export default function ContentPage(props: any) {
             Click here to view full team details
           </Link>
           <div>
-            <Link href={`${props.page}/graph`}>Click here to view graphs</Link>
+            <Link href={`${props.page}/graphs`}>Click here to view graphs</Link>
           </div>
         </Typography>
 
