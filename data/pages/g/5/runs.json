@@ -598,6 +598,69 @@
       "scoreColor": "#9fff84",
       "timeDiff": -801112,
       "percDiff": -0.35136491228070177
+    },
+    "8668790": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8668790-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 125.9,
+      "keystoneLevel": 15,
+      "clearTime": 2061765,
+      "dateCompleted": "2021-09-13T00:34:14.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "114215083",
+        "189297033",
+        "190341445",
+        "191355883",
+        "192145359"
+      ],
+      "count": 5,
+      "scoreColor": "#0070dd",
+      "timeDiff": -158235,
+      "percDiff": -0.07127702702702698
+    },
+    "8666441": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8666441-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 127.3,
+      "keystoneLevel": 15,
+      "clearTime": 1817342,
+      "dateCompleted": "2021-09-12T23:53:32.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "182359738",
+        "183203691",
+        "199899159",
+        "199951572",
+        "220022320"
+      ],
+      "count": 5,
+      "scoreColor": "#3b6bdf",
+      "timeDiff": -402658,
+      "percDiff": -0.18137747747747746
+    },
+    "8669278": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8669278-16-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 121.5,
+      "keystoneLevel": 16,
+      "clearTime": 3144870,
+      "dateCompleted": "2021-09-12T23:46:57.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "190341445",
+        "192145359"
+      ],
+      "count": 2,
+      "scoreColor": "#1b73d9",
+      "timeDiff": 684870,
+      "percDiff": 0.2784024390243902
     }
   }
 }
