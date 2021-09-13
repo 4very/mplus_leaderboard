@@ -23,6 +23,12 @@ export default function TeamSection({
           return (
             <div className="mb-10" key={team.id}>
               <Typography variant="h5" className="font-serif">
+                <img
+                  className="w-6 h-8 self-center mr-2"
+                  title="Faction"
+                  src={`/images/${team.players[0].faction.toLowerCase()}.png`}
+                  alt=""
+                />
                 {team.name}
               </Typography>
 

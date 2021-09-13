@@ -638,5 +638,133 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "avgilvl": 124.8
+  },
+  "STISB": {
+    "name": "So Then I Started Blasting",
+    "players": [
+      {
+        "name": "Lelush",
+        "realm": "Illidan",
+        "role": "Tank",
+        "id": 181241072,
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 10,
+        "level": 59,
+        "title": "Highlord Lelush",
+        "ilvl": 129,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 7,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Lelush",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Lelush",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Lelush"
+        }
+      },
+      {
+        "name": "Sito",
+        "realm": "Illidan",
+        "role": "Heal",
+        "id": 220689452,
+        "faction": "Horde",
+        "class": 7,
+        "className": "Shaman",
+        "classColor": "#0070DD",
+        "race": 2,
+        "level": 59,
+        "title": "Sito of the Four Winds",
+        "ilvl": 126,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Venthyr",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Sito",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Sito",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Sito"
+        }
+      },
+      {
+        "name": "Mash\u00edro",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 112272998,
+        "faction": "Horde",
+        "class": 9,
+        "className": "Warlock",
+        "classColor": "#8788EE",
+        "race": 9,
+        "level": 59,
+        "title": "Mash\u00edro the Fearless",
+        "ilvl": 128,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Mash\u00edro",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Mash\u00edro"
+        }
+      },
+      {
+        "name": "Eredris",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 183190629,
+        "faction": "Horde",
+        "class": 4,
+        "className": "Rogue",
+        "classColor": "#FFF468",
+        "race": 27,
+        "level": 59,
+        "title": "Shadowblade Eredris",
+        "ilvl": 129,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Venthyr",
+        "renown": 7,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Eredris",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Eredris",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Eredris"
+        }
+      },
+      {
+        "name": "Slytomato",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 199453878,
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 10,
+        "level": 56,
+        "title": "Slytomato",
+        "ilvl": 112,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 2,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Slytomato",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Slytomato",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Slytomato"
+        }
+      }
+    ],
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "avgilvl": 124.8
   }
 }
