@@ -33,13 +33,11 @@ export default function ContentPage(props: any) {
       />
       <Indent>
         <Typography variant="h5" className="font-serifHeader">
-          <Link href={`${props.page}/graphs`}>
+          <Link href={`${props.page}/details`}>
             Click here to view full team details
           </Link>
           <div>
-            <Link href={`${props.page}/details`}>
-              Click here to view graphs
-            </Link>
+            <Link href={`${props.page}/graph`}>Click here to view graphs</Link>
           </div>
         </Typography>
 
