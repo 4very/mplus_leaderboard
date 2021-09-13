@@ -140,9 +140,9 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 6,
-        "level": 59,
+        "level": 60,
         "title": "Palabusk",
-        "ilvl": 124,
+        "ilvl": 190,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 108.0
+    "avgilvl": 121.2
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -316,9 +316,9 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 31,
-        "level": 58,
+        "level": 59,
         "title": "Corruptshock the Exalted",
-        "ilvl": 111,
+        "ilvl": 127,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -366,7 +366,7 @@
         "race": 10,
         "level": 59,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 132,
+        "ilvl": 133,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 122.8
+    "avgilvl": 126.2
   },
   "ASC": {
     "name": "Alliance Shadow Council",

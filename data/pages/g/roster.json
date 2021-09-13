@@ -8885,7 +8885,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12032,8 +12032,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1348.9,
-    "scoreColor": "#5cce75",
+    "score": 1381.3,
+    "scoreColor": "#5dca7a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -12147,6 +12147,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Stonkula",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Stonkula",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Stonkula"
+    }
+  },
+  "220686029": {
+    "name": "Palabusk",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Palabusk",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Palabusk",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Palabusk",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Palabusk"
     }
   },
   "220697684": {
@@ -12266,7 +12284,7 @@
     "classColor": "#FF7C0A",
     "race": 8,
     "rank": 9,
-    "score": 0,
+    "score": 86.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gibbo",
