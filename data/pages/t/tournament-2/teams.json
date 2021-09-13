@@ -468,9 +468,9 @@
         "className": "Hunter",
         "classColor": "#AAD372",
         "race": 3,
-        "level": 58,
+        "level": 59,
         "title": "Okyro the Explorer",
-        "ilvl": 119,
+        "ilvl": 129,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -509,6 +509,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 118.2
+    "avgilvl": 120.2
   }
 }
