@@ -413,7 +413,7 @@
       {
         "name": "Santhano",
         "realm": "Sargeras",
-        "role": "Tank",
+        "role": "Heal",
         "id": 188505070,
         "faction": "Alliance",
         "class": 7,
@@ -437,7 +437,7 @@
       {
         "name": "Ashpartame",
         "realm": "Sargeras",
-        "role": "Tank",
+        "role": "Damage",
         "id": 191276872,
         "faction": "Alliance",
         "class": 10,
@@ -461,7 +461,7 @@
       {
         "name": "Okyro",
         "realm": "Sargeras",
-        "role": "Tank",
+        "role": "Damage",
         "id": 188749542,
         "faction": "Alliance",
         "class": 3,
@@ -485,7 +485,7 @@
       {
         "name": "Demoslocke",
         "realm": "Sargeras",
-        "role": "Tank",
+        "role": "Damage",
         "id": 185887369,
         "faction": "Alliance",
         "class": 9,
