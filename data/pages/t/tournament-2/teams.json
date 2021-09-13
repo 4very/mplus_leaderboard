@@ -268,9 +268,9 @@
         "className": "Warrior",
         "classColor": "#C69B6D",
         "race": 36,
-        "level": 57,
+        "level": 58,
         "title": "Titanslayer Mysphux",
-        "ilvl": 129,
+        "ilvl": 132,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -318,7 +318,7 @@
         "race": 31,
         "level": 59,
         "title": "Corruptshock the Exalted",
-        "ilvl": 127,
+        "ilvl": 126,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 126.0
+    "avgilvl": 126.4
   },
   "ASC": {
     "name": "Alliance Shadow Council",
