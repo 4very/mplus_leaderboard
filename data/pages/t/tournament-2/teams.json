@@ -316,9 +316,9 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 31,
-        "level": 58,
+        "level": 59,
         "title": "Corruptshock the Exalted",
-        "ilvl": 111,
+        "ilvl": 127,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 122.8
+    "avgilvl": 126.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
