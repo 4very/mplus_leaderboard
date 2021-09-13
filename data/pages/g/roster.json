@@ -2744,7 +2744,7 @@
     "classColor": "#C41E3A",
     "race": 2,
     "rank": 8,
-    "score": 2083.6,
+    "score": 2085,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nottito",
@@ -4796,7 +4796,7 @@
     "classColor": "#0070DD",
     "race": 36,
     "rank": 8,
-    "score": 2028.3,
+    "score": 2028.9,
     "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alakush",
@@ -6452,8 +6452,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 3,
-    "score": 1676.5,
-    "scoreColor": "#579ab0",
+    "score": 1727.7,
+    "scoreColor": "#5293b8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sylneda",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sylneda",
@@ -12032,8 +12032,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1249.9,
-    "scoreColor": "#54dd60",
+    "score": 1347.6,
+    "scoreColor": "#5cce75",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -12194,13 +12194,85 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 662.8,
+    "score": 666.5,
     "scoreColor": "#abff91",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Selexxa",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Selexxa",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Selexxa",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Selexxa"
+    }
+  },
+  "219406067": {
+    "name": "Lunecra",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 27,
+    "rank": 9,
+    "score": 66.6,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lunecra",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunecra",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunecra",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunecra"
+    }
+  },
+  "219406168": {
+    "name": "Lorrainen",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 66.6,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lorrainen",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lorrainen",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lorrainen",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lorrainen"
+    }
+  },
+  "219406065": {
+    "name": "Mutwolf",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 10,
+    "rank": 9,
+    "score": 408.1,
+    "scoreColor": "#ddffcf",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Mutwolf",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mutwolf",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mutwolf",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mutwolf"
+    }
+  },
+  "220699900": {
+    "name": "Gibbo",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gibbo",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gibbo",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gibbo",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gibbo"
     }
   },
   "989898": {
