@@ -142,7 +142,7 @@
         "race": 6,
         "level": 59,
         "title": "Palabusk",
-        "ilvl": 124,
+        "ilvl": 123,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 108.0
+    "avgilvl": 107.8
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
