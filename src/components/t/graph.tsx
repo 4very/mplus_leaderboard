@@ -44,7 +44,16 @@ export default function TournGraph({
       </Typography>
       <Indent className="max-w-7xl mt-4">
         <Chart data={graphData}>
-          <Palette scheme={['#3B82F6', '#34D399', '#F87171', '#FCD34D']} />
+          <Palette
+            scheme={[
+              '#3B82F6',
+              '#34D399',
+              '#F87171',
+              '#FCD34D',
+              '#EC4899',
+              '#F9FAFB',
+            ]}
+          />
 
           <ArgumentAxis
             labelComponent={renderGreyText}
@@ -57,6 +66,7 @@ export default function TournGraph({
           <LineSeries name="ASC" valueField="ASC" argumentField="day" />
           <LineSeries name="meat" valueField="meat" argumentField="day" />
           <LineSeries name="WSRF2T" valueField="WSRF2T" argumentField="day" />
+          <LineSeries name="TST" valueField="TST" argumentField="day" />
 
           <Legend />
           <Tooltip />

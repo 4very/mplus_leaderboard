@@ -1,19 +1,23 @@
 {
   "ilvl": [
     {
-      "day": 0,
-      "meat": 128.2,
-      "WSF2T": 105.4,
-      "TTC": 164.8
+      "day": 21,
+      "meat": null,
+      "WSF2T": null,
+      "TTC": null,
+      "ASC": null,
+      "TST": null
     }
   ],
   "tscore": [
     {
-      "day": 0,
-      "meat": 0,
-      "WSF2T": 0,
-      "TTC": 2573.0
+      "day": 21,
+      "meat": null,
+      "WSF2T": null,
+      "TTC": null,
+      "ASC": null,
+      "TST": null
     }
   ],
-  "cday": 1
+  "cday": 0
 }
