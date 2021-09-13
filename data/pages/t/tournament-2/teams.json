@@ -38,7 +38,7 @@
         "race": 6,
         "level": 59,
         "title": "Starcaller Meatshocks",
-        "ilvl": 116,
+        "ilvl": 120,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 128.2
+    "avgilvl": 129.0
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -190,7 +190,7 @@
         "race": 35,
         "level": 59,
         "title": "Serakiri",
-        "ilvl": 125,
+        "ilvl": 123,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -238,7 +238,7 @@
         "race": 35,
         "level": 59,
         "title": "Likkota the Patient",
-        "ilvl": 124,
+        "ilvl": 130,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 121.2
+    "avgilvl": 122.0
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -510,5 +510,133 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "avgilvl": 120.2
+  },
+  "TST": {
+    "name": "Titanic Swim Team",
+    "players": [
+      {
+        "name": "Poke\u00fd",
+        "realm": "Illidan",
+        "role": "Tank",
+        "id": 220726593,
+        "faction": "Horde",
+        "class": 10,
+        "className": "Monk",
+        "classColor": "#00FF98",
+        "race": 28,
+        "level": 59,
+        "title": "Poke\u00fd",
+        "ilvl": 118,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Poke\u00fd",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Poke\u00fd"
+        }
+      },
+      {
+        "name": "Diondre",
+        "realm": "Illidan",
+        "role": "Heal",
+        "id": 220731918,
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 10,
+        "level": 59,
+        "title": "Diondre, Hand of A'dal",
+        "ilvl": 123,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Venthyr",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Diondre",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Diondre",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Diondre"
+        }
+      },
+      {
+        "name": "Poke\u00fd",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 220726593,
+        "faction": "Horde",
+        "class": 10,
+        "className": "Monk",
+        "classColor": "#00FF98",
+        "race": 28,
+        "level": 59,
+        "title": "Poke\u00fd",
+        "ilvl": 118,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Poke\u00fd",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Poke\u00fd"
+        }
+      },
+      {
+        "name": "Dr\u00e0cuhl",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 220624845,
+        "faction": "Horde",
+        "class": 4,
+        "className": "Rogue",
+        "classColor": "#FFF468",
+        "race": 10,
+        "level": 59,
+        "title": "Dr\u00e0cuhl the Hallowed",
+        "ilvl": 137,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": null,
+        "renown": null,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Dr\u00e0cuhl",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Dr\u00e0cuhl"
+        }
+      },
+      {
+        "name": "Dannyshock",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 219868600,
+        "faction": "Horde",
+        "class": 7,
+        "className": "Shaman",
+        "classColor": "#0070DD",
+        "race": 2,
+        "level": 57,
+        "title": "Dannyshock the Seeker",
+        "ilvl": 116,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 4,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Dannyshock",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Dannyshock",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Dannyshock"
+        }
+      }
+    ],
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "avgilvl": 122.4
   }
 }
