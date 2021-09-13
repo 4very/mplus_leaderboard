@@ -212,13 +212,13 @@
         "className": "Rogue",
         "classColor": "#FFF468",
         "race": 35,
-        "level": 48,
+        "level": 49,
         "title": "Procuts",
         "ilvl": 48,
         "score": 0,
         "scoreColor": "#ffffff",
-        "covenant": null,
-        "renown": null,
+        "covenant": "Necrolord",
+        "renown": 1,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -620,13 +620,13 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 2,
-        "level": 57,
+        "level": 59,
         "title": "Dannyshock the Seeker",
-        "ilvl": 116,
+        "ilvl": 129,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 4,
+        "renown": 10,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 124.8
+    "avgilvl": 127.4
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -748,9 +748,9 @@
         "className": "Hunter",
         "classColor": "#AAD372",
         "race": 10,
-        "level": 56,
+        "level": 59,
         "title": "Slytomato",
-        "ilvl": 112,
+        "ilvl": 118,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -765,6 +765,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 124.8
+    "avgilvl": 126.0
   }
 }
