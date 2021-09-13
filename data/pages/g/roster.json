@@ -1556,7 +1556,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 8,
-    "score": 2405.3,
+    "score": 2414.1,
     "scoreColor": "#d64ea6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gharakor",
@@ -3014,7 +3014,7 @@
     "classColor": "#3FC7EB",
     "race": 27,
     "rank": 4,
-    "score": 1791.2,
+    "score": 1798.6,
     "scoreColor": "#4889c3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -4670,7 +4670,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 527.1,
+    "score": 533.1,
     "scoreColor": "#c5ffb0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zito",
@@ -6452,7 +6452,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 3,
-    "score": 1727.7,
+    "score": 1736.1,
     "scoreColor": "#5293b8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sylneda",
@@ -7244,7 +7244,7 @@
     "classColor": "#3FC7EB",
     "race": 10,
     "rank": 8,
-    "score": 2392.6,
+    "score": 2398.3,
     "scoreColor": "#d64ea6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Miserea",
@@ -9980,7 +9980,7 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 8,
-    "score": 2296.5,
+    "score": 2308.9,
     "scoreColor": "#c442c6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villanka",
@@ -10898,8 +10898,8 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 8,
-    "score": 1362.1,
-    "scoreColor": "#5dca7a",
+    "score": 1432.5,
+    "scoreColor": "#5fbf87",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Credan",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Credan",
@@ -11294,8 +11294,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 8,
-    "score": 2341.9,
-    "scoreColor": "#ce48b6",
+    "score": 2414.1,
+    "scoreColor": "#d64ea6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerissa",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nerissa",
@@ -11456,7 +11456,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2039.7,
+    "score": 2042,
     "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Casttiel",
@@ -11636,8 +11636,8 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 571.1,
-    "scoreColor": "#c0ffaa",
+    "score": 663.9,
+    "scoreColor": "#abff91",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villsaya",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villsaya",
@@ -12032,7 +12032,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1347.6,
+    "score": 1348.9,
     "scoreColor": "#5cce75",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
@@ -12194,8 +12194,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 666.5,
-    "scoreColor": "#abff91",
+    "score": 686.5,
+    "scoreColor": "#a5ff8b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Selexxa",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Selexxa",
@@ -12273,6 +12273,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gibbo",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gibbo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gibbo"
+    }
+  },
+  "184929816": {
+    "name": "Kalykah",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 5,
+    "rank": 9,
+    "score": 223,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kalykah",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kalykah",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kalykah",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kalykah"
     }
   },
   "989898": {
@@ -12572,8 +12590,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1246.3,
-    "scoreColor": "#54dd60",
+    "score": 1267.3,
+    "scoreColor": "#56d966",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Bradysr",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Bradysr",
@@ -17648,7 +17666,7 @@
     "classColor": "#AAD372",
     "race": 4,
     "rank": 9,
-    "score": 0,
+    "score": 62.6,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Puunjii",
