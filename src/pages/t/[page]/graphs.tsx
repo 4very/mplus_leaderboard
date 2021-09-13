@@ -6,6 +6,7 @@ import React from 'react';
 
 import { Typography } from '@material-ui/core';
 import jsonfile from 'jsonfile';
+import Link from 'next/link';
 
 import HeaderBase from '../../../components/misc/headerBase';
 import Indent from '../../../components/misc/indent';
@@ -23,7 +24,7 @@ export default function graphPage(props: any) {
 
       <Indent>
         <Typography variant="h6" className="font-sans mt-1">
-          Data is taken every midnight of the tournament
+          <Link href={`/t/${props.page}`}>{'<< Go back to main page'}</Link>
         </Typography>
         <TournGraph
           graphData={props.ilvlGraphData}
@@ -78,6 +79,7 @@ export async function getStaticProps(context: any) {
       scoreGraphData,
       upDATE,
       metaData,
+      page,
     },
   };
 }

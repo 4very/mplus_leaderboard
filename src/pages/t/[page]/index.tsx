@@ -6,7 +6,9 @@ import React from 'react';
 
 import '@fontsource/roboto';
 
+import { Typography } from '@material-ui/core';
 import jsonfile from 'jsonfile';
+import Link from 'next/link';
 
 import Dungeons from '../../../components/dungeons';
 import HeaderBase from '../../../components/misc/headerBase';
@@ -15,14 +17,13 @@ import TeamSection from '../../../components/t/teams';
 import UpdateText from '../../../components/update';
 import {
   TMetaData,
-  TPropsType,
   tTeamColumns,
   TRunRow,
   TTeamData,
   tRunColumns,
 } from '../../../types/tTypes';
 
-export default function ContentPage(props: TPropsType) {
+export default function ContentPage(props: any) {
   return (
     <Indent>
       <HeaderBase
@@ -31,6 +32,17 @@ export default function ContentPage(props: TPropsType) {
         name={props.metaData.name}
       />
       <Indent>
+        <Typography variant="h5" className="font-serifHeader">
+          <Link href={`${props.page}/graphs`}>
+            Click here to view full team details
+          </Link>
+          <div>
+            <Link href={`${props.page}/details`}>
+              Click here to view graphs
+            </Link>
+          </div>
+        </Typography>
+
         <Dungeons runData={props.runRows} columns={tRunColumns} />
         <TeamSection teamData={props.teamData} columns={tTeamColumns} />
       </Indent>
@@ -89,6 +101,7 @@ export async function getStaticProps(context: any) {
       teamData,
       upDATE,
       metaData,
+      page,
     },
   };
 }

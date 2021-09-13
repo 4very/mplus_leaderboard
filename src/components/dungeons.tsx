@@ -22,7 +22,7 @@ export default function Dungeons({
   ]);
   return (
     <>
-      <Typography variant="h4" className="mt-8">
+      <Typography variant="h4" className="mt-8 font-serif">
         Dungeon Log:
       </Typography>
       <Indent className="mt-6">

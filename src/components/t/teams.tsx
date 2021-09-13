@@ -15,7 +15,9 @@ export default function TeamSection({
 }) {
   return (
     <div className="pt-10 pb-0">
-      <Typography variant="h4">Teams:</Typography>
+      <Typography variant="h4" className="font-serif">
+        Teams:
+      </Typography>
       <Indent className="sm:pl-2 lg:pl-6 pb-0 pt-4">
         {teamData.map((team) => {
           return (

@@ -3,8 +3,10 @@ import path from 'path';
 
 import React from 'react';
 
+import { Typography } from '@material-ui/core';
 import { DataGrid, GridToolbar } from '@material-ui/data-grid';
 import jsonfile from 'jsonfile';
+import Link from 'next/link';
 
 import HeaderBase from '../../../components/misc/headerBase';
 import Indent from '../../../components/misc/indent';
@@ -20,6 +22,9 @@ export default function ContentPage(props: any) {
         name={props.metaData.name}
       />
       <Indent>
+        <Typography variant="h6" className="font-sans mt-1">
+          <Link href={`/t/${props.page}`}>{'<< Go back to main page'}</Link>
+        </Typography>
         <DataGrid
           rows={props.playerData}
           // @ts-ignore
@@ -78,6 +83,7 @@ export async function getStaticProps(context: any) {
       playerData,
       upDATE,
       metaData,
+      page,
     },
   };
 }
