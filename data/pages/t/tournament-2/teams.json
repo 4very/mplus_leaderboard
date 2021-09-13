@@ -140,9 +140,9 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 6,
-        "level": 59,
+        "level": 60,
         "title": "Palabusk",
-        "ilvl": 123,
+        "ilvl": 190,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 107.8
+    "avgilvl": 121.2
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
