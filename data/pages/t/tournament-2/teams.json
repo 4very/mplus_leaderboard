@@ -38,7 +38,7 @@
         "race": 6,
         "level": 60,
         "title": "Starcaller Meatshocks",
-        "ilvl": 184,
+        "ilvl": 191,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 154.8
+    "avgilvl": 156.2
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -190,7 +190,7 @@
         "race": 35,
         "level": 60,
         "title": "Serakiri",
-        "ilvl": 146,
+        "ilvl": 144,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 151.8
+    "avgilvl": 151.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -678,11 +678,11 @@
         "race": 2,
         "level": 60,
         "title": "Sito of the Four Winds",
-        "ilvl": 134,
+        "ilvl": 177,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 1,
+        "renown": 3,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -765,7 +765,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 130.4
+    "avgilvl": 139.0
   },
   "WAFI": {
     "name": "Whisper Ashsucks for Invite",
