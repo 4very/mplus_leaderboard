@@ -236,13 +236,13 @@
         "className": "Hunter",
         "classColor": "#AAD372",
         "race": 35,
-        "level": 59,
+        "level": 60,
         "title": "Likkota the Patient",
         "ilvl": 130,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 1,
+        "renown": 9,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -268,13 +268,13 @@
         "className": "Warrior",
         "classColor": "#C69B6D",
         "race": 36,
-        "level": 59,
+        "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 138,
+        "ilvl": 171,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 1,
+        "renown": 6,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -366,11 +366,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 176,
+        "ilvl": 189,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 4,
+        "renown": 9,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 139.8
+    "avgilvl": 149.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -526,7 +526,7 @@
         "race": 28,
         "level": 60,
         "title": "Poke\u00fd",
-        "ilvl": 183,
+        "ilvl": 197,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 148.2
+    "avgilvl": 151.0
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -780,13 +780,13 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 10,
-        "level": 57,
+        "level": 60,
         "title": "Borgonzola",
-        "ilvl": 125,
+        "ilvl": 193,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 1,
+        "renown": 7,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -854,7 +854,7 @@
         "race": 8,
         "level": 59,
         "title": "Afrofreeze",
-        "ilvl": 124,
+        "ilvl": 126,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": null,
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 115.8
+    "avgilvl": 129.8
   }
 }
