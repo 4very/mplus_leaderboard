@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 147,
+        "ilvl": 204,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 7,
+        "renown": 22,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 170.0
+    "avgilvl": 181.4
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -190,11 +190,11 @@
         "race": 35,
         "level": 60,
         "title": "Serakiri",
-        "ilvl": 153,
+        "ilvl": 179,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 2,
+        "renown": 8,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Serakiri",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 154.4
+    "avgilvl": 159.6
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -620,13 +620,13 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 2,
-        "level": 59,
+        "level": 60,
         "title": "Dannyshock the Seeker",
-        "ilvl": 129,
+        "ilvl": 202,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 10,
+        "renown": 16,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 155.6
+    "avgilvl": 170.2
   },
   "STISB": {
     "name": "So Then I Started Blasting",
