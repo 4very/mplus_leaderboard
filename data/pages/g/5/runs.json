@@ -769,6 +769,130 @@
       "scoreColor": "#7957e7",
       "timeDiff": -285145,
       "percDiff": -0.12844369369369368
+    },
+    "8753877": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8753877-15-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 119.4,
+      "keystoneLevel": 15,
+      "clearTime": 2581590,
+      "dateCompleted": "2021-09-14T01:31:16.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "199498006",
+        "199951572",
+        "220502091",
+        "220581586"
+      ],
+      "count": 4,
+      "scoreColor": "#2877d6",
+      "timeDiff": 121590,
+      "percDiff": 0.04942682926829267
+    },
+    "8756667": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8756667-21-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 149.9,
+      "keystoneLevel": 21,
+      "clearTime": 2367393,
+      "dateCompleted": "2021-09-14T02:19:43.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "163279137",
+        "219403136",
+        "220278881"
+      ],
+      "count": 3,
+      "scoreColor": "#d64ea6",
+      "timeDiff": 27393,
+      "percDiff": 0.011706410256410171
+    },
+    "8757155": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8757155-15-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 118.1,
+      "keystoneLevel": 15,
+      "clearTime": 2073726,
+      "dateCompleted": "2021-09-14T02:13:31.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "199498006",
+        "220022320",
+        "220065005",
+        "220502091"
+      ],
+      "count": 4,
+      "scoreColor": "#397ece",
+      "timeDiff": 273726,
+      "percDiff": 0.15206999999999993
+    },
+    "8757655": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8757655-15-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 119.5,
+      "keystoneLevel": 15,
+      "clearTime": 2439913,
+      "dateCompleted": "2021-09-14T02:19:15.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "members": [
+        "155866761",
+        "164946113",
+        "186030028",
+        "190679271"
+      ],
+      "count": 4,
+      "scoreColor": "#2877d6",
+      "timeDiff": 99913,
+      "percDiff": 0.04269786324786318
+    },
+    "8757654": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8757654-15-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 119.9,
+      "keystoneLevel": 15,
+      "clearTime": 1818154,
+      "dateCompleted": "2021-09-14T01:19:29.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "members": [
+        "155866761",
+        "159787507",
+        "164946113",
+        "190679271"
+      ],
+      "count": 4,
+      "scoreColor": "#2877d6",
+      "timeDiff": 18154,
+      "percDiff": 0.010085555555555459
+    },
+    "8761777": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8761777-20-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 144.2,
+      "keystoneLevel": 20,
+      "clearTime": 2303027,
+      "dateCompleted": "2021-09-14T03:36:00.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "163279137",
+        "219403136",
+        "220278881"
+      ],
+      "count": 3,
+      "scoreColor": "#c442c6",
+      "timeDiff": 143027,
+      "percDiff": 0.06621620370370374
     }
   }
 }

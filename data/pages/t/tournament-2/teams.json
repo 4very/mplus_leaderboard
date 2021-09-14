@@ -444,9 +444,9 @@
         "className": "Monk",
         "classColor": "#00FF98",
         "race": 25,
-        "level": 56,
+        "level": 57,
         "title": "Ashpartame the Seeker",
-        "ilvl": 91,
+        "ilvl": 109,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 120.2
+    "avgilvl": 123.8
   },
   "TST": {
     "name": "Titanic Swim Team",

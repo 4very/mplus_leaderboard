@@ -6236,7 +6236,7 @@
     "classColor": "#00FF98",
     "race": 2,
     "rank": 3,
-    "score": 2040,
+    "score": 2043.4,
     "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tamirin",
@@ -11960,8 +11960,8 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 4,
-    "score": 2338,
-    "scoreColor": "#c945be",
+    "score": 2347.5,
+    "scoreColor": "#ce48b6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
@@ -12032,8 +12032,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1381.3,
-    "scoreColor": "#5dca7a",
+    "score": 1422.7,
+    "scoreColor": "#5fc383",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -12302,8 +12302,8 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 223,
-    "scoreColor": "#ffffff",
+    "score": 396.3,
+    "scoreColor": "#e1ffd5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kalykah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kalykah",
@@ -14642,8 +14642,8 @@
     "classColor": "#00FF98",
     "race": 29,
     "rank": 1,
-    "score": 1559.7,
-    "scoreColor": "#5ead9c",
+    "score": 1624.5,
+    "scoreColor": "#5ca5a4",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Glucos\u00e8",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Glucos\u00e8",
@@ -17504,8 +17504,8 @@
     "classColor": "#C69B6D",
     "race": 4,
     "rank": 8,
-    "score": 1569.5,
-    "scoreColor": "#5ead9c",
+    "score": 1620,
+    "scoreColor": "#5ca5a4",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Truths",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Truths",
@@ -17745,6 +17745,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Shamluck",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Shamluck",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Shamluck"
+    }
+  },
+  "191299190": {
+    "name": "Nashington",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Nashington",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nashington",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nashington",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nashington"
     }
   }
 }
