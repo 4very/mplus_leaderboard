@@ -212,9 +212,9 @@
         "className": "Rogue",
         "classColor": "#FFF468",
         "race": 35,
-        "level": 49,
+        "level": 51,
         "title": "Procuts",
-        "ilvl": 48,
+        "ilvl": 91,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 123.2
+    "avgilvl": 131.8
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -780,9 +780,9 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 10,
-        "level": 53,
+        "level": 57,
         "title": "Borgonzola",
-        "ilvl": 94,
+        "ilvl": 125,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 107.6
+    "avgilvl": 113.8
   }
 }
