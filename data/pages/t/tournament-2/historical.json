@@ -7,6 +7,16 @@
       "TTC": null,
       "ASC": null,
       "TST": null
+    },
+    {
+      "day": 0,
+      "meat": 129.0,
+      "WSF2T": 122.0,
+      "TTC": 131.0,
+      "ASC": 123.8,
+      "TST": 127.4,
+      "STISB": 126.0,
+      "WAFI": 104.0
     }
   ],
   "tscore": [
@@ -17,7 +27,17 @@
       "TTC": null,
       "ASC": null,
       "TST": null
+    },
+    {
+      "day": 0,
+      "meat": 0,
+      "WSF2T": 0,
+      "TTC": 0,
+      "ASC": 0,
+      "TST": 0,
+      "STISB": 0,
+      "WAFI": 0
     }
   ],
-  "cday": 0
+  "cday": 1
 }
