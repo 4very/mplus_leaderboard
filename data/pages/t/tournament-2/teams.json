@@ -294,11 +294,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 127,
+        "ilvl": 199,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 1,
+        "renown": 25,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -318,11 +318,11 @@
         "race": 31,
         "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 185,
+        "ilvl": 198,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 12,
+        "renown": 17,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -366,11 +366,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 189,
+        "ilvl": 205,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 9,
+        "renown": 14,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 163.8
+    "avgilvl": 184.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -786,7 +786,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 10,
+        "renown": 11,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
