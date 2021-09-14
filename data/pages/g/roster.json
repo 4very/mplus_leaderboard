@@ -863,6 +863,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=R\u00e9nshi"
     }
   },
+  "112272998": {
+    "name": "Mash\u00edro",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 9,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mash\u00edro",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mash\u00edro",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mash\u00edro"
+    }
+  },
   "112333790": {
     "name": "Basti\u00e1n",
     "realm": "illidan",
@@ -969,6 +987,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xephy",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Xephy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xephy"
+    }
+  },
+  "125290639": {
+    "name": "Meatshocks",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Meatshocks",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatshocks",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatshocks",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatshocks"
     }
   },
   "132571921": {
@@ -1853,6 +1889,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Muerada"
     }
   },
+  "168583004": {
+    "name": "Gobsanity",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 9,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gobsanity",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gobsanity",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gobsanity",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gobsanity"
+    }
+  },
   "168618721": {
     "name": "Reekhoum",
     "realm": "illidan",
@@ -2663,6 +2717,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathy"
     }
   },
+  "181241072": {
+    "name": "Lelush",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lelush",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lelush",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lelush",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lelush"
+    }
+  },
   "181457292": {
     "name": "Mirilya",
     "realm": "illidan",
@@ -3221,6 +3293,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zilidari"
     }
   },
+  "184500657": {
+    "name": "Alathanar",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Alathanar",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alathanar",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Alathanar",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Alathanar"
+    }
+  },
   "184712217": {
     "name": "Verrisia",
     "realm": "illidan",
@@ -3255,6 +3345,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Treemooth",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Treemooth",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Treemooth"
+    }
+  },
+  "184929816": {
+    "name": "Kalykah",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 5,
+    "rank": 9,
+    "score": 496.6,
+    "scoreColor": "#cfffbc",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kalykah",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kalykah",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kalykah",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kalykah"
     }
   },
   "184937777": {
@@ -4391,6 +4499,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Luci\u00f5"
     }
   },
+  "189860301": {
+    "name": "Likkota",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Likkota",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Likkota",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Likkota",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Likkota"
+    }
+  },
   "189878240": {
     "name": "Shivanoo",
     "realm": "illidan",
@@ -4587,6 +4713,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Akinn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Akinn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Akinn"
+    }
+  },
+  "190393738": {
+    "name": "Rotriss",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Rotriss",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rotriss",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rotriss",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rotriss"
     }
   },
   "190440476": {
@@ -6549,6 +6693,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zick",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Zick",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zick"
+    }
+  },
+  "200029279": {
+    "name": "Mysphux",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 36,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Mysphux",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mysphux",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mysphux",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mysphux"
     }
   },
   "200069106": {
@@ -8909,6 +9071,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Panddington"
     }
   },
+  "215572555": {
+    "name": "Meatward",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Meatward",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatward",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatward",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatward"
+    }
+  },
   "215648926": {
     "name": "Hashiryuu",
     "realm": "illidan",
@@ -11267,6 +11447,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Morthe"
     }
   },
+  "219367561": {
+    "name": "Selexxa",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 10,
+    "rank": 9,
+    "score": 686.5,
+    "scoreColor": "#a5ff8b",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Selexxa",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Selexxa",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Selexxa",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Selexxa"
+    }
+  },
   "219398220": {
     "name": "Prexx",
     "realm": "illidan",
@@ -11301,6 +11499,60 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nerissa",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Nerissa",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nerissa"
+    }
+  },
+  "219406065": {
+    "name": "Mutwolf",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 10,
+    "rank": 9,
+    "score": 408.1,
+    "scoreColor": "#ddffcf",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Mutwolf",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mutwolf",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mutwolf",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mutwolf"
+    }
+  },
+  "219406067": {
+    "name": "Lunecra",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 27,
+    "rank": 9,
+    "score": 66.6,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lunecra",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunecra",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunecra",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunecra"
+    }
+  },
+  "219406168": {
+    "name": "Lorrainen",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 66.6,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lorrainen",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lorrainen",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lorrainen",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lorrainen"
     }
   },
   "219412848": {
@@ -11789,6 +12041,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Scoopi"
     }
   },
+  "220096665": {
+    "name": "Corruptshock",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Corruptshock",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corruptshock",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Corruptshock",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Corruptshock"
+    }
+  },
   "220108820": {
     "name": "Maxfried",
     "realm": "illidan",
@@ -12023,6 +12293,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=S\u00ffv"
     }
   },
+  "220496283": {
+    "name": "Borgonzola",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Borgonzola",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Borgonzola",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Borgonzola",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Borgonzola"
+    }
+  },
   "220502091": {
     "name": "Daenisse",
     "realm": "illidan",
@@ -12131,6 +12419,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gorgabusk"
     }
   },
+  "220624845": {
+    "name": "Dr\u00e0cuhl",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e0cuhl",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dr\u00e0cuhl",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dr\u00e0cuhl"
+    }
+  },
   "220628488": {
     "name": "Stonkula",
     "realm": "illidan",
@@ -12167,6 +12473,96 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Palabusk"
     }
   },
+  "220687476": {
+    "name": "Serakiri",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Serakiri",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Serakiri",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Serakiri",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Serakiri"
+    }
+  },
+  "220689452": {
+    "name": "Sito",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Sito",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sito",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sito",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sito"
+    }
+  },
+  "220696049": {
+    "name": "Meatspear",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 27,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Meatspear",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatspear",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatspear",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatspear"
+    }
+  },
+  "220696413": {
+    "name": "Fingermeat",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Fingermeat",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fingermeat",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Fingermeat",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Fingermeat"
+    }
+  },
+  "220696506": {
+    "name": "Arinaki",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Arinaki",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Arinaki",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Arinaki",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Arinaki"
+    }
+  },
   "220697684": {
     "name": "Ragingmeat",
     "realm": "illidan",
@@ -12183,96 +12579,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ragingmeat",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ragingmeat",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ragingmeat"
-    }
-  },
-  "184500657": {
-    "name": "Alathanar",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Alathanar",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alathanar",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Alathanar",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Alathanar"
-    }
-  },
-  "219367561": {
-    "name": "Selexxa",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 10,
-    "rank": 9,
-    "score": 686.5,
-    "scoreColor": "#a5ff8b",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Selexxa",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Selexxa",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Selexxa",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Selexxa"
-    }
-  },
-  "219406067": {
-    "name": "Lunecra",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 27,
-    "rank": 9,
-    "score": 66.6,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunecra",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunecra",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunecra",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunecra"
-    }
-  },
-  "219406168": {
-    "name": "Lorrainen",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 66.6,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lorrainen",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lorrainen",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lorrainen",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lorrainen"
-    }
-  },
-  "219406065": {
-    "name": "Mutwolf",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 10,
-    "rank": 9,
-    "score": 408.1,
-    "scoreColor": "#ddffcf",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Mutwolf",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mutwolf",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mutwolf",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mutwolf"
     }
   },
   "220699900": {
@@ -12293,40 +12599,40 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gibbo"
     }
   },
-  "184929816": {
-    "name": "Kalykah",
+  "220726593": {
+    "name": "Poke\u00fd",
     "realm": "illidan",
     "faction": "horde",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 5,
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 28,
     "rank": 9,
-    "score": 496.6,
-    "scoreColor": "#cfffbc",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kalykah",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kalykah",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kalykah",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kalykah"
+      "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Poke\u00fd",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Poke\u00fd",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Poke\u00fd"
     }
   },
-  "190393738": {
-    "name": "Rotriss",
+  "220731918": {
+    "name": "Diondre",
     "realm": "illidan",
     "faction": "horde",
     "class": 2,
     "className": "Paladin",
     "classColor": "#F48CBA",
-    "race": 31,
+    "race": 10,
     "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Rotriss",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rotriss",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rotriss",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rotriss"
+      "rio": "https://raider.io/characters/us/illidan/Diondre",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Diondre",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Diondre",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Diondre"
     }
   },
   "989898": {
@@ -13317,6 +13623,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Chicharrones",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Chicharrones",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Chicharrones"
+    }
+  },
+  "139057371": {
+    "name": "Shamluck",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Shamluck",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Shamluck",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Shamluck",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Shamluck"
     }
   },
   "141131725": {
@@ -14577,6 +14901,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sturmbear",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sturmbear",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sturmbear"
+    }
+  },
+  "163498263": {
+    "name": "Puunjii",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 4,
+    "rank": 9,
+    "score": 62.6,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Puunjii",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Puunjii",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Puunjii",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Puunjii"
     }
   },
   "163572638": {
@@ -15911,6 +16253,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Gy\u00e1tso"
     }
   },
+  "176076507": {
+    "name": "Kinseyy",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Kinseyy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kinseyy",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kinseyy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kinseyy"
+    }
+  },
   "176287814": {
     "name": "Liaisperis",
     "realm": "sargeras",
@@ -16487,6 +16847,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jondavs"
     }
   },
+  "188445466": {
+    "name": "Vesprlol",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vesprlol",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vesprlol",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vesprlol"
+    }
+  },
   "188480190": {
     "name": "Zant\u00e3no",
     "realm": "sargeras",
@@ -16503,6 +16881,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zant\u00e3no",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Zant\u00e3no",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zant\u00e3no"
+    }
+  },
+  "188505070": {
+    "name": "Santhano",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Santhano",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Santhano",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Santhano",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Santhano"
     }
   },
   "188515897": {
@@ -17693,24 +18089,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kiy\u00e2m"
     }
   },
-  "163498263": {
-    "name": "Puunjii",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 4,
-    "rank": 9,
-    "score": 62.6,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Puunjii",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Puunjii",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Puunjii",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Puunjii"
-    }
-  },
   "191254048": {
     "name": "Mechalipz",
     "realm": "sargeras",
@@ -17729,42 +18107,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalipz"
     }
   },
-  "188445466": {
-    "name": "Vesprlol",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vesprlol",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vesprlol",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vesprlol"
-    }
-  },
-  "139057371": {
-    "name": "Shamluck",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Shamluck",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Shamluck",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Shamluck",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Shamluck"
-    }
-  },
   "191299190": {
     "name": "Nashington",
     "realm": "sargeras",
@@ -17781,24 +18123,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nashington",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nashington",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nashington"
-    }
-  },
-  "176076507": {
-    "name": "Kinseyy",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Kinseyy",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kinseyy",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kinseyy",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kinseyy"
     }
   }
 }

@@ -36,13 +36,13 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 6,
-        "level": 59,
+        "level": 60,
         "title": "Starcaller Meatshocks",
-        "ilvl": 120,
+        "ilvl": 184,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 1,
+        "renown": 14,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -108,13 +108,13 @@
         "className": "Monk",
         "classColor": "#00FF98",
         "race": 10,
-        "level": 59,
+        "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 134,
+        "ilvl": 178,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 1,
+        "renown": 3,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 133.2
+    "avgilvl": 154.8
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -318,11 +318,11 @@
         "race": 31,
         "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 182,
+        "ilvl": 185,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 11,
+        "renown": 12,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 163.2
+    "avgilvl": 163.8
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -574,11 +574,11 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 161,
+        "ilvl": 180,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 2,
+        "renown": 17,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 151.0
+    "avgilvl": 154.8
   },
   "STISB": {
     "name": "So Then I Started Blasting",
