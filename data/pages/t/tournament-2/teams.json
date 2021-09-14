@@ -190,7 +190,7 @@
         "race": 35,
         "level": 59,
         "title": "Serakiri",
-        "ilvl": 123,
+        "ilvl": 129,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 122.0
+    "avgilvl": 123.2
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -852,9 +852,9 @@
         "className": "Mage",
         "classColor": "#3FC7EB",
         "race": 8,
-        "level": 55,
+        "level": 56,
         "title": "Afrofreeze",
-        "ilvl": 105,
+        "ilvl": 114,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": null,
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 104.0
+    "avgilvl": 105.8
   }
 }

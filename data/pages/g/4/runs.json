@@ -214,10 +214,9 @@
         "182359738",
         "183203691",
         "189783435",
-        "199899159",
-        "199951572"
+        "199899159"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#7957e7",
       "timeDiff": -236144,
       "percDiff": -0.13119111111111115
@@ -235,10 +234,9 @@
       "members": [
         "183203691",
         "189783435",
-        "190562532",
-        "199899159"
+        "190562532"
       ],
-      "count": 4,
+      "count": 3,
       "scoreColor": "#3b6bdf",
       "timeDiff": -422781,
       "percDiff": -0.16386860465116282
@@ -417,7 +415,7 @@
         "217819077"
       ],
       "count": 4,
-      "scoreColor": "#d64ea6",
+      "scoreColor": "#d54da9",
       "timeDiff": -86336,
       "percDiff": -0.03346356589147281
     },
@@ -436,7 +434,7 @@
         "217819077"
       ],
       "count": 2,
-      "scoreColor": "#c442c6",
+      "scoreColor": "#c342c7",
       "timeDiff": 35911,
       "percDiff": 0.01995055555555547
     },
@@ -455,7 +453,7 @@
         "217819077"
       ],
       "count": 2,
-      "scoreColor": "#e45b87",
+      "scoreColor": "#e3598b",
       "timeDiff": -96575,
       "percDiff": -0.05029947916666666
     },
@@ -474,7 +472,7 @@
         "217819077"
       ],
       "count": 2,
-      "scoreColor": "#d24bae",
+      "scoreColor": "#d14ab1",
       "timeDiff": 244654,
       "percDiff": 0.12742395833333342
     },
@@ -508,13 +506,12 @@
       "keyMod": 1,
       "faction": "horde",
       "members": [
-        "189081947",
         "199899159",
         "199951572",
         "200973325",
         "220022320"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#9643ec",
       "timeDiff": -103424,
       "percDiff": -0.05386666666666662
@@ -558,7 +555,7 @@
         "219403136"
       ],
       "count": 5,
-      "scoreColor": "#b83dd6",
+      "scoreColor": "#b83cd7",
       "timeDiff": -78347,
       "percDiff": -0.04080572916666669
     },
@@ -732,7 +729,7 @@
         "220278881"
       ],
       "count": 5,
-      "scoreColor": "#c945be",
+      "scoreColor": "#c845c0",
       "timeDiff": -189067,
       "percDiff": -0.08753101851851852
     },
@@ -754,7 +751,7 @@
         "220278881"
       ],
       "count": 5,
-      "scoreColor": "#be40ce",
+      "scoreColor": "#bd3fcf",
       "timeDiff": 260636,
       "percDiff": 0.1447977777777778
     },
@@ -776,7 +773,7 @@
         "220278881"
       ],
       "count": 5,
-      "scoreColor": "#d24bae",
+      "scoreColor": "#d14ab1",
       "timeDiff": 236786,
       "percDiff": 0.12332604166666661
     },
