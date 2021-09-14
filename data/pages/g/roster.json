@@ -17746,5 +17746,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Shamluck",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Shamluck"
     }
+  },
+  "191299190": {
+    "name": "Nashington",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Nashington",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nashington",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nashington",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nashington"
+    }
   }
 }
