@@ -60,13 +60,13 @@
         "className": "Hunter",
         "classColor": "#AAD372",
         "race": 27,
-        "level": 59,
+        "level": 60,
         "title": "Meatspear",
-        "ilvl": 126,
+        "ilvl": 147,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 4,
+        "renown": 7,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 129.0
+    "avgilvl": 133.2
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -188,9 +188,9 @@
         "className": "Warlock",
         "classColor": "#8788EE",
         "race": 35,
-        "level": 59,
+        "level": 60,
         "title": "Serakiri",
-        "ilvl": 129,
+        "ilvl": 146,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -212,9 +212,9 @@
         "className": "Rogue",
         "classColor": "#FFF468",
         "race": 35,
-        "level": 51,
+        "level": 52,
         "title": "Procuts",
-        "ilvl": 91,
+        "ilvl": 94,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 131.8
+    "avgilvl": 135.8
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -366,7 +366,7 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 159,
+        "ilvl": 176,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 136.4
+    "avgilvl": 139.8
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -524,9 +524,9 @@
         "className": "Monk",
         "classColor": "#00FF98",
         "race": 28,
-        "level": 59,
+        "level": 60,
         "title": "Poke\u00fd",
-        "ilvl": 118,
+        "ilvl": 183,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -548,9 +548,9 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 10,
-        "level": 59,
+        "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 123,
+        "ilvl": 131,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 133.6
+    "avgilvl": 148.2
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -652,9 +652,9 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 10,
-        "level": 59,
+        "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 129,
+        "ilvl": 143,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -676,9 +676,9 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 2,
-        "level": 59,
+        "level": 60,
         "title": "Sito of the Four Winds",
-        "ilvl": 126,
+        "ilvl": 134,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -765,7 +765,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 126.0
+    "avgilvl": 130.4
   },
   "WAFI": {
     "name": "Whisper Ashsucks for Invite",
