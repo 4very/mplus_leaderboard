@@ -398,11 +398,11 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 197,
+        "ilvl": 200,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 13,
+        "renown": 22,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 148.0
+    "avgilvl": 148.6
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -574,11 +574,11 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 180,
+        "ilvl": 193,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 17,
+        "renown": 29,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 170.2
+    "avgilvl": 172.8
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -654,11 +654,11 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 143,
+        "ilvl": 163,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 7,
+        "renown": 10,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -726,7 +726,7 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 130,
+        "ilvl": 144,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -748,13 +748,13 @@
         "className": "Hunter",
         "classColor": "#AAD372",
         "race": 10,
-        "level": 59,
+        "level": 60,
         "title": "Slytomato",
-        "ilvl": 118,
+        "ilvl": 138,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 2,
+        "renown": 11,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -765,7 +765,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 158.8
+    "avgilvl": 169.6
   },
   "WAFI": {
     "name": "Whisper Ashsucks for Invite",
@@ -782,11 +782,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 196,
+        "ilvl": 202,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 11,
+        "renown": 16,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 131.6
+    "avgilvl": 132.8
   }
 }
