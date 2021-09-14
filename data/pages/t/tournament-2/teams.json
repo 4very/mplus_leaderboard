@@ -766,5 +766,133 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "avgilvl": 126.0
+  },
+  "WAFI": {
+    "name": "Whisper Ashsucks for Invite",
+    "players": [
+      {
+        "name": "Borgonzola",
+        "realm": "Illidan",
+        "role": "Tank",
+        "id": 220496283,
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 10,
+        "level": 53,
+        "title": "Borgonzola",
+        "ilvl": 94,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Borgonzola",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Borgonzola",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Borgonzola"
+        }
+      },
+      {
+        "name": "Shammwowzers",
+        "realm": "Illidan",
+        "role": "Heal",
+        "id": 163825773,
+        "faction": "Horde",
+        "class": 7,
+        "className": "Shaman",
+        "classColor": "#0070DD",
+        "race": 2,
+        "level": 56,
+        "title": "Shammwowzers the Gullible",
+        "ilvl": 107,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Necrolord",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Shammwowzers",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Shammwowzers"
+        }
+      },
+      {
+        "name": "Amoxclav",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 216878287,
+        "faction": "Horde",
+        "class": 9,
+        "className": "Warlock",
+        "classColor": "#8788EE",
+        "race": 5,
+        "level": 59,
+        "title": "Netherlord Amoxclav",
+        "ilvl": 125,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 7,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Amoxclav",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Amoxclav",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Amoxclav"
+        }
+      },
+      {
+        "name": "Afrofreeze",
+        "realm": "Illidan",
+        "role": "Damage",
+        "id": 220689029,
+        "faction": "Horde",
+        "class": 8,
+        "className": "Mage",
+        "classColor": "#3FC7EB",
+        "race": 8,
+        "level": 55,
+        "title": "Afrofreeze",
+        "ilvl": 105,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": null,
+        "renown": null,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Afrofreeze",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Afrofreeze"
+        }
+      },
+      {
+        "name": "Ashsucks",
+        "realm": "Illidan",
+        "role": "Tank",
+        "id": 185666191,
+        "faction": "Horde",
+        "class": 1,
+        "className": "Warrior",
+        "classColor": "#C69B6D",
+        "race": 2,
+        "level": 54,
+        "title": "Ashsucks",
+        "ilvl": 89,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Night Fae",
+        "renown": 1,
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Ashsucks",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ashsucks",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Ashsucks",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Ashsucks"
+        }
+      }
+    ],
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "avgilvl": 104.0
   }
 }
