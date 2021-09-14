@@ -12,13 +12,13 @@
         "className": "Paladin",
         "classColor": "#F48CBA",
         "race": 10,
-        "level": 59,
+        "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 129,
+        "ilvl": 198,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 1,
+        "renown": 13,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 156.2
+    "avgilvl": 170.0
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -146,7 +146,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 16,
+        "renown": 24,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -190,11 +190,11 @@
         "race": 35,
         "level": 60,
         "title": "Serakiri",
-        "ilvl": 144,
+        "ilvl": 153,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 1,
+        "renown": 2,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Serakiri",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
@@ -238,11 +238,11 @@
         "race": 35,
         "level": 60,
         "title": "Likkota the Patient",
-        "ilvl": 183,
+        "ilvl": 189,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 9,
+        "renown": 12,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 151.4
+    "avgilvl": 154.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -398,11 +398,11 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 187,
+        "ilvl": 197,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 4,
+        "renown": 13,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 146.0
+    "avgilvl": 148.0
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -598,11 +598,11 @@
         "race": 10,
         "level": 60,
         "title": "Dr\u00e0cuhl the Hallowed",
-        "ilvl": 137,
+        "ilvl": 141,
         "score": 0,
         "scoreColor": "#ffffff",
-        "covenant": null,
-        "renown": null,
+        "covenant": "Necrolord",
+        "renown": 6,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 154.8
+    "avgilvl": 155.6
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -782,11 +782,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 193,
+        "ilvl": 196,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 9,
+        "renown": 10,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 129.8
+    "avgilvl": 130.4
   }
 }
