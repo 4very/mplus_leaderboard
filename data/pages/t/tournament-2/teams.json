@@ -316,13 +316,13 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 31,
-        "level": 59,
+        "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 126,
+        "ilvl": 182,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 1,
+        "renown": 11,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 152.0
+    "avgilvl": 163.2
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -396,13 +396,13 @@
         "className": "Death Knight",
         "classColor": "#C41E3A",
         "race": 37,
-        "level": 59,
+        "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 121,
+        "ilvl": 187,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 1,
+        "renown": 4,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 132.8
+    "avgilvl": 146.0
   },
   "TST": {
     "name": "Titanic Swim Team",
