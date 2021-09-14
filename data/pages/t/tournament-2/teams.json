@@ -574,7 +574,7 @@
         "race": 35,
         "level": 59,
         "title": "Huntmaster Arinaki",
-        "ilvl": 130,
+        "ilvl": 131,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 127.4
+    "avgilvl": 127.6
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -830,7 +830,7 @@
         "race": 5,
         "level": 59,
         "title": "Netherlord Amoxclav",
-        "ilvl": 125,
+        "ilvl": 134,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 105.8
+    "avgilvl": 107.6
   }
 }
