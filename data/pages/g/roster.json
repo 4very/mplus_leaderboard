@@ -3356,8 +3356,8 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 496.6,
-    "scoreColor": "#cfffbc",
+    "score": 580.5,
+    "scoreColor": "#bbffa4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kalykah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kalykah",
@@ -6297,6 +6297,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Surno",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Surno",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Surno"
+    }
+  },
+  "199453878": {
+    "name": "Slytomato",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Slytomato",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Slytomato",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Slytomato",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Slytomato"
     }
   },
   "199459846": {
@@ -11915,6 +11933,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dannysdk"
     }
   },
+  "219868600": {
+    "name": "Dannyshock",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dannyshock",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dannyshock",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dannyshock",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dannyshock"
+    }
+  },
   "219901803": {
     "name": "Jackarta",
     "realm": "illidan",
@@ -12633,6 +12669,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Diondre",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Diondre",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Diondre"
+    }
+  },
+  "195983585": {
+    "name": "Cylonarkana",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 27,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cylonarkana",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cylonarkana",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonarkana"
     }
   },
   "989898": {

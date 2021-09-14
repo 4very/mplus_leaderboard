@@ -322,7 +322,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 17,
+        "renown": 20,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -678,11 +678,11 @@
         "race": 2,
         "level": 60,
         "title": "Sito of the Four Winds",
-        "ilvl": 177,
+        "ilvl": 192,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 3,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -726,11 +726,11 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 129,
+        "ilvl": 130,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 7,
+        "renown": 9,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -765,7 +765,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 155.6
+    "avgilvl": 158.8
   },
   "WAFI": {
     "name": "Whisper Ashsucks for Invite",
