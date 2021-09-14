@@ -270,11 +270,11 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 171,
+        "ilvl": 186,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 6,
+        "renown": 7,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 149.0
+    "avgilvl": 152.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -420,13 +420,13 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 3,
-        "level": 59,
+        "level": 60,
         "title": "Santhano the Dreamer",
-        "ilvl": 128,
+        "ilvl": 173,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 4,
+        "renown": 9,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Santhano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Santhano",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 123.8
+    "avgilvl": 132.8
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -530,7 +530,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 1,
+        "renown": 6,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
