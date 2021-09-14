@@ -142,11 +142,11 @@
         "race": 6,
         "level": 60,
         "title": "Palabusk",
-        "ilvl": 215,
+        "ilvl": 216,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 24,
+        "renown": 26,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -212,13 +212,13 @@
         "className": "Rogue",
         "classColor": "#FFF468",
         "race": 35,
-        "level": 52,
+        "level": 55,
         "title": "Procuts",
-        "ilvl": 96,
+        "ilvl": 104,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 1,
+        "renown": 4,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 159.6
+    "avgilvl": 161.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -270,11 +270,11 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 186,
+        "ilvl": 210,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 7,
+        "renown": 15,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -340,13 +340,13 @@
         "className": "Mage",
         "classColor": "#3FC7EB",
         "race": 27,
-        "level": 59,
+        "level": 60,
         "title": "Archmage Cylonarkana",
-        "ilvl": 132,
+        "ilvl": 208,
         "score": 0,
         "scoreColor": "#ffffff",
-        "covenant": null,
-        "renown": null,
+        "covenant": "Kyrian",
+        "renown": 5,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 184.0
+    "avgilvl": 204.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -700,13 +700,13 @@
         "className": "Warlock",
         "classColor": "#8788EE",
         "race": 9,
-        "level": 59,
+        "level": 60,
         "title": "Loremaster Mash\u00edro",
-        "ilvl": 128,
+        "ilvl": 211,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 1,
+        "renown": 30,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -765,7 +765,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 139.0
+    "avgilvl": 155.6
   },
   "WAFI": {
     "name": "Whisper Ashsucks for Invite",
@@ -804,9 +804,9 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 2,
-        "level": 56,
+        "level": 57,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 107,
+        "ilvl": 113,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 130.4
+    "avgilvl": 131.6
   }
 }
