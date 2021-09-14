@@ -12311,6 +12311,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kalykah"
     }
   },
+  "190393738": {
+    "name": "Rotriss",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Rotriss",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rotriss",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rotriss",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rotriss"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -17763,6 +17781,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nashington",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nashington",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nashington"
+    }
+  },
+  "176076507": {
+    "name": "Kinseyy",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Kinseyy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kinseyy",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kinseyy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kinseyy"
     }
   }
 }
