@@ -852,9 +852,9 @@
         "className": "Mage",
         "classColor": "#3FC7EB",
         "race": 8,
-        "level": 56,
+        "level": 59,
         "title": "Afrofreeze",
-        "ilvl": 114,
+        "ilvl": 124,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": null,
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 113.8
+    "avgilvl": 115.8
   }
 }
