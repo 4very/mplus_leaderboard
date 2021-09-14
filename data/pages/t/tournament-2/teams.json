@@ -142,11 +142,11 @@
         "race": 6,
         "level": 60,
         "title": "Palabusk",
-        "ilvl": 190,
+        "ilvl": 215,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 15,
+        "renown": 16,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -214,7 +214,7 @@
         "race": 35,
         "level": 52,
         "title": "Procuts",
-        "ilvl": 94,
+        "ilvl": 96,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -238,7 +238,7 @@
         "race": 35,
         "level": 60,
         "title": "Likkota the Patient",
-        "ilvl": 130,
+        "ilvl": 183,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 135.8
+    "avgilvl": 151.8
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -786,7 +786,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 7,
+        "renown": 9,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
