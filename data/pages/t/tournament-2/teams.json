@@ -190,11 +190,11 @@
         "race": 35,
         "level": 60,
         "title": "Serakiri",
-        "ilvl": 181,
+        "ilvl": 187,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 10,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Serakiri",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
@@ -212,13 +212,13 @@
         "className": "Rogue",
         "classColor": "#FFF468",
         "race": 35,
-        "level": 55,
+        "level": 57,
         "title": "Procuts",
-        "ilvl": 104,
+        "ilvl": 112,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 4,
+        "renown": 7,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 162.6
+    "avgilvl": 165.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -366,7 +366,7 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 205,
+        "ilvl": 206,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 208.4
+    "avgilvl": 208.6
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -398,11 +398,11 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 206,
+        "ilvl": 207,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 28,
+        "renown": 31,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 165.4
+    "avgilvl": 165.6
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -550,11 +550,11 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 186,
+        "ilvl": 197,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 7,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 195.0
+    "avgilvl": 197.2
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -786,7 +786,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 16,
+        "renown": 19,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -854,11 +854,11 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 194,
+        "ilvl": 196,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 2,
+        "renown": 7,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 157.4
+    "avgilvl": 157.8
   }
 }
