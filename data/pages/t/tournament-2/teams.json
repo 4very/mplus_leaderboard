@@ -238,11 +238,11 @@
         "race": 35,
         "level": 60,
         "title": "Likkota the Patient",
-        "ilvl": 189,
+        "ilvl": 193,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 13,
+        "renown": 18,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 161.8
+    "avgilvl": 162.6
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
