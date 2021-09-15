@@ -1,10 +1,6 @@
 {
   "ilvl": [
     {
-      "day": 21,
-      "scale": null
-    },
-    {
       "day": 0,
       "meat": 129.0,
       "WSF2T": 122.0,
@@ -26,10 +22,6 @@
     }
   ],
   "tscore": [
-    {
-      "day": 21,
-      "scale": null
-    },
     {
       "day": 0,
       "meat": 0,
