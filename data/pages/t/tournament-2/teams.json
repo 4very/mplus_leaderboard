@@ -18,7 +18,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 52,
+        "renown": 56,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
@@ -806,11 +806,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 164,
+        "ilvl": 194,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 1,
+        "renown": 7,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 159.8
+    "avgilvl": 165.8
   }
 }
