@@ -190,11 +190,11 @@
         "race": 35,
         "level": 60,
         "title": "Serakiri",
-        "ilvl": 189,
+        "ilvl": 205,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 25,
+        "renown": 32,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Serakiri",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
@@ -238,11 +238,11 @@
         "race": 35,
         "level": 60,
         "title": "Likkota the Patient",
-        "ilvl": 193,
+        "ilvl": 196,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 18,
+        "renown": 22,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 167.0
+    "avgilvl": 170.8
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -271,7 +271,7 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 212,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 16,
@@ -295,7 +295,7 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 211,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 30,
@@ -367,7 +367,7 @@
         "level": 60,
         "title": "Easybreezey the Faceless One",
         "ilvl": 206,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 14,
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "score": 0,
+    "score": 202.5,
     "scoreColor": "#ffffff",
     "avgilvl": 209.8
   },

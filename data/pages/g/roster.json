@@ -1916,7 +1916,7 @@
     "classColor": "#0070DD",
     "race": 9,
     "rank": 9,
-    "score": 0,
+    "score": 67.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gobsanity",
@@ -6740,7 +6740,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 0,
+    "score": 67.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mysphux",
@@ -12122,7 +12122,7 @@
     "classColor": "#0070DD",
     "race": 31,
     "rank": 9,
-    "score": 0,
+    "score": 67.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptshock",
@@ -18267,6 +18267,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mechalipz",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mechalipz",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalipz"
+    }
+  },
+  "191263256": {
+    "name": "Dracuhl",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Dracuhl",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dracuhl",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
     }
   },
   "160578181": {
