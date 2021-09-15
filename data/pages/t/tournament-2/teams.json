@@ -271,8 +271,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 212,
-        "score": 328,
-        "scoreColor": "#ebffe2",
+        "score": 395.5,
+        "scoreColor": "#e2ffd6",
         "covenant": "Night Fae",
         "renown": 16,
         "links": {
@@ -294,11 +294,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 211,
-        "score": 328,
-        "scoreColor": "#ebffe2",
+        "ilvl": 214,
+        "score": 395.5,
+        "scoreColor": "#e2ffd6",
         "covenant": "Kyrian",
-        "renown": 30,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -318,11 +318,11 @@
         "race": 31,
         "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 212,
-        "score": 328,
-        "scoreColor": "#ebffe2",
+        "ilvl": 214,
+        "score": 395.5,
+        "scoreColor": "#e2ffd6",
         "covenant": "Necrolord",
-        "renown": 26,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -367,8 +367,8 @@
         "level": 60,
         "title": "Easybreezey the Faceless One",
         "ilvl": 206,
-        "score": 328,
-        "scoreColor": "#ebffe2",
+        "score": 395.5,
+        "scoreColor": "#e2ffd6",
         "covenant": "Kyrian",
         "renown": 14,
         "links": {
@@ -379,9 +379,9 @@
         }
       }
     ],
-    "score": 1475,
-    "scoreColor": "#e6ffdc",
-    "avgilvl": 210.0
+    "score": 1745.0,
+    "scoreColor": "#d9ffca",
+    "avgilvl": 211.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -706,7 +706,7 @@
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 37,
+        "renown": 50,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",

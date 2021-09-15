@@ -1916,8 +1916,8 @@
     "classColor": "#0070DD",
     "race": 9,
     "rank": 9,
-    "score": 328,
-    "scoreColor": "#ebffe2",
+    "score": 395.5,
+    "scoreColor": "#e2ffd6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gobsanity",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gobsanity",
@@ -12545,6 +12545,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Palabusk"
     }
   },
+  "220687025": {
+    "name": "Procuts",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Procuts",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Procuts",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Procuts",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Procuts"
+    }
+  },
   "220687476": {
     "name": "Serakiri",
     "realm": "illidan",
@@ -12716,8 +12734,8 @@
     "classColor": "#3FC7EB",
     "race": 27,
     "rank": 9,
-    "score": 327.3,
-    "scoreColor": "#ebffe2",
+    "score": 163,
+    "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cylonarkana",
