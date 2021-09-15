@@ -37,12 +37,12 @@
         "classColor": "#F48CBA",
         "race": 6,
         "level": 60,
-        "title": "Starcaller Meatshocks",
-        "ilvl": 191,
+        "title": "The Prestigious Meatshocks",
+        "ilvl": 199,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 14,
+        "renown": 31,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -110,11 +110,11 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 178,
+        "ilvl": 203,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 3,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 181.4
+    "avgilvl": 188.0
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -422,11 +422,11 @@
         "race": 3,
         "level": 60,
         "title": "Santhano the Dreamer",
-        "ilvl": 173,
+        "ilvl": 184,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 9,
+        "renown": 30,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Santhano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Santhano",
@@ -474,7 +474,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 7,
+        "renown": 10,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 148.6
+    "avgilvl": 150.8
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -526,11 +526,11 @@
         "race": 28,
         "level": 60,
         "title": "Poke\u00fd",
-        "ilvl": 197,
+        "ilvl": 199,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 6,
+        "renown": 12,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 183.4
+    "avgilvl": 183.8
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -654,11 +654,11 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 163,
-        "score": 0,
+        "ilvl": 197,
+        "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 10,
+        "renown": 15,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -678,11 +678,11 @@
         "race": 2,
         "level": 60,
         "title": "Sito of the Four Winds",
-        "ilvl": 192,
-        "score": 0,
+        "ilvl": 201,
+        "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 23,
+        "renown": 25,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -703,7 +703,7 @@
         "level": 60,
         "title": "Loremaster Mash\u00edro",
         "ilvl": 211,
-        "score": 0,
+        "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 30,
@@ -727,7 +727,7 @@
         "level": 60,
         "title": "Eredris the Tormented",
         "ilvl": 144,
-        "score": 0,
+        "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
         "renown": 9,
@@ -751,7 +751,7 @@
         "level": 60,
         "title": "Slytomato",
         "ilvl": 138,
-        "score": 0,
+        "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 11,
@@ -763,9 +763,9 @@
         }
       }
     ],
-    "score": 0,
+    "score": 328.0,
     "scoreColor": "#ffffff",
-    "avgilvl": 169.6
+    "avgilvl": 178.2
   },
   "WAFI": {
     "name": "Whisper Ashsucks for Invite",
@@ -852,13 +852,13 @@
         "className": "Mage",
         "classColor": "#3FC7EB",
         "race": 8,
-        "level": 59,
+        "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 126,
+        "ilvl": 190,
         "score": 0,
         "scoreColor": "#ffffff",
-        "covenant": null,
-        "renown": null,
+        "covenant": "Venthyr",
+        "renown": 1,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 132.8
+    "avgilvl": 145.6
   }
 }
