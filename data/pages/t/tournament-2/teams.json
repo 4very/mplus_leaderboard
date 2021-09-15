@@ -114,7 +114,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 26,
+        "renown": 28,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -271,7 +271,7 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 212,
-        "score": 67.5,
+        "score": 135,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 16,
@@ -295,7 +295,7 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 211,
-        "score": 67.5,
+        "score": 135,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 30,
@@ -319,7 +319,7 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 212,
-        "score": 0,
+        "score": 135,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
         "renown": 26,
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "score": 202.5,
+    "score": 472.5,
     "scoreColor": "#ffffff",
     "avgilvl": 209.8
   },
@@ -854,11 +854,11 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 196,
+        "ilvl": 198,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 21,
+        "renown": 27,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 159.4
+    "avgilvl": 159.8
   }
 }
