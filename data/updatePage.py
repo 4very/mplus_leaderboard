@@ -55,7 +55,7 @@ def getAllRuns(folder: str, pageParams: dict) -> dict:
     validRuns = {}
 
     for player in team['players']:
-      for runId, run in getPlayerRuns(*player.split("-")).items():
+      for runId, run in getPlayerRuns(player['name'].lower(),player['realm'].lower()).items():
         # if isValidRun(runId, run, folder, pageParams): TODO
           if runId in validRuns.keys(): 
             validRuns[runId]['count'] += 1
