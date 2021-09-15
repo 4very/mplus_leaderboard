@@ -598,11 +598,11 @@
         "race": 10,
         "level": 60,
         "title": "Dr\u00e0cuhl the Hallowed",
-        "ilvl": 194,
+        "ilvl": 206,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 18,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 199.6
+    "avgilvl": 202.0
   },
   "STISB": {
     "name": "So Then I Started Blasting",
