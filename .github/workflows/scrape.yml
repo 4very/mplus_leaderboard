@@ -35,7 +35,7 @@ jobs:
           WOW_CLIENT_SECRET: ${{ secrets.WOW_CLIENT_SECRET }}
     
     - name: Run scraper
-      run: python ./data/main.py --info --guild --roster --meta
+      run: python ./data/main.py --info --guild --roster --meta --pages
       env:
           WOW_CLIENT_ID: ${{ secrets.WOW_CLIENT_ID }}
           WOW_CLIENT_SECRET: ${{ secrets.WOW_CLIENT_SECRET }}
