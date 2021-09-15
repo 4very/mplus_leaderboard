@@ -18,7 +18,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 56,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
@@ -271,8 +271,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 212,
-        "score": 300,
-        "scoreColor": "#f3ffed",
+        "score": 328,
+        "scoreColor": "#ebffe2",
         "covenant": "Night Fae",
         "renown": 16,
         "links": {
@@ -295,8 +295,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 211,
-        "score": 300,
-        "scoreColor": "#f3ffed",
+        "score": 328,
+        "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
         "renown": 30,
         "links": {
@@ -319,8 +319,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 212,
-        "score": 300,
-        "scoreColor": "#f3ffed",
+        "score": 328,
+        "scoreColor": "#ebffe2",
         "covenant": "Necrolord",
         "renown": 26,
         "links": {
@@ -342,11 +342,11 @@
         "race": 27,
         "level": 60,
         "title": "Archmage Cylonarkana",
-        "ilvl": 208,
-        "score": 67.5,
+        "ilvl": 209,
+        "score": 163,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 7,
+        "renown": 15,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -367,8 +367,8 @@
         "level": 60,
         "title": "Easybreezey the Faceless One",
         "ilvl": 206,
-        "score": 300,
-        "scoreColor": "#f3ffed",
+        "score": 328,
+        "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
         "renown": 14,
         "links": {
@@ -379,9 +379,9 @@
         }
       }
     ],
-    "score": 1267.5,
-    "scoreColor": "#efffe8",
-    "avgilvl": 209.8
+    "score": 1475,
+    "scoreColor": "#e6ffdc",
+    "avgilvl": 210.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
