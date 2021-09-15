@@ -53,7 +53,6 @@ export default function TournGraph({
               '#EC4899',
               '#F9FAFB',
               '#065F46',
-              '#065F46',
             ]}
           />
 
@@ -71,7 +70,6 @@ export default function TournGraph({
           <LineSeries name="TST" valueField="TST" argumentField="day" />
           <LineSeries name="STISB" valueField="STISB" argumentField="day" />
           <LineSeries name="WAFI" valueField="WAFI" argumentField="day" />
-          <LineSeries name="scale" valueField="scale" argumentField="day" />
 
           <Legend />
           <Tooltip />
