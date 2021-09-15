@@ -1,9 +1,6 @@
-from WOW import WOW_GetCharData
 from os.path import join, realpath, dirname
 from os import getcwd
 from json import load, dump
-from RIO import RIO_GetCharRankings
-from updateMeta import NumberToClassName, getColorForRunScore, getColorForScore, NumberToClassColor
 
 
 
