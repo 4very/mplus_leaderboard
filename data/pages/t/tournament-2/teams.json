@@ -66,7 +66,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 33,
+        "renown": 40,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -271,8 +271,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 212,
-        "score": 232.5,
-        "scoreColor": "#fbfff9",
+        "score": 300,
+        "scoreColor": "#f3ffed",
         "covenant": "Night Fae",
         "renown": 16,
         "links": {
@@ -295,8 +295,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 211,
-        "score": 232.5,
-        "scoreColor": "#fbfff9",
+        "score": 300,
+        "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
         "renown": 30,
         "links": {
@@ -319,8 +319,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 212,
-        "score": 232.5,
-        "scoreColor": "#fbfff9",
+        "score": 300,
+        "scoreColor": "#f3ffed",
         "covenant": "Necrolord",
         "renown": 26,
         "links": {
@@ -343,7 +343,7 @@
         "level": 60,
         "title": "Archmage Cylonarkana",
         "ilvl": 208,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 7,
@@ -367,8 +367,8 @@
         "level": 60,
         "title": "Easybreezey the Faceless One",
         "ilvl": 206,
-        "score": 232.5,
-        "scoreColor": "#fbfff9",
+        "score": 300,
+        "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
         "renown": 14,
         "links": {
@@ -379,8 +379,8 @@
         }
       }
     ],
-    "score": 930.0,
-    "scoreColor": "#fbfff9",
+    "score": 1267.5,
+    "scoreColor": "#efffe8",
     "avgilvl": 209.8
   },
   "ASC": {
@@ -806,7 +806,7 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 168,
+        "ilvl": 164,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -854,7 +854,7 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 198,
+        "ilvl": 202,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
