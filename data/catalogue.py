@@ -30,7 +30,7 @@ for key,item in teams.items():
   
 hist['ilvl'].append(ilvlobj)
 hist['tscore'].append(scoreobj)
-hist['cday'] += 1
+hist['cday'] += 0.5
 
 with open(join(tournFolder, 'historical.json'), 'w') as f:
   dump(hist, f, indent=2)
