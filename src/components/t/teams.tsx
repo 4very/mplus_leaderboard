@@ -29,7 +29,7 @@ export default function TeamSection({
                   src={`/images/${team.players[0].faction.toLowerCase()}.png`}
                   alt=""
                 />
-                {team.name}
+                {`${team.name} (${team.id})`}
               </Typography>
               <Indent className="">
                 <Typography className="font-serif" variant="h6">
