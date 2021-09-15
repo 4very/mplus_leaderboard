@@ -114,7 +114,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 25,
+        "renown": 26,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -212,9 +212,9 @@
         "className": "Rogue",
         "classColor": "#FFF468",
         "race": 35,
-        "level": 57,
+        "level": 58,
         "title": "Procuts",
-        "ilvl": 112,
+        "ilvl": 114,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 166.6
+    "avgilvl": 167.0
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
