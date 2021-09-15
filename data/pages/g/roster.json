@@ -1619,6 +1619,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Misskatonic"
     }
   },
+  "163825773": {
+    "name": "Shammwowzers",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Shammwowzers",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Shammwowzers",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shammwowzers"
+    }
+  },
   "164326342": {
     "name": "Ry\u00faken",
     "realm": "illidan",
@@ -7676,8 +7694,8 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 1507.9,
-    "scoreColor": "#5fb494",
+    "score": 1580.1,
+    "scoreColor": "#5da9a0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dekurgan",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dekurgan",
@@ -12689,6 +12707,42 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonarkana"
     }
   },
+  "220689029": {
+    "name": "Afrofreeze",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Afrofreeze",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Afrofreeze",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrofreeze"
+    }
+  },
+  "178816593": {
+    "name": "Sinborn",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 5,
+    "rank": 9,
+    "score": 131.5,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Sinborn",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sinborn",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sinborn",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sinborn"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -16433,6 +16487,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cylondeath"
     }
   },
+  "185887369": {
+    "name": "Demoslocke",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 37,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Demoslocke",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Demoslocke",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Demoslocke"
+    }
+  },
   "186030028": {
     "name": "S\u00e2nthan",
     "realm": "sargeras",
@@ -18161,22 +18233,22 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalipz"
     }
   },
-  "191299190": {
-    "name": "Nashington",
+  "160578181": {
+    "name": "Th\u00f9nderlips",
     "realm": "sargeras",
     "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 3,
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 37,
     "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Nashington",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nashington",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nashington",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nashington"
+      "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00f9nderlips",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Th\u00f9nderlips",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00f9nderlips"
     }
   }
 }

@@ -956,6 +956,44 @@
       "scoreColor": "#3b6bdf",
       "timeDiff": -361630,
       "percDiff": -0.20090555555555556
+    },
+    "8736298": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8736298-2-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 44.3,
+      "keystoneLevel": 2,
+      "clearTime": 1461478,
+      "dateCompleted": "2021-09-13T21:17:41.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "members": [
+        "189411814",
+        "178816593"
+      ],
+      "count": 2,
+      "scoreColor": "#9fff84",
+      "timeDiff": -758522,
+      "percDiff": -0.3416765765765766
+    },
+    "8734242": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8734242-2-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 43.4,
+      "keystoneLevel": 2,
+      "clearTime": 1874687,
+      "dateCompleted": "2021-09-13T20:38:31.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "members": [
+        "189411814",
+        "178816593"
+      ],
+      "count": 2,
+      "scoreColor": "#a5ff8b",
+      "timeDiff": -705313,
+      "percDiff": -0.27337713178294576
     }
   }
 }
