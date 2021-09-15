@@ -494,11 +494,11 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 199,
+        "ilvl": 202,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 16,
+        "renown": 22,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 170.0
+    "avgilvl": 170.6
   },
   "TST": {
     "name": "Titanic Swim Team",
