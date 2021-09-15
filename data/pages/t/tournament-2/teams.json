@@ -146,7 +146,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 38,
+        "renown": 46,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -212,13 +212,13 @@
         "className": "Rogue",
         "classColor": "#FFF468",
         "race": 35,
-        "level": 58,
+        "level": 60,
         "title": "Procuts",
-        "ilvl": 114,
+        "ilvl": 157,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 7,
+        "renown": 15,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 170.8
+    "avgilvl": 179.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -270,11 +270,11 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 212,
+        "ilvl": 214,
         "score": 395.5,
         "scoreColor": "#e2ffd6",
         "covenant": "Night Fae",
-        "renown": 16,
+        "renown": 29,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -343,8 +343,8 @@
         "level": 60,
         "title": "Archmage Cylonarkana",
         "ilvl": 209,
-        "score": 163,
-        "scoreColor": "#ffffff",
+        "score": 327.3,
+        "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
         "renown": 15,
         "links": {
@@ -366,11 +366,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 206,
+        "ilvl": 209,
         "score": 395.5,
         "scoreColor": "#e2ffd6",
         "covenant": "Kyrian",
-        "renown": 14,
+        "renown": 31,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -379,9 +379,9 @@
         }
       }
     ],
-    "score": 1745.0,
-    "scoreColor": "#d9ffca",
-    "avgilvl": 211.0
+    "score": 1909.3,
+    "scoreColor": "#d0ffbe",
+    "avgilvl": 212.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -422,11 +422,11 @@
         "race": 3,
         "level": 60,
         "title": "Santhano the Dreamer",
-        "ilvl": 184,
+        "ilvl": 195,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 30,
+        "renown": 34,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Santhano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Santhano",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 179.8
+    "avgilvl": 182.0
   },
   "TST": {
     "name": "Titanic Swim Team",
