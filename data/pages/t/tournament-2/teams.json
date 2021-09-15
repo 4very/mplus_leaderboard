@@ -42,7 +42,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 31,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -164,12 +164,12 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 35,
-        "level": 52,
+        "level": 55,
         "title": "Zantano, Storm's End",
-        "ilvl": 119,
+        "ilvl": 123,
         "score": 0,
         "scoreColor": "#ffffff",
-        "covenant": "Night Fae",
+        "covenant": "Venthyr",
         "renown": 1,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 165.8
+    "avgilvl": 166.6
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -706,7 +706,7 @@
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 32,
+        "renown": 37,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",

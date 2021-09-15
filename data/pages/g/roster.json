@@ -9083,7 +9083,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -9771,6 +9771,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Shockna",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Shockna",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shockna"
+    }
+  },
+  "216878287": {
+    "name": "Amoxclav",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Amoxclav",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Amoxclav",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Amoxclav",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Amoxclav"
     }
   },
   "216971097": {
@@ -17133,6 +17151,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Wh\u00f3s",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Wh\u00f3s",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Wh\u00f3s"
+    }
+  },
+  "188749542": {
+    "name": "Okyro",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Okyro",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Okyro",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Okyro",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Okyro"
     }
   },
   "188785908": {
