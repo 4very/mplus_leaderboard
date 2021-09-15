@@ -190,11 +190,11 @@
         "race": 35,
         "level": 60,
         "title": "Serakiri",
-        "ilvl": 187,
+        "ilvl": 189,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 23,
+        "renown": 25,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Serakiri",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 165.4
+    "avgilvl": 165.8
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -468,9 +468,9 @@
         "className": "Hunter",
         "classColor": "#AAD372",
         "race": 3,
-        "level": 59,
+        "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 129,
+        "ilvl": 131,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 165.6
+    "avgilvl": 166.0
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -574,11 +574,11 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 194,
+        "ilvl": 206,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 31,
+        "renown": 40,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 197.2
+    "avgilvl": 199.6
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -658,7 +658,7 @@
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 15,
+        "renown": 22,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -828,9 +828,9 @@
         "className": "Warlock",
         "classColor": "#8788EE",
         "race": 5,
-        "level": 59,
+        "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 134,
+        "ilvl": 142,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -893,6 +893,6 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 157.8
+    "avgilvl": 159.4
   }
 }
