@@ -66,7 +66,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 22,
+        "renown": 33,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -318,11 +318,11 @@
         "race": 31,
         "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 211,
+        "ilvl": 212,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 21,
+        "renown": 26,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -381,7 +381,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 208.6
+    "avgilvl": 208.8
   },
   "ASC": {
     "name": "Alliance Shadow Council",
