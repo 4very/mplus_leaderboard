@@ -47,6 +47,7 @@ export interface TTeamData {
   score: number;
   players: TPlayerRow[];
   scoreColor: string;
+  avgilvl: number;
 }
 
 export interface TPlayerRow {
@@ -78,10 +79,19 @@ export const tTeamColumns = [
     renderCell: addRole,
   },
   {
+    field: 'className',
+    headerName: 'Class',
+    width: 60,
+    renderCell: addClass,
+    disableColumnMenu: true,
+
+    sortable: false,
+  },
+  {
     field: 'name',
     headerName: 'Name',
-    width: 200,
-    renderCell: addFaction,
+    width: 170,
+    renderCell: classColorRender,
   },
   {
     field: 'faction',
@@ -96,12 +106,6 @@ export const tTeamColumns = [
     disableColumnMenu: true,
     sortable: false,
     hide: true,
-  },
-  {
-    field: 'className',
-    headerName: 'Class',
-    width: 200,
-    renderCell: classColorRender,
   },
   {
     field: 'rank',

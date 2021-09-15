@@ -31,6 +31,21 @@ export default function TeamSection({
                 />
                 {team.name}
               </Typography>
+              <Indent className="">
+                <Typography className="font-serif" variant="h6">
+                  {`Average ilvl: ${team.avgilvl}`}
+                </Typography>
+                <Typography className="font-serif -mt-2" variant="h6">
+                  {'Team score: '}
+                  <span
+                    style={{
+                      color: team.scoreColor,
+                    }}
+                  >
+                    {team.score}
+                  </span>
+                </Typography>
+              </Indent>
 
               <Indent>
                 <DataGrid
