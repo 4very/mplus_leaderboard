@@ -32,9 +32,9 @@ export default function Dungeons({
           disableSelectionOnClick
           autoHeight
           disableExtendRowFullWidth
-          hideFooter
           sortModel={DungeonSortModel}
           onSortModelChange={(model) => setDungonSortModel(model)}
+          pageSize={25}
         />
       </Indent>
     </>
