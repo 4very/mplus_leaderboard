@@ -14,11 +14,11 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 202,
+        "ilvl": 203,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 57,
+        "renown": 62,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
@@ -38,11 +38,11 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 200,
+        "ilvl": 204,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 51,
+        "renown": 56,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 204,
+        "ilvl": 205,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 40,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -110,11 +110,11 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 205,
+        "ilvl": 208,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Necrolord",
-        "renown": 34,
+        "renown": 41,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -125,7 +125,7 @@
     ],
     "score": 1156,
     "scoreColor": "#f3ffed",
-    "avgilvl": 189.4
+    "avgilvl": 191.2
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -142,11 +142,11 @@
         "race": 6,
         "level": 60,
         "title": "Palabusk",
-        "ilvl": 216,
+        "ilvl": 218,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 46,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -214,11 +214,11 @@
         "race": 35,
         "level": 60,
         "title": "Procuts",
-        "ilvl": 174,
+        "ilvl": 185,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 19,
+        "renown": 21,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 183.6
+    "avgilvl": 186.2
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -322,7 +322,7 @@
         "score": 395.5,
         "scoreColor": "#e2ffd6",
         "covenant": "Necrolord",
-        "renown": 39,
+        "renown": 43,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -398,11 +398,11 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 208,
+        "ilvl": 210,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 35,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 182.2
+    "avgilvl": 182.6
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -530,7 +530,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 25,
+        "renown": 34,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
@@ -550,11 +550,11 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 207,
+        "ilvl": 217,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 36,
+        "renown": 40,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
@@ -578,7 +578,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 46,
+        "renown": 50,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -602,7 +602,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 30,
+        "renown": 32,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 207.6
+    "avgilvl": 209.6
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -701,12 +701,12 @@
         "classColor": "#8788EE",
         "race": 9,
         "level": 60,
-        "title": "Loremaster Mash\u00edro",
-        "ilvl": 219,
+        "title": "Mash\u00edro, Vengeance Incarnate",
+        "ilvl": 220,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 58,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -726,11 +726,11 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 189,
+        "ilvl": 194,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 22,
+        "renown": 26,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -765,7 +765,7 @@
     ],
     "score": 328.0,
     "scoreColor": "#ffffff",
-    "avgilvl": 199.0
+    "avgilvl": 200.2
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
@@ -876,9 +876,9 @@
         "className": "Warrior",
         "classColor": "#C69B6D",
         "race": 2,
-        "level": 54,
+        "level": 55,
         "title": "Ashsucks",
-        "ilvl": 89,
+        "ilvl": 99,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -893,6 +893,6 @@
     ],
     "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 179.6
+    "avgilvl": 181.6
   }
 }
