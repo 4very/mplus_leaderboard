@@ -15,7 +15,7 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 202,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 57,
@@ -39,7 +39,7 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 199,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 49,
@@ -63,7 +63,7 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 204,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 40,
@@ -123,7 +123,7 @@
         }
       }
     ],
-    "score": 0,
+    "score": 202.5,
     "scoreColor": "#ffffff",
     "avgilvl": 189.2
   },
@@ -164,9 +164,9 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 35,
-        "level": 56,
+        "level": 58,
         "title": "Chef Zantano",
-        "ilvl": 125,
+        "ilvl": 127,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 183.2
+    "avgilvl": 183.6
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -702,11 +702,11 @@
         "race": 9,
         "level": 60,
         "title": "Loremaster Mash\u00edro",
-        "ilvl": 216,
+        "ilvl": 219,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 53,
+        "renown": 58,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -765,7 +765,7 @@
     ],
     "score": 328.0,
     "scoreColor": "#ffffff",
-    "avgilvl": 198.4
+    "avgilvl": 199.0
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
