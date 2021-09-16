@@ -295,8 +295,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 217,
-        "score": 395.5,
-        "scoreColor": "#e2ffd6",
+        "score": 423.5,
+        "scoreColor": "#deffd0",
         "covenant": "Kyrian",
         "renown": 48,
         "links": {
@@ -343,8 +343,8 @@
         "level": 60,
         "title": "Archmage Cylonarkana",
         "ilvl": 209,
-        "score": 327.3,
-        "scoreColor": "#ebffe2",
+        "score": 355.2,
+        "scoreColor": "#e6ffdc",
         "covenant": "Kyrian",
         "renown": 15,
         "links": {
@@ -367,8 +367,8 @@
         "level": 60,
         "title": "Easybreezey the Faceless One",
         "ilvl": 209,
-        "score": 395.5,
-        "scoreColor": "#e2ffd6",
+        "score": 423.5,
+        "scoreColor": "#deffd0",
         "covenant": "Kyrian",
         "renown": 31,
         "links": {
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "score": 1909.3,
+    "score": 1993.2,
     "scoreColor": "#d0ffbe",
     "avgilvl": 212.6
   },

@@ -1916,8 +1916,8 @@
     "classColor": "#0070DD",
     "race": 9,
     "rank": 9,
-    "score": 395.5,
-    "scoreColor": "#e2ffd6",
+    "score": 423.5,
+    "scoreColor": "#deffd0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gobsanity",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gobsanity",
@@ -6758,8 +6758,8 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 395.5,
-    "scoreColor": "#e2ffd6",
+    "score": 423.5,
+    "scoreColor": "#deffd0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mysphux",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mysphux",
@@ -12140,8 +12140,8 @@
     "classColor": "#0070DD",
     "race": 31,
     "rank": 9,
-    "score": 395.5,
-    "scoreColor": "#e2ffd6",
+    "score": 423.5,
+    "scoreColor": "#deffd0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptshock",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corruptshock",
@@ -12752,8 +12752,8 @@
     "classColor": "#3FC7EB",
     "race": 27,
     "rank": 9,
-    "score": 327.3,
-    "scoreColor": "#ebffe2",
+    "score": 355.2,
+    "scoreColor": "#e6ffdc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cylonarkana",
@@ -14591,7 +14591,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Lildoolittle",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lildoolittle",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lildoolittle",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lildoolittle"
@@ -15545,7 +15545,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Spaceleather",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Spaceleather",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Spaceleather",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Spaceleather"
@@ -17039,7 +17039,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Vesprlol",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vesprlol",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vesprlol",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vesprlol"
@@ -18137,7 +18137,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Pikamein",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Pikamein",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Pikamein",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Pikamein"
