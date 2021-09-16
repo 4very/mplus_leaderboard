@@ -14,11 +14,11 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 202,
+        "ilvl": 203,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 57,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 204,
+        "ilvl": 205,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 40,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -110,11 +110,11 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 205,
+        "ilvl": 208,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Necrolord",
-        "renown": 34,
+        "renown": 41,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -125,7 +125,7 @@
     ],
     "score": 1156,
     "scoreColor": "#f3ffed",
-    "avgilvl": 189.4
+    "avgilvl": 190.4
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -146,7 +146,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 46,
+        "renown": 48,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -322,7 +322,7 @@
         "score": 395.5,
         "scoreColor": "#e2ffd6",
         "covenant": "Necrolord",
-        "renown": 39,
+        "renown": 43,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -701,12 +701,12 @@
         "classColor": "#8788EE",
         "race": 9,
         "level": 60,
-        "title": "Loremaster Mash\u00edro",
+        "title": "Mash\u00edro, Vengeance Incarnate",
         "ilvl": 219,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 58,
+        "renown": 60,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
