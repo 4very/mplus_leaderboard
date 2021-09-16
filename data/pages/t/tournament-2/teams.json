@@ -15,7 +15,7 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 202,
-        "score": 67.5,
+        "score": 165,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 57,
@@ -38,11 +38,11 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 199,
-        "score": 67.5,
+        "ilvl": 200,
+        "score": 165,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 49,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -63,7 +63,7 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 204,
-        "score": 67.5,
+        "score": 165,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 40,
@@ -111,7 +111,7 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 205,
-        "score": 0,
+        "score": 165,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
         "renown": 34,
@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 202.5,
+    "score": 660,
     "scoreColor": "#ffffff",
-    "avgilvl": 189.2
+    "avgilvl": 189.4
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -830,11 +830,11 @@
         "race": 5,
         "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 197,
+        "ilvl": 199,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 15,
+        "renown": 17,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
@@ -893,6 +893,6 @@
     ],
     "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 179.2
+    "avgilvl": 179.6
   }
 }
