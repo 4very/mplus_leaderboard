@@ -110,11 +110,11 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 203,
+        "ilvl": 205,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 28,
+        "renown": 34,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -125,7 +125,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 188.8
+    "avgilvl": 189.2
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -834,7 +834,7 @@
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 10,
+        "renown": 15,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
