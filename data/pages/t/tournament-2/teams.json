@@ -142,11 +142,11 @@
         "race": 6,
         "level": 60,
         "title": "Palabusk",
-        "ilvl": 216,
+        "ilvl": 218,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 48,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 185.8
+    "avgilvl": 186.2
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -578,7 +578,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 47,
+        "renown": 50,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
