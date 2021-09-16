@@ -39,6 +39,9 @@ jobs:
       env:
           WOW_CLIENT_ID: ${{ secrets.WOW_CLIENT_ID }}
           WOW_CLIENT_SECRET: ${{ secrets.WOW_CLIENT_SECRET }}
+
+    - name: Catalogue
+      run: python ./data/catalogue.py
       
     - name: Commit files
       run: |
