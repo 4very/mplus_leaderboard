@@ -550,11 +550,11 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 207,
+        "ilvl": 217,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 36,
+        "renown": 40,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 207.6
+    "avgilvl": 209.6
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -726,11 +726,11 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 192,
+        "ilvl": 194,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 24,
+        "renown": 26,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -765,7 +765,7 @@
     ],
     "score": 328.0,
     "scoreColor": "#ffffff",
-    "avgilvl": 199.6
+    "avgilvl": 200.0
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
