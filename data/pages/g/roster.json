@@ -1628,7 +1628,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 0,
+    "score": 66.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
@@ -9782,7 +9782,7 @@
     "classColor": "#8788EE",
     "race": 5,
     "rank": 9,
-    "score": 0,
+    "score": 66.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Amoxclav",
@@ -12374,7 +12374,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 0,
+    "score": 66.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Borgonzola",
@@ -12752,7 +12752,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 0,
+    "score": 66.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
@@ -15311,7 +15311,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Beecki",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Beecki",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Beecki",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Beecki"

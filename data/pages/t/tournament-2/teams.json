@@ -42,7 +42,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 39,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -164,9 +164,9 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 35,
-        "level": 55,
-        "title": "Zantano, Storm's End",
-        "ilvl": 123,
+        "level": 56,
+        "title": "Chef Zantano",
+        "ilvl": 125,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -214,11 +214,11 @@
         "race": 35,
         "level": 60,
         "title": "Procuts",
-        "ilvl": 157,
+        "ilvl": 174,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 15,
+        "renown": 19,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 179.4
+    "avgilvl": 183.2
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -494,7 +494,7 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 202,
+        "ilvl": 203,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 182.0
+    "avgilvl": 182.2
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -550,11 +550,11 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 197,
+        "ilvl": 200,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 26,
+        "renown": 32,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
@@ -574,11 +574,11 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 206,
+        "ilvl": 209,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 40,
+        "renown": 44,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -598,11 +598,11 @@
         "race": 10,
         "level": 60,
         "title": "Dr\u00e0cuhl the Hallowed",
-        "ilvl": 206,
+        "ilvl": 208,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 23,
+        "renown": 30,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 202.0
+    "avgilvl": 203.6
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -658,7 +658,7 @@
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 22,
+        "renown": 25,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -702,11 +702,11 @@
         "race": 9,
         "level": 60,
         "title": "Loremaster Mash\u00edro",
-        "ilvl": 214,
+        "ilvl": 216,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 50,
+        "renown": 53,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -726,11 +726,11 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 170,
+        "ilvl": 189,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 19,
+        "renown": 22,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -750,11 +750,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 155,
+        "ilvl": 187,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 13,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -765,7 +765,7 @@
     ],
     "score": 328.0,
     "scoreColor": "#ffffff",
-    "avgilvl": 187.4
+    "avgilvl": 198.0
   },
   "WAFI": {
     "name": "Whisper Ashsucks for Invite",
@@ -782,11 +782,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 202,
-        "score": 0,
+        "ilvl": 205,
+        "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 19,
+        "renown": 30,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -806,11 +806,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 194,
-        "score": 0,
+        "ilvl": 202,
+        "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 7,
+        "renown": 19,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -830,11 +830,11 @@
         "race": 5,
         "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 142,
-        "score": 0,
+        "ilvl": 197,
+        "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 7,
+        "renown": 10,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
@@ -854,11 +854,11 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 202,
-        "score": 0,
+        "ilvl": 203,
+        "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 27,
+        "renown": 29,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -891,8 +891,8 @@
         }
       }
     ],
-    "score": 0,
+    "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 165.8
+    "avgilvl": 179.2
   }
 }
