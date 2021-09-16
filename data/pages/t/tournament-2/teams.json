@@ -38,11 +38,11 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 200,
+        "ilvl": 204,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 51,
+        "renown": 56,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -125,7 +125,7 @@
     ],
     "score": 1156,
     "scoreColor": "#f3ffed",
-    "avgilvl": 190.4
+    "avgilvl": 191.2
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
