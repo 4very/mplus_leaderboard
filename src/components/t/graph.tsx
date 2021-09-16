@@ -69,7 +69,7 @@ export default function TournGraph({
           <LineSeries name="WSRF2T" valueField="WSRF2T" argumentField="day" />
           <LineSeries name="TST" valueField="TST" argumentField="day" />
           <LineSeries name="STISB" valueField="STISB" argumentField="day" />
-          <LineSeries name="WAFI" valueField="WAFI" argumentField="day" />
+          <LineSeries name="inv" valueField="inv" argumentField="day" />
 
           <Legend />
           <Tooltip />
