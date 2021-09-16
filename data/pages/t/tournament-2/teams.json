@@ -876,9 +876,9 @@
         "className": "Warrior",
         "classColor": "#C69B6D",
         "race": 2,
-        "level": 54,
+        "level": 55,
         "title": "Ashsucks",
-        "ilvl": 89,
+        "ilvl": 99,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -893,6 +893,6 @@
     ],
     "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 179.6
+    "avgilvl": 181.6
   }
 }
