@@ -9083,7 +9083,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -14813,6 +14813,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Thundertotes"
     }
   },
+  "160578181": {
+    "name": "Th\u00f9nderlips",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 37,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00f9nderlips",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Th\u00f9nderlips",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00f9nderlips"
+    }
+  },
   "161045886": {
     "name": "Flippyflops",
     "realm": "sargeras",
@@ -15297,24 +15315,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dwarvlock",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dwarvlock",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dwarvlock"
-    }
-  },
-  "167068560": {
-    "name": "Beecki",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Beecki",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Beecki",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Beecki"
     }
   },
   "167143066": {
@@ -18303,24 +18303,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dracuhl",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
-    }
-  },
-  "160578181": {
-    "name": "Th\u00f9nderlips",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 37,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00f9nderlips",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Th\u00f9nderlips",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00f9nderlips"
     }
   }
 }
