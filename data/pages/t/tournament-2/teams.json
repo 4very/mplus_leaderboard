@@ -294,7 +294,7 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 214,
+        "ilvl": 217,
         "score": 395.5,
         "scoreColor": "#e2ffd6",
         "covenant": "Kyrian",
@@ -381,7 +381,7 @@
     ],
     "score": 1909.3,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 212.0
+    "avgilvl": 212.6
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -474,7 +474,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 23,
+        "renown": 27,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
