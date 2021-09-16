@@ -702,11 +702,11 @@
         "race": 9,
         "level": 60,
         "title": "Mash\u00edro, Vengeance Incarnate",
-        "ilvl": 219,
+        "ilvl": 220,
         "score": 65.6,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 60,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -765,7 +765,7 @@
     ],
     "score": 328.0,
     "scoreColor": "#ffffff",
-    "avgilvl": 200.0
+    "avgilvl": 200.2
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
