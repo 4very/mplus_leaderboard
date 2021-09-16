@@ -38,11 +38,11 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 204,
+        "ilvl": 208,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 56,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -66,7 +66,7 @@
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 47,
+        "renown": 48,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -125,7 +125,7 @@
     ],
     "score": 1156,
     "scoreColor": "#f3ffed",
-    "avgilvl": 191.2
+    "avgilvl": 192.0
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -294,11 +294,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 217,
+        "ilvl": 218,
         "score": 583.3,
         "scoreColor": "#bdffa7",
         "covenant": "Kyrian",
-        "renown": 48,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -381,7 +381,7 @@
     ],
     "score": 2725.0,
     "scoreColor": "#a8ff8e",
-    "avgilvl": 213.8
+    "avgilvl": 214.0
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -444,13 +444,13 @@
         "className": "Monk",
         "classColor": "#00FF98",
         "race": 25,
-        "level": 57,
+        "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 109,
+        "ilvl": 148,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 1,
+        "renown": 4,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 182.6
+    "avgilvl": 190.4
   },
   "TST": {
     "name": "Titanic Swim Team",

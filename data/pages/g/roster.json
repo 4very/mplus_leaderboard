@@ -2051,6 +2051,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Caldaeanya"
     }
   },
+  "173643543": {
+    "name": "Tralee",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Tralee",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tralee",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tralee",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tralee"
+    }
+  },
   "173749127": {
     "name": "Kelvameliss\u00eb",
     "realm": "illidan",
@@ -6639,6 +6657,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Purpletoes",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Purpletoes",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Purpletoes"
+    }
+  },
+  "199848476": {
+    "name": "Dissappeared",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dissappeared",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dissappeared",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dissappeared",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dissappeared"
     }
   },
   "199899159": {
