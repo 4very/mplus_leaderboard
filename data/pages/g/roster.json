@@ -11816,7 +11816,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2077.2,
+    "score": 2077.5,
     "scoreColor": "#5c63e3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Casttiel",
@@ -12831,6 +12831,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sinborn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sinborn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sinborn"
+    }
+  },
+  "183190629": {
+    "name": "Eredris",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 27,
+    "rank": 9,
+    "score": 133.1,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Eredris",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Eredris",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Eredris",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Eredris"
     }
   },
   "989898": {

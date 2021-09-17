@@ -342,11 +342,11 @@
         "race": 27,
         "level": 60,
         "title": "Archmage Cylonarkana",
-        "ilvl": 209,
+        "ilvl": 210,
         "score": 391.8,
         "scoreColor": "#e2ffd6",
         "covenant": "Kyrian",
-        "renown": 20,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -381,7 +381,7 @@
     ],
     "score": 2725.0,
     "scoreColor": "#a8ff8e",
-    "avgilvl": 214.2
+    "avgilvl": 214.4
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -446,7 +446,7 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 152,
+        "ilvl": 177,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 191.2
+    "avgilvl": 196.2
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -554,7 +554,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 40,
+        "renown": 48,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
