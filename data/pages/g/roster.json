@@ -9155,7 +9155,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12287,7 +12287,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12464,8 +12464,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1530.6,
-    "scoreColor": "#5fb494",
+    "score": 1573.1,
+    "scoreColor": "#5fb098",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -13634,8 +13634,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1132.5,
-    "scoreColor": "#3bf436",
+    "score": 1198.5,
+    "scoreColor": "#4ae84e",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Cadillax",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cadillax",

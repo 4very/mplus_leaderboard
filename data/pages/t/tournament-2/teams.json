@@ -218,7 +218,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 25,
+        "renown": 28,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -238,11 +238,11 @@
         "race": 35,
         "level": 60,
         "title": "Likkota the Patient",
-        "ilvl": 196,
+        "ilvl": 199,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 27,
+        "renown": 36,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 201.8
+    "avgilvl": 202.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -702,11 +702,11 @@
         "race": 9,
         "level": 60,
         "title": "Mash\u00edro, Vengeance Incarnate",
-        "ilvl": 220,
+        "ilvl": 221,
         "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 62,
+        "renown": 63,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -765,7 +765,7 @@
     ],
     "score": 665.5,
     "scoreColor": "#ffffff",
-    "avgilvl": 203.2
+    "avgilvl": 203.4
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
