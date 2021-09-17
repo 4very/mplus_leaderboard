@@ -14,9 +14,9 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 206,
-        "score": 718.6,
-        "scoreColor": "#a3ff88",
+        "ilvl": 210,
+        "score": 815.7,
+        "scoreColor": "#8aff6e",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -38,11 +38,11 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 212,
-        "score": 718.6,
-        "scoreColor": "#a3ff88",
+        "ilvl": 216,
+        "score": 815.7,
+        "scoreColor": "#8aff6e",
         "covenant": "Kyrian",
-        "renown": 58,
+        "renown": 63,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 209,
-        "score": 718.6,
-        "scoreColor": "#a3ff88",
+        "score": 815.7,
+        "scoreColor": "#8aff6e",
         "covenant": "Kyrian",
         "renown": 51,
         "links": {
@@ -86,11 +86,11 @@
         "race": 10,
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
-        "ilvl": 199,
-        "score": 662.1,
-        "scoreColor": "#aeff94",
+        "ilvl": 204,
+        "score": 759.2,
+        "scoreColor": "#97ff7b",
         "covenant": "Night Fae",
-        "renown": 16,
+        "renown": 22,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
@@ -114,7 +114,7 @@
         "score": 533.6,
         "scoreColor": "#c7ffb3",
         "covenant": "Necrolord",
-        "renown": 47,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -123,15 +123,15 @@
         }
       }
     ],
-    "score": 3351.5,
-    "scoreColor": "#84ff67",
-    "avgilvl": 207.2,
+    "score": 3739.9,
+    "scoreColor": "#65ff49",
+    "avgilvl": 209.8,
     "highestkey": {
       "key": 11,
       "per": -0.13770277777777773,
       "str": "11 (13.77%)"
     },
-    "numkeys": 10
+    "numkeys": 12
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -282,11 +282,11 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 218,
-        "score": 844.2,
-        "scoreColor": "#84ff67",
+        "ilvl": 222,
+        "score": 923.2,
+        "scoreColor": "#6dff51",
         "covenant": "Night Fae",
-        "renown": 40,
+        "renown": 44,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -307,10 +307,10 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 221,
-        "score": 844.2,
-        "scoreColor": "#84ff67",
+        "score": 923.2,
+        "scoreColor": "#6dff51",
         "covenant": "Kyrian",
-        "renown": 60,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -331,8 +331,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 218,
-        "score": 844.2,
-        "scoreColor": "#84ff67",
+        "score": 923.2,
+        "scoreColor": "#6dff51",
         "covenant": "Necrolord",
         "renown": 58,
         "links": {
@@ -378,11 +378,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 213,
-        "score": 844.2,
-        "scoreColor": "#84ff67",
+        "ilvl": 215,
+        "score": 923.2,
+        "scoreColor": "#6dff51",
         "covenant": "Kyrian",
-        "renown": 39,
+        "renown": 41,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -391,15 +391,15 @@
         }
       }
     ],
-    "score": 3768.6000000000004,
-    "scoreColor": "#65ff49",
-    "avgilvl": 216.0,
+    "score": 4084.6000000000004,
+    "scoreColor": "#44ff2b",
+    "avgilvl": 217.2,
     "highestkey": {
-      "key": 11,
-      "per": -0.050577906976744136,
-      "str": "11 (5.06%)"
+      "key": 12,
+      "per": -0.17537072072072069,
+      "str": "12 (17.54%)"
     },
-    "numkeys": 14
+    "numkeys": 15
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -516,7 +516,7 @@
         "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 37,
+        "renown": 38,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
