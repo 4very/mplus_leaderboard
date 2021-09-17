@@ -470,11 +470,11 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 196,
+        "ilvl": 197,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 27,
+        "renown": 28,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -509,7 +509,7 @@
     ],
     "score": 549.6,
     "scoreColor": "#ffffff",
-    "avgilvl": 200.2
+    "avgilvl": 200.4
   },
   "TST": {
     "name": "Titanic Swim Team",
