@@ -86,8 +86,8 @@
         "race": 10,
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
-        "ilvl": 136,
-        "score": 0,
+        "ilvl": 179,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 1,
@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 1156,
-    "scoreColor": "#f3ffed",
-    "avgilvl": 192.4
+    "score": 1223.5,
+    "scoreColor": "#efffe8",
+    "avgilvl": 201.0
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -271,8 +271,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 217,
-        "score": 583.3,
-        "scoreColor": "#bdffa7",
+        "score": 621.1,
+        "scoreColor": "#b8ffa1",
         "covenant": "Night Fae",
         "renown": 38,
         "links": {
@@ -295,8 +295,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 218,
-        "score": 583.3,
-        "scoreColor": "#bdffa7",
+        "score": 621.1,
+        "scoreColor": "#b8ffa1",
         "covenant": "Kyrian",
         "renown": 49,
         "links": {
@@ -319,8 +319,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 215,
-        "score": 583.3,
-        "scoreColor": "#bdffa7",
+        "score": 621.1,
+        "scoreColor": "#b8ffa1",
         "covenant": "Necrolord",
         "renown": 47,
         "links": {
@@ -367,8 +367,8 @@
         "level": 60,
         "title": "Easybreezey the Faceless One",
         "ilvl": 212,
-        "score": 583.3,
-        "scoreColor": "#bdffa7",
+        "score": 621.1,
+        "scoreColor": "#b8ffa1",
         "covenant": "Kyrian",
         "renown": 34,
         "links": {
@@ -379,8 +379,8 @@
         }
       }
     ],
-    "score": 2725.0,
-    "scoreColor": "#a8ff8e",
+    "score": 2876.2000000000003,
+    "scoreColor": "#a3ff88",
     "avgilvl": 214.4
   },
   "ASC": {
@@ -398,11 +398,11 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 210,
-        "score": 63,
+        "ilvl": 211,
+        "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 47,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -423,10 +423,10 @@
         "level": 60,
         "title": "Santhano the Dreamer",
         "ilvl": 195,
-        "score": 63,
+        "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 38,
+        "renown": 40,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Santhano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Santhano",
@@ -446,11 +446,11 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 177,
-        "score": 63,
+        "ilvl": 189,
+        "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 6,
+        "renown": 11,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -495,7 +495,7 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 203,
-        "score": 63,
+        "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 22,
@@ -507,9 +507,9 @@
         }
       }
     ],
-    "score": 252,
+    "score": 549.6,
     "scoreColor": "#ffffff",
-    "avgilvl": 196.2
+    "avgilvl": 198.8
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -782,11 +782,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 205,
+        "ilvl": 208,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 30,
+        "renown": 38,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -830,11 +830,11 @@
         "race": 5,
         "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 199,
+        "ilvl": 201,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 17,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
@@ -854,11 +854,11 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 203,
+        "ilvl": 204,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 30,
+        "renown": 38,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -893,6 +893,6 @@
     ],
     "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 181.6
+    "avgilvl": 182.8
   }
 }
