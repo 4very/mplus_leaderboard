@@ -254,6 +254,66 @@
       "scoreColor": "#a3ff88",
       "timeDiff": -916781,
       "percDiff": -0.4774901041666667
+    },
+    "8997378": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8997378-3-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 49.6,
+      "keystoneLevel": 3,
+      "clearTime": 1364723,
+      "dateCompleted": "2021-09-17T04:13:55.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "team": "ASC",
+      "scoreColor": "#91ff75",
+      "timeDiff": -795277,
+      "percDiff": -0.3681837962962963
+    },
+    "8995999": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8995999-2-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 42,
+      "keystoneLevel": 2,
+      "clearTime": 2167490,
+      "dateCompleted": "2021-09-17T03:41:27.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "team": "ASC",
+      "scoreColor": "#aeff94",
+      "timeDiff": -412510,
+      "percDiff": -0.15988759689922483
+    },
+    "8998993": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8998993-2-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 786248,
+      "dateCompleted": "2021-09-17T04:54:58.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "team": "meat",
+      "scoreColor": "#a3ff88",
+      "timeDiff": -1013752,
+      "percDiff": -0.5631955555555556
+    },
+    "8998197": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8998197-9-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 88.9,
+      "keystoneLevel": 9,
+      "clearTime": 1238616,
+      "dateCompleted": "2021-09-17T04:34:26.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "TTC",
+      "scoreColor": "#5ec67e",
+      "timeDiff": -561384,
+      "percDiff": -0.31188000000000005
     }
   }
 }
