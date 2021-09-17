@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 203,
-        "score": 289,
-        "scoreColor": "#f3ffed",
+        "score": 441,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
         "renown": 62,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 208,
-        "score": 289,
-        "scoreColor": "#f3ffed",
+        "score": 441,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 207,
-        "score": 289,
-        "scoreColor": "#f3ffed",
+        "score": 441,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
         "renown": 49,
         "links": {
@@ -87,7 +87,7 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 179,
-        "score": 67.5,
+        "score": 219.5,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 1,
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 208,
-        "score": 289,
-        "scoreColor": "#f3ffed",
+        "score": 441,
+        "scoreColor": "#d9ffca",
         "covenant": "Necrolord",
         "renown": 41,
         "links": {
@@ -123,8 +123,8 @@
         }
       }
     ],
-    "score": 1223.5,
-    "scoreColor": "#efffe8",
+    "score": 1983.5,
+    "scoreColor": "#d0ffbe",
     "avgilvl": 201.0
   },
   "WSF2T": {
@@ -164,13 +164,13 @@
         "className": "Shaman",
         "classColor": "#0070DD",
         "race": 35,
-        "level": 58,
+        "level": 60,
         "title": "Chef Zantano",
-        "ilvl": 128,
+        "ilvl": 191,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 1,
+        "renown": 7,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
@@ -214,11 +214,11 @@
         "race": 35,
         "level": 60,
         "title": "Procuts",
-        "ilvl": 185,
+        "ilvl": 192,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 21,
+        "renown": 25,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 186.4
+    "avgilvl": 200.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -270,11 +270,11 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 217,
-        "score": 621.1,
-        "scoreColor": "#b8ffa1",
+        "ilvl": 218,
+        "score": 794.3,
+        "scoreColor": "#91ff75",
         "covenant": "Night Fae",
-        "renown": 38,
+        "renown": 40,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -294,11 +294,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 218,
-        "score": 621.1,
-        "scoreColor": "#b8ffa1",
+        "ilvl": 221,
+        "score": 794.3,
+        "scoreColor": "#91ff75",
         "covenant": "Kyrian",
-        "renown": 49,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -319,8 +319,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 215,
-        "score": 621.1,
-        "scoreColor": "#b8ffa1",
+        "score": 794.3,
+        "scoreColor": "#91ff75",
         "covenant": "Necrolord",
         "renown": 47,
         "links": {
@@ -366,11 +366,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey the Faceless One",
-        "ilvl": 212,
-        "score": 621.1,
-        "scoreColor": "#b8ffa1",
+        "ilvl": 213,
+        "score": 794.3,
+        "scoreColor": "#91ff75",
         "covenant": "Kyrian",
-        "renown": 34,
+        "renown": 37,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -379,9 +379,9 @@
         }
       }
     ],
-    "score": 2876.2000000000003,
-    "scoreColor": "#a3ff88",
-    "avgilvl": 214.4
+    "score": 3569.0,
+    "scoreColor": "#75ff59",
+    "avgilvl": 215.4
   },
   "ASC": {
     "name": "Alliance Shadow Council",
