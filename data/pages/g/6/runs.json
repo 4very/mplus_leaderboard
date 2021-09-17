@@ -32,11 +32,7 @@
       "dateCompleted": "2021-09-15T18:32:24.000Z",
       "keyMod": 3,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665"
-      ],
+      "members": ["168583004", "200029279", "220096665"],
       "count": 3,
       "scoreColor": "#a3ff88",
       "timeDiff": -1032940,
@@ -52,11 +48,7 @@
       "dateCompleted": "2021-09-15T19:31:29.000Z",
       "keyMod": 3,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665"
-      ],
+      "members": ["168583004", "200029279", "220096665"],
       "count": 3,
       "scoreColor": "#35ff1c",
       "timeDiff": -917497,
@@ -72,11 +64,7 @@
       "dateCompleted": "2021-09-15T19:02:44.000Z",
       "keyMod": 3,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665"
-      ],
+      "members": ["168583004", "200029279", "220096665"],
       "count": 3,
       "scoreColor": "#a3ff88",
       "timeDiff": -1161739,
@@ -92,12 +80,7 @@
       "dateCompleted": "2021-09-15T20:58:43.000Z",
       "keyMod": 3,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665",
-        "195983585"
-      ],
+      "members": ["168583004", "200029279", "220096665", "195983585"],
       "count": 4,
       "scoreColor": "#a3ff88",
       "timeDiff": -890270,
@@ -113,12 +96,7 @@
       "dateCompleted": "2021-09-15T21:27:35.000Z",
       "keyMod": 3,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665",
-        "195983585"
-      ],
+      "members": ["168583004", "200029279", "220096665", "195983585"],
       "count": 4,
       "scoreColor": "#a3ff88",
       "timeDiff": -1144793,
@@ -134,12 +112,7 @@
       "dateCompleted": "2021-09-15T21:53:43.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665",
-        "195983585"
-      ],
+      "members": ["168583004", "200029279", "220096665", "195983585"],
       "count": 4,
       "scoreColor": "#44ff2b",
       "timeDiff": -529802,
@@ -155,12 +128,7 @@
       "dateCompleted": "2021-09-15T20:37:01.000Z",
       "keyMod": 3,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665",
-        "195983585"
-      ],
+      "members": ["168583004", "200029279", "220096665", "195983585"],
       "count": 4,
       "scoreColor": "#a3ff88",
       "timeDiff": -978802,
@@ -176,12 +144,7 @@
       "dateCompleted": "2021-09-15T20:05:01.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665",
-        "195983585"
-      ],
+      "members": ["168583004", "200029279", "220096665", "195983585"],
       "count": 4,
       "scoreColor": "#35ff1c",
       "timeDiff": -776966,
@@ -197,12 +160,7 @@
       "dateCompleted": "2021-09-16T01:25:05.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": [
-        "163825773",
-        "216878287",
-        "220496283",
-        "220689029"
-      ],
+      "members": ["163825773", "216878287", "220496283", "220689029"],
       "count": 4,
       "scoreColor": "#a3ff88",
       "timeDiff": -744657,
@@ -284,12 +242,7 @@
       "dateCompleted": "2021-09-16T20:27:49.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665",
-        "195983585"
-      ],
+      "members": ["168583004", "200029279", "220096665", "195983585"],
       "count": 4,
       "scoreColor": "#44ff2b",
       "timeDiff": -663602,
@@ -305,12 +258,7 @@
       "dateCompleted": "2021-09-16T21:16:06.000Z",
       "keyMod": 0,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665",
-        "195983585"
-      ],
+      "members": ["168583004", "200029279", "220096665", "195983585"],
       "count": 4,
       "scoreColor": "#34f72b",
       "timeDiff": 131195,
@@ -326,11 +274,7 @@
       "dateCompleted": "2021-09-16T19:53:42.000Z",
       "keyMod": 1,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665"
-      ],
+      "members": ["168583004", "200029279", "220096665"],
       "count": 3,
       "scoreColor": "#58d56b",
       "timeDiff": -333127,
@@ -402,6 +346,28 @@
       "timeDiff": -795277,
       "percDiff": -0.3681837962962963
     },
+    "8999946": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8999946-5-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 64.8,
+      "keystoneLevel": 5,
+      "clearTime": 1179560,
+      "dateCompleted": "2021-09-17T05:18:56.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "members": [
+        "125290639",
+        "215572555",
+        "220696049",
+        "220696413",
+        "220697684"
+      ],
+      "count": 5,
+      "scoreColor": "#35ff1c",
+      "timeDiff": -740440,
+      "percDiff": -0.38564583333333335
+    },
     "8998993": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/8998993-2-mists-of-tirna-scithe",
       "dunegonName": "Mists of Tirna Scithe",
@@ -424,6 +390,22 @@
       "timeDiff": -1013752,
       "percDiff": -0.5631955555555556
     },
+    "9000152": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9000152-11-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 105.6,
+      "keystoneLevel": 11,
+      "clearTime": 2449509,
+      "dateCompleted": "2021-09-17T05:21:13.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": ["168583004", "200029279", "220096665"],
+      "count": 3,
+      "scoreColor": "#599eac",
+      "timeDiff": -130491,
+      "percDiff": -0.050577906976744136
+    },
     "8998197": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/8998197-9-mists-of-tirna-scithe",
       "dunegonName": "Mists of Tirna Scithe",
@@ -434,11 +416,7 @@
       "dateCompleted": "2021-09-17T04:34:26.000Z",
       "keyMod": 2,
       "faction": "horde",
-      "members": [
-        "168583004",
-        "200029279",
-        "220096665"
-      ],
+      "members": ["168583004", "200029279", "220096665"],
       "count": 3,
       "scoreColor": "#5ec67e",
       "timeDiff": -561384,

@@ -87,7 +87,7 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 179,
-        "score": 0,
+        "score": 67.5,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 1,
@@ -123,8 +123,8 @@
         }
       }
     ],
-    "score": 1156,
-    "scoreColor": "#f3ffed",
+    "score": 1223.5,
+    "scoreColor": "#efffe8",
     "avgilvl": 201.0
   },
   "WSF2T": {
@@ -398,11 +398,11 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 210,
+        "ilvl": 211,
         "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 47,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -509,7 +509,7 @@
     ],
     "score": 549.6,
     "scoreColor": "#ffffff",
-    "avgilvl": 198.6
+    "avgilvl": 198.8
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -782,11 +782,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 205,
+        "ilvl": 208,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 30,
+        "renown": 38,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -830,11 +830,11 @@
         "race": 5,
         "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 199,
+        "ilvl": 201,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 17,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
@@ -854,11 +854,11 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 203,
+        "ilvl": 204,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 30,
+        "renown": 38,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -893,6 +893,6 @@
     ],
     "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 181.6
+    "avgilvl": 182.8
   }
 }
