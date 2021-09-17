@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 206,
-        "score": 441,
-        "scoreColor": "#d9ffca",
+        "score": 533.6,
+        "scoreColor": "#c7ffb3",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 207,
+        "ilvl": 209,
         "score": 533.6,
         "scoreColor": "#c7ffb3",
         "covenant": "Kyrian",
-        "renown": 49,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -110,11 +110,11 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 208,
+        "ilvl": 210,
         "score": 533.6,
         "scoreColor": "#c7ffb3",
         "covenant": "Necrolord",
-        "renown": 41,
+        "renown": 43,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 2421.4,
-    "scoreColor": "#b8ffa1",
-    "avgilvl": 205.6
+    "score": 2514.0,
+    "scoreColor": "#b3ff9b",
+    "avgilvl": 206.4
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -146,7 +146,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 51,
+        "renown": 53,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -318,11 +318,11 @@
         "race": 31,
         "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 215,
+        "ilvl": 217,
         "score": 794.3,
         "scoreColor": "#91ff75",
         "covenant": "Necrolord",
-        "renown": 47,
+        "renown": 55,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -381,7 +381,7 @@
     ],
     "score": 3569.0,
     "scoreColor": "#75ff59",
-    "avgilvl": 215.4
+    "avgilvl": 215.8
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -494,11 +494,11 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 203,
+        "ilvl": 210,
         "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 22,
+        "renown": 32,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -509,7 +509,7 @@
     ],
     "score": 549.6,
     "scoreColor": "#ffffff",
-    "avgilvl": 198.8
+    "avgilvl": 200.2
   },
   "TST": {
     "name": "Titanic Swim Team",
