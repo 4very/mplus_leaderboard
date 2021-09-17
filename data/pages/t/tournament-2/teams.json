@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 203,
-        "score": 441,
-        "scoreColor": "#d9ffca",
+        "score": 533.6,
+        "scoreColor": "#c7ffb3",
         "covenant": "Kyrian",
         "renown": 62,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 208,
-        "score": 441,
-        "scoreColor": "#d9ffca",
+        "score": 533.6,
+        "scoreColor": "#c7ffb3",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 207,
-        "score": 441,
-        "scoreColor": "#d9ffca",
+        "score": 533.6,
+        "scoreColor": "#c7ffb3",
         "covenant": "Kyrian",
         "renown": 49,
         "links": {
@@ -87,8 +87,8 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 179,
-        "score": 219.5,
-        "scoreColor": "#ffffff",
+        "score": 379.6,
+        "scoreColor": "#e2ffd6",
         "covenant": "Night Fae",
         "renown": 1,
         "links": {
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 208,
-        "score": 441,
-        "scoreColor": "#d9ffca",
+        "score": 533.6,
+        "scoreColor": "#c7ffb3",
         "covenant": "Necrolord",
         "renown": 41,
         "links": {
@@ -123,8 +123,8 @@
         }
       }
     ],
-    "score": 1983.5,
-    "scoreColor": "#d0ffbe",
+    "score": 2514.0,
+    "scoreColor": "#b3ff9b",
     "avgilvl": 201.0
   },
   "WSF2T": {
