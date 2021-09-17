@@ -108,7 +108,13 @@
         }
       }
     ],
-    "score": 9640
+    "score": 9640,
+    "highestkey": {
+      "key": 16,
+      "per": -0.05987393162393162,
+      "str": "16 (5.99%)"
+    },
+    "numkeys": 4
   },
   "Team 2": {
     "name": "White Sands Resort & Spa Super Chill M+ Organization",
@@ -219,7 +225,13 @@
         }
       }
     ],
-    "score": 8873
+    "score": 8873,
+    "highestkey": {
+      "key": 16,
+      "per": 0.012257657657657628,
+      "str": "16 (1.23%)"
+    },
+    "numkeys": 8
   },
   "Team 3": {
     "name": "I Swear We're Ramping",
@@ -330,7 +342,13 @@
         }
       }
     ],
-    "score": 11177
+    "score": 11177,
+    "highestkey": {
+      "key": 20,
+      "per": -0.022333333333333316,
+      "str": "20 (2.23%)"
+    },
+    "numkeys": 5
   },
   "Team 4": {
     "name": "Bobby Kotick Needs Another Boat",
@@ -441,7 +459,13 @@
         }
       }
     ],
-    "score": 11297
+    "score": 11297,
+    "highestkey": {
+      "key": 20,
+      "per": 0.035380620155038844,
+      "str": "20 (3.54%)"
+    },
+    "numkeys": 8
   },
   "Team 5": {
     "name": "Trollsor, Seigyu, Soro, Nixaandria. Shall we form a pick up team for next week?",
@@ -552,7 +576,13 @@
         }
       }
     ],
-    "score": 7809
+    "score": 7809,
+    "highestkey": {
+      "key": 13,
+      "per": -0.10243815789473687,
+      "str": "13 (10.24%)"
+    },
+    "numkeys": 5
   },
   "Team 6": {
     "name": "Turbo 24/7",
@@ -663,6 +693,12 @@
         }
       }
     ],
-    "score": 10263
+    "score": 10263,
+    "highestkey": {
+      "key": 19,
+      "per": -0.0063241228070175515,
+      "str": "19 (0.63%)"
+    },
+    "numkeys": 7
   }
 }
