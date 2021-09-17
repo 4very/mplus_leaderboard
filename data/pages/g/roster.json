@@ -9137,7 +9137,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12269,7 +12269,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -14894,7 +14894,7 @@
     "classColor": "#C41E3A",
     "race": 37,
     "rank": 9,
-    "score": 0,
+    "score": 63,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
@@ -16604,7 +16604,7 @@
     "classColor": "#8788EE",
     "race": 37,
     "rank": 9,
-    "score": 0,
+    "score": 63,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
@@ -17126,7 +17126,7 @@
     "classColor": "#0070DD",
     "race": 3,
     "rank": 9,
-    "score": 0,
+    "score": 63,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Santhano",
@@ -17144,7 +17144,7 @@
     "classColor": "#0070DD",
     "race": 34,
     "rank": 2,
-    "score": 132.5,
+    "score": 224.9,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Palfredo",
@@ -18404,7 +18404,7 @@
     "classColor": "#00FF98",
     "race": 25,
     "rank": 1,
-    "score": 0,
+    "score": 63,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Ashpartame",

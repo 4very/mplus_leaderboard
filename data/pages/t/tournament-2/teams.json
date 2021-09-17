@@ -399,7 +399,7 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 210,
-        "score": 0,
+        "score": 63,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
         "renown": 47,
@@ -423,7 +423,7 @@
         "level": 60,
         "title": "Santhano the Dreamer",
         "ilvl": 195,
-        "score": 0,
+        "score": 63,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
         "renown": 38,
@@ -447,7 +447,7 @@
         "level": 60,
         "title": "Ashpartame the Seeker",
         "ilvl": 177,
-        "score": 0,
+        "score": 63,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
         "renown": 6,
@@ -495,7 +495,7 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 203,
-        "score": 0,
+        "score": 63,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 22,
@@ -507,7 +507,7 @@
         }
       }
     ],
-    "score": 0,
+    "score": 252,
     "scoreColor": "#ffffff",
     "avgilvl": 196.2
   },
@@ -554,7 +554,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 48,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
