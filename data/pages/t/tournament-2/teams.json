@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 209,
+        "ilvl": 210,
         "score": 815.7,
         "scoreColor": "#8aff6e",
         "covenant": "Kyrian",
-        "renown": 51,
+        "renown": 53,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -125,7 +125,7 @@
     ],
     "score": 3739.9,
     "scoreColor": "#65ff49",
-    "avgilvl": 209.8,
+    "avgilvl": 210.0,
     "highestkey": {
       "key": 11,
       "per": -0.13770277777777773,
@@ -248,7 +248,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 36,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -334,7 +334,7 @@
         "score": 923.2,
         "scoreColor": "#6dff51",
         "covenant": "Necrolord",
-        "renown": 58,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -395,11 +395,11 @@
     "scoreColor": "#44ff2b",
     "avgilvl": 217.2,
     "highestkey": {
-      "key": 12,
-      "per": -0.17537072072072069,
-      "str": "12 (17.54%)"
+      "key": 13,
+      "per": -0.10050921052631578,
+      "str": "13 (10.05%)"
     },
-    "numkeys": 15
+    "numkeys": 16
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -464,11 +464,11 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 189,
+        "ilvl": 190,
         "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 11,
+        "renown": 28,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -527,7 +527,7 @@
     ],
     "score": 549.6,
     "scoreColor": "#ffffff",
-    "avgilvl": 200.8,
+    "avgilvl": 201.0,
     "highestkey": {
       "key": 3,
       "per": -0.3681837962962963,
