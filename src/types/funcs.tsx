@@ -147,7 +147,7 @@ export const addCov = (params: GridCellParams) => (
     title="Covenant"
     src={
       params.row.covenant
-        ? `/images/${params.row.covenant.toLowerCase()}.webp`
+        ? `/images/${params.row.covenant.toLowerCase()}.png`
         : ''
     }
     alt=""
@@ -158,7 +158,7 @@ export const addClass = (params: GridCellParams) => (
   <img
     className="max-h-8 self-center block ml-auto mr-auto"
     title="Covenant"
-    src={`/images/${params.value.toString().toLowerCase()}.webp`}
+    src={`/images/${params.value.toString().toLowerCase()}.png`}
     alt=""
   />
 );
