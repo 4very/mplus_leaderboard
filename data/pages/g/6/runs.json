@@ -357,6 +357,27 @@
       "scoreColor": "#a3ff88",
       "timeDiff": -916781,
       "percDiff": -0.4774901041666667
+    },
+    "8995999": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/8995999-2-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 42,
+      "keystoneLevel": 2,
+      "clearTime": 2167490,
+      "dateCompleted": "2021-09-17T03:41:27.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "members": [
+        "160578181",
+        "185887369",
+        "188515897",
+        "191276872"
+      ],
+      "count": 4,
+      "scoreColor": "#aeff94",
+      "timeDiff": -412510,
+      "percDiff": -0.15988759689922483
     }
   }
 }

@@ -13723,7 +13723,7 @@
     "className": "Mage",
     "classColor": "#3FC7EB",
     "race": 7,
-    "rank": 5,
+    "rank": 2,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -14821,7 +14821,7 @@
     "className": "Demon Hunter",
     "classColor": "#A330C9",
     "race": 4,
-    "rank": 8,
+    "rank": 5,
     "score": 2154.3,
     "scoreColor": "#9445eb",
     "links": {
@@ -15433,7 +15433,7 @@
     "className": "Hunter",
     "classColor": "#AAD372",
     "race": 4,
-    "rank": 8,
+    "rank": 9,
     "score": 933.1,
     "scoreColor": "#65ff49",
     "links": {
@@ -15523,7 +15523,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 32,
-    "rank": 5,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -15541,7 +15541,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 32,
-    "rank": 8,
+    "rank": 5,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -16351,7 +16351,7 @@
     "className": "Priest",
     "classColor": "#FFFFFF",
     "race": 4,
-    "rank": 8,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -16639,7 +16639,7 @@
     "className": "Warrior",
     "classColor": "#C69B6D",
     "race": 1,
-    "rank": 5,
+    "rank": 9,
     "score": 286,
     "scoreColor": "#f3ffed",
     "links": {
@@ -16873,7 +16873,7 @@
     "className": "Shaman",
     "classColor": "#0070DD",
     "race": 11,
-    "rank": 5,
+    "rank": 9,
     "score": 195.7,
     "scoreColor": "#ffffff",
     "links": {
@@ -17143,7 +17143,7 @@
     "className": "Shaman",
     "classColor": "#0070DD",
     "race": 34,
-    "rank": 5,
+    "rank": 2,
     "score": 132.5,
     "scoreColor": "#ffffff",
     "links": {
@@ -17395,7 +17395,7 @@
     "className": "Warlock",
     "classColor": "#8788EE",
     "race": 29,
-    "rank": 5,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -17863,7 +17863,7 @@
     "className": "Death Knight",
     "classColor": "#C41E3A",
     "race": 7,
-    "rank": 5,
+    "rank": 9,
     "score": 1559,
     "scoreColor": "#5fb098",
     "links": {
@@ -18133,7 +18133,7 @@
     "className": "Warlock",
     "classColor": "#8788EE",
     "race": 1,
-    "rank": 5,
+    "rank": 2,
     "score": 1634.1,
     "scoreColor": "#5ca5a4",
     "links": {
@@ -18386,7 +18386,7 @@
     "classColor": "#FFF468",
     "race": 29,
     "rank": 9,
-    "score": 0,
+    "score": 67.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Dracuhl",
@@ -18403,7 +18403,7 @@
     "className": "Monk",
     "classColor": "#00FF98",
     "race": 25,
-    "rank": 9,
+    "rank": 1,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
