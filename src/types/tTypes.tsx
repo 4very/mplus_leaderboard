@@ -48,6 +48,8 @@ export interface TTeamData {
   players: TPlayerRow[];
   scoreColor: string;
   avgilvl: number;
+  highestkey: { key: number; per: number; str: string };
+  numkeys: number;
 }
 
 export interface TPlayerRow {

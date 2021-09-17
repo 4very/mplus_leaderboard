@@ -45,6 +45,12 @@ export default function TeamSection({
                     {team.score}
                   </span>
                 </Typography>
+                <Typography className="font-serif -mt-2" variant="h6">
+                  {`Highest Key Timed: ${team.highestkey.str}`}
+                </Typography>
+                <Typography className="font-serif -mt-2" variant="h6">
+                  {`Num of Keys Done: ${team.numkeys}`}
+                </Typography>
               </Indent>
 
               <Indent>

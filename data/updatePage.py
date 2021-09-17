@@ -1,9 +1,10 @@
-import json
+from json import dump, load
 from os.path import join, realpath, dirname
 from os import getcwd
-from RIO import RIO_GetRecentRuns
-from updateMeta import getColorForRunScore, getDungeonTimings, updateTimeFile
+from RIO import RIO_GetCharRankings, RIO_GetRecentRuns
+from updateMeta import NumberToClassColor, NumberToClassName, getColorForRunScore, getColorForScore, getDungeonTimings, updateTimeFile
 from datetime import datetime
+from WOW import WOW_GetCharData
 
 import logging
 
@@ -11,17 +12,18 @@ def updatePage(folder: str, pageParams: dict):
   runs = getRuns(folder, pageParams)
   writeRunsToFile(runs, folder)
   updateTimeFile(folder)
+  updateRosterData(folder)
 
 def writeRunsToFile(runs: dict, folder: str):
   runsFile = join(folder, 'runs.json')
 
   with open(runsFile, 'r') as f:
-    jsonData = json.load(f)
+    jsonData = load(f)
 
   jsonData['data'] = {**jsonData['data'], **runs}
   
   with open(runsFile, 'w') as f:
-    json.dump(jsonData, f, indent=2)
+    dump(jsonData, f, indent=2)
     logging.info(f'Wrote {len(runs)} new runs to file')
   
 
@@ -71,7 +73,15 @@ def getAllRuns(folder: str, pageParams: dict) -> dict:
     
 
 def getTeams(folder: str) -> dict:
-  with open(join(folder,'teams.json'),'r') as f: return json.load(f)
+  with open(join(folder,'teams.json'),'r') as f: return load(f)
+
+def dumpTeams(folder: str, teamData: object) -> dict:
+  with open(join(folder,'teams.json'),'w') as f: return dump(teamData,f,indent=2)
+
+def getRunsFromFile(folder: str) -> dict:
+  with open(join(folder,'runs.json'),'r') as f: return load(f)
+
+
 
 def getPlayerRuns(name: str, realm: str) -> list:
   return RIO_GetRecentRuns(name, realm)
@@ -93,7 +103,7 @@ def removeNonFullTeamRuns(validRuns: object, pageParams: object):
 
 def isDuplicate(id: str, folder: str) -> bool:
   with open(join(folder,'runs.json'), 'r') as f:
-    jsonData = json.load(f)
+    jsonData = load(f)
 
   return str(id) in jsonData['data'].keys()
 
@@ -106,11 +116,128 @@ def isValidDate(completeDate: str, pageStart: int) -> bool:
 
 def updateAllColors(folder: str):
   with open(join(folder,'runs.json'), 'r') as f:
-    jsonData = json.load(f)
+    jsonData = load(f)
   
   for runId, run in jsonData['data'].items():
     jsonData['data'][runId]['scoreColor'] = getColorForRunScore(run['score'])
 
   
   with open(join(folder,'runs.json'), 'w') as f:
-    json.dump(jsonData, f, indent=2)
+    dump(jsonData, f, indent=2)
+
+
+
+def updateRosterData(folder):
+  
+  teams = getTeams(folder)
+
+  keyNums = getKeysCompleted(folder)
+  highKeys = getHighestKeys(folder)
+  
+  for key, team in teams.items():
+    team_score = 0
+    team_ilvl = 0
+    for i in range(5):
+      name = team['players'][i]['name']
+      realm = team['players'][i]['realm']
+
+      rio_data = RIO_GetCharRankings(name,realm)
+      char = WOW_GetCharData(name.lower(), realm.lower())
+      try: char['faction']
+      except: 
+        print(name, realm)
+        continue
+      
+      if 'statusCode' not in rio_data.keys():
+        rio_link = rio_data['profile_url']
+        rio_score = rio_data['mythic_plus_scores_by_season'][0]['scores']['all']
+        rio_scoreColor = getColorForScore(rio_score)
+      else: 
+        rio_link = None
+        rio_score = 0
+        rio_scoreColor = '#ffffff'
+      
+      team_score += rio_score
+      team_ilvl += char['average_item_level']
+        
+      try: title = char['active_title']['display_string'].replace(r'{name}',name)
+      except: title = name
+
+      try: 
+        cov = char['covenant_progress']['chosen_covenant']['name']
+        renown = char['covenant_progress']['renown_level']
+      except:
+        cov = None
+        renown = None 
+
+
+      teams[key]['players'][i] = {
+        **teams[key]['players'][i],
+        'id': char['id'],
+        'name': name,
+        'realm': realm,
+        'faction': char['faction']['name'],
+        'class': char['character_class']['id'],
+        'className': NumberToClassName[char['character_class']['id']],
+        'classColor': NumberToClassColor[char['character_class']['id']],
+        'race': char['race']['id'],
+        'level': char['level'],
+        'title': title,
+        'ilvl': char['average_item_level'],
+        'score': rio_score,
+        'scoreColor': rio_scoreColor,
+        'covenant': cov,
+        'renown': renown,
+        'links': {
+          'rio': rio_link,
+          'armory': f'https://worldofwarcraft.com/en-us/character/us/{realm}/{name}',
+          'wcl': f'https://www.warcraftlogs.com/character/us/{realm}/{name}',
+          'rbot': f'https://www.raidbots.com/simbot/quick?region=us&realm={realm}&name={name}'
+        }
+      }
+        
+    teams[key] = {
+      **teams[key],
+      'score': team_score,
+      'scoreColor': getColorForScore(team_score/4.0),
+      'avgilvl': team_ilvl/5,
+      'highestkey':{
+        **highKeys[key]
+      },
+      'numkeys': keyNums[key]
+    }
+    
+
+  dumpTeams(folder, teams)
+
+def getKeysCompleted(folder):
+  runs = getRunsFromFile(folder)
+  teams = getTeams(folder)
+
+  runObj = {}
+  for id, _ in teams.items():
+    runObj[id] = 0
+    
+  for _, run in runs['data'].items():
+    runObj[run['team']] += 1
+  
+  return runObj
+
+def getHighestKeys(folder):
+  runs = getRunsFromFile(folder)
+  teams = getTeams(folder)
+
+  highKeyObj = {}
+  for tid, _ in teams.items(): highKeyObj[tid] = {'key':0, 'per':0, 'str':'none'}
+
+  for _, run in runs['data'].items():
+    if (highKeyObj[run['team']]['key'] < run['keystoneLevel'] and run['timeDiff'] <= 0) or \
+       (highKeyObj[run['team']]['key'] == run['keystoneLevel'] and highKeyObj[run['team']]['per'] < run['percDiff']): 
+      
+      highKeyObj[run['team']] = {
+      'key': run['keystoneLevel'],
+      'per': run['percDiff'],
+      'str': f'{run["keystoneLevel"]} ({round(abs(run["percDiff"]*100),2)}%)'
+    }
+  
+  return highKeyObj
