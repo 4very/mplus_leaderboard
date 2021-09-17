@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 205,
+        "ilvl": 207,
         "score": 289,
         "scoreColor": "#f3ffed",
         "covenant": "Kyrian",
-        "renown": 48,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -125,7 +125,7 @@
     ],
     "score": 1156,
     "scoreColor": "#f3ffed",
-    "avgilvl": 192.0
+    "avgilvl": 192.4
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -166,7 +166,7 @@
         "race": 35,
         "level": 58,
         "title": "Chef Zantano",
-        "ilvl": 127,
+        "ilvl": 128,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -253,7 +253,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 186.2
+    "avgilvl": 186.4
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -322,7 +322,7 @@
         "score": 583.3,
         "scoreColor": "#bdffa7",
         "covenant": "Necrolord",
-        "renown": 45,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -426,7 +426,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 34,
+        "renown": 38,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Santhano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Santhano",
@@ -446,11 +446,11 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 148,
+        "ilvl": 152,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 4,
+        "renown": 6,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -509,7 +509,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 190.4
+    "avgilvl": 191.2
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -654,11 +654,11 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 198,
-        "score": 65.6,
+        "ilvl": 203,
+        "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 29,
+        "renown": 31,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -679,10 +679,10 @@
         "level": 60,
         "title": "Sito of the Four Winds",
         "ilvl": 202,
-        "score": 65.6,
+        "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 26,
+        "renown": 27,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -703,10 +703,10 @@
         "level": 60,
         "title": "Mash\u00edro, Vengeance Incarnate",
         "ilvl": 220,
-        "score": 65.6,
+        "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 61,
+        "renown": 62,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -726,11 +726,11 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 194,
-        "score": 65.6,
+        "ilvl": 195,
+        "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 26,
+        "renown": 27,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -750,11 +750,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 187,
-        "score": 65.6,
+        "ilvl": 196,
+        "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 39,
+        "renown": 44,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -763,9 +763,9 @@
         }
       }
     ],
-    "score": 328.0,
+    "score": 665.5,
     "scoreColor": "#ffffff",
-    "avgilvl": 200.2
+    "avgilvl": 203.2
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
