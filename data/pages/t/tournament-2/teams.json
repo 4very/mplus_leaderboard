@@ -14,11 +14,11 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 203,
-        "score": 533.6,
-        "scoreColor": "#c7ffb3",
+        "ilvl": 206,
+        "score": 441,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
-        "renown": 62,
+        "renown": 63,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
@@ -86,11 +86,11 @@
         "race": 10,
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
-        "ilvl": 179,
+        "ilvl": 199,
         "score": 379.6,
         "scoreColor": "#e2ffd6",
         "covenant": "Night Fae",
-        "renown": 1,
+        "renown": 11,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 2514.0,
-    "scoreColor": "#b3ff9b",
-    "avgilvl": 201.0
+    "score": 2421.4,
+    "scoreColor": "#b8ffa1",
+    "avgilvl": 205.6
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",

@@ -6965,6 +6965,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Arzaeniea"
     }
   },
+  "200481493": {
+    "name": "Zantano",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Zantano",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zantano",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Zantano",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zantano"
+    }
+  },
   "200565931": {
     "name": "Oathbow",
     "realm": "illidan",
@@ -9137,7 +9155,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -9170,8 +9188,8 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 441,
-    "scoreColor": "#d9ffca",
+    "score": 533.6,
+    "scoreColor": "#c7ffb3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatward",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatward",
@@ -12446,8 +12464,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1511.7,
-    "scoreColor": "#5fb890",
+    "score": 1530.6,
+    "scoreColor": "#5fb494",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -12662,8 +12680,8 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 9,
-    "score": 441,
-    "scoreColor": "#d9ffca",
+    "score": 533.6,
+    "scoreColor": "#c7ffb3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatspear",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatspear",
@@ -12680,8 +12698,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 441,
-    "scoreColor": "#d9ffca",
+    "score": 533.6,
+    "scoreColor": "#c7ffb3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fingermeat",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fingermeat",
@@ -12716,8 +12734,8 @@
     "classColor": "#C69B6D",
     "race": 10,
     "rank": 9,
-    "score": 219.5,
-    "scoreColor": "#ffffff",
+    "score": 379.6,
+    "scoreColor": "#e2ffd6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ragingmeat",
