@@ -17909,6 +17909,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kikuyu"
     }
   },
+  "190344572": {
+    "name": "Hefty",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 32,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Hefty",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Hefty",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Hefty",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Hefty"
+    }
+  },
   "190352864": {
     "name": "Chunksy",
     "realm": "sargeras",
@@ -18357,6 +18375,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dracuhl",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
+    }
+  },
+  "191276872": {
+    "name": "Ashpartame",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 25,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashpartame",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
     }
   }
 }
