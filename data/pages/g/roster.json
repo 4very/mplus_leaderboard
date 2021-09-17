@@ -998,8 +998,8 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 533.6,
-    "scoreColor": "#c7ffb3",
+    "score": 601.1,
+    "scoreColor": "#b8ffa1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatshocks",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatshocks",
@@ -2751,6 +2751,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sathy",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sathy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathy"
+    }
+  },
+  "181206213": {
+    "name": "Eripu",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Eripu",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Eripu",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Eripu",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Eripu"
     }
   },
   "181241072": {
@@ -9155,7 +9173,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12014,8 +12032,8 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 663.9,
-    "scoreColor": "#aeff94",
+    "score": 686.4,
+    "scoreColor": "#a8ff8e",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villsaya",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villsaya",
@@ -12287,7 +12305,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12464,8 +12482,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1530.6,
-    "scoreColor": "#5fb494",
+    "score": 1573.1,
+    "scoreColor": "#5fb098",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -12680,8 +12698,8 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 9,
-    "score": 533.6,
-    "scoreColor": "#c7ffb3",
+    "score": 601.1,
+    "scoreColor": "#b8ffa1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatspear",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatspear",
@@ -12698,8 +12716,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 533.6,
-    "scoreColor": "#c7ffb3",
+    "score": 601.1,
+    "scoreColor": "#b8ffa1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fingermeat",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fingermeat",
@@ -12734,8 +12752,8 @@
     "classColor": "#C69B6D",
     "race": 10,
     "rank": 9,
-    "score": 379.6,
-    "scoreColor": "#e2ffd6",
+    "score": 447.1,
+    "scoreColor": "#d9ffca",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ragingmeat",
@@ -13634,8 +13652,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1132.5,
-    "scoreColor": "#3bf436",
+    "score": 1198.5,
+    "scoreColor": "#4ae84e",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Cadillax",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cadillax",
@@ -16568,8 +16586,8 @@
     "classColor": "#C41E3A",
     "race": 11,
     "rank": 1,
-    "score": 2018,
-    "scoreColor": "#1b73d9",
+    "score": 2026,
+    "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Lichyro",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lichyro",
@@ -18170,8 +18188,8 @@
     "classColor": "#8788EE",
     "race": 1,
     "rank": 2,
-    "score": 1634.1,
-    "scoreColor": "#5ca5a4",
+    "score": 1656.4,
+    "scoreColor": "#5ba2a8",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Zublock",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zublock",

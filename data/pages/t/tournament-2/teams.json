@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 212,
-        "score": 533.6,
-        "scoreColor": "#c7ffb3",
+        "score": 601.1,
+        "scoreColor": "#b8ffa1",
         "covenant": "Kyrian",
         "renown": 58,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 209,
-        "score": 533.6,
-        "scoreColor": "#c7ffb3",
+        "score": 601.1,
+        "scoreColor": "#b8ffa1",
         "covenant": "Kyrian",
         "renown": 51,
         "links": {
@@ -87,8 +87,8 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 199,
-        "score": 379.6,
-        "scoreColor": "#e2ffd6",
+        "score": 447.1,
+        "scoreColor": "#d9ffca",
         "covenant": "Night Fae",
         "renown": 16,
         "links": {
@@ -114,7 +114,7 @@
         "score": 533.6,
         "scoreColor": "#c7ffb3",
         "covenant": "Necrolord",
-        "renown": 43,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -382,7 +382,7 @@
         "score": 794.3,
         "scoreColor": "#91ff75",
         "covenant": "Kyrian",
-        "renown": 37,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
