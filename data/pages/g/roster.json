@@ -15497,6 +15497,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00fbnderlips"
     }
   },
+  "168637356": {
+    "name": "Flippyjumps",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Flippyjumps",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flippyjumps",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flippyjumps",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flippyjumps"
+    }
+  },
   "168883492": {
     "name": "Geregor",
     "realm": "sargeras",
