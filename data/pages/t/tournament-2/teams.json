@@ -146,7 +146,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 53,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -398,11 +398,11 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 211,
+        "ilvl": 212,
         "score": 137.4,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 51,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -509,7 +509,7 @@
     ],
     "score": 549.6,
     "scoreColor": "#ffffff",
-    "avgilvl": 200.6
+    "avgilvl": 200.8
   },
   "TST": {
     "name": "Titanic Swim Team",
