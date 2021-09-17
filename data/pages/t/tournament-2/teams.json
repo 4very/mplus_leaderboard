@@ -346,7 +346,7 @@
         "score": 391.8,
         "scoreColor": "#e2ffd6",
         "covenant": "Kyrian",
-        "renown": 23,
+        "renown": 24,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -550,7 +550,7 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 217,
+        "ilvl": 219,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -637,7 +637,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 209.6
+    "avgilvl": 210.0
   },
   "STISB": {
     "name": "So Then I Started Blasting",
