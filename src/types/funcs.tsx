@@ -112,7 +112,7 @@ export const linksRender = (params: GridCellParams) => (
     </a>
     <a target="_blank" href={(params.value as Links).wcl} rel="noreferrer">
       <img
-        src="/images/wcl.webp"
+        src="/images/wcl.png"
         className="linkImg"
         title="View Warcraft Logs Page"
         alt=""
