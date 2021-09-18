@@ -420,7 +420,7 @@
         "score": 469,
         "scoreColor": "#d5ffc4",
         "covenant": "Necrolord",
-        "renown": 60,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -819,7 +819,7 @@
         "level": 60,
         "title": "Borgonzola",
         "ilvl": 210,
-        "score": 66.1,
+        "score": 152.1,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 42,
@@ -891,7 +891,7 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 205,
-        "score": 66.1,
+        "score": 152.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
         "renown": 41,
@@ -915,7 +915,7 @@
         "level": 60,
         "title": "Ashsucks",
         "ilvl": 149,
-        "score": 0,
+        "score": 153.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
         "renown": 19,
@@ -927,14 +927,14 @@
         }
       }
     ],
-    "score": 264.4,
+    "score": 589.5,
     "scoreColor": "#ffffff",
     "avgilvl": 195.6,
     "highestkey": {
-      "key": 2,
-      "per": -0.326603947368421,
-      "str": "2 (32.66%)"
+      "key": 4,
+      "per": -0.187025,
+      "str": "4 (18.7%)"
     },
-    "numkeys": 1
+    "numkeys": 2
   }
 }

@@ -11891,7 +11891,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12050,7 +12050,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 66.1,
+    "score": 152.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Borgonzola",
@@ -12068,8 +12068,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1638.3,
-    "scoreColor": "#5ca5a4",
+    "score": 1661.9,
+    "scoreColor": "#5ba2a8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -12428,7 +12428,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 66.1,
+    "score": 152.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
@@ -12471,6 +12471,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Eredris",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Eredris",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Eredris"
+    }
+  },
+  "220765367": {
+    "name": "Famlee",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 5,
+    "rank": 9,
+    "score": 2069.3,
+    "scoreColor": "#406ae0",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Famlee",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Famlee",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Famlee",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Famlee"
     }
   },
   "989898": {
