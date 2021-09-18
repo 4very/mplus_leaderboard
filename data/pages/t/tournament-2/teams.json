@@ -760,7 +760,7 @@
         "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 27,
+        "renown": 28,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -780,11 +780,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 196,
+        "ilvl": 198,
         "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 44,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -795,7 +795,7 @@
     ],
     "score": 665.5,
     "scoreColor": "#ffffff",
-    "avgilvl": 202.8,
+    "avgilvl": 203.2,
     "highestkey": {
       "key": 2,
       "per": -0.30029277777777774,
