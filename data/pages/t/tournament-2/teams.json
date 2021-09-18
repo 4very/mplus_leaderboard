@@ -86,11 +86,11 @@
         "race": 10,
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
-        "ilvl": 204,
+        "ilvl": 205,
         "score": 929.9,
         "scoreColor": "#65ff49",
         "covenant": "Night Fae",
-        "renown": 22,
+        "renown": 25,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
@@ -125,7 +125,7 @@
     ],
     "score": 4385.0,
     "scoreColor": "#34f72b",
-    "avgilvl": 211.4,
+    "avgilvl": 211.6,
     "highestkey": {
       "key": 11,
       "per": -0.13770277777777773,
