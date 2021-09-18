@@ -114,7 +114,7 @@
         "score": 533.6,
         "scoreColor": "#c7ffb3",
         "covenant": "Necrolord",
-        "renown": 54,
+        "renown": 63,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatward",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatward",
@@ -172,11 +172,11 @@
         "race": 35,
         "level": 60,
         "title": "Chef Zantano",
-        "ilvl": 191,
+        "ilvl": 192,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 7,
+        "renown": 19,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
@@ -248,7 +248,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 39,
+        "renown": 41,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -259,7 +259,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 203.6,
+    "avgilvl": 203.8,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -417,8 +417,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 212,
-        "score": 137.4,
-        "scoreColor": "#ffffff",
+        "score": 300.9,
+        "scoreColor": "#efffe8",
         "covenant": "Necrolord",
         "renown": 54,
         "links": {
@@ -464,11 +464,11 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 190,
-        "score": 137.4,
-        "scoreColor": "#ffffff",
+        "ilvl": 203,
+        "score": 300.9,
+        "scoreColor": "#efffe8",
         "covenant": "Necrolord",
-        "renown": 28,
+        "renown": 32,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -489,7 +489,7 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 197,
-        "score": 0,
+        "score": 163.5,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 28,
@@ -513,8 +513,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 211,
-        "score": 137.4,
-        "scoreColor": "#ffffff",
+        "score": 300.9,
+        "scoreColor": "#efffe8",
         "covenant": "Night Fae",
         "renown": 38,
         "links": {
@@ -525,15 +525,15 @@
         }
       }
     ],
-    "score": 549.6,
-    "scoreColor": "#ffffff",
-    "avgilvl": 201.0,
+    "score": 1203.6,
+    "scoreColor": "#efffe8",
+    "avgilvl": 203.6,
     "highestkey": {
-      "key": 3,
-      "per": -0.3681837962962963,
-      "str": "3 (36.82%)"
+      "key": 5,
+      "per": -0.31895487804878053,
+      "str": "5 (31.9%)"
     },
-    "numkeys": 2
+    "numkeys": 4
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -688,7 +688,7 @@
         "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 31,
+        "renown": 41,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -712,7 +712,7 @@
         "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 28,
+        "renown": 36,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -756,7 +756,7 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 195,
+        "ilvl": 199,
         "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
@@ -795,7 +795,7 @@
     ],
     "score": 665.5,
     "scoreColor": "#ffffff",
-    "avgilvl": 203.2,
+    "avgilvl": 204.0,
     "highestkey": {
       "key": 2,
       "per": -0.30029277777777774,
@@ -842,11 +842,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 202,
+        "ilvl": 200,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 19,
+        "renown": 20,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -894,7 +894,7 @@
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 38,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -912,9 +912,9 @@
         "className": "Warrior",
         "classColor": "#C69B6D",
         "race": 2,
-        "level": 55,
+        "level": 56,
         "title": "Ashsucks",
-        "ilvl": 99,
+        "ilvl": 105,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
@@ -929,7 +929,7 @@
     ],
     "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 182.8,
+    "avgilvl": 183.6,
     "highestkey": {
       "key": 2,
       "per": -0.326603947368421,
