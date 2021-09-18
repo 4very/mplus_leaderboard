@@ -415,12 +415,12 @@
         "classColor": "#C41E3A",
         "race": 37,
         "level": 60,
-        "title": "Th\u00f9nderlips",
-        "ilvl": 212,
-        "score": 300.9,
-        "scoreColor": "#efffe8",
+        "title": "Th\u00f9nderlips the Undying",
+        "ilvl": 215,
+        "score": 469,
+        "scoreColor": "#d5ffc4",
         "covenant": "Necrolord",
-        "renown": 54,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -441,8 +441,8 @@
         "level": 60,
         "title": "Santhano the Dreamer",
         "ilvl": 195,
-        "score": 137.4,
-        "scoreColor": "#ffffff",
+        "score": 305.5,
+        "scoreColor": "#efffe8",
         "covenant": "Venthyr",
         "renown": 40,
         "links": {
@@ -465,8 +465,8 @@
         "level": 60,
         "title": "Ashpartame the Seeker",
         "ilvl": 203,
-        "score": 300.9,
-        "scoreColor": "#efffe8",
+        "score": 401.6,
+        "scoreColor": "#deffd0",
         "covenant": "Necrolord",
         "renown": 32,
         "links": {
@@ -488,11 +488,11 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 197,
-        "score": 163.5,
-        "scoreColor": "#ffffff",
+        "ilvl": 200,
+        "score": 331.6,
+        "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
-        "renown": 28,
+        "renown": 31,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -513,10 +513,10 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 211,
-        "score": 300.9,
-        "scoreColor": "#efffe8",
+        "score": 469,
+        "scoreColor": "#d5ffc4",
         "covenant": "Night Fae",
-        "renown": 38,
+        "renown": 43,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -525,15 +525,15 @@
         }
       }
     ],
-    "score": 1203.6,
-    "scoreColor": "#efffe8",
-    "avgilvl": 203.6,
+    "score": 1976.6999999999998,
+    "scoreColor": "#d0ffbe",
+    "avgilvl": 204.8,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
       "str": "5 (31.9%)"
     },
-    "numkeys": 4
+    "numkeys": 6
   },
   "TST": {
     "name": "Titanic Swim Team",

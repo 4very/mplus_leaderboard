@@ -188,8 +188,8 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 9,
-    "score": 1926.1,
-    "scoreColor": "#317ad2",
+    "score": 1938.9,
+    "scoreColor": "#2877d6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pikin",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Pikin",
@@ -7856,7 +7856,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 8,
-    "score": 2479.6,
+    "score": 2481.8,
     "scoreColor": "#df5692",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slyphox",
@@ -8396,7 +8396,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2479.6,
+    "score": 2481.8,
     "scoreColor": "#df5692",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mcthornbody",
@@ -9836,7 +9836,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 8,
-    "score": 2446,
+    "score": 2447.4,
     "scoreColor": "#dc539a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fellerosa",
@@ -18033,6 +18033,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashpartame",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
+    }
+  },
+  "95012110": {
+    "name": "Sunra",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 1,
+    "rank": 9,
+    "score": 159.4,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Sunra",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sunra",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sunra",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sunra"
     }
   }
 }
