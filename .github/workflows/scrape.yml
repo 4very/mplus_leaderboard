@@ -40,7 +40,7 @@ jobs:
     - name: Commit files
       run: |
         git config user.name Scraper
-        git pull -s recursive -X ours
         git add .
         git commit -m "Commit `date +'%Y-%m-%d %H:%M:%S'`" || echo "Nothing to commit"
+        git pull -s recursive -X ours
         git push origin main
