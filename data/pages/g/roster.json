@@ -4400,8 +4400,8 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 9,
-    "score": 156.3,
-    "scoreColor": "#ffffff",
+    "score": 324.1,
+    "scoreColor": "#efffe8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Likkota",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Likkota",
@@ -4749,6 +4749,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Drhavemercy",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Drhavemercy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Drhavemercy"
+    }
+  },
+  "190653715": {
+    "name": "Vatolocofeo",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Vatolocofeo",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Vatolocofeo",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Vatolocofeo",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Vatolocofeo"
     }
   },
   "190951374": {
@@ -6794,8 +6812,8 @@
     "classColor": "#0070DD",
     "race": 35,
     "rank": 9,
-    "score": 156.3,
-    "scoreColor": "#ffffff",
+    "score": 324.1,
+    "scoreColor": "#efffe8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zantano",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zantano",
@@ -12194,8 +12212,8 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 156.3,
-    "scoreColor": "#ffffff",
+    "score": 324.1,
+    "scoreColor": "#efffe8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Palabusk",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Palabusk",
@@ -12212,8 +12230,8 @@
     "classColor": "#FFF468",
     "race": 35,
     "rank": 9,
-    "score": 156.3,
-    "scoreColor": "#ffffff",
+    "score": 324.1,
+    "scoreColor": "#efffe8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Procuts",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Procuts",
@@ -12230,8 +12248,8 @@
     "classColor": "#8788EE",
     "race": 35,
     "rank": 9,
-    "score": 156.3,
-    "scoreColor": "#ffffff",
+    "score": 324.1,
+    "scoreColor": "#efffe8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Serakiri",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Serakiri",

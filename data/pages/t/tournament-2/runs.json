@@ -614,6 +614,36 @@
       "scoreColor": "#54dd60",
       "timeDiff": 40659,
       "percDiff": 0.022588333333333432
+    },
+    "9113561": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9113561-2-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 1025386,
+      "dateCompleted": "2021-09-18T04:18:28.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "team": "WSF2T",
+      "scoreColor": "#a3ff88",
+      "timeDiff": -1434614,
+      "percDiff": -0.5831764227642277
+    },
+    "9113562": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9113562-6-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 66.8,
+      "keystoneLevel": 6,
+      "clearTime": 1996142,
+      "dateCompleted": "2021-09-18T03:43:37.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "WSF2T",
+      "scoreColor": "#1eff00",
+      "timeDiff": -343858,
+      "percDiff": -0.14694786324786324
     }
   }
 }
