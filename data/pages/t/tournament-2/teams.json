@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 211,
-        "score": 934.3,
-        "scoreColor": "#65ff49",
+        "score": 1003.6,
+        "scoreColor": "#44ff2b",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 216,
-        "score": 934.3,
-        "scoreColor": "#65ff49",
+        "score": 1003.6,
+        "scoreColor": "#44ff2b",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 211,
-        "score": 934.3,
-        "scoreColor": "#65ff49",
+        "score": 1003.6,
+        "scoreColor": "#44ff2b",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -86,11 +86,11 @@
         "race": 10,
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
-        "ilvl": 205,
-        "score": 929.9,
-        "scoreColor": "#65ff49",
+        "ilvl": 211,
+        "score": 999.2,
+        "scoreColor": "#51ff36",
         "covenant": "Night Fae",
-        "renown": 25,
+        "renown": 27,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 216,
-        "score": 652.2,
-        "scoreColor": "#aeff94",
+        "score": 721.5,
+        "scoreColor": "#a3ff88",
         "covenant": "Necrolord",
         "renown": 63,
         "links": {
@@ -123,15 +123,15 @@
         }
       }
     ],
-    "score": 4385.0,
-    "scoreColor": "#34f72b",
-    "avgilvl": 211.8,
+    "score": 4731.5,
+    "scoreColor": "#46ec47",
+    "avgilvl": 213.0,
     "highestkey": {
-      "key": 11,
-      "per": -0.13770277777777773,
-      "str": "11 (13.77%)"
+      "key": 12,
+      "per": -0.07077972972972968,
+      "str": "12 (7.08%)"
     },
-    "numkeys": 14
+    "numkeys": 15
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -354,11 +354,11 @@
         "race": 27,
         "level": 60,
         "title": "Archmage Cylonarkana",
-        "ilvl": 210,
+        "ilvl": 211,
         "score": 391.8,
         "scoreColor": "#e2ffd6",
         "covenant": "Venthyr",
-        "renown": 1,
+        "renown": 6,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -393,7 +393,7 @@
     ],
     "score": 4084.6000000000004,
     "scoreColor": "#44ff2b",
-    "avgilvl": 217.2,
+    "avgilvl": 217.4,
     "highestkey": {
       "key": 13,
       "per": -0.10050921052631578,
@@ -818,11 +818,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 210,
-        "score": 152.1,
+        "ilvl": 211,
+        "score": 219.2,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 42,
+        "renown": 46,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -843,7 +843,7 @@
         "level": 60,
         "title": "Shammwowzers the Gullible",
         "ilvl": 202,
-        "score": 66.1,
+        "score": 133.2,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
         "renown": 37,
@@ -867,10 +867,10 @@
         "level": 60,
         "title": "Netherlord Amoxclav",
         "ilvl": 212,
-        "score": 66.1,
+        "score": 219.2,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 35,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
@@ -891,7 +891,7 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 205,
-        "score": 152.1,
+        "score": 219.2,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
         "renown": 41,
@@ -914,11 +914,11 @@
         "race": 2,
         "level": 60,
         "title": "Ashsucks",
-        "ilvl": 149,
+        "ilvl": 161,
         "score": 153.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 19,
+        "renown": 21,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ashsucks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ashsucks",
@@ -927,14 +927,14 @@
         }
       }
     ],
-    "score": 589.5,
-    "scoreColor": "#ffffff",
-    "avgilvl": 195.6,
+    "score": 943.9,
+    "scoreColor": "#fbfff9",
+    "avgilvl": 198.2,
     "highestkey": {
       "key": 4,
       "per": -0.187025,
       "str": "4 (18.7%)"
     },
-    "numkeys": 2
+    "numkeys": 3
   }
 }
