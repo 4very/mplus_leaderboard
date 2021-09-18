@@ -14,7 +14,7 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 210,
+        "ilvl": 211,
         "score": 934.3,
         "scoreColor": "#65ff49",
         "covenant": "Kyrian",
@@ -87,8 +87,8 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 204,
-        "score": 877.8,
-        "scoreColor": "#75ff59",
+        "score": 929.9,
+        "scoreColor": "#65ff49",
         "covenant": "Night Fae",
         "renown": 22,
         "links": {
@@ -110,7 +110,7 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 210,
+        "ilvl": 216,
         "score": 652.2,
         "scoreColor": "#aeff94",
         "covenant": "Necrolord",
@@ -123,15 +123,15 @@
         }
       }
     ],
-    "score": 4332.9,
-    "scoreColor": "#2bfb1d",
-    "avgilvl": 210.0,
+    "score": 4385.0,
+    "scoreColor": "#34f72b",
+    "avgilvl": 211.4,
     "highestkey": {
       "key": 11,
       "per": -0.13770277777777773,
       "str": "11 (13.77%)"
     },
-    "numkeys": 13
+    "numkeys": 14
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -172,11 +172,11 @@
         "race": 35,
         "level": 60,
         "title": "Chef Zantano",
-        "ilvl": 195,
+        "ilvl": 199,
         "score": 156.3,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 28,
+        "renown": 33,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
@@ -259,7 +259,7 @@
     ],
     "score": 781.5,
     "scoreColor": "#ffffff",
-    "avgilvl": 208.2,
+    "avgilvl": 209.0,
     "highestkey": {
       "key": 4,
       "per": -0.3285004504504504,
@@ -688,7 +688,7 @@
         "score": 133.1,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 41,
+        "renown": 43,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -870,7 +870,7 @@
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 30,
+        "renown": 35,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
