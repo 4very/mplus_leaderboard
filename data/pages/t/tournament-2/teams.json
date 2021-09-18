@@ -42,7 +42,7 @@
         "score": 934.3,
         "scoreColor": "#65ff49",
         "covenant": "Kyrian",
-        "renown": 63,
+        "renown": 65,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatshocks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatshocks",
@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 210,
+        "ilvl": 211,
         "score": 934.3,
         "scoreColor": "#65ff49",
         "covenant": "Kyrian",
-        "renown": 53,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -125,7 +125,7 @@
     ],
     "score": 4385.0,
     "scoreColor": "#34f72b",
-    "avgilvl": 211.6,
+    "avgilvl": 211.8,
     "highestkey": {
       "key": 11,
       "per": -0.13770277777777773,
