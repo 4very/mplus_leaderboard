@@ -842,11 +842,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 200,
+        "ilvl": 201,
         "score": 66.1,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 23,
+        "renown": 24,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -929,7 +929,7 @@
     ],
     "score": 264.4,
     "scoreColor": "#ffffff",
-    "avgilvl": 186.2,
+    "avgilvl": 186.4,
     "highestkey": {
       "key": 2,
       "per": -0.326603947368421,
