@@ -708,11 +708,11 @@
         "race": 2,
         "level": 60,
         "title": "Sito, Storm's End",
-        "ilvl": 203,
+        "ilvl": 204,
         "score": 508.8,
         "scoreColor": "#ccffb8",
         "covenant": "Venthyr",
-        "renown": 37,
+        "renown": 43,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -795,7 +795,7 @@
     ],
     "score": 2544.0,
     "scoreColor": "#b3ff9b",
-    "avgilvl": 212.0,
+    "avgilvl": 212.2,
     "highestkey": {
       "key": 7,
       "per": -0.3239772357723577,
@@ -890,7 +890,7 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 210,
+        "ilvl": 212,
         "score": 475.5,
         "scoreColor": "#d0ffbe",
         "covenant": "Venthyr",
@@ -927,9 +927,9 @@
         }
       }
     ],
-    "score": 1835.9,
-    "scoreColor": "#d5ffc4",
-    "avgilvl": 164.4,
+    "score": 2311.4,
+    "scoreColor": "#bdffa7",
+    "avgilvl": 207.4,
     "highestkey": {
       "key": 6,
       "per": -0.13709944444444444,
