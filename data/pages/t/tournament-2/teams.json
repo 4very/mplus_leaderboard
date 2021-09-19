@@ -492,7 +492,7 @@
         "score": 331.6,
         "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
-        "renown": 31,
+        "renown": 32,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -736,7 +736,7 @@
         "score": 508.8,
         "scoreColor": "#ccffb8",
         "covenant": "Night Fae",
-        "renown": 69,
+        "renown": 70,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -914,11 +914,11 @@
         "race": 2,
         "level": 60,
         "title": "Ashsucks",
-        "ilvl": 195,
+        "ilvl": 198,
         "score": 409.4,
         "scoreColor": "#deffd0",
         "covenant": "Night Fae",
-        "renown": 28,
+        "renown": 30,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ashsucks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ashsucks",
@@ -929,7 +929,7 @@
     ],
     "score": 2311.4,
     "scoreColor": "#bdffa7",
-    "avgilvl": 207.4,
+    "avgilvl": 208.0,
     "highestkey": {
       "key": 6,
       "per": -0.13709944444444444,
