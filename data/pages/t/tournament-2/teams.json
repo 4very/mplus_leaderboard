@@ -14,7 +14,7 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 217,
+        "ilvl": 218,
         "score": 1156.6,
         "scoreColor": "#41f03f",
         "covenant": "Kyrian",
@@ -125,7 +125,7 @@
     ],
     "score": 5661.0,
     "scoreColor": "#5ec67e",
-    "avgilvl": 218.4,
+    "avgilvl": 218.6,
     "highestkey": {
       "key": 13,
       "per": -0.09766093750000004,
@@ -391,7 +391,7 @@
         }
       }
     ],
-    "score": 4084.6000000000004,
+    "score": 4084.6,
     "scoreColor": "#44ff2b",
     "avgilvl": 217.8,
     "highestkey": {
@@ -525,7 +525,7 @@
         }
       }
     ],
-    "score": 1976.6999999999998,
+    "score": 1976.7,
     "scoreColor": "#d0ffbe",
     "avgilvl": 208.2,
     "highestkey": {
@@ -760,7 +760,7 @@
         "score": 508.8,
         "scoreColor": "#ccffb8",
         "covenant": "Venthyr",
-        "renown": 35,
+        "renown": 37,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
