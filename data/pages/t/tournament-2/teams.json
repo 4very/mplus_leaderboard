@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 215,
+        "ilvl": 217,
         "score": 1156.6,
         "scoreColor": "#41f03f",
         "covenant": "Kyrian",
-        "renown": 58,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -86,11 +86,11 @@
         "race": 10,
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
-        "ilvl": 211,
+        "ilvl": 214,
         "score": 1152.2,
         "scoreColor": "#41f03f",
         "covenant": "Night Fae",
-        "renown": 27,
+        "renown": 30,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
@@ -125,7 +125,7 @@
     ],
     "score": 5661.0,
     "scoreColor": "#5ec67e",
-    "avgilvl": 217.4,
+    "avgilvl": 218.4,
     "highestkey": {
       "key": 13,
       "per": -0.09766093750000004,
@@ -464,11 +464,11 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 203,
+        "ilvl": 204,
         "score": 401.6,
         "scoreColor": "#deffd0",
         "covenant": "Necrolord",
-        "renown": 32,
+        "renown": 33,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -516,7 +516,7 @@
         "score": 469,
         "scoreColor": "#d5ffc4",
         "covenant": "Night Fae",
-        "renown": 46,
+        "renown": 47,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -527,7 +527,7 @@
     ],
     "score": 1976.6999999999998,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 206.4,
+    "avgilvl": 206.6,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
@@ -574,11 +574,11 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 221,
+        "ilvl": 222,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
-        "renown": 58,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
@@ -622,11 +622,11 @@
         "race": 10,
         "level": 60,
         "title": "Dr\u00e0cuhl the Hallowed",
-        "ilvl": 209,
+        "ilvl": 210,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Necrolord",
-        "renown": 34,
+        "renown": 37,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -661,7 +661,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 211.6,
+    "avgilvl": 212.0,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -685,8 +685,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 212,
-        "score": 228.3,
-        "scoreColor": "#fbfff9",
+        "score": 322.7,
+        "scoreColor": "#efffe8",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -709,8 +709,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 203,
-        "score": 228.3,
-        "scoreColor": "#fbfff9",
+        "score": 322.7,
+        "scoreColor": "#efffe8",
         "covenant": "Venthyr",
         "renown": 37,
         "links": {
@@ -733,8 +733,8 @@
         "level": 60,
         "title": "Mash\u00edro, Vengeance Incarnate",
         "ilvl": 223,
-        "score": 133.1,
-        "scoreColor": "#ffffff",
+        "score": 322.7,
+        "scoreColor": "#efffe8",
         "covenant": "Night Fae",
         "renown": 65,
         "links": {
@@ -757,8 +757,8 @@
         "level": 60,
         "title": "Eredris the Tormented",
         "ilvl": 205,
-        "score": 133.1,
-        "scoreColor": "#ffffff",
+        "score": 322.7,
+        "scoreColor": "#efffe8",
         "covenant": "Venthyr",
         "renown": 30,
         "links": {
@@ -780,11 +780,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 207,
-        "score": 228.3,
-        "scoreColor": "#fbfff9",
+        "ilvl": 209,
+        "score": 322.7,
+        "scoreColor": "#efffe8",
         "covenant": "Night Fae",
-        "renown": 53,
+        "renown": 55,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 951.1000000000001,
-    "scoreColor": "#fbfff9",
-    "avgilvl": 210.0,
+    "score": 1613.5,
+    "scoreColor": "#deffd0",
+    "avgilvl": 210.4,
     "highestkey": {
       "key": 5,
-      "per": -0.2773526315789474,
-      "str": "5 (27.74%)"
+      "per": -0.21348333333333336,
+      "str": "5 (21.35%)"
     },
-    "numkeys": 3
+    "numkeys": 4
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
@@ -870,7 +870,7 @@
         "score": 219.2,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 47,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
