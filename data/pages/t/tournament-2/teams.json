@@ -709,8 +709,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 203,
-        "score": 441.3,
-        "scoreColor": "#d9ffca",
+        "score": 508.8,
+        "scoreColor": "#ccffb8",
         "covenant": "Venthyr",
         "renown": 37,
         "links": {
@@ -731,12 +731,12 @@
         "classColor": "#8788EE",
         "race": 9,
         "level": 60,
-        "title": "Mash\u00edro, Vengeance Incarnate",
-        "ilvl": 223,
+        "title": "Loremaster Mash\u00edro",
+        "ilvl": 224,
         "score": 441.3,
         "scoreColor": "#d9ffca",
         "covenant": "Night Fae",
-        "renown": 65,
+        "renown": 69,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -756,11 +756,11 @@
         "race": 27,
         "level": 60,
         "title": "Eredris the Tormented",
-        "ilvl": 205,
-        "score": 441.3,
-        "scoreColor": "#d9ffca",
+        "ilvl": 209,
+        "score": 508.8,
+        "scoreColor": "#ccffb8",
         "covenant": "Venthyr",
-        "renown": 30,
+        "renown": 35,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 2206.5,
-    "scoreColor": "#c2ffad",
-    "avgilvl": 210.4,
+    "score": 2341.5,
+    "scoreColor": "#bdffa7",
+    "avgilvl": 211.4,
     "highestkey": {
       "key": 7,
       "per": -0.3239772357723577,
       "str": "7 (32.4%)"
     },
-    "numkeys": 5
+    "numkeys": 7
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
