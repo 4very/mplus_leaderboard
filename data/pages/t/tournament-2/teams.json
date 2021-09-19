@@ -709,8 +709,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 204,
-        "score": 508.8,
-        "scoreColor": "#ccffb8",
+        "score": 559.8,
+        "scoreColor": "#c2ffad",
         "covenant": "Venthyr",
         "renown": 43,
         "links": {
@@ -733,8 +733,8 @@
         "level": 60,
         "title": "Loremaster Mash\u00edro",
         "ilvl": 225,
-        "score": 508.8,
-        "scoreColor": "#ccffb8",
+        "score": 559.8,
+        "scoreColor": "#c2ffad",
         "covenant": "Night Fae",
         "renown": 70,
         "links": {
@@ -757,8 +757,8 @@
         "level": 60,
         "title": "Eredris the Tormented",
         "ilvl": 209,
-        "score": 508.8,
-        "scoreColor": "#ccffb8",
+        "score": 559.8,
+        "scoreColor": "#c2ffad",
         "covenant": "Venthyr",
         "renown": 37,
         "links": {
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 2595.0,
-    "scoreColor": "#b3ff9b",
+    "score": 2748.0,
+    "scoreColor": "#a8ff8e",
     "avgilvl": 213.6,
     "highestkey": {
       "key": 7,
-      "per": -0.3239772357723577,
-      "str": "7 (32.4%)"
+      "per": -0.2169794444444444,
+      "str": "7 (21.7%)"
     },
-    "numkeys": 8
+    "numkeys": 10
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
@@ -870,7 +870,7 @@
         "score": 475.5,
         "scoreColor": "#d0ffbe",
         "covenant": "Night Fae",
-        "renown": 52,
+        "renown": 53,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
