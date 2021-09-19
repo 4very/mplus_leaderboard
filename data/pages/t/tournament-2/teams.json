@@ -685,8 +685,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 212,
-        "score": 441.3,
-        "scoreColor": "#d9ffca",
+        "score": 508.8,
+        "scoreColor": "#ccffb8",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -733,8 +733,8 @@
         "level": 60,
         "title": "Loremaster Mash\u00edro",
         "ilvl": 224,
-        "score": 441.3,
-        "scoreColor": "#d9ffca",
+        "score": 508.8,
+        "scoreColor": "#ccffb8",
         "covenant": "Night Fae",
         "renown": 69,
         "links": {
@@ -780,11 +780,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 209,
-        "score": 441.3,
-        "scoreColor": "#d9ffca",
+        "ilvl": 212,
+        "score": 508.8,
+        "scoreColor": "#ccffb8",
         "covenant": "Night Fae",
-        "renown": 55,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -793,9 +793,9 @@
         }
       }
     ],
-    "score": 2341.5,
-    "scoreColor": "#bdffa7",
-    "avgilvl": 211.4,
+    "score": 2544.0,
+    "scoreColor": "#b3ff9b",
+    "avgilvl": 212.0,
     "highestkey": {
       "key": 7,
       "per": -0.3239772357723577,
@@ -927,9 +927,9 @@
         }
       }
     ],
-    "score": 2311.4,
-    "scoreColor": "#bdffa7",
-    "avgilvl": 207.0,
+    "score": 1835.9,
+    "scoreColor": "#d5ffc4",
+    "avgilvl": 164.4,
     "highestkey": {
       "key": 6,
       "per": -0.13709944444444444,
