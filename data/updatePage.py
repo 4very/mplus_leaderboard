@@ -198,9 +198,9 @@ def updateRosterData(folder):
         
     teams[key] = {
       **teams[key],
-      'score': team_score,
+      'score': round(team_score, 2),
       'scoreColor': getColorForScore(team_score/4.0),
-      'avgilvl': team_ilvl/5,
+      'avgilvl': round(team_ilvl/5, 2),
       'highestkey':{
         **highKeys[key]
       },
