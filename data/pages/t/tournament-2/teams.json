@@ -554,7 +554,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 36,
+        "renown": 40,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
@@ -650,7 +650,7 @@
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 20,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -685,8 +685,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 212,
-        "score": 322.7,
-        "scoreColor": "#efffe8",
+        "score": 441.3,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -709,8 +709,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 203,
-        "score": 322.7,
-        "scoreColor": "#efffe8",
+        "score": 441.3,
+        "scoreColor": "#d9ffca",
         "covenant": "Venthyr",
         "renown": 37,
         "links": {
@@ -733,8 +733,8 @@
         "level": 60,
         "title": "Mash\u00edro, Vengeance Incarnate",
         "ilvl": 223,
-        "score": 322.7,
-        "scoreColor": "#efffe8",
+        "score": 441.3,
+        "scoreColor": "#d9ffca",
         "covenant": "Night Fae",
         "renown": 65,
         "links": {
@@ -757,8 +757,8 @@
         "level": 60,
         "title": "Eredris the Tormented",
         "ilvl": 205,
-        "score": 322.7,
-        "scoreColor": "#efffe8",
+        "score": 441.3,
+        "scoreColor": "#d9ffca",
         "covenant": "Venthyr",
         "renown": 30,
         "links": {
@@ -781,8 +781,8 @@
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 209,
-        "score": 322.7,
-        "scoreColor": "#efffe8",
+        "score": 441.3,
+        "scoreColor": "#d9ffca",
         "covenant": "Night Fae",
         "renown": 55,
         "links": {
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 1613.5,
-    "scoreColor": "#deffd0",
+    "score": 2206.5,
+    "scoreColor": "#c2ffad",
     "avgilvl": 210.4,
     "highestkey": {
-      "key": 5,
-      "per": -0.21348333333333336,
-      "str": "5 (21.35%)"
+      "key": 7,
+      "per": -0.3239772357723577,
+      "str": "7 (32.4%)"
     },
-    "numkeys": 4
+    "numkeys": 5
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
@@ -818,11 +818,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 211,
-        "score": 219.2,
-        "scoreColor": "#ffffff",
+        "ilvl": 212,
+        "score": 475.5,
+        "scoreColor": "#d0ffbe",
         "covenant": "Kyrian",
-        "renown": 46,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -842,11 +842,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 202,
-        "score": 133.2,
-        "scoreColor": "#ffffff",
+        "ilvl": 205,
+        "score": 475.5,
+        "scoreColor": "#d0ffbe",
         "covenant": "Necrolord",
-        "renown": 37,
+        "renown": 45,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -866,9 +866,9 @@
         "race": 5,
         "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 212,
-        "score": 219.2,
-        "scoreColor": "#ffffff",
+        "ilvl": 213,
+        "score": 475.5,
+        "scoreColor": "#d0ffbe",
         "covenant": "Night Fae",
         "renown": 49,
         "links": {
@@ -890,11 +890,11 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 205,
-        "score": 219.2,
-        "scoreColor": "#ffffff",
+        "ilvl": 210,
+        "score": 475.5,
+        "scoreColor": "#d0ffbe",
         "covenant": "Venthyr",
-        "renown": 41,
+        "renown": 46,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -914,11 +914,11 @@
         "race": 2,
         "level": 60,
         "title": "Ashsucks",
-        "ilvl": 188,
-        "score": 153.1,
-        "scoreColor": "#ffffff",
+        "ilvl": 195,
+        "score": 409.4,
+        "scoreColor": "#deffd0",
         "covenant": "Night Fae",
-        "renown": 22,
+        "renown": 28,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ashsucks",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ashsucks",
@@ -927,14 +927,14 @@
         }
       }
     ],
-    "score": 943.9,
-    "scoreColor": "#fbfff9",
-    "avgilvl": 203.6,
+    "score": 2311.4,
+    "scoreColor": "#bdffa7",
+    "avgilvl": 207.0,
     "highestkey": {
-      "key": 4,
-      "per": -0.187025,
-      "str": "4 (18.7%)"
+      "key": 6,
+      "per": -0.13709944444444444,
+      "str": "6 (13.71%)"
     },
-    "numkeys": 3
+    "numkeys": 7
   }
 }
