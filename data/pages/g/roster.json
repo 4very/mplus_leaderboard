@@ -944,8 +944,8 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 934.3,
-    "scoreColor": "#65ff49",
+    "score": 1003.6,
+    "scoreColor": "#44ff2b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatshocks",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatshocks",
@@ -1538,7 +1538,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 66.1,
+    "score": 133.2,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
@@ -7568,8 +7568,8 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 1648.7,
-    "scoreColor": "#5ca5a4",
+    "score": 1719.5,
+    "scoreColor": "#579ab0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dekurgan",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dekurgan",
@@ -8921,7 +8921,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -8954,8 +8954,8 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 652.2,
-    "scoreColor": "#aeff94",
+    "score": 721.5,
+    "scoreColor": "#a3ff88",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatward",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatward",
@@ -9584,7 +9584,7 @@
     "classColor": "#8788EE",
     "race": 5,
     "rank": 9,
-    "score": 66.1,
+    "score": 219.2,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Amoxclav",
@@ -11891,7 +11891,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12050,7 +12050,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 152.1,
+    "score": 219.2,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Borgonzola",
@@ -12284,8 +12284,8 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 9,
-    "score": 934.3,
-    "scoreColor": "#65ff49",
+    "score": 1003.6,
+    "scoreColor": "#44ff2b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatspear",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatspear",
@@ -12302,8 +12302,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 934.3,
-    "scoreColor": "#65ff49",
+    "score": 1003.6,
+    "scoreColor": "#44ff2b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fingermeat",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fingermeat",
@@ -12338,8 +12338,8 @@
     "classColor": "#C69B6D",
     "race": 10,
     "rank": 9,
-    "score": 929.9,
-    "scoreColor": "#65ff49",
+    "score": 999.2,
+    "scoreColor": "#51ff36",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ragingmeat",
@@ -12428,7 +12428,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 152.1,
+    "score": 219.2,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
