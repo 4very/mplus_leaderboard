@@ -14,9 +14,9 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 213,
-        "score": 1096.9,
-        "scoreColor": "#34f72b",
+        "ilvl": 217,
+        "score": 1156.6,
+        "scoreColor": "#41f03f",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 221,
-        "score": 1096.9,
-        "scoreColor": "#34f72b",
+        "score": 1156.6,
+        "scoreColor": "#41f03f",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 215,
-        "score": 1096.9,
-        "scoreColor": "#34f72b",
+        "score": 1156.6,
+        "scoreColor": "#41f03f",
         "covenant": "Kyrian",
         "renown": 58,
         "links": {
@@ -87,8 +87,8 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 211,
-        "score": 1092.5,
-        "scoreColor": "#2bfb1d",
+        "score": 1152.2,
+        "scoreColor": "#41f03f",
         "covenant": "Night Fae",
         "renown": 27,
         "links": {
@@ -110,9 +110,9 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 216,
-        "score": 743.9,
-        "scoreColor": "#9dff82",
+        "ilvl": 223,
+        "score": 1039,
+        "scoreColor": "#35ff1c",
         "covenant": "Necrolord",
         "renown": 63,
         "links": {
@@ -123,15 +123,15 @@
         }
       }
     ],
-    "score": 5127.1,
-    "scoreColor": "#54dd60",
-    "avgilvl": 215.2,
+    "score": 5661.0,
+    "scoreColor": "#5ec67e",
+    "avgilvl": 217.4,
     "highestkey": {
       "key": 13,
       "per": -0.09766093750000004,
       "str": "13 (9.77%)"
     },
-    "numkeys": 17
+    "numkeys": 18
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -646,11 +646,11 @@
         "race": 2,
         "level": 60,
         "title": "Dannyshock the Seeker",
-        "ilvl": 204,
+        "ilvl": 205,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Night Fae",
-        "renown": 18,
+        "renown": 20,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -661,7 +661,7 @@
     ],
     "score": 0,
     "scoreColor": "#ffffff",
-    "avgilvl": 211.4,
+    "avgilvl": 211.6,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -684,11 +684,11 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 211,
-        "score": 133.1,
-        "scoreColor": "#ffffff",
+        "ilvl": 212,
+        "score": 228.3,
+        "scoreColor": "#fbfff9",
         "covenant": "Kyrian",
-        "renown": 52,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
@@ -709,8 +709,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 203,
-        "score": 133.1,
-        "scoreColor": "#ffffff",
+        "score": 228.3,
+        "scoreColor": "#fbfff9",
         "covenant": "Venthyr",
         "renown": 37,
         "links": {
@@ -781,8 +781,8 @@
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 207,
-        "score": 133.1,
-        "scoreColor": "#ffffff",
+        "score": 228.3,
+        "scoreColor": "#fbfff9",
         "covenant": "Night Fae",
         "renown": 53,
         "links": {
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 665.5,
-    "scoreColor": "#ffffff",
-    "avgilvl": 209.8,
+    "score": 951.1000000000001,
+    "scoreColor": "#fbfff9",
+    "avgilvl": 210.0,
     "highestkey": {
-      "key": 2,
-      "per": -0.30029277777777774,
-      "str": "2 (30.03%)"
+      "key": 5,
+      "per": -0.2773526315789474,
+      "str": "5 (27.74%)"
     },
-    "numkeys": 2
+    "numkeys": 3
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
