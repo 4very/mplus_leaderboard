@@ -551,8 +551,8 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 214,
-        "score": 0,
-        "scoreColor": "#ffffff",
+        "score": 257.4,
+        "scoreColor": "#f7fff3",
         "covenant": "Kyrian",
         "renown": 41,
         "links": {
@@ -575,8 +575,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 222,
-        "score": 0,
-        "scoreColor": "#ffffff",
+        "score": 257.4,
+        "scoreColor": "#f7fff3",
         "covenant": "Venthyr",
         "renown": 59,
         "links": {
@@ -623,8 +623,8 @@
         "level": 60,
         "title": "Dr\u00e0cuhl the Hallowed",
         "ilvl": 210,
-        "score": 0,
-        "scoreColor": "#ffffff",
+        "score": 257.4,
+        "scoreColor": "#f7fff3",
         "covenant": "Necrolord",
         "renown": 37,
         "links": {
@@ -647,8 +647,8 @@
         "level": 60,
         "title": "Dannyshock the Seeker",
         "ilvl": 205,
-        "score": 0,
-        "scoreColor": "#ffffff",
+        "score": 257.4,
+        "scoreColor": "#f7fff3",
         "covenant": "Night Fae",
         "renown": 23,
         "links": {
@@ -659,15 +659,15 @@
         }
       }
     ],
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 1029.6,
+    "scoreColor": "#f7fff3",
     "avgilvl": 212.4,
     "highestkey": {
-      "key": 0,
-      "per": 0,
-      "str": "none"
+      "key": 6,
+      "per": -0.17628918918918923,
+      "str": "6 (17.63%)"
     },
-    "numkeys": 0
+    "numkeys": 3
   },
   "STISB": {
     "name": "So Then I Started Blasting",
