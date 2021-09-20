@@ -6,8 +6,8 @@ export default function UpdatePage() {
         height="720px"
         className="block"
         style={{
-          width: '100vw',
-          height: '56.25vw',
+          width: '50vw',
+          height: '28.125vh',
         }}
         src="https://www.youtube.com/embed/dQw4w9WgXcQ?&autoplay=1"
         title="YouTube video player"
