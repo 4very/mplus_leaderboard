@@ -512,7 +512,7 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 214,
+        "ilvl": 216,
         "score": 469,
         "scoreColor": "#d5ffc4",
         "covenant": "Night Fae",
@@ -527,7 +527,7 @@
     ],
     "score": 1976.7,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 210.0,
+    "avgilvl": 210.4,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
@@ -733,8 +733,8 @@
         "level": 60,
         "title": "Loremaster Mash\u00edro",
         "ilvl": 225,
-        "score": 608.7,
-        "scoreColor": "#b8ffa1",
+        "score": 645.6,
+        "scoreColor": "#b3ff9b",
         "covenant": "Night Fae",
         "renown": 70,
         "links": {
@@ -793,7 +793,7 @@
         }
       }
     ],
-    "score": 3140.2,
+    "score": 3177.1,
     "scoreColor": "#91ff75",
     "avgilvl": 213.6,
     "highestkey": {
@@ -846,7 +846,7 @@
         "score": 475.5,
         "scoreColor": "#d0ffbe",
         "covenant": "Necrolord",
-        "renown": 45,
+        "renown": 46,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
