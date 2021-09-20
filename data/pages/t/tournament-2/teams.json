@@ -283,10 +283,10 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 222,
-        "score": 993.6,
-        "scoreColor": "#51ff36",
+        "score": 1214.5,
+        "scoreColor": "#4ae84e",
         "covenant": "Night Fae",
-        "renown": 46,
+        "renown": 48,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -306,9 +306,9 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 226,
-        "score": 993.6,
-        "scoreColor": "#51ff36",
+        "ilvl": 227,
+        "score": 1214.5,
+        "scoreColor": "#4ae84e",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -331,8 +331,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 224,
-        "score": 1113.1,
-        "scoreColor": "#34f72b",
+        "score": 1214.5,
+        "scoreColor": "#4ae84e",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -355,8 +355,8 @@
         "level": 60,
         "title": "Archmage Cylonarkana",
         "ilvl": 217,
-        "score": 391.8,
-        "scoreColor": "#e2ffd6",
+        "score": 803.4,
+        "scoreColor": "#8aff6e",
         "covenant": "Venthyr",
         "renown": 17,
         "links": {
@@ -378,11 +378,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey",
-        "ilvl": 218,
-        "score": 1113.1,
-        "scoreColor": "#34f72b",
+        "ilvl": 221,
+        "score": 1122.4,
+        "scoreColor": "#3bf436",
         "covenant": "Kyrian",
-        "renown": 48,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -391,15 +391,15 @@
         }
       }
     ],
-    "score": 4605.2,
-    "scoreColor": "#41f03f",
-    "avgilvl": 221.4,
+    "score": 5569.3,
+    "scoreColor": "#5dca7a",
+    "avgilvl": 222.2,
     "highestkey": {
       "key": 15,
       "per": -0.06809078947368419,
       "str": "15 (6.81%)"
     },
-    "numkeys": 18
+    "numkeys": 21
   },
   "ASC": {
     "name": "Alliance Shadow Council",
