@@ -549,7 +549,7 @@
         "190634616"
       ],
       "count": 4,
-      "scoreColor": "#715be5",
+      "scoreColor": "#695ee4",
       "timeDiff": -226214,
       "percDiff": -0.12567444444444442
     },
@@ -716,7 +716,7 @@
         "190634616"
       ],
       "count": 3,
-      "scoreColor": "#715be5",
+      "scoreColor": "#695ee4",
       "timeDiff": -178614,
       "percDiff": -0.0763307692307692
     },
@@ -780,7 +780,7 @@
         "217589860"
       ],
       "count": 3,
-      "scoreColor": "#e3598b",
+      "scoreColor": "#e1578f",
       "timeDiff": -241140,
       "percDiff": -0.12559374999999995
     },
@@ -845,7 +845,7 @@
         "220278881"
       ],
       "count": 4,
-      "scoreColor": "#e3598b",
+      "scoreColor": "#e1578f",
       "timeDiff": -142066,
       "percDiff": -0.0657712962962963
     },
@@ -1598,9 +1598,11 @@
       "faction": "horde",
       "members": [
         "168583004",
-        "200029279"
+        "200029279",
+        "220096665",
+        "195983585"
       ],
-      "count": 2,
+      "count": 4,
       "scoreColor": "#579ab0",
       "timeDiff": -254320,
       "percDiff": -0.10868376068376073
