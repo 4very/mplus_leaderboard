@@ -354,11 +354,11 @@
         "race": 27,
         "level": 60,
         "title": "Archmage Cylonarkana",
-        "ilvl": 217,
+        "ilvl": 220,
         "score": 803.4,
         "scoreColor": "#8aff6e",
         "covenant": "Venthyr",
-        "renown": 17,
+        "renown": 21,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -393,7 +393,7 @@
     ],
     "score": 5661.4,
     "scoreColor": "#5ec67e",
-    "avgilvl": 222.2,
+    "avgilvl": 222.8,
     "highestkey": {
       "key": 15,
       "per": -0.06809078947368419,
@@ -554,7 +554,7 @@
         "score": 257.4,
         "scoreColor": "#f7fff3",
         "covenant": "Kyrian",
-        "renown": 59,
+        "renown": 63,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
