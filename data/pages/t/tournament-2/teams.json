@@ -66,7 +66,7 @@
         "score": 1225.3,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
-        "renown": 64,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -244,11 +244,11 @@
         "race": 35,
         "level": 60,
         "title": "Likkota the Patient",
-        "ilvl": 213,
+        "ilvl": 214,
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Night Fae",
-        "renown": 50,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -259,7 +259,7 @@
     ],
     "score": 1620.5,
     "scoreColor": "#deffd0",
-    "avgilvl": 213.8,
+    "avgilvl": 214.0,
     "highestkey": {
       "key": 6,
       "per": -0.14694786324786324,
