@@ -708,11 +708,11 @@
         "race": 2,
         "level": 60,
         "title": "Sito, Storm's End",
-        "ilvl": 208,
+        "ilvl": 215,
         "score": 645.6,
         "scoreColor": "#b3ff9b",
         "covenant": "Venthyr",
-        "renown": 51,
+        "renown": 52,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -795,7 +795,7 @@
     ],
     "score": 3177.1,
     "scoreColor": "#91ff75",
-    "avgilvl": 217.8,
+    "avgilvl": 219.2,
     "highestkey": {
       "key": 9,
       "per": -0.2017381578947368,
@@ -870,7 +870,7 @@
         "score": 475.5,
         "scoreColor": "#d0ffbe",
         "covenant": "Night Fae",
-        "renown": 57,
+        "renown": 60,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
