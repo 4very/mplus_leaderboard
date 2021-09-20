@@ -959,6 +959,21 @@
       "scoreColor": "#5bff40",
       "timeDiff": -937205,
       "percDiff": -0.4110548245614035
+    },
+    "9260500": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9260500-7-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 77.6,
+      "keystoneLevel": 7,
+      "clearTime": 2036622,
+      "dateCompleted": "2021-09-19T23:51:15.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#51e15a",
+      "timeDiff": -543378,
+      "percDiff": -0.21061162790697674
     }
   }
 }

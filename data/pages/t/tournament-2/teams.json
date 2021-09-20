@@ -685,8 +685,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 218,
-        "score": 559.8,
-        "scoreColor": "#c2ffad",
+        "score": 608.7,
+        "scoreColor": "#b8ffa1",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -733,8 +733,8 @@
         "level": 60,
         "title": "Loremaster Mash\u00edro",
         "ilvl": 225,
-        "score": 559.8,
-        "scoreColor": "#c2ffad",
+        "score": 608.7,
+        "scoreColor": "#b8ffa1",
         "covenant": "Night Fae",
         "renown": 70,
         "links": {
@@ -757,8 +757,8 @@
         "level": 60,
         "title": "Eredris the Tormented",
         "ilvl": 209,
-        "score": 559.8,
-        "scoreColor": "#c2ffad",
+        "score": 608.7,
+        "scoreColor": "#b8ffa1",
         "covenant": "Venthyr",
         "renown": 37,
         "links": {
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 2748.0,
-    "scoreColor": "#a8ff8e",
+    "score": 2894.7,
+    "scoreColor": "#a3ff88",
     "avgilvl": 213.6,
     "highestkey": {
       "key": 7,
-      "per": -0.2169794444444444,
-      "str": "7 (21.7%)"
+      "per": -0.21061162790697674,
+      "str": "7 (21.06%)"
     },
-    "numkeys": 10
+    "numkeys": 11
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
