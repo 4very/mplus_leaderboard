@@ -14,9 +14,9 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 218,
-        "score": 1202.1,
-        "scoreColor": "#4ae84e",
+        "ilvl": 220,
+        "score": 1225.3,
+        "scoreColor": "#4ee454",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -38,7 +38,7 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 221,
+        "ilvl": 224,
         "score": 1225.3,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
@@ -62,11 +62,11 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 217,
+        "ilvl": 223,
         "score": 1225.3,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
-        "renown": 60,
+        "renown": 64,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -87,10 +87,10 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 217,
-        "score": 1197.6,
-        "scoreColor": "#4ae84e",
+        "score": 1220.9,
+        "scoreColor": "#4ee454",
         "covenant": "Night Fae",
-        "renown": 34,
+        "renown": 37,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Ragingmeat",
@@ -123,15 +123,15 @@
         }
       }
     ],
-    "score": 5958.0,
+    "score": 6004.5,
     "scoreColor": "#5fbb8c",
-    "avgilvl": 219.2,
+    "avgilvl": 221.4,
     "highestkey": {
-      "key": 13,
-      "per": -0.007534959349593473,
-      "str": "13 (0.75%)"
+      "key": 14,
+      "per": -0.17748981481481485,
+      "str": "14 (17.75%)"
     },
-    "numkeys": 19
+    "numkeys": 20
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -646,11 +646,11 @@
         "race": 2,
         "level": 60,
         "title": "Dannyshock the Seeker",
-        "ilvl": 206,
+        "ilvl": 210,
         "score": 257.4,
         "scoreColor": "#f7fff3",
         "covenant": "Night Fae",
-        "renown": 26,
+        "renown": 32,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -661,7 +661,7 @@
     ],
     "score": 1029.6,
     "scoreColor": "#f7fff3",
-    "avgilvl": 213.4,
+    "avgilvl": 214.2,
     "highestkey": {
       "key": 6,
       "per": -0.17628918918918923,
@@ -870,7 +870,7 @@
         "score": 475.5,
         "scoreColor": "#d0ffbe",
         "covenant": "Night Fae",
-        "renown": 56,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
