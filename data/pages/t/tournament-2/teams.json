@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 221,
-        "score": 1202.1,
-        "scoreColor": "#4ae84e",
+        "score": 1225.3,
+        "scoreColor": "#4ee454",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 217,
-        "score": 1156.6,
-        "scoreColor": "#41f03f",
+        "score": 1225.3,
+        "scoreColor": "#4ee454",
         "covenant": "Kyrian",
         "renown": 60,
         "links": {
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 223,
-        "score": 1084.5,
-        "scoreColor": "#2bfb1d",
+        "score": 1107.7,
+        "scoreColor": "#34f72b",
         "covenant": "Necrolord",
         "renown": 63,
         "links": {
@@ -123,8 +123,8 @@
         }
       }
     ],
-    "score": 5842.9,
-    "scoreColor": "#5fbf87",
+    "score": 5958.0,
+    "scoreColor": "#5fbb8c",
     "avgilvl": 219.2,
     "highestkey": {
       "key": 13,
