@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 218,
-        "score": 1156.6,
-        "scoreColor": "#41f03f",
+        "score": 1202.1,
+        "scoreColor": "#4ae84e",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 221,
-        "score": 1156.6,
-        "scoreColor": "#41f03f",
+        "score": 1202.1,
+        "scoreColor": "#4ae84e",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 217,
-        "score": 1156.6,
-        "scoreColor": "#41f03f",
+        "score": 1202.1,
+        "scoreColor": "#4ae84e",
         "covenant": "Kyrian",
         "renown": 60,
         "links": {
@@ -87,8 +87,8 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 217,
-        "score": 1152.2,
-        "scoreColor": "#41f03f",
+        "score": 1197.6,
+        "scoreColor": "#4ae84e",
         "covenant": "Night Fae",
         "renown": 34,
         "links": {
@@ -123,8 +123,8 @@
         }
       }
     ],
-    "score": 5661.0,
-    "scoreColor": "#5ec67e",
+    "score": 5842.9,
+    "scoreColor": "#5fbf87",
     "avgilvl": 219.2,
     "highestkey": {
       "key": 13,
@@ -464,7 +464,7 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 208,
+        "ilvl": 209,
         "score": 401.6,
         "scoreColor": "#deffd0",
         "covenant": "Necrolord",
@@ -527,7 +527,7 @@
     ],
     "score": 1976.7,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 210.4,
+    "avgilvl": 210.6,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
