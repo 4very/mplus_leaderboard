@@ -2555,24 +2555,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Typsi"
     }
   },
-  "180513508": {
-    "name": "Sanstar",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sanstar",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sanstar",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sanstar",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sanstar"
-    }
-  },
   "180725459": {
     "name": "Tralythia",
     "realm": "illidan",
@@ -11726,7 +11708,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 234.4,
+    "score": 240.3,
     "scoreColor": "#fbfff9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/C\u00e0st\u00e0tor",
@@ -11891,7 +11873,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
