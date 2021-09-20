@@ -283,8 +283,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 222,
-        "score": 923.2,
-        "scoreColor": "#6dff51",
+        "score": 973.5,
+        "scoreColor": "#5bff40",
         "covenant": "Night Fae",
         "renown": 44,
         "links": {
@@ -307,8 +307,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 223,
-        "score": 923.2,
-        "scoreColor": "#6dff51",
+        "score": 973.5,
+        "scoreColor": "#5bff40",
         "covenant": "Kyrian",
         "renown": 62,
         "links": {
@@ -331,8 +331,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 223,
-        "score": 923.2,
-        "scoreColor": "#6dff51",
+        "score": 973.5,
+        "scoreColor": "#5bff40",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -391,15 +391,15 @@
         }
       }
     ],
-    "score": 4084.6,
-    "scoreColor": "#44ff2b",
+    "score": 4235.5,
+    "scoreColor": "#1eff00",
     "avgilvl": 220.6,
     "highestkey": {
-      "key": 13,
-      "per": -0.10050921052631578,
-      "str": "13 (10.05%)"
+      "key": 14,
+      "per": -0.19748833333333338,
+      "str": "14 (19.75%)"
     },
-    "numkeys": 16
+    "numkeys": 17
   },
   "ASC": {
     "name": "Alliance Shadow Council",
