@@ -283,8 +283,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 222,
-        "score": 973.5,
-        "scoreColor": "#5bff40",
+        "score": 993.6,
+        "scoreColor": "#51ff36",
         "covenant": "Night Fae",
         "renown": 44,
         "links": {
@@ -307,8 +307,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 223,
-        "score": 973.5,
-        "scoreColor": "#5bff40",
+        "score": 993.6,
+        "scoreColor": "#51ff36",
         "covenant": "Kyrian",
         "renown": 62,
         "links": {
@@ -330,9 +330,9 @@
         "race": 31,
         "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 223,
-        "score": 973.5,
-        "scoreColor": "#5bff40",
+        "ilvl": 224,
+        "score": 993.6,
+        "scoreColor": "#51ff36",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -379,8 +379,8 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 218,
-        "score": 923.2,
-        "scoreColor": "#6dff51",
+        "score": 993.6,
+        "scoreColor": "#51ff36",
         "covenant": "Kyrian",
         "renown": 42,
         "links": {
@@ -391,9 +391,9 @@
         }
       }
     ],
-    "score": 4235.5,
-    "scoreColor": "#1eff00",
-    "avgilvl": 220.6,
+    "score": 4366.2,
+    "scoreColor": "#2bfb1d",
+    "avgilvl": 220.8,
     "highestkey": {
       "key": 14,
       "per": -0.19748833333333338,
@@ -554,7 +554,7 @@
         "score": 257.4,
         "scoreColor": "#f7fff3",
         "covenant": "Kyrian",
-        "renown": 57,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
