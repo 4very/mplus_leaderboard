@@ -224,7 +224,7 @@
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Necrolord",
-        "renown": 47,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -286,7 +286,7 @@
         "score": 993.6,
         "scoreColor": "#51ff36",
         "covenant": "Night Fae",
-        "renown": 44,
+        "renown": 46,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -382,7 +382,7 @@
         "score": 993.6,
         "scoreColor": "#51ff36",
         "covenant": "Kyrian",
-        "renown": 42,
+        "renown": 48,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -397,7 +397,7 @@
     "highestkey": {
       "key": 15,
       "per": -0.06809078947368419,
-      "str": "15 (6.8%)"
+      "str": "15 (6.81%)"
     },
     "numkeys": 18
   },
@@ -646,11 +646,11 @@
         "race": 2,
         "level": 60,
         "title": "Dannyshock the Seeker",
-        "ilvl": 210,
+        "ilvl": 215,
         "score": 257.4,
         "scoreColor": "#f7fff3",
         "covenant": "Night Fae",
-        "renown": 32,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -661,11 +661,11 @@
     ],
     "score": 1029.6,
     "scoreColor": "#f7fff3",
-    "avgilvl": 214.2,
+    "avgilvl": 215.2,
     "highestkey": {
       "key": 6,
-      "per": -0.17628918918918923,
-      "str": "6 (17.63%)"
+      "per": -0.19796578947368426,
+      "str": "6 (19.8%)"
     },
     "numkeys": 3
   },
@@ -798,8 +798,8 @@
     "avgilvl": 217.8,
     "highestkey": {
       "key": 9,
-      "per": -0.18016351351351356,
-      "str": "9 (18.02%)"
+      "per": -0.2017381578947368,
+      "str": "9 (20.17%)"
     },
     "numkeys": 12
   },

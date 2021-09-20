@@ -510,8 +510,8 @@
       ],
       "count": 3,
       "scoreColor": "#54dd60",
-      "timeDiff": -700456,
-      "percDiff": -0.3155207207207207
+      "timeDiff": -760456,
+      "percDiff": -0.33353333333333335
     },
     "9003047": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9003047-11-the-necrotic-wake",
@@ -658,8 +658,8 @@
       ],
       "count": 3,
       "scoreColor": "#4c8cbf",
-      "timeDiff": -389323,
-      "percDiff": -0.17537072072072069
+      "timeDiff": -449323,
+      "percDiff": -0.19707149122807022
     },
     "9052507": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9052507-5-de-other-side",
@@ -806,8 +806,8 @@
       ],
       "count": 5,
       "scoreColor": "#a3ff88",
-      "timeDiff": -837179,
-      "percDiff": -0.37710765765765764
+      "timeDiff": -897179,
+      "percDiff": -0.3934995614035087
     },
     "9080202": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9080202-7-mists-of-tirna-scithe",
@@ -871,8 +871,8 @@
       ],
       "count": 5,
       "scoreColor": "#65ff49",
-      "timeDiff": -729271,
-      "percDiff": -0.3285004504504504
+      "timeDiff": -789271,
+      "percDiff": -0.3461714912280702
     },
     "9081710": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9081710-2-de-other-side",
@@ -1023,8 +1023,8 @@
       ],
       "count": 5,
       "scoreColor": "#5090bb",
-      "timeDiff": -157131,
-      "percDiff": -0.07077972972972968
+      "timeDiff": -217131,
+      "percDiff": -0.09523289473684216
     },
     "9154011": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9154011-2-halls-of-atonement",
@@ -1154,8 +1154,8 @@
       ],
       "count": 5,
       "scoreColor": "#44ff2b",
-      "timeDiff": -473933,
-      "percDiff": -0.21348333333333336
+      "timeDiff": -533933,
+      "percDiff": -0.23418114035087723
     },
     "9176866": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9176866-7-sanguine-depths",
@@ -1197,8 +1197,8 @@
       ],
       "count": 4,
       "scoreColor": "#65ff49",
-      "timeDiff": 401518,
-      "percDiff": 0.18086396396396398
+      "timeDiff": 341518,
+      "percDiff": 0.149788596491228
     },
     "9176230": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9176230-6-mists-of-tirna-scithe",
@@ -1326,8 +1326,8 @@
       ],
       "count": 5,
       "scoreColor": "#2bfb1d",
-      "timeDiff": -391362,
-      "percDiff": -0.17628918918918923
+      "timeDiff": -451362,
+      "percDiff": -0.19796578947368426
     },
     "9197772": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9197772-4-mists-of-tirna-scithe",
@@ -1392,8 +1392,8 @@
       ],
       "count": 5,
       "scoreColor": "#a3ff88",
-      "timeDiff": -1102118,
-      "percDiff": -0.49644954954954956
+      "timeDiff": -1162118,
+      "percDiff": -0.5097008771929825
     },
     "9255332": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9255332-7-mists-of-tirna-scithe",
@@ -1502,8 +1502,8 @@
       ],
       "count": 5,
       "scoreColor": "#5dca7a",
-      "timeDiff": -399963,
-      "percDiff": -0.18016351351351356
+      "timeDiff": -459963,
+      "percDiff": -0.2017381578947368
     },
     "9277948": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9277948-13-sanguine-depths",
@@ -1568,6 +1568,26 @@
       "scoreColor": "#2877d6",
       "timeDiff": -355479,
       "percDiff": -0.19748833333333338
+    },
+    "9316329": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9316329-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 125.9,
+      "keystoneLevel": 15,
+      "clearTime": 2124753,
+      "dateCompleted": "2021-09-20T18:26:48.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "168583004",
+        "200029279",
+        "220096665"
+      ],
+      "count": 3,
+      "scoreColor": "#1b73d9",
+      "timeDiff": -155247,
+      "percDiff": -0.06809078947368419
     }
   }
 }
