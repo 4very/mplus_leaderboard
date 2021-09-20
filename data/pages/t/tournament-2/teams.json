@@ -306,11 +306,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 223,
+        "ilvl": 226,
         "score": 993.6,
         "scoreColor": "#51ff36",
         "covenant": "Kyrian",
-        "renown": 62,
+        "renown": 64,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -393,13 +393,13 @@
     ],
     "score": 4366.2,
     "scoreColor": "#2bfb1d",
-    "avgilvl": 220.8,
+    "avgilvl": 221.4,
     "highestkey": {
-      "key": 14,
-      "per": -0.19748833333333338,
-      "str": "14 (19.75%)"
+      "key": 15,
+      "per": -0.042904054054054064,
+      "str": "15 (4.29%)"
     },
-    "numkeys": 17
+    "numkeys": 18
   },
   "ASC": {
     "name": "Alliance Shadow Council",
