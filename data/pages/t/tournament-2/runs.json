@@ -162,8 +162,8 @@
       "faction": "horde",
       "team": "meat",
       "scoreColor": "#35ff1c",
-      "timeDiff": -966592,
-      "percDiff": -0.43540180180180177
+      "timeDiff": -1026592,
+      "percDiff": -0.450259649122807
     },
     "8928149": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/8928149-2-the-necrotic-wake",
@@ -372,8 +372,8 @@
       "faction": "horde",
       "team": "TTC",
       "scoreColor": "#54dd60",
-      "timeDiff": -700456,
-      "percDiff": -0.3155207207207207
+      "timeDiff": -760456,
+      "percDiff": -0.33353333333333335
     },
     "9003047": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9003047-11-the-necrotic-wake",
@@ -417,8 +417,8 @@
       "faction": "horde",
       "team": "meat",
       "scoreColor": "#35ff1c",
-      "timeDiff": -1008394,
-      "percDiff": -0.4542315315315315
+      "timeDiff": -1068394,
+      "percDiff": -0.4685938596491228
     },
     "9045179": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9045179-2-plaguefall",
@@ -477,8 +477,8 @@
       "faction": "horde",
       "team": "TTC",
       "scoreColor": "#4c8cbf",
-      "timeDiff": -389323,
-      "percDiff": -0.17537072072072069
+      "timeDiff": -449323,
+      "percDiff": -0.19707149122807022
     },
     "9054135": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9054135-13-plaguefall",
@@ -537,8 +537,8 @@
       "faction": "alliance",
       "team": "ASC",
       "scoreColor": "#a3ff88",
-      "timeDiff": -837179,
-      "percDiff": -0.37710765765765764
+      "timeDiff": -897179,
+      "percDiff": -0.3934995614035087
     },
     "9080202": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9080202-7-mists-of-tirna-scithe",
@@ -567,8 +567,8 @@
       "faction": "horde",
       "team": "WSF2T",
       "scoreColor": "#65ff49",
-      "timeDiff": -729271,
-      "percDiff": -0.3285004504504504
+      "timeDiff": -789271,
+      "percDiff": -0.3461714912280702
     },
     "9081710": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9081710-2-de-other-side",
@@ -672,8 +672,8 @@
       "faction": "horde",
       "team": "meat",
       "scoreColor": "#5090bb",
-      "timeDiff": -157131,
-      "percDiff": -0.07077972972972968
+      "timeDiff": -217131,
+      "percDiff": -0.09523289473684216
     },
     "9154011": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9154011-2-halls-of-atonement",
@@ -762,8 +762,8 @@
       "faction": "horde",
       "team": "STISB",
       "scoreColor": "#44ff2b",
-      "timeDiff": -473933,
-      "percDiff": -0.21348333333333336
+      "timeDiff": -533933,
+      "percDiff": -0.23418114035087723
     },
     "9176866": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9176866-7-sanguine-depths",
@@ -792,8 +792,8 @@
       "faction": "horde",
       "team": "inv",
       "scoreColor": "#65ff49",
-      "timeDiff": 401518,
-      "percDiff": 0.18086396396396398
+      "timeDiff": 341518,
+      "percDiff": 0.149788596491228
     },
     "9176230": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9176230-6-mists-of-tirna-scithe",
@@ -882,8 +882,8 @@
       "faction": "horde",
       "team": "TST",
       "scoreColor": "#2bfb1d",
-      "timeDiff": -391362,
-      "percDiff": -0.17628918918918923
+      "timeDiff": -451362,
+      "percDiff": -0.19796578947368426
     },
     "9197772": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9197772-4-mists-of-tirna-scithe",
@@ -927,8 +927,8 @@
       "faction": "horde",
       "team": "STISB",
       "scoreColor": "#a3ff88",
-      "timeDiff": -1102118,
-      "percDiff": -0.49644954954954956
+      "timeDiff": -1162118,
+      "percDiff": -0.5097008771929825
     },
     "9255332": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9255332-7-mists-of-tirna-scithe",
@@ -987,8 +987,8 @@
       "faction": "horde",
       "team": "STISB",
       "scoreColor": "#5dca7a",
-      "timeDiff": -399963,
-      "percDiff": -0.18016351351351356
+      "timeDiff": -459963,
+      "percDiff": -0.2017381578947368
     },
     "9277948": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9277948-13-sanguine-depths",
@@ -1047,8 +1047,8 @@
       "faction": "horde",
       "team": "TTC",
       "scoreColor": "#1b73d9",
-      "timeDiff": -95247,
-      "percDiff": -0.042904054054054064
+      "timeDiff": -155247,
+      "percDiff": -0.06809078947368419
     }
   }
 }
