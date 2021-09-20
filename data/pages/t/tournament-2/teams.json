@@ -283,8 +283,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 222,
-        "score": 993.6,
-        "scoreColor": "#51ff36",
+        "score": 1122.4,
+        "scoreColor": "#3bf436",
         "covenant": "Night Fae",
         "renown": 46,
         "links": {
@@ -307,8 +307,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 226,
-        "score": 993.6,
-        "scoreColor": "#51ff36",
+        "score": 1122.4,
+        "scoreColor": "#3bf436",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -331,8 +331,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 224,
-        "score": 1113.1,
-        "scoreColor": "#34f72b",
+        "score": 1122.4,
+        "scoreColor": "#3bf436",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -355,8 +355,8 @@
         "level": 60,
         "title": "Archmage Cylonarkana",
         "ilvl": 217,
-        "score": 391.8,
-        "scoreColor": "#e2ffd6",
+        "score": 643.9,
+        "scoreColor": "#b3ff9b",
         "covenant": "Venthyr",
         "renown": 17,
         "links": {
@@ -379,8 +379,8 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 218,
-        "score": 1113.1,
-        "scoreColor": "#34f72b",
+        "score": 1122.4,
+        "scoreColor": "#3bf436",
         "covenant": "Kyrian",
         "renown": 48,
         "links": {
@@ -391,15 +391,15 @@
         }
       }
     ],
-    "score": 4605.2,
-    "scoreColor": "#41f03f",
+    "score": 5133.5,
+    "scoreColor": "#54dd60",
     "avgilvl": 221.4,
     "highestkey": {
       "key": 15,
       "per": -0.06809078947368419,
       "str": "15 (6.81%)"
     },
-    "numkeys": 18
+    "numkeys": 20
   },
   "ASC": {
     "name": "Alliance Shadow Council",
