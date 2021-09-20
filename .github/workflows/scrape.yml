@@ -11,7 +11,7 @@ on:
   
 
 jobs:
-  build:
+  Scrape:
     runs-on: ubuntu-latest
     steps:
    
