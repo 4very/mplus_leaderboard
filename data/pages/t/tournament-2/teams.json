@@ -488,11 +488,11 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 200,
+        "ilvl": 209,
         "score": 331.6,
         "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
-        "renown": 32,
+        "renown": 39,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -527,7 +527,7 @@
     ],
     "score": 1976.7,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 208.2,
+    "avgilvl": 210.0,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
@@ -685,8 +685,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 218,
-        "score": 608.7,
-        "scoreColor": "#b8ffa1",
+        "score": 645.6,
+        "scoreColor": "#b3ff9b",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -709,8 +709,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 204,
-        "score": 559.8,
-        "scoreColor": "#c2ffad",
+        "score": 645.6,
+        "scoreColor": "#b3ff9b",
         "covenant": "Venthyr",
         "renown": 43,
         "links": {
@@ -757,8 +757,8 @@
         "level": 60,
         "title": "Eredris the Tormented",
         "ilvl": 209,
-        "score": 608.7,
-        "scoreColor": "#b8ffa1",
+        "score": 645.6,
+        "scoreColor": "#b3ff9b",
         "covenant": "Venthyr",
         "renown": 37,
         "links": {
@@ -781,8 +781,8 @@
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 212,
-        "score": 508.8,
-        "scoreColor": "#ccffb8",
+        "score": 594.7,
+        "scoreColor": "#bdffa7",
         "covenant": "Night Fae",
         "renown": 57,
         "links": {
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 2894.7,
-    "scoreColor": "#a3ff88",
+    "score": 3140.2,
+    "scoreColor": "#91ff75",
     "avgilvl": 213.6,
     "highestkey": {
-      "key": 7,
-      "per": -0.21061162790697674,
-      "str": "7 (21.06%)"
+      "key": 9,
+      "per": -0.18016351351351356,
+      "str": "9 (18.02%)"
     },
-    "numkeys": 11
+    "numkeys": 12
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
