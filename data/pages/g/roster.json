@@ -44,7 +44,7 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 4,
-    "score": 1898.2,
+    "score": 1899.4,
     "scoreColor": "#397ece",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerotth",
@@ -4166,7 +4166,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 4,
-    "score": 1947.4,
+    "score": 1954.4,
     "scoreColor": "#2877d6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fr\u00f8gman",
@@ -8903,7 +8903,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -9944,8 +9944,8 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 8,
-    "score": 2317.3,
-    "scoreColor": "#be40ce",
+    "score": 2323,
+    "scoreColor": "#c442c6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villanka",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villanka",
@@ -11690,7 +11690,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 8,
-    "score": 2077.6,
+    "score": 2078,
     "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Panz\u00e8r",
@@ -11873,7 +11873,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12050,7 +12050,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1661.9,
+    "score": 1667.7,
     "scoreColor": "#5ba2a8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",

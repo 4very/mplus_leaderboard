@@ -671,13 +671,12 @@
       "keyMod": 0,
       "faction": "horde",
       "members": [
-        "163279137",
         "203738573",
         "217819077",
         "219403136",
         "220278881"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#be40ce",
       "timeDiff": 143081,
       "percDiff": 0.05816300813008124
