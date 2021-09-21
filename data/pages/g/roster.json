@@ -944,7 +944,7 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 1225.3,
+    "score": 1236.7,
     "scoreColor": "#4ee454",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatshocks",
@@ -8903,7 +8903,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -8936,7 +8936,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 1107.7,
+    "score": 1119.1,
     "scoreColor": "#34f72b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatward",
@@ -12266,7 +12266,7 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 9,
-    "score": 1225.3,
+    "score": 1236.7,
     "scoreColor": "#4ee454",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meatspear",
@@ -12284,7 +12284,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1225.3,
+    "score": 1236.7,
     "scoreColor": "#4ee454",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fingermeat",
@@ -12320,7 +12320,7 @@
     "classColor": "#C69B6D",
     "race": 10,
     "rank": 9,
-    "score": 1220.9,
+    "score": 1232.3,
     "scoreColor": "#4ee454",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
@@ -12885,6 +12885,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Therimreepr",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Therimreepr",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Therimreepr"
+    }
+  },
+  "95012110": {
+    "name": "Sunra",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 1,
+    "rank": 9,
+    "score": 336.5,
+    "scoreColor": "#ebffe2",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Sunra",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sunra",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sunra",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sunra"
     }
   },
   "95055565": {
@@ -18017,24 +18035,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalipz"
     }
   },
-  "191263256": {
-    "name": "Dracuhl",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 29,
-    "rank": 9,
-    "score": 130.7,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Dracuhl",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dracuhl",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
-    }
-  },
   "191276872": {
     "name": "Ashpartame",
     "realm": "sargeras",
@@ -18051,24 +18051,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashpartame",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
-    }
-  },
-  "95012110": {
-    "name": "Sunra",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 336.5,
-    "scoreColor": "#ebffe2",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Sunra",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sunra",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sunra",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sunra"
     }
   }
 }
