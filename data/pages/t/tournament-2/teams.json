@@ -684,7 +684,7 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 223,
+        "ilvl": 225,
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Kyrian",
@@ -795,7 +795,7 @@
     ],
     "score": 3350.7,
     "scoreColor": "#84ff67",
-    "avgilvl": 220.2,
+    "avgilvl": 220.6,
     "highestkey": {
       "key": 11,
       "per": -0.1297166666666667,
