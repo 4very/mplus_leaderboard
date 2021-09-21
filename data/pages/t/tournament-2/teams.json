@@ -15,7 +15,7 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 220,
-        "score": 1225.3,
+        "score": 1236.7,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
         "renown": 63,
@@ -39,7 +39,7 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 224,
-        "score": 1225.3,
+        "score": 1236.7,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
         "renown": 65,
@@ -63,7 +63,7 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 223,
-        "score": 1225.3,
+        "score": 1236.7,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
         "renown": 67,
@@ -111,7 +111,7 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 223,
-        "score": 1107.7,
+        "score": 1119.1,
         "scoreColor": "#34f72b",
         "covenant": "Necrolord",
         "renown": 63,
@@ -123,15 +123,15 @@
         }
       }
     ],
-    "score": 6004.5,
-    "scoreColor": "#5fbb8c",
+    "score": 6050.1,
+    "scoreColor": "#5fb890",
     "avgilvl": 221.4,
     "highestkey": {
       "key": 14,
       "per": -0.17748981481481485,
       "str": "14 (17.75%)"
     },
-    "numkeys": 20
+    "numkeys": 21
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
