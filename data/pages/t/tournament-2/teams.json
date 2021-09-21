@@ -224,7 +224,7 @@
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Necrolord",
-        "renown": 49,
+        "renown": 53,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -396,10 +396,10 @@
     "avgilvl": 222.8,
     "highestkey": {
       "key": 15,
-      "per": -0.06809078947368419,
-      "str": "15 (6.81%)"
+      "per": 0.527063888888889,
+      "str": "15 (52.71%)"
     },
-    "numkeys": 21
+    "numkeys": 22
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -712,7 +712,7 @@
         "score": 645.6,
         "scoreColor": "#b3ff9b",
         "covenant": "Venthyr",
-        "renown": 52,
+        "renown": 53,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -756,11 +756,11 @@
         "race": 27,
         "level": 60,
         "title": "Count Eredris",
-        "ilvl": 216,
+        "ilvl": 218,
         "score": 645.6,
         "scoreColor": "#b3ff9b",
         "covenant": "Venthyr",
-        "renown": 46,
+        "renown": 48,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -795,7 +795,7 @@
     ],
     "score": 3177.1,
     "scoreColor": "#91ff75",
-    "avgilvl": 219.2,
+    "avgilvl": 219.6,
     "highestkey": {
       "key": 9,
       "per": -0.2017381578947368,
