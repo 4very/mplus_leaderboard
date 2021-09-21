@@ -646,11 +646,11 @@
         "race": 2,
         "level": 60,
         "title": "Dannyshock the Seeker",
-        "ilvl": 216,
+        "ilvl": 217,
         "score": 257.4,
         "scoreColor": "#f7fff3",
         "covenant": "Night Fae",
-        "renown": 39,
+        "renown": 43,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -661,7 +661,7 @@
     ],
     "score": 1029.6,
     "scoreColor": "#f7fff3",
-    "avgilvl": 217.2,
+    "avgilvl": 217.4,
     "highestkey": {
       "key": 6,
       "per": -0.19796578947368426,
