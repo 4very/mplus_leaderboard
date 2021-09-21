@@ -74,7 +74,7 @@ def RIO_GetCharRankings(name,realm):
 
 def error(response):
   if response.status_code != 200:
-    warn(f'Error code: {response.status_code} with response {response.text}')
+    warn(f'Error code: {response.status_code}')
     sleep(30)
     return True
   return False
