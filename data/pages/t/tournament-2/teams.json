@@ -14,8 +14,8 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 220,
-        "score": 1225.3,
+        "ilvl": 223,
+        "score": 1236.7,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
         "renown": 63,
@@ -110,7 +110,7 @@
         "race": 10,
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
-        "ilvl": 223,
+        "ilvl": 224,
         "score": 1119.1,
         "scoreColor": "#34f72b",
         "covenant": "Necrolord",
@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 6050.1,
+    "score": 6061.5,
     "scoreColor": "#5fb890",
-    "avgilvl": 221.6,
+    "avgilvl": 222.4,
     "highestkey": {
       "key": 14,
       "per": -0.17748981481481485,
@@ -176,7 +176,7 @@
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Venthyr",
-        "renown": 37,
+        "renown": 42,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
