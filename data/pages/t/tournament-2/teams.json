@@ -464,11 +464,11 @@
         "race": 25,
         "level": 60,
         "title": "Ashpartame the Seeker",
-        "ilvl": 209,
+        "ilvl": 212,
         "score": 401.6,
         "scoreColor": "#deffd0",
         "covenant": "Necrolord",
-        "renown": 43,
+        "renown": 45,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -512,7 +512,7 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 216,
+        "ilvl": 220,
         "score": 469,
         "scoreColor": "#d5ffc4",
         "covenant": "Night Fae",
@@ -527,7 +527,7 @@
     ],
     "score": 1976.7,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 211.2,
+    "avgilvl": 212.6,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
@@ -598,11 +598,11 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 211,
+        "ilvl": 212,
         "score": 0,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
-        "renown": 55,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -661,7 +661,7 @@
     ],
     "score": 1029.6,
     "scoreColor": "#f7fff3",
-    "avgilvl": 216.0,
+    "avgilvl": 216.2,
     "highestkey": {
       "key": 6,
       "per": -0.19796578947368426,
@@ -684,7 +684,7 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 222,
+        "ilvl": 223,
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Kyrian",
@@ -709,10 +709,10 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 215,
-        "score": 645.6,
-        "scoreColor": "#b3ff9b",
+        "score": 689,
+        "scoreColor": "#a8ff8e",
         "covenant": "Venthyr",
-        "renown": 53,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -757,8 +757,8 @@
         "level": 60,
         "title": "Count Eredris",
         "ilvl": 220,
-        "score": 645.6,
-        "scoreColor": "#b3ff9b",
+        "score": 689,
+        "scoreColor": "#a8ff8e",
         "covenant": "Venthyr",
         "renown": 48,
         "links": {
@@ -793,15 +793,15 @@
         }
       }
     ],
-    "score": 3263.9,
-    "scoreColor": "#8aff6e",
-    "avgilvl": 220.0,
+    "score": 3350.7,
+    "scoreColor": "#84ff67",
+    "avgilvl": 220.2,
     "highestkey": {
-      "key": 9,
-      "per": -0.2017381578947368,
-      "str": "9 (20.17%)"
+      "key": 11,
+      "per": -0.1297166666666667,
+      "str": "11 (12.97%)"
     },
-    "numkeys": 12
+    "numkeys": 13
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
