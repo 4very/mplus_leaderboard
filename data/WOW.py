@@ -16,9 +16,9 @@ def getRoster(realm, slug):
   querystring = {"namespace":"profile-us","locale":"en_US","access_token":getAccessToken()}
 
   payload = ""
-  response = request("GET", url, data=payload, params=querystring)
-
-  try: data = loads(response.text)
+  try: 
+    response = request("GET", url, data=payload, params=querystring)
+    data = loads(response.text)
   except: 
     warn("Cannot get WOW Roster Data")
     sleep(30)
@@ -32,9 +32,11 @@ def getAccessToken():
     'grant_type': 'client_credentials'
   }
 
-  response = post('https://us.battle.net/oauth/token', data=data, auth=getCredentials())
+  
 
-  try: data = loads(response.text)
+  try: 
+    response = post('https://us.battle.net/oauth/token', data=data, auth=getCredentials())
+    data = loads(response.text)
   except: 
     warn("Cannot get WOW AccessToken")
     sleep(30)
@@ -57,9 +59,10 @@ def WOW_GetCharData(name, realm):
   querystring = {"namespace":"profile-us","locale":"en_US","access_token":getAccessToken()}
 
   payload = ""
-  response = request("GET", url, data=payload, params=querystring)
 
-  try: data = loads(response.text)
+  try: 
+    response = request("GET", url, data=payload, params=querystring)
+    data = loads(response.text)
   except: 
     warn("Cannot get WOW Roster Data")
     sleep(30)
