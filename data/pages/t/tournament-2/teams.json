@@ -488,11 +488,11 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 210,
+        "ilvl": 212,
         "score": 331.6,
         "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
-        "renown": 43,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -527,7 +527,7 @@
     ],
     "score": 1976.7,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 212.8,
+    "avgilvl": 213.2,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
