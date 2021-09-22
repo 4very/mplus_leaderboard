@@ -129,8 +129,8 @@
     "highestkey": {
       "key": 14,
       "per": -0.17748981481481485,
-      "dung": "DOS",
-      "str": "14 DOS (17.75%)"
+      "dung": "NW",
+      "str": "14 NW (17.75%)"
     },
     "numkeys": 21
   },
@@ -249,7 +249,7 @@
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Night Fae",
-        "renown": 57,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -398,7 +398,7 @@
     "avgilvl": 225.2,
     "highestkey": {
       "key": 15,
-      "per": 0.06809078947368419,
+      "per": -0.06809078947368419,
       "dung": "TOP",
       "str": "15 TOP (6.81%)"
     },
@@ -467,11 +467,11 @@
         "race": 25,
         "level": 60,
         "title": "Baron Ashpartame",
-        "ilvl": 214,
-        "score": 401.6,
-        "scoreColor": "#deffd0",
+        "ilvl": 216,
+        "score": 463.3,
+        "scoreColor": "#d5ffc4",
         "covenant": "Necrolord",
-        "renown": 48,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -492,10 +492,10 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 213,
-        "score": 331.6,
-        "scoreColor": "#ebffe2",
+        "score": 435.3,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
-        "renown": 49,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -516,8 +516,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 221,
-        "score": 469,
-        "scoreColor": "#d5ffc4",
+        "score": 530.7,
+        "scoreColor": "#c7ffb3",
         "covenant": "Night Fae",
         "renown": 47,
         "links": {
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 1976.7,
-    "scoreColor": "#d0ffbe",
-    "avgilvl": 215.0,
+    "score": 2203.8,
+    "scoreColor": "#c2ffad",
+    "avgilvl": 215.4,
     "highestkey": {
-      "key": 5,
-      "per": -0.31895487804878053,
-      "dung": "SD",
-      "str": "5 SD (31.9%)"
+      "key": 6,
+      "per": -0.3289038759689923,
+      "dung": "DOS",
+      "str": "6 DOS (32.89%)"
     },
-    "numkeys": 6
+    "numkeys": 7
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -602,11 +602,11 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 214,
+        "ilvl": 215,
         "score": 227.7,
         "scoreColor": "#fbfff9",
         "covenant": "Kyrian",
-        "renown": 64,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -665,12 +665,12 @@
     ],
     "score": 1471.8,
     "scoreColor": "#e6ffdc",
-    "avgilvl": 217.8,
+    "avgilvl": 218.0,
     "highestkey": {
       "key": 7,
       "per": -0.19887790697674423,
-      "dung": "TOP",
-      "str": "7 TOP (19.89%)"
+      "dung": "DOS",
+      "str": "7 DOS (19.89%)"
     },
     "numkeys": 5
   },
@@ -689,7 +689,7 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 225,
+        "ilvl": 227,
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Kyrian",
@@ -761,11 +761,11 @@
         "race": 27,
         "level": 60,
         "title": "Count Eredris",
-        "ilvl": 220,
+        "ilvl": 225,
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Venthyr",
-        "renown": 48,
+        "renown": 50,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -785,11 +785,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 216,
+        "ilvl": 218,
         "score": 594.7,
         "scoreColor": "#bdffa7",
         "covenant": "Night Fae",
-        "renown": 60,
+        "renown": 64,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -800,7 +800,7 @@
     ],
     "score": 3350.7,
     "scoreColor": "#84ff67",
-    "avgilvl": 220.8,
+    "avgilvl": 222.6,
     "highestkey": {
       "key": 11,
       "per": -0.1297166666666667,
@@ -920,7 +920,7 @@
         "race": 2,
         "level": 60,
         "title": "Ashsucks",
-        "ilvl": 198,
+        "ilvl": 206,
         "score": 409.4,
         "scoreColor": "#deffd0",
         "covenant": "Night Fae",
@@ -935,7 +935,7 @@
     ],
     "score": 2311.4,
     "scoreColor": "#bdffa7",
-    "avgilvl": 212.0,
+    "avgilvl": 213.6,
     "highestkey": {
       "key": 6,
       "per": -0.13709944444444444,
