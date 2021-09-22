@@ -231,13 +231,15 @@ def getHighestKeys(folder):
   for tid, _ in teams.items(): highKeyObj[tid] = {'key':0, 'per':0, 'str':'none'}
 
   for _, run in runs['data'].items():
-    if (highKeyObj[run['team']]['key'] < run['keystoneLevel'] and run['timeDiff'] <= 0) or \
+    if (run['keyMod'] == 0): continue
+    if (highKeyObj[run['team']]['key'] < run['keystoneLevel']) or \
        (highKeyObj[run['team']]['key'] == run['keystoneLevel'] and highKeyObj[run['team']]['per'] < run['percDiff']): 
       
       highKeyObj[run['team']] = {
       'key': run['keystoneLevel'],
       'per': run['percDiff'],
-      'str': f'{run["keystoneLevel"]} ({round(abs(run["percDiff"]*100),2)}%)'
+      'dung': run['dungeonAbbr'],
+      'str': f'{run["keystoneLevel"]} {run['dungeonAbbr']} ({round(abs(run["percDiff"]*100),2)}%)'
     }
   
   return highKeyObj
