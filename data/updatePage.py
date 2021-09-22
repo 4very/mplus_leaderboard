@@ -238,7 +238,8 @@ def getHighestKeys(folder):
       highKeyObj[run['team']] = {
       'key': run['keystoneLevel'],
       'per': run['percDiff'],
-      'str': f'{run["keystoneLevel"]} ({round(abs(run["percDiff"]*100),2)}%)'
+      'dung': run['dungeonAbbr'],
+      'str': f'{run["keystoneLevel"]} {run['dungeonAbbr']} ({round(abs(run["percDiff"]*100),2)}%)'
     }
   
   return highKeyObj
