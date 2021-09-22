@@ -233,7 +233,7 @@ def getHighestKeys(folder):
   for _, run in runs['data'].items():
     if (run['keyMod'] == 0): continue
     if (highKeyObj[run['team']]['key'] < run['keystoneLevel']) or \
-       (highKeyObj[run['team']]['key'] == run['keystoneLevel'] and highKeyObj[run['team']]['per'] < run['percDiff']): 
+       (highKeyObj[run['team']]['key'] == run['keystoneLevel'] and abs(highKeyObj[run['team']]['per']) < abs(run['percDiff'])): 
       
       highKeyObj[run['team']] = {
       'key': run['keystoneLevel'],
