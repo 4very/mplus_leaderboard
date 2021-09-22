@@ -249,7 +249,7 @@
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Night Fae",
-        "renown": 59,
+        "renown": 60,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Likkota",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Likkota",
@@ -285,8 +285,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 224,
-        "score": 1214.5,
-        "scoreColor": "#4ae84e",
+        "score": 1277.6,
+        "scoreColor": "#54dd60",
         "covenant": "Night Fae",
         "renown": 48,
         "links": {
@@ -309,8 +309,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 229,
-        "score": 1214.5,
-        "scoreColor": "#4ae84e",
+        "score": 1277.6,
+        "scoreColor": "#54dd60",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -333,8 +333,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 227,
-        "score": 1214.5,
-        "scoreColor": "#4ae84e",
+        "score": 1277.6,
+        "scoreColor": "#54dd60",
         "covenant": "Necrolord",
         "renown": 66,
         "links": {
@@ -381,8 +381,8 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 223,
-        "score": 1214.5,
-        "scoreColor": "#4ae84e",
+        "score": 1277.6,
+        "scoreColor": "#54dd60",
         "covenant": "Kyrian",
         "renown": 55,
         "links": {
@@ -393,16 +393,16 @@
         }
       }
     ],
-    "score": 5661.4,
-    "scoreColor": "#5ec67e",
+    "score": 5913.8,
+    "scoreColor": "#5fbf87",
     "avgilvl": 225.0,
     "highestkey": {
       "key": 15,
-      "per": -0.06809078947368419,
+      "per": -0.08172894736842107,
       "dung": "TOP",
-      "str": "15 TOP (6.81%)"
+      "str": "15 TOP (8.17%)"
     },
-    "numkeys": 22
+    "numkeys": 23
   },
   "ASC": {
     "name": "Alliance Shadow Council",
