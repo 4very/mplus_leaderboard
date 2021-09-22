@@ -380,11 +380,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey",
-        "ilvl": 224,
+        "ilvl": 223,
         "score": 1214.5,
         "scoreColor": "#4ae84e",
         "covenant": "Kyrian",
-        "renown": 54,
+        "renown": 55,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -395,7 +395,7 @@
     ],
     "score": 5661.4,
     "scoreColor": "#5ec67e",
-    "avgilvl": 225.2,
+    "avgilvl": 225.0,
     "highestkey": {
       "key": 15,
       "per": -0.06809078947368419,
