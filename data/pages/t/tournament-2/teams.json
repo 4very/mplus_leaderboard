@@ -177,7 +177,7 @@
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Venthyr",
-        "renown": 47,
+        "renown": 49,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 1734.8,
-    "scoreColor": "#d9ffca",
-    "avgilvl": 171.8,
+    "score": 2265.5,
+    "scoreColor": "#c2ffad",
+    "avgilvl": 216.0,
     "highestkey": {
       "key": 6,
       "per": -0.3289038759689923,
@@ -737,7 +737,7 @@
         "race": 9,
         "level": 60,
         "title": "Loremaster Mash\u00edro",
-        "ilvl": 228,
+        "ilvl": 229,
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Night Fae",
@@ -800,7 +800,7 @@
     ],
     "score": 3350.7,
     "scoreColor": "#84ff67",
-    "avgilvl": 222.6,
+    "avgilvl": 222.8,
     "highestkey": {
       "key": 11,
       "per": -0.1297166666666667,
