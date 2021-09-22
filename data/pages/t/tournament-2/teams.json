@@ -14,7 +14,7 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 224,
+        "ilvl": 226,
         "score": 1236.7,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
@@ -38,7 +38,7 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 228,
+        "ilvl": 229,
         "score": 1236.7,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
@@ -125,7 +125,7 @@
     ],
     "score": 6061.5,
     "scoreColor": "#5fb890",
-    "avgilvl": 224.8,
+    "avgilvl": 225.4,
     "highestkey": {
       "key": 14,
       "per": -0.17748981481481485,
@@ -512,7 +512,7 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 220,
+        "ilvl": 221,
         "score": 469,
         "scoreColor": "#d5ffc4",
         "covenant": "Night Fae",
@@ -527,7 +527,7 @@
     ],
     "score": 1976.7,
     "scoreColor": "#d0ffbe",
-    "avgilvl": 214.8,
+    "avgilvl": 215.0,
     "highestkey": {
       "key": 5,
       "per": -0.31895487804878053,
@@ -551,8 +551,8 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 219,
-        "score": 257.4,
-        "scoreColor": "#f7fff3",
+        "score": 328.9,
+        "scoreColor": "#ebffe2",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -575,8 +575,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 224,
-        "score": 257.4,
-        "scoreColor": "#f7fff3",
+        "score": 328.9,
+        "scoreColor": "#ebffe2",
         "covenant": "Venthyr",
         "renown": 64,
         "links": {
@@ -599,8 +599,8 @@
         "level": 60,
         "title": "Huntmaster Arinaki",
         "ilvl": 214,
-        "score": 0,
-        "scoreColor": "#ffffff",
+        "score": 227.7,
+        "scoreColor": "#fbfff9",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -623,8 +623,8 @@
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 215,
-        "score": 257.4,
-        "scoreColor": "#f7fff3",
+        "score": 328.9,
+        "scoreColor": "#ebffe2",
         "covenant": "Necrolord",
         "renown": 47,
         "links": {
@@ -659,15 +659,15 @@
         }
       }
     ],
-    "score": 1029.6,
-    "scoreColor": "#f7fff3",
+    "score": 1471.8,
+    "scoreColor": "#e6ffdc",
     "avgilvl": 217.8,
     "highestkey": {
-      "key": 6,
-      "per": -0.19796578947368426,
-      "str": "6 (19.8%)"
+      "key": 7,
+      "per": -0.19887790697674423,
+      "str": "7 (19.89%)"
     },
-    "numkeys": 3
+    "numkeys": 5
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -712,7 +712,7 @@
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Venthyr",
-        "renown": 54,
+        "renown": 55,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -732,11 +732,11 @@
         "race": 9,
         "level": 60,
         "title": "Loremaster Mash\u00edro",
-        "ilvl": 227,
+        "ilvl": 228,
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Night Fae",
-        "renown": 70,
+        "renown": 72,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mash\u00edro",
@@ -795,7 +795,7 @@
     ],
     "score": 3350.7,
     "scoreColor": "#84ff67",
-    "avgilvl": 220.6,
+    "avgilvl": 220.8,
     "highestkey": {
       "key": 11,
       "per": -0.1297166666666667,
