@@ -1790,8 +1790,8 @@
     "classColor": "#0070DD",
     "race": 9,
     "rank": 9,
-    "score": 1277.6,
-    "scoreColor": "#54dd60",
+    "score": 1344.8,
+    "scoreColor": "#5ad270",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gobsanity",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gobsanity",
@@ -2751,24 +2751,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nottito",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Nottito",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nottito"
-    }
-  },
-  "182512286": {
-    "name": "Binsh",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 5,
-    "rank": 4,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Binsh",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Binsh",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Binsh",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Binsh"
     }
   },
   "182820315": {
@@ -6668,8 +6650,8 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 1277.6,
-    "scoreColor": "#54dd60",
+    "score": 1344.8,
+    "scoreColor": "#5ad270",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mysphux",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mysphux",
@@ -8957,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11834,8 +11816,8 @@
     "classColor": "#0070DD",
     "race": 31,
     "rank": 9,
-    "score": 1277.6,
-    "scoreColor": "#54dd60",
+    "score": 1344.8,
+    "scoreColor": "#5ad270",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptshock",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corruptshock",
@@ -17925,6 +17907,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mechalipz",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mechalipz",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalipz"
+    }
+  },
+  "191276872": {
+    "name": "Ashpartame",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 25,
+    "rank": 8,
+    "score": 463.3,
+    "scoreColor": "#d5ffc4",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashpartame",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
     }
   }
 }
