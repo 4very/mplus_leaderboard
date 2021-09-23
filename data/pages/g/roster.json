@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -13155,24 +13155,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Aminence",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Aminence",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Aminence"
-    }
-  },
-  "106562640": {
-    "name": "Aracano",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Aracano",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Aracano",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Aracano",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Aracano"
     }
   },
   "109520747": {
@@ -15713,24 +15695,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Tralorian"
     }
   },
-  "173469438": {
-    "name": "Cavidius",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Cavidius",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cavidius",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cavidius",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cavidius"
-    }
-  },
   "173534253": {
     "name": "Pepperin",
     "realm": "sargeras",
@@ -15983,24 +15947,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cylonsentnel"
     }
   },
-  "175343100": {
-    "name": "Berrissalie",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 7,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Berrissalie",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Berrissalie",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Berrissalie",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Berrissalie"
-    }
-  },
   "175436142": {
     "name": "Oniun",
     "realm": "sargeras",
@@ -16017,24 +15963,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Oniun",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Oniun",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Oniun"
-    }
-  },
-  "175442212": {
-    "name": "Alvuz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 34,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Alvuz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Alvuz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Alvuz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Alvuz"
     }
   },
   "175600082": {
@@ -16611,42 +16539,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Narangerel",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Narangerel",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Narangerel"
-    }
-  },
-  "187457662": {
-    "name": "Adapheon",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Adapheon",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Adapheon",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Adapheon",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Adapheon"
-    }
-  },
-  "187622289": {
-    "name": "Acaby",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Acaby",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Acaby",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Acaby",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Acaby"
     }
   },
   "187722169": {
@@ -18033,24 +17925,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mechalipz",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mechalipz",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalipz"
-    }
-  },
-  "191276872": {
-    "name": "Ashpartame",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 25,
-    "rank": 1,
-    "score": 463.3,
-    "scoreColor": "#d5ffc4",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashpartame",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
     }
   }
 }
