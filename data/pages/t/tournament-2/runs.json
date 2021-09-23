@@ -1199,6 +1199,21 @@
       "scoreColor": "#1b73d9",
       "timeDiff": -186342,
       "percDiff": -0.08172894736842107
+    },
+    "9528822": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9528822-7-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 80,
+      "keystoneLevel": 7,
+      "clearTime": 1367353,
+      "dateCompleted": "2021-09-23T00:25:17.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "team": "TST",
+      "scoreColor": "#54dd60",
+      "timeDiff": -912647,
+      "percDiff": -0.40028377192982456
     }
   }
 }

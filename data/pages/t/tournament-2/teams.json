@@ -66,7 +66,7 @@
         "score": 1236.7,
         "scoreColor": "#4ee454",
         "covenant": "Kyrian",
-        "renown": 67,
+        "renown": 68,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Meatspear",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Meatspear",
@@ -173,11 +173,11 @@
         "race": 35,
         "level": 60,
         "title": "Chef Zantano",
-        "ilvl": 209,
+        "ilvl": 212,
         "score": 324.1,
         "scoreColor": "#efffe8",
         "covenant": "Venthyr",
-        "renown": 49,
+        "renown": 52,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
@@ -260,7 +260,7 @@
     ],
     "score": 1620.5,
     "scoreColor": "#deffd0",
-    "avgilvl": 216.6,
+    "avgilvl": 217.2,
     "highestkey": {
       "key": 6,
       "per": -0.14694786324786324,
@@ -554,9 +554,9 @@
         "race": 28,
         "level": 60,
         "title": "Poke\u00fd the Chosen",
-        "ilvl": 219,
-        "score": 328.9,
-        "scoreColor": "#ebffe2",
+        "ilvl": 220,
+        "score": 461,
+        "scoreColor": "#d5ffc4",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -579,8 +579,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 224,
-        "score": 328.9,
-        "scoreColor": "#ebffe2",
+        "score": 381.4,
+        "scoreColor": "#e2ffd6",
         "covenant": "Venthyr",
         "renown": 64,
         "links": {
@@ -602,9 +602,9 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 215,
-        "score": 227.7,
-        "scoreColor": "#fbfff9",
+        "ilvl": 216,
+        "score": 427.3,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -627,8 +627,8 @@
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 215,
-        "score": 328.9,
-        "scoreColor": "#ebffe2",
+        "score": 461,
+        "scoreColor": "#d5ffc4",
         "covenant": "Necrolord",
         "renown": 47,
         "links": {
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 1471.8,
-    "scoreColor": "#e6ffdc",
-    "avgilvl": 218.0,
+    "score": 1988.1,
+    "scoreColor": "#d0ffbe",
+    "avgilvl": 218.4,
     "highestkey": {
       "key": 7,
-      "per": -0.19887790697674423,
-      "dung": "DOS",
-      "str": "7 DOS (19.89%)"
+      "per": -0.40028377192982456,
+      "dung": "TOP",
+      "str": "7 TOP (40.03%)"
     },
-    "numkeys": 5
+    "numkeys": 6
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -765,7 +765,7 @@
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Venthyr",
-        "renown": 50,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
