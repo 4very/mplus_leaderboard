@@ -771,11 +771,10 @@
       "keyMod": 1,
       "faction": "horde",
       "members": [
-        "213555984",
         "214792237",
         "217589860"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#df5692",
       "timeDiff": -241140,
       "percDiff": -0.12559374999999995
