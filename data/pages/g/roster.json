@@ -2258,8 +2258,8 @@
     "classColor": "#FFFFFF",
     "race": 9,
     "rank": 9,
-    "score": 2339.4,
-    "scoreColor": "#c342c7",
+    "score": 2347.5,
+    "scoreColor": "#c845c0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Notouchey",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Notouchey",
@@ -3716,8 +3716,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 273.9,
-    "scoreColor": "#f7fff3",
+    "score": 434.9,
+    "scoreColor": "#d9ffca",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Menenius",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Menenius",
@@ -4364,7 +4364,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 2,
-    "score": 2444.5,
+    "score": 2445.9,
     "scoreColor": "#d950a1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zandak",
@@ -7910,7 +7910,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 8,
-    "score": 2481.8,
+    "score": 2482.2,
     "scoreColor": "#dc539a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slyphox",
@@ -8450,7 +8450,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2481.8,
+    "score": 2482.2,
     "scoreColor": "#dc539a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mcthornbody",
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12014,7 +12014,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 4,
-    "score": 2399.7,
+    "score": 2408.4,
     "scoreColor": "#d14ab1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
