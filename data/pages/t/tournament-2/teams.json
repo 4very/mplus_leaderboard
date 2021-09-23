@@ -554,11 +554,11 @@
         "race": 28,
         "level": 60,
         "title": "Poke\u00fd the Chosen",
-        "ilvl": 220,
-        "score": 461,
-        "scoreColor": "#d5ffc4",
+        "ilvl": 224,
+        "score": 622,
+        "scoreColor": "#b8ffa1",
         "covenant": "Kyrian",
-        "renown": 63,
+        "renown": 64,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
@@ -578,11 +578,11 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 224,
-        "score": 461,
-        "scoreColor": "#d5ffc4",
+        "ilvl": 226,
+        "score": 622,
+        "scoreColor": "#b8ffa1",
         "covenant": "Venthyr",
-        "renown": 64,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
@@ -603,8 +603,8 @@
         "level": 60,
         "title": "Huntmaster Arinaki",
         "ilvl": 216,
-        "score": 427.3,
-        "scoreColor": "#d9ffca",
+        "score": 588.3,
+        "scoreColor": "#bdffa7",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -626,11 +626,11 @@
         "race": 10,
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
-        "ilvl": 215,
-        "score": 461,
-        "scoreColor": "#d5ffc4",
+        "ilvl": 217,
+        "score": 622,
+        "scoreColor": "#b8ffa1",
         "covenant": "Necrolord",
-        "renown": 47,
+        "renown": 52,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 2067.7,
-    "scoreColor": "#ccffb8",
-    "avgilvl": 218.4,
+    "score": 2711.7,
+    "scoreColor": "#a8ff8e",
+    "avgilvl": 220.0,
     "highestkey": {
-      "key": 10,
-      "per": -0.20856666666666668,
-      "dung": "MISTS",
-      "str": "10 MISTS (20.86%)"
+      "key": 11,
+      "per": -0.18407682926829272,
+      "dung": "SD",
+      "str": "11 SD (18.41%)"
     },
-    "numkeys": 7
+    "numkeys": 8
   },
   "STISB": {
     "name": "So Then I Started Blasting",

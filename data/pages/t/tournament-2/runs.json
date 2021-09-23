@@ -1229,6 +1229,21 @@
       "scoreColor": "#5ca5a4",
       "timeDiff": -375420,
       "percDiff": -0.20856666666666668
+    },
+    "9534781": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9534781-11-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 107.3,
+      "keystoneLevel": 11,
+      "clearTime": 2007171,
+      "dateCompleted": "2021-09-23T02:39:01.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "TST",
+      "scoreColor": "#579ab0",
+      "timeDiff": -452829,
+      "percDiff": -0.18407682926829272
     }
   }
 }
