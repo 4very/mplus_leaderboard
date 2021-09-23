@@ -554,11 +554,11 @@
         "race": 28,
         "level": 60,
         "title": "Poke\u00fd the Chosen",
-        "ilvl": 224,
+        "ilvl": 223,
         "score": 622,
         "scoreColor": "#b8ffa1",
         "covenant": "Kyrian",
-        "renown": 64,
+        "renown": 65,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
@@ -665,7 +665,7 @@
     ],
     "score": 2711.7,
     "scoreColor": "#a8ff8e",
-    "avgilvl": 220.4,
+    "avgilvl": 220.2,
     "highestkey": {
       "key": 11,
       "per": -0.18407682926829272,
