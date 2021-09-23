@@ -8939,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11816,8 +11816,8 @@
     "classColor": "#0070DD",
     "race": 31,
     "rank": 9,
-    "score": 1344.8,
-    "scoreColor": "#5ad270",
+    "score": 1477.4,
+    "scoreColor": "#5fbf87",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptshock",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corruptshock",
@@ -16010,8 +16010,8 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 0,
-    "score": 1843,
-    "scoreColor": "#4485c7",
+    "score": 1908.4,
+    "scoreColor": "#397ece",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Ashkrall",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashkrall",
@@ -16100,7 +16100,7 @@
     "classColor": "#C41E3A",
     "race": 11,
     "rank": 1,
-    "score": 2026,
+    "score": 2027.5,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Lichyro",
