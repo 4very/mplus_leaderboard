@@ -3716,8 +3716,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 120,
-    "scoreColor": "#ffffff",
+    "score": 273.9,
+    "scoreColor": "#f7fff3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Menenius",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Menenius",
@@ -8684,8 +8684,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 800.9,
-    "scoreColor": "#8aff6e",
+    "score": 831.3,
+    "scoreColor": "#84ff67",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corrupthunt",
@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12014,7 +12014,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 4,
-    "score": 2390.1,
+    "score": 2399.7,
     "scoreColor": "#d14ab1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
@@ -12212,8 +12212,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 381.4,
-    "scoreColor": "#e2ffd6",
+    "score": 461,
+    "scoreColor": "#d5ffc4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e0cuhl",
@@ -12374,8 +12374,8 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 9,
-    "score": 347.7,
-    "scoreColor": "#ebffe2",
+    "score": 427.3,
+    "scoreColor": "#d9ffca",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Arinaki",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Arinaki",
@@ -12428,8 +12428,8 @@
     "classColor": "#00FF98",
     "race": 28,
     "rank": 9,
-    "score": 381.4,
-    "scoreColor": "#e2ffd6",
+    "score": 461,
+    "scoreColor": "#d5ffc4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Poke\u00fd",
@@ -12446,8 +12446,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 381.4,
-    "scoreColor": "#e2ffd6",
+    "score": 461,
+    "scoreColor": "#d5ffc4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Diondre",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Diondre",
@@ -14174,7 +14174,7 @@
     "classColor": "#3FC7EB",
     "race": 7,
     "rank": 8,
-    "score": 2174.3,
+    "score": 2181.3,
     "scoreColor": "#9643ec",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Demosthanese",
@@ -14462,7 +14462,7 @@
     "classColor": "#A330C9",
     "race": 4,
     "rank": 5,
-    "score": 2160.9,
+    "score": 2167.6,
     "scoreColor": "#884ee9",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Th\u00fcnderlipz",

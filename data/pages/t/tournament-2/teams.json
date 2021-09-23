@@ -519,7 +519,7 @@
         "score": 530.7,
         "scoreColor": "#c7ffb3",
         "covenant": "Night Fae",
-        "renown": 55,
+        "renown": 56,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -579,8 +579,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 224,
-        "score": 381.4,
-        "scoreColor": "#e2ffd6",
+        "score": 461,
+        "scoreColor": "#d5ffc4",
         "covenant": "Venthyr",
         "renown": 64,
         "links": {
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 1988.1,
-    "scoreColor": "#d0ffbe",
+    "score": 2067.7,
+    "scoreColor": "#ccffb8",
     "avgilvl": 218.4,
     "highestkey": {
-      "key": 7,
-      "per": -0.40028377192982456,
-      "dung": "TOP",
-      "str": "7 TOP (40.03%)"
+      "key": 10,
+      "per": -0.20856666666666668,
+      "dung": "MISTS",
+      "str": "10 MISTS (20.86%)"
     },
-    "numkeys": 6
+    "numkeys": 7
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -693,7 +693,7 @@
         "score": 689,
         "scoreColor": "#a8ff8e",
         "covenant": "Kyrian",
-        "renown": 63,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
