@@ -1259,6 +1259,21 @@
       "scoreColor": "#1b73d9",
       "timeDiff": -206005,
       "percDiff": -0.11444722222222226
+    },
+    "9580117": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9580117-16-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 131.7,
+      "keystoneLevel": 16,
+      "clearTime": 1864145,
+      "dateCompleted": "2021-09-23T19:00:43.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "TTC",
+      "scoreColor": "#695ee4",
+      "timeDiff": -295855,
+      "percDiff": -0.13696990740740744
     }
   }
 }
