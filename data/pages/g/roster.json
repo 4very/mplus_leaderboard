@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -16748,8 +16748,8 @@
     "classColor": "#8788EE",
     "race": 29,
     "rank": 6,
-    "score": 511,
-    "scoreColor": "#ccffb8",
+    "score": 598,
+    "scoreColor": "#bdffa7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Afrocheese",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrocheese",
