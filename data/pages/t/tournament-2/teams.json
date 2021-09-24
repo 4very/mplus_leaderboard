@@ -602,7 +602,7 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 218,
+        "ilvl": 219,
         "score": 588.3,
         "scoreColor": "#bdffa7",
         "covenant": "Kyrian",
@@ -665,7 +665,7 @@
     ],
     "score": 2711.7,
     "scoreColor": "#a8ff8e",
-    "avgilvl": 220.2,
+    "avgilvl": 220.4,
     "highestkey": {
       "key": 11,
       "per": -0.18407682926829272,
@@ -690,8 +690,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 227,
-        "score": 689,
-        "scoreColor": "#a8ff8e",
+        "score": 783.5,
+        "scoreColor": "#91ff75",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -713,11 +713,11 @@
         "race": 2,
         "level": 60,
         "title": "Sito, Storm's End",
-        "ilvl": 218,
-        "score": 689,
-        "scoreColor": "#a8ff8e",
+        "ilvl": 222,
+        "score": 783.5,
+        "scoreColor": "#91ff75",
         "covenant": "Venthyr",
-        "renown": 55,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -738,8 +738,8 @@
         "level": 60,
         "title": "Loremaster Mash\u00edro",
         "ilvl": 229,
-        "score": 689,
-        "scoreColor": "#a8ff8e",
+        "score": 783.5,
+        "scoreColor": "#91ff75",
         "covenant": "Night Fae",
         "renown": 72,
         "links": {
@@ -762,10 +762,10 @@
         "level": 60,
         "title": "Count Eredris",
         "ilvl": 225,
-        "score": 689,
-        "scoreColor": "#a8ff8e",
+        "score": 783.5,
+        "scoreColor": "#91ff75",
         "covenant": "Venthyr",
-        "renown": 51,
+        "renown": 52,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -786,8 +786,8 @@
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 218,
-        "score": 594.7,
-        "scoreColor": "#bdffa7",
+        "score": 689.2,
+        "scoreColor": "#a8ff8e",
         "covenant": "Night Fae",
         "renown": 64,
         "links": {
@@ -798,16 +798,16 @@
         }
       }
     ],
-    "score": 3350.7,
-    "scoreColor": "#84ff67",
-    "avgilvl": 223.4,
+    "score": 3823.2,
+    "scoreColor": "#5bff40",
+    "avgilvl": 224.2,
     "highestkey": {
       "key": 11,
       "per": -0.1297166666666667,
       "dung": "MISTS",
       "str": "11 MISTS (12.97%)"
     },
-    "numkeys": 13
+    "numkeys": 14
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
