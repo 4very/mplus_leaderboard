@@ -515,7 +515,7 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 223,
+        "ilvl": 225,
         "score": 760.5,
         "scoreColor": "#97ff7b",
         "covenant": "Night Fae",
@@ -530,7 +530,7 @@
     ],
     "score": 3459.5,
     "scoreColor": "#7dff60",
-    "avgilvl": 217.2,
+    "avgilvl": 217.6,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
@@ -650,11 +650,11 @@
         "race": 2,
         "level": 60,
         "title": "Dannyshock the Seeker",
-        "ilvl": 217,
+        "ilvl": 218,
         "score": 257.4,
         "scoreColor": "#f7fff3",
         "covenant": "Night Fae",
-        "renown": 43,
+        "renown": 45,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -665,7 +665,7 @@
     ],
     "score": 2711.7,
     "scoreColor": "#a8ff8e",
-    "avgilvl": 220.4,
+    "avgilvl": 220.6,
     "highestkey": {
       "key": 11,
       "per": -0.18407682926829272,
@@ -933,9 +933,9 @@
         }
       }
     ],
-    "score": 1835.9,
-    "scoreColor": "#d5ffc4",
-    "avgilvl": 170.2,
+    "score": 2311.4,
+    "scoreColor": "#bdffa7",
+    "avgilvl": 213.8,
     "highestkey": {
       "key": 6,
       "per": -0.13709944444444444,

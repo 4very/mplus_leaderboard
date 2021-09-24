@@ -8939,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11384,8 +11384,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 3,
-    "score": 616.6,
-    "scoreColor": "#b8ffa1",
+    "score": 771,
+    "scoreColor": "#97ff7b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dracuhl",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dracuhl",
@@ -11909,7 +11909,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
