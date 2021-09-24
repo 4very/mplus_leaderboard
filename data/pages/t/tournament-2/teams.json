@@ -258,9 +258,9 @@
         }
       }
     ],
-    "score": 1620.5,
-    "scoreColor": "#dfffd1",
-    "avgilvl": 219.4,
+    "score": 1296.4,
+    "scoreColor": "#efffe8",
+    "avgilvl": 176.8,
     "highestkey": {
       "key": 6,
       "per": -0.14694786324786324,
@@ -423,7 +423,7 @@
         "score": 760.5,
         "scoreColor": "#9bff7f",
         "covenant": "Necrolord",
-        "renown": 69,
+        "renown": 70,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -467,11 +467,11 @@
         "race": 25,
         "level": 60,
         "title": "Baron Ashpartame",
-        "ilvl": 218,
+        "ilvl": 219,
         "score": 738,
         "scoreColor": "#a0ff85",
         "covenant": "Necrolord",
-        "renown": 56,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -495,7 +495,7 @@
         "score": 665.1,
         "scoreColor": "#b0ff98",
         "covenant": "Kyrian",
-        "renown": 60,
+        "renown": 62,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -530,7 +530,7 @@
     ],
     "score": 3459.5,
     "scoreColor": "#82ff65",
-    "avgilvl": 218.2,
+    "avgilvl": 218.4,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
