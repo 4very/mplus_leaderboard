@@ -1304,6 +1304,36 @@
       "scoreColor": "#34f72b",
       "timeDiff": -611121,
       "percDiff": -0.3182921875
+    },
+    "9615824": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9615824-10-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 100.4,
+      "keystoneLevel": 10,
+      "clearTime": 1855767,
+      "dateCompleted": "2021-09-24T04:43:07.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "team": "ASC",
+      "scoreColor": "#5da9a0",
+      "timeDiff": -64233,
+      "percDiff": -0.033454687500000024
+    },
+    "9615823": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9615823-8-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 82.7,
+      "keystoneLevel": 8,
+      "clearTime": 1779722,
+      "dateCompleted": "2021-09-24T03:58:07.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "team": "ASC",
+      "scoreColor": "#58d56b",
+      "timeDiff": -500278,
+      "percDiff": -0.2194201754385965
     }
   }
 }

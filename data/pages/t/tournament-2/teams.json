@@ -420,10 +420,10 @@
         "level": 60,
         "title": "Th\u00f9nderlips the Undying",
         "ilvl": 220,
-        "score": 634.1,
-        "scoreColor": "#b3ff9b",
+        "score": 760.5,
+        "scoreColor": "#97ff7b",
         "covenant": "Necrolord",
-        "renown": 65,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 209,
-        "score": 409,
-        "scoreColor": "#deffd0",
+        "score": 535.4,
+        "scoreColor": "#c7ffb3",
         "covenant": "Venthyr",
         "renown": 51,
         "links": {
@@ -467,11 +467,11 @@
         "race": 25,
         "level": 60,
         "title": "Baron Ashpartame",
-        "ilvl": 217,
+        "ilvl": 218,
         "score": 463.3,
         "scoreColor": "#d5ffc4",
         "covenant": "Necrolord",
-        "renown": 54,
+        "renown": 56,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -491,11 +491,11 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 213,
-        "score": 538.7,
-        "scoreColor": "#c7ffb3",
+        "ilvl": 215,
+        "score": 665.1,
+        "scoreColor": "#aeff94",
         "covenant": "Kyrian",
-        "renown": 58,
+        "renown": 60,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -516,10 +516,10 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 223,
-        "score": 634.1,
-        "scoreColor": "#b3ff9b",
+        "score": 760.5,
+        "scoreColor": "#97ff7b",
         "covenant": "Night Fae",
-        "renown": 57,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 2679.2,
-    "scoreColor": "#aeff94",
-    "avgilvl": 216.4,
+    "score": 3184.8,
+    "scoreColor": "#91ff75",
+    "avgilvl": 217.0,
     "highestkey": {
-      "key": 6,
-      "per": -0.3289038759689923,
-      "dung": "DOS",
-      "str": "6 DOS (32.89%)"
+      "key": 10,
+      "per": -0.033454687500000024,
+      "dung": "HOA",
+      "str": "10 HOA (3.35%)"
     },
-    "numkeys": 8
+    "numkeys": 10
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -717,7 +717,7 @@
         "score": 783.5,
         "scoreColor": "#91ff75",
         "covenant": "Venthyr",
-        "renown": 59,
+        "renown": 60,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
