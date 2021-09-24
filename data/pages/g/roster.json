@@ -11096,10 +11096,10 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 3,
-    "score": 158.7,
+    "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Janaflare",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Janaflare",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Janaflare",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Janaflare"

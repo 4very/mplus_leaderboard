@@ -423,7 +423,7 @@
         "score": 760.5,
         "scoreColor": "#9bff7f",
         "covenant": "Necrolord",
-        "renown": 69,
+        "renown": 70,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlips",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Th\u00f9nderlips",
@@ -495,7 +495,7 @@
         "score": 665.1,
         "scoreColor": "#b0ff98",
         "covenant": "Kyrian",
-        "renown": 60,
+        "renown": 62,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 3459.5,
-    "scoreColor": "#82ff65",
-    "avgilvl": 218.2,
+    "score": 2721.5,
+    "scoreColor": "#abff92",
+    "avgilvl": 174.6,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
