@@ -487,9 +487,10 @@
         "112272998",
         "181241072",
         "183190629",
-        "199453878"
+        "199453878",
+        "220689452"
       ],
-      "count": 4,
+      "count": 5,
       "scoreColor": "#5a9fab",
       "timeDiff": -203153,
       "percDiff": -0.0940523148148148
@@ -557,26 +558,69 @@
       "timeDiff": -156852,
       "percDiff": -0.08169375000000001
     },
-    "9697389": {
-      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9697389-11-the-necrotic-wake",
-      "dunegonName": "The Necrotic Wake",
-      "dungeonAbbr": "NW",
-      "score": 106.2,
-      "keystoneLevel": 11,
-      "clearTime": 1956847,
-      "dateCompleted": "2021-09-25T03:00:42.000Z",
+    "9699625": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9699625-12-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 110.7,
+      "keystoneLevel": 12,
+      "clearTime": 1807835,
+      "dateCompleted": "2021-09-25T03:40:52.000Z",
       "keyMod": 1,
       "faction": "horde",
       "members": [
         "112272998",
         "181241072",
         "183190629",
-        "199453878"
+        "199453878",
+        "220689452"
+      ],
+      "count": 5,
+      "scoreColor": "#5091bb",
+      "timeDiff": -112165,
+      "percDiff": -0.058419270833333314
+    },
+    "9698970": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9698970-8-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 82.2,
+      "keystoneLevel": 8,
+      "clearTime": 1926046,
+      "dateCompleted": "2021-09-25T03:09:34.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "163825773",
+        "216878287",
+        "220496283",
+        "220689029"
       ],
       "count": 4,
-      "scoreColor": "#5a9fab",
-      "timeDiff": -203153,
-      "percDiff": -0.0940523148148148
+      "scoreColor": "#57d867",
+      "timeDiff": -413954,
+      "percDiff": -0.17690341880341875
+    },
+    "9698307": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9698307-22-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 154.7,
+      "keystoneLevel": 22,
+      "clearTime": 2329967,
+      "dateCompleted": "2021-09-25T03:18:54.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "178531751",
+        "213555984",
+        "214792237",
+        "220278881"
+      ],
+      "count": 4,
+      "scoreColor": "#d951a0",
+      "timeDiff": 49967,
+      "percDiff": 0.021915350877192985
     }
   }
 }
