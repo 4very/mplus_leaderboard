@@ -150,8 +150,8 @@
         "level": 60,
         "title": "Palabusk",
         "ilvl": 224,
-        "score": 324.1,
-        "scoreColor": "#efffe8",
+        "score": 361.6,
+        "scoreColor": "#e7ffdd",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -174,8 +174,8 @@
         "level": 60,
         "title": "Chef Zantano",
         "ilvl": 216,
-        "score": 324.1,
-        "scoreColor": "#efffe8",
+        "score": 361.6,
+        "scoreColor": "#e7ffdd",
         "covenant": "Venthyr",
         "renown": 56,
         "links": {
@@ -198,8 +198,8 @@
         "level": 60,
         "title": "Serakiri",
         "ilvl": 221,
-        "score": 324.1,
-        "scoreColor": "#efffe8",
+        "score": 361.6,
+        "scoreColor": "#e7ffdd",
         "covenant": "Night Fae",
         "renown": 54,
         "links": {
@@ -222,8 +222,8 @@
         "level": 60,
         "title": "Procuts",
         "ilvl": 214,
-        "score": 324.1,
-        "scoreColor": "#efffe8",
+        "score": 361.6,
+        "scoreColor": "#e7ffdd",
         "covenant": "Necrolord",
         "renown": 63,
         "links": {
@@ -246,8 +246,8 @@
         "level": 60,
         "title": "Likkota the Patient",
         "ilvl": 223,
-        "score": 324.1,
-        "scoreColor": "#efffe8",
+        "score": 361.6,
+        "scoreColor": "#e7ffdd",
         "covenant": "Night Fae",
         "renown": 63,
         "links": {
@@ -258,16 +258,16 @@
         }
       }
     ],
-    "score": 1620.5,
-    "scoreColor": "#dfffd1",
+    "score": 1808.0,
+    "scoreColor": "#d6ffc6",
     "avgilvl": 219.6,
     "highestkey": {
       "key": 6,
-      "per": -0.14694786324786324,
+      "per": -0.3670303418803419,
       "dung": "SOA",
-      "str": "6 SOA (14.69%)"
+      "str": "6 SOA (36.7%)"
     },
-    "numkeys": 4
+    "numkeys": 5
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips the Undying",
         "ilvl": 222,
-        "score": 760.5,
-        "scoreColor": "#9bff7f",
+        "score": 804.9,
+        "scoreColor": "#8fff73",
         "covenant": "Necrolord",
         "renown": 70,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Count Santhano",
         "ilvl": 210,
-        "score": 535.4,
-        "scoreColor": "#c9ffb5",
+        "score": 641.4,
+        "scoreColor": "#b5ff9d",
         "covenant": "Venthyr",
         "renown": 53,
         "links": {
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 219,
-        "score": 738,
-        "scoreColor": "#a0ff85",
+        "score": 782.4,
+        "scoreColor": "#95ff79",
         "covenant": "Necrolord",
         "renown": 59,
         "links": {
@@ -516,8 +516,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 226,
-        "score": 760.5,
-        "scoreColor": "#9bff7f",
+        "score": 804.9,
+        "scoreColor": "#8fff73",
         "covenant": "Night Fae",
         "renown": 66,
         "links": {
@@ -528,8 +528,8 @@
         }
       }
     ],
-    "score": 3459.5,
-    "scoreColor": "#82ff65",
+    "score": 3698.7,
+    "scoreColor": "#74ff57",
     "avgilvl": 218.4,
     "highestkey": {
       "key": 10,
@@ -537,7 +537,7 @@
       "dung": "HOA",
       "str": "10 HOA (3.35%)"
     },
-    "numkeys": 10
+    "numkeys": 12
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -690,8 +690,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 229,
-        "score": 996.2,
-        "scoreColor": "#5aff3f",
+        "score": 1117.3,
+        "scoreColor": "#2bfb1d",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -786,8 +786,8 @@
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 220,
-        "score": 964.7,
-        "scoreColor": "#63ff48",
+        "score": 1085.9,
+        "scoreColor": "#1eff00",
         "covenant": "Night Fae",
         "renown": 66,
         "links": {
@@ -798,8 +798,8 @@
         }
       }
     ],
-    "score": 5312.8,
-    "scoreColor": "#57d867",
+    "score": 5555.1,
+    "scoreColor": "#5ccd77",
     "avgilvl": 226.6,
     "highestkey": {
       "key": 12,

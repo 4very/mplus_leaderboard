@@ -621,6 +621,91 @@
       "scoreColor": "#d951a0",
       "timeDiff": 49967,
       "percDiff": 0.021915350877192985
+    },
+    "9700406": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9700406-6-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 69.6,
+      "keystoneLevel": 6,
+      "clearTime": 1481149,
+      "dateCompleted": "2021-09-25T00:56:22.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "members": [
+        "189860301",
+        "200481493",
+        "220686029",
+        "220687025",
+        "220687476"
+      ],
+      "count": 5,
+      "scoreColor": "#2bfb1d",
+      "timeDiff": -858851,
+      "percDiff": -0.3670303418803419
+    },
+    "9701164": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9701164-23-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 165.8,
+      "keystoneLevel": 23,
+      "clearTime": 2019616,
+      "dateCompleted": "2021-09-25T04:08:01.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "213555984",
+        "214792237",
+        "220278881"
+      ],
+      "count": 3,
+      "scoreColor": "#ed646e",
+      "timeDiff": -140384,
+      "percDiff": -0.0649925925925926
+    },
+    "9701386": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9701386-11-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 98.7,
+      "keystoneLevel": 11,
+      "clearTime": 2850413,
+      "dateCompleted": "2021-09-25T04:10:35.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "members": [
+        "160578181",
+        "185887369",
+        "188505070",
+        "190634616",
+        "191276872"
+      ],
+      "count": 5,
+      "scoreColor": "#5fb296",
+      "timeDiff": 270413,
+      "percDiff": 0.1048112403100776
+    },
+    "9701447": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9701447-6-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 69,
+      "keystoneLevel": 6,
+      "clearTime": 1749138,
+      "dateCompleted": "2021-09-25T03:14:59.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "members": [
+        "160578181",
+        "185887369",
+        "188505070",
+        "191276872"
+      ],
+      "count": 4,
+      "scoreColor": "#2bfb1d",
+      "timeDiff": -830862,
+      "percDiff": -0.32203953488372095
     }
   }
 }
