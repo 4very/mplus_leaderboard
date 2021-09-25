@@ -3698,8 +3698,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 434.9,
-    "scoreColor": "#daffcc",
+    "score": 633,
+    "scoreColor": "#b5ff9d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Menenius",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Menenius",
@@ -5957,24 +5957,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Plaguekitty"
     }
   },
-  "198501487": {
-    "name": "Asteraoth",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 8,
-    "rank": 8,
-    "score": 2069.2,
-    "scoreColor": "#3b6bdf",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Asteraoth",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Asteraoth",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Asteraoth",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Asteraoth"
-    }
-  },
   "198581987": {
     "name": "Zandeath",
     "realm": "illidan",
@@ -6596,7 +6578,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 2116.6,
+    "score": 2117.1,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Jidanbo",
@@ -8666,8 +8648,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 1165.7,
-    "scoreColor": "#3bf337",
+    "score": 1171.6,
+    "scoreColor": "#41ef40",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corrupthunt",
@@ -11909,7 +11891,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12158,7 +12140,7 @@
     "classColor": "#00FF98",
     "race": 35,
     "rank": 9,
-    "score": 2070.5,
+    "score": 2071,
     "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Chirei",
@@ -12453,6 +12435,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Famlee",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Famlee",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Famlee"
+    }
+  },
+  "198501487": {
+    "name": "Asteraoth",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 8,
+    "rank": 8,
+    "score": 2069.2,
+    "scoreColor": "#3b6bdf",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Asteraoth",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Asteraoth",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Asteraoth",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Asteraoth"
     }
   },
   "989898": {
@@ -16712,8 +16712,8 @@
     "classColor": "#8788EE",
     "race": 29,
     "rank": 6,
-    "score": 871.7,
-    "scoreColor": "#82ff65",
+    "score": 992.1,
+    "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Afrocheese",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrocheese",
