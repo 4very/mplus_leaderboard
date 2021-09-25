@@ -663,9 +663,9 @@
         }
       }
     ],
-    "score": 2711.7,
-    "scoreColor": "#abff92",
-    "avgilvl": 220.6,
+    "score": 2089.7,
+    "scoreColor": "#cdffbb",
+    "avgilvl": 176.0,
     "highestkey": {
       "key": 11,
       "per": -0.18407682926829272,
@@ -689,9 +689,9 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 228,
-        "score": 996.2,
-        "scoreColor": "#5aff3f",
+        "ilvl": 229,
+        "score": 1117.3,
+        "scoreColor": "#2bfb1d",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -713,11 +713,11 @@
         "race": 2,
         "level": 60,
         "title": "Sito, Storm's End",
-        "ilvl": 222,
-        "score": 996.2,
-        "scoreColor": "#5aff3f",
+        "ilvl": 225,
+        "score": 1117.3,
+        "scoreColor": "#2bfb1d",
         "covenant": "Venthyr",
-        "renown": 60,
+        "renown": 62,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sito",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sito",
@@ -761,11 +761,11 @@
         "race": 27,
         "level": 60,
         "title": "Count Eredris",
-        "ilvl": 228,
-        "score": 996.2,
-        "scoreColor": "#5aff3f",
+        "ilvl": 229,
+        "score": 1117.3,
+        "scoreColor": "#2bfb1d",
         "covenant": "Venthyr",
-        "renown": 53,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -785,11 +785,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 218,
-        "score": 964.7,
-        "scoreColor": "#63ff48",
+        "ilvl": 220,
+        "score": 1085.9,
+        "scoreColor": "#1eff00",
         "covenant": "Night Fae",
-        "renown": 64,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -798,16 +798,16 @@
         }
       }
     ],
-    "score": 4949.5,
-    "scoreColor": "#4be84f",
-    "avgilvl": 225.0,
+    "score": 4437.8,
+    "scoreColor": "#2bfb1d",
+    "avgilvl": 180.6,
     "highestkey": {
-      "key": 11,
-      "per": -0.13391722222222224,
-      "dung": "MISTS",
-      "str": "11 MISTS (13.39%)"
+      "key": 12,
+      "per": -0.058419270833333314,
+      "dung": "HOA",
+      "str": "12 HOA (5.84%)"
     },
-    "numkeys": 16
+    "numkeys": 17
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
@@ -825,8 +825,8 @@
         "level": 60,
         "title": "Borgonzola",
         "ilvl": 218,
-        "score": 580.3,
-        "scoreColor": "#bfffa9",
+        "score": 658.9,
+        "scoreColor": "#b0ff98",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -849,8 +849,8 @@
         "level": 60,
         "title": "Shammwowzers the Gullible",
         "ilvl": 212,
-        "score": 580.3,
-        "scoreColor": "#bfffa9",
+        "score": 658.9,
+        "scoreColor": "#b0ff98",
         "covenant": "Necrolord",
         "renown": 48,
         "links": {
@@ -873,8 +873,8 @@
         "level": 60,
         "title": "Netherlord Amoxclav",
         "ilvl": 218,
-        "score": 580.3,
-        "scoreColor": "#bfffa9",
+        "score": 658.9,
+        "scoreColor": "#b0ff98",
         "covenant": "Night Fae",
         "renown": 66,
         "links": {
@@ -897,8 +897,8 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 221,
-        "score": 580.3,
-        "scoreColor": "#bfffa9",
+        "score": 658.9,
+        "scoreColor": "#b0ff98",
         "covenant": "Venthyr",
         "renown": 51,
         "links": {
@@ -933,15 +933,15 @@
         }
       }
     ],
-    "score": 2730.6,
-    "scoreColor": "#abff92",
+    "score": 3045.0,
+    "scoreColor": "#9bff7f",
     "avgilvl": 215.0,
     "highestkey": {
-      "key": 6,
-      "per": -0.3864008130081301,
-      "dung": "SD",
-      "str": "6 SD (38.64%)"
+      "key": 8,
+      "per": -0.17690341880341875,
+      "dung": "SOA",
+      "str": "8 SOA (17.69%)"
     },
-    "numkeys": 8
+    "numkeys": 9
   }
 }
