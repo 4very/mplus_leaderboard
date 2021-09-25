@@ -1334,6 +1334,36 @@
       "scoreColor": "#57d867",
       "timeDiff": -500278,
       "percDiff": -0.2194201754385965
+    },
+    "9694781": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9694781-11-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 106.7,
+      "keystoneLevel": 11,
+      "clearTime": 1558949,
+      "dateCompleted": "2021-09-25T02:14:03.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#589caf",
+      "timeDiff": -241051,
+      "percDiff": -0.13391722222222224
+    },
+    "9695852": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9695852-6-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 69.8,
+      "keystoneLevel": 6,
+      "clearTime": 1509454,
+      "dateCompleted": "2021-09-25T02:30:57.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "inv",
+      "scoreColor": "#2bfb1d",
+      "timeDiff": -950546,
+      "percDiff": -0.3864008130081301
     }
   }
 }
