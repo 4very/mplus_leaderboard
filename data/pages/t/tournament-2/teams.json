@@ -443,7 +443,7 @@
         "race": 3,
         "level": 60,
         "title": "Renowned Explorer Santhano",
-        "ilvl": 213,
+        "ilvl": 214,
         "score": 641.4,
         "scoreColor": "#b5ff9d",
         "covenant": "Venthyr",
@@ -530,7 +530,7 @@
     ],
     "score": 3698.7,
     "scoreColor": "#74ff57",
-    "avgilvl": 220.0,
+    "avgilvl": 220.2,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
