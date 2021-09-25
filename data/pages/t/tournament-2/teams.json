@@ -419,9 +419,9 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 223,
-        "score": 804.9,
-        "scoreColor": "#8fff73",
+        "ilvl": 224,
+        "score": 866.1,
+        "scoreColor": "#82ff65",
         "covenant": "Necrolord",
         "renown": 72,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 214,
-        "score": 641.4,
-        "scoreColor": "#b5ff9d",
+        "score": 766.6,
+        "scoreColor": "#9bff7f",
         "covenant": "Venthyr",
         "renown": 57,
         "links": {
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 223,
-        "score": 782.4,
-        "scoreColor": "#95ff79",
+        "score": 843.7,
+        "scoreColor": "#89ff6c",
         "covenant": "Necrolord",
         "renown": 62,
         "links": {
@@ -491,9 +491,9 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 215,
-        "score": 665.1,
-        "scoreColor": "#b0ff98",
+        "ilvl": 216,
+        "score": 726.3,
+        "scoreColor": "#a0ff85",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 3698.7,
-    "scoreColor": "#74ff57",
-    "avgilvl": 220.2,
+    "score": 4007.6,
+    "scoreColor": "#50ff36",
+    "avgilvl": 220.6,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
