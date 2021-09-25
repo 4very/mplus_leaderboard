@@ -8648,8 +8648,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 1171.6,
-    "scoreColor": "#41ef40",
+    "score": 1350.9,
+    "scoreColor": "#59d46c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corrupthunt",
@@ -8921,7 +8921,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
