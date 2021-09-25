@@ -1335,6 +1335,21 @@
       "timeDiff": -500278,
       "percDiff": -0.2194201754385965
     },
+    "9697389": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9697389-11-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 106.2,
+      "keystoneLevel": 11,
+      "clearTime": 1956847,
+      "dateCompleted": "2021-09-25T03:00:42.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#5a9fab",
+      "timeDiff": -203153,
+      "percDiff": -0.0940523148148148
+    },
     "9694781": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9694781-11-mists-of-tirna-scithe",
       "dunegonName": "Mists of Tirna Scithe",
