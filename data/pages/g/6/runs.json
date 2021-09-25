@@ -833,11 +833,10 @@
       "faction": "horde",
       "members": [
         "178531751",
-        "213555984",
         "214792237"
       ],
-      "count": 3,
-      "scoreColor": "#de5596",
+      "count": 2,
+      "scoreColor": "#dd5399",
       "timeDiff": -142066,
       "percDiff": -0.0657712962962963
     },
@@ -1738,7 +1737,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#d34cac",
+      "scoreColor": "#d24bae",
       "timeDiff": -196681,
       "percDiff": -0.10243802083333331
     },
@@ -1780,7 +1779,7 @@
         "219403136"
       ],
       "count": 4,
-      "scoreColor": "#bd3fd0",
+      "scoreColor": "#bc3ed1",
       "timeDiff": 20877,
       "percDiff": 0.009156578947368432
     },
@@ -1846,7 +1845,7 @@
         "219403136"
       ],
       "count": 5,
-      "scoreColor": "#b73cd8",
+      "scoreColor": "#b63cd8",
       "timeDiff": 302275,
       "percDiff": 0.12917735042735035
     },
@@ -1911,7 +1910,7 @@
         "219403136"
       ],
       "count": 4,
-      "scoreColor": "#cf49b3",
+      "scoreColor": "#ce49b5",
       "timeDiff": -109621,
       "percDiff": -0.06090055555555551
     },
