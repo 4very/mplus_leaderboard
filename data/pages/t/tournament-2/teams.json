@@ -419,9 +419,9 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 224,
-        "score": 866.1,
-        "scoreColor": "#82ff65",
+        "ilvl": 225,
+        "score": 804.9,
+        "scoreColor": "#8fff73",
         "covenant": "Necrolord",
         "renown": 72,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 214,
-        "score": 766.6,
-        "scoreColor": "#9bff7f",
+        "score": 641.4,
+        "scoreColor": "#b5ff9d",
         "covenant": "Venthyr",
         "renown": 57,
         "links": {
@@ -467,11 +467,11 @@
         "race": 25,
         "level": 60,
         "title": "Baron Ashpartame",
-        "ilvl": 223,
-        "score": 843.7,
-        "scoreColor": "#89ff6c",
+        "ilvl": 225,
+        "score": 782.4,
+        "scoreColor": "#95ff79",
         "covenant": "Necrolord",
-        "renown": 62,
+        "renown": 63,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -492,8 +492,8 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 216,
-        "score": 726.3,
-        "scoreColor": "#a0ff85",
+        "score": 665.1,
+        "scoreColor": "#b0ff98",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 4007.6,
-    "scoreColor": "#50ff36",
-    "avgilvl": 220.6,
+    "score": 3698.7,
+    "scoreColor": "#74ff57",
+    "avgilvl": 221.2,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
       "dung": "HOA",
       "str": "10 HOA (3.35%)"
     },
-    "numkeys": 13
+    "numkeys": 14
   },
   "TST": {
     "name": "Titanic Swim Team",
