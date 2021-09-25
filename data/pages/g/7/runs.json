@@ -794,6 +794,94 @@
       "scoreColor": "#884ee9",
       "timeDiff": -60824,
       "percDiff": -0.024725203252032535
+    },
+    "9750050": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750050-13-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 108.9,
+      "keystoneLevel": 13,
+      "clearTime": 2816999,
+      "dateCompleted": "2021-09-25T04:55:40.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "189860301",
+        "200481493",
+        "220686029",
+        "220687025",
+        "220687476"
+      ],
+      "count": 5,
+      "scoreColor": "#5698b3",
+      "timeDiff": 236999,
+      "percDiff": 0.09186007751937986
+    },
+    "9750049": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750049-12-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 111.3,
+      "keystoneLevel": 12,
+      "clearTime": 1728077,
+      "dateCompleted": "2021-09-25T03:54:58.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "189860301",
+        "200481493",
+        "220686029",
+        "220687025",
+        "220687476"
+      ],
+      "count": 5,
+      "scoreColor": "#5091bb",
+      "timeDiff": -191923,
+      "percDiff": -0.09995989583333331
+    },
+    "9750048": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750048-11-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 107.2,
+      "keystoneLevel": 11,
+      "clearTime": 2020362,
+      "dateCompleted": "2021-09-25T03:09:23.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "189860301",
+        "200481493",
+        "220686029",
+        "220687025",
+        "220687476"
+      ],
+      "count": 5,
+      "scoreColor": "#589caf",
+      "timeDiff": -439638,
+      "percDiff": -0.17871463414634148
+    },
+    "9750051": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750051-10-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 101.4,
+      "keystoneLevel": 10,
+      "clearTime": 1914517,
+      "dateCompleted": "2021-09-25T02:13:26.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "189860301",
+        "200481493",
+        "220686029",
+        "220687025",
+        "220687476"
+      ],
+      "count": 5,
+      "scoreColor": "#5eab9f",
+      "timeDiff": -245483,
+      "percDiff": -0.11364953703703706
     }
   }
 }

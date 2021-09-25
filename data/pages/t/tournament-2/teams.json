@@ -150,8 +150,8 @@
         "level": 60,
         "title": "Palabusk",
         "ilvl": 227,
-        "score": 361.6,
-        "scoreColor": "#e7ffdd",
+        "score": 914.9,
+        "scoreColor": "#74ff57",
         "covenant": "Kyrian",
         "renown": 71,
         "links": {
@@ -174,8 +174,8 @@
         "level": 60,
         "title": "Chef Zantano",
         "ilvl": 222,
-        "score": 361.6,
-        "scoreColor": "#e7ffdd",
+        "score": 914.9,
+        "scoreColor": "#74ff57",
         "covenant": "Venthyr",
         "renown": 62,
         "links": {
@@ -201,7 +201,7 @@
         "score": 361.6,
         "scoreColor": "#e7ffdd",
         "covenant": "Night Fae",
-        "renown": 58,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Serakiri",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
@@ -222,8 +222,8 @@
         "level": 60,
         "title": "Procuts",
         "ilvl": 217,
-        "score": 361.6,
-        "scoreColor": "#e7ffdd",
+        "score": 914.9,
+        "scoreColor": "#74ff57",
         "covenant": "Necrolord",
         "renown": 65,
         "links": {
@@ -258,16 +258,16 @@
         }
       }
     ],
-    "score": 1808.0,
-    "scoreColor": "#d6ffc6",
+    "score": 3467.9,
+    "scoreColor": "#82ff65",
     "avgilvl": 222.6,
     "highestkey": {
-      "key": 6,
-      "per": -0.3670303418803419,
-      "dung": "SOA",
-      "str": "6 SOA (36.7%)"
+      "key": 12,
+      "per": -0.09995989583333331,
+      "dung": "HOA",
+      "str": "12 HOA (10.0%)"
     },
-    "numkeys": 5
+    "numkeys": 9
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
