@@ -1454,6 +1454,21 @@
       "scoreColor": "#2bfb1d",
       "timeDiff": -830862,
       "percDiff": -0.32203953488372095
+    },
+    "9703910": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9703910-8-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 81.5,
+      "keystoneLevel": 8,
+      "clearTime": 2009465,
+      "dateCompleted": "2021-09-25T04:57:26.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "team": "ASC",
+      "scoreColor": "#54dc62",
+      "timeDiff": -270535,
+      "percDiff": -0.118655701754386
     }
   }
 }
