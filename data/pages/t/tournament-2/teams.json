@@ -578,11 +578,11 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 226,
+        "ilvl": 225,
         "score": 622,
         "scoreColor": "#baffa3",
         "covenant": "Venthyr",
-        "renown": 66,
+        "renown": 69,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Diondre",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Diondre",
@@ -665,7 +665,7 @@
     ],
     "score": 2711.7,
     "scoreColor": "#abff92",
-    "avgilvl": 220.6,
+    "avgilvl": 220.4,
     "highestkey": {
       "key": 11,
       "per": -0.18407682926829272,
