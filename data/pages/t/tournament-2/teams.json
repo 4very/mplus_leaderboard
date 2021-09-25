@@ -690,8 +690,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 228,
-        "score": 836.9,
-        "scoreColor": "#89ff6c",
+        "score": 996.2,
+        "scoreColor": "#5aff3f",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -714,8 +714,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 222,
-        "score": 836.9,
-        "scoreColor": "#89ff6c",
+        "score": 996.2,
+        "scoreColor": "#5aff3f",
         "covenant": "Venthyr",
         "renown": 60,
         "links": {
@@ -738,8 +738,8 @@
         "level": 60,
         "title": "Loremaster Mash\u00edro",
         "ilvl": 229,
-        "score": 836.9,
-        "scoreColor": "#89ff6c",
+        "score": 996.2,
+        "scoreColor": "#5aff3f",
         "covenant": "Night Fae",
         "renown": 72,
         "links": {
@@ -762,8 +762,8 @@
         "level": 60,
         "title": "Count Eredris",
         "ilvl": 228,
-        "score": 836.9,
-        "scoreColor": "#89ff6c",
+        "score": 996.2,
+        "scoreColor": "#5aff3f",
         "covenant": "Venthyr",
         "renown": 53,
         "links": {
@@ -786,8 +786,8 @@
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 218,
-        "score": 805.5,
-        "scoreColor": "#8fff73",
+        "score": 964.7,
+        "scoreColor": "#63ff48",
         "covenant": "Night Fae",
         "renown": 64,
         "links": {
@@ -798,8 +798,8 @@
         }
       }
     ],
-    "score": 4153.1,
-    "scoreColor": "#43ff2a",
+    "score": 4949.5,
+    "scoreColor": "#4be84f",
     "avgilvl": 225.0,
     "highestkey": {
       "key": 11,
@@ -828,7 +828,7 @@
         "score": 580.3,
         "scoreColor": "#bfffa9",
         "covenant": "Kyrian",
-        "renown": 52,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -848,11 +848,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 210,
+        "ilvl": 212,
         "score": 580.3,
         "scoreColor": "#bfffa9",
         "covenant": "Necrolord",
-        "renown": 47,
+        "renown": 48,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -876,7 +876,7 @@
         "score": 580.3,
         "scoreColor": "#bfffa9",
         "covenant": "Night Fae",
-        "renown": 65,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
@@ -900,7 +900,7 @@
         "score": 580.3,
         "scoreColor": "#bfffa9",
         "covenant": "Venthyr",
-        "renown": 50,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -935,7 +935,7 @@
     ],
     "score": 2730.6,
     "scoreColor": "#abff92",
-    "avgilvl": 214.6,
+    "avgilvl": 215.0,
     "highestkey": {
       "key": 6,
       "per": -0.3864008130081301,

@@ -818,8 +818,8 @@
     "classColor": "#8788EE",
     "race": 9,
     "rank": 9,
-    "score": 836.9,
-    "scoreColor": "#89ff6c",
+    "score": 996.2,
+    "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mash\u00edro",
@@ -1538,8 +1538,8 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 475.5,
-    "scoreColor": "#d2ffc0",
+    "score": 580.3,
+    "scoreColor": "#bfffa9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Shammwowzers",
@@ -2654,8 +2654,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 836.9,
-    "scoreColor": "#89ff6c",
+    "score": 996.2,
+    "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Lelush",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lelush",
@@ -4940,8 +4940,8 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 1705.2,
-    "scoreColor": "#589caf",
+    "score": 1722.6,
+    "scoreColor": "#5698b3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Hotvegeta",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hotvegeta",
@@ -6218,8 +6218,8 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 9,
-    "score": 805.5,
-    "scoreColor": "#8fff73",
+    "score": 964.7,
+    "scoreColor": "#63ff48",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slytomato",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Slytomato",
@@ -8939,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12302,8 +12302,8 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 836.9,
-    "scoreColor": "#89ff6c",
+    "score": 996.2,
+    "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sito",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sito",
@@ -15819,24 +15819,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Eliteist",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Eliteist",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Eliteist"
-    }
-  },
-  "174602965": {
-    "name": "Narus",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Narus",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Narus",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Narus"
     }
   },
   "174831651": {
