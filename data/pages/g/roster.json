@@ -8921,7 +8921,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11891,7 +11891,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -17907,6 +17907,42 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashpartame",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
+    }
+  },
+  "191317839": {
+    "name": "Classic\u00f8",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Classic\u00f8",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Classic\u00f8",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Classic\u00f8",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Classic\u00f8"
+    }
+  },
+  "142101539": {
+    "name": "Carbo",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 1,
+    "rank": 9,
+    "score": 552.8,
+    "scoreColor": "#c4ffaf",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Carbo",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Carbo",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Carbo",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Carbo"
     }
   }
 }
