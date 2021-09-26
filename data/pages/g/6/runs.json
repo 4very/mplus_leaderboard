@@ -1760,12 +1760,11 @@
       "keyMod": 0,
       "faction": "horde",
       "members": [
-        "163279137",
         "189081947",
         "217819077",
         "219403136"
       ],
-      "count": 4,
+      "count": 3,
       "scoreColor": "#bb3ed2",
       "timeDiff": 20877,
       "percDiff": 0.009156578947368432
@@ -1825,13 +1824,12 @@
       "keyMod": 0,
       "faction": "horde",
       "members": [
-        "163279137",
         "203738573",
         "217589860",
         "217819077",
         "219403136"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#b63cd9",
       "timeDiff": 302275,
       "percDiff": 0.12917735042735035
