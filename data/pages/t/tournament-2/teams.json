@@ -579,8 +579,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 226,
-        "score": 622,
-        "scoreColor": "#baffa3",
+        "score": 776.6,
+        "scoreColor": "#95ff79",
         "covenant": "Venthyr",
         "renown": 72,
         "links": {
@@ -603,8 +603,8 @@
         "level": 60,
         "title": "Huntmaster Arinaki",
         "ilvl": 220,
-        "score": 588.3,
-        "scoreColor": "#bfffa9",
+        "score": 742.9,
+        "scoreColor": "#a0ff85",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -663,8 +663,8 @@
         }
       }
     ],
-    "score": 3020.9,
-    "scoreColor": "#9bff7f",
+    "score": 3330.1,
+    "scoreColor": "#89ff6c",
     "avgilvl": 220.6,
     "highestkey": {
       "key": 11,
@@ -672,7 +672,7 @@
       "dung": "SD",
       "str": "11 SD (18.41%)"
     },
-    "numkeys": 8
+    "numkeys": 9
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -693,7 +693,7 @@
         "score": 1117.3,
         "scoreColor": "#2bfb1d",
         "covenant": "Kyrian",
-        "renown": 68,
+        "renown": 69,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Lelush",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Lelush",
