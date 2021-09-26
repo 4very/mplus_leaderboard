@@ -825,8 +825,8 @@
         "level": 60,
         "title": "Borgonzola",
         "ilvl": 218,
-        "score": 737.6,
-        "scoreColor": "#a0ff85",
+        "score": 783.2,
+        "scoreColor": "#95ff79",
         "covenant": "Kyrian",
         "renown": 54,
         "links": {
@@ -849,8 +849,8 @@
         "level": 60,
         "title": "Shammwowzers the Gullible",
         "ilvl": 212,
-        "score": 737.6,
-        "scoreColor": "#a0ff85",
+        "score": 783.2,
+        "scoreColor": "#95ff79",
         "covenant": "Necrolord",
         "renown": 48,
         "links": {
@@ -873,8 +873,8 @@
         "level": 60,
         "title": "Netherlord Amoxclav",
         "ilvl": 218,
-        "score": 737.6,
-        "scoreColor": "#a0ff85",
+        "score": 783.2,
+        "scoreColor": "#95ff79",
         "covenant": "Night Fae",
         "renown": 66,
         "links": {
@@ -897,8 +897,8 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 221,
-        "score": 737.6,
-        "scoreColor": "#a0ff85",
+        "score": 783.2,
+        "scoreColor": "#95ff79",
         "covenant": "Venthyr",
         "renown": 51,
         "links": {
@@ -933,15 +933,15 @@
         }
       }
     ],
-    "score": 3359.8,
-    "scoreColor": "#89ff6c",
+    "score": 3542.2,
+    "scoreColor": "#7bff5f",
     "avgilvl": 215.0,
     "highestkey": {
       "key": 8,
-      "per": -0.17690341880341875,
-      "dung": "SOA",
-      "str": "8 SOA (17.69%)"
+      "per": -0.18053854166666672,
+      "dung": "HOA",
+      "str": "8 HOA (18.05%)"
     },
-    "numkeys": 10
+    "numkeys": 12
   }
 }

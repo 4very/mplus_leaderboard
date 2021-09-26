@@ -1574,6 +1574,36 @@
       "scoreColor": "#1eff00",
       "timeDiff": -694066,
       "percDiff": -0.29660940170940175
+    },
+    "9798994": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9798994-8-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 82.3,
+      "keystoneLevel": 8,
+      "clearTime": 1573366,
+      "dateCompleted": "2021-09-26T03:56:08.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "inv",
+      "scoreColor": "#57d867",
+      "timeDiff": -346634,
+      "percDiff": -0.18053854166666672
+    },
+    "9799934": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9799934-6-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 69.5,
+      "keystoneLevel": 6,
+      "clearTime": 1377194,
+      "dateCompleted": "2021-09-26T03:24:07.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "inv",
+      "scoreColor": "#2bfb1d",
+      "timeDiff": -782806,
+      "percDiff": -0.3624101851851852
     }
   }
 }
