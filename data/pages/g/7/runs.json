@@ -1255,9 +1255,10 @@
       "faction": "alliance",
       "members": [
         "154121268",
-        "186030028"
+        "186030028",
+        "190679271"
       ],
-      "count": 2,
+      "count": 3,
       "scoreColor": "#589caf",
       "timeDiff": 683818,
       "percDiff": 0.26504573643410856
@@ -1273,10 +1274,11 @@
       "keyMod": 2,
       "faction": "alliance",
       "members": [
+        "183061786",
         "186030028",
         "190274715"
       ],
-      "count": 2,
+      "count": 3,
       "scoreColor": "#2bfb1d",
       "timeDiff": -956503,
       "percDiff": -0.3707375968992248
