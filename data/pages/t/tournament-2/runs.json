@@ -1559,6 +1559,21 @@
       "scoreColor": "#5da7a3",
       "timeDiff": 294116,
       "percDiff": 0.15318541666666663
+    },
+    "9797672": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9797672-6-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 68.7,
+      "keystoneLevel": 6,
+      "clearTime": 1645934,
+      "dateCompleted": "2021-09-26T02:52:45.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "inv",
+      "scoreColor": "#1eff00",
+      "timeDiff": -694066,
+      "percDiff": -0.29660940170940175
     }
   }
 }
