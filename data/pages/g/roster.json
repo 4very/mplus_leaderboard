@@ -44,8 +44,8 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 4,
-    "score": 1899.4,
-    "scoreColor": "#397ece",
+    "score": 1970.7,
+    "scoreColor": "#1b74d9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerotth",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nerotth",
@@ -8921,7 +8921,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
