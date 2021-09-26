@@ -177,7 +177,7 @@
         "score": 914.9,
         "scoreColor": "#74ff57",
         "covenant": "Venthyr",
-        "renown": 62,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
@@ -578,7 +578,7 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 226,
+        "ilvl": 225,
         "score": 776.6,
         "scoreColor": "#95ff79",
         "covenant": "Venthyr",
@@ -665,7 +665,7 @@
     ],
     "score": 3330.1,
     "scoreColor": "#89ff6c",
-    "avgilvl": 220.6,
+    "avgilvl": 220.4,
     "highestkey": {
       "key": 11,
       "per": -0.18407682926829272,
@@ -824,11 +824,11 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 218,
-        "score": 783.2,
-        "scoreColor": "#95ff79",
+        "ilvl": 221,
+        "score": 898.7,
+        "scoreColor": "#7bff5f",
         "covenant": "Kyrian",
-        "renown": 54,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -848,11 +848,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 212,
-        "score": 783.2,
-        "scoreColor": "#95ff79",
+        "ilvl": 216,
+        "score": 898.7,
+        "scoreColor": "#7bff5f",
         "covenant": "Necrolord",
-        "renown": 48,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -872,11 +872,11 @@
         "race": 5,
         "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 218,
-        "score": 783.2,
-        "scoreColor": "#95ff79",
+        "ilvl": 220,
+        "score": 898.7,
+        "scoreColor": "#7bff5f",
         "covenant": "Night Fae",
-        "renown": 66,
+        "renown": 70,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",
@@ -896,11 +896,11 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 221,
-        "score": 783.2,
-        "scoreColor": "#95ff79",
+        "ilvl": 223,
+        "score": 898.7,
+        "scoreColor": "#7bff5f",
         "covenant": "Venthyr",
-        "renown": 51,
+        "renown": 54,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -933,15 +933,15 @@
         }
       }
     ],
-    "score": 3542.2,
-    "scoreColor": "#7bff5f",
-    "avgilvl": 215.0,
+    "score": 4004.2,
+    "scoreColor": "#50ff36",
+    "avgilvl": 217.2,
     "highestkey": {
       "key": 8,
-      "per": -0.18053854166666672,
-      "dung": "HOA",
-      "str": "8 HOA (18.05%)"
+      "per": -0.22388666666666668,
+      "dung": "MISTS",
+      "str": "8 MISTS (22.39%)"
     },
-    "numkeys": 12
+    "numkeys": 15
   }
 }
