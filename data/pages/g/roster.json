@@ -11909,7 +11909,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -17900,8 +17900,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 225.8,
-    "scoreColor": "#fbfff9",
+    "score": 300.8,
+    "scoreColor": "#efffe8",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Austurter",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Austurter",
