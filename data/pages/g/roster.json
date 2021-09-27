@@ -3372,7 +3372,7 @@
     "class": 1,
     "className": "Warrior",
     "classColor": "#C69B6D",
-    "race": 36,
+    "race": 10,
     "rank": 4,
     "score": 744.7,
     "scoreColor": "#a0ff85",
@@ -9962,7 +9962,7 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 8,
-    "score": 2390.7,
+    "score": 2391.2,
     "scoreColor": "#cc47b9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villanka",
@@ -11222,7 +11222,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 8,
-    "score": 2417.9,
+    "score": 2421.4,
     "scoreColor": "#d04ab2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerissa",
