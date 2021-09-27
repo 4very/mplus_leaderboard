@@ -26,7 +26,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 1234,
+    "score": 1234.4,
     "scoreColor": "#4be84f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Namikawa",
@@ -44,7 +44,7 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 4,
-    "score": 2037.7,
+    "score": 2038.3,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerotth",
@@ -188,8 +188,8 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 9,
-    "score": 1959.4,
-    "scoreColor": "#2977d5",
+    "score": 1966.2,
+    "scoreColor": "#1b74d9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pikin",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Pikin",
@@ -818,7 +818,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 8,
-    "score": 2153.2,
+    "score": 2153.8,
     "scoreColor": "#884ee9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/R\u00e9nshi",
@@ -872,7 +872,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 4,
-    "score": 2134.9,
+    "score": 2135.5,
     "scoreColor": "#7957e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptpally",
@@ -944,7 +944,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 1493.3,
+    "score": 1495.3,
     "scoreColor": "#5fbd89",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Xephy",
@@ -1088,7 +1088,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 1696.6,
+    "score": 1697.1,
     "scoreColor": "#5a9fab",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptmage",
@@ -1214,7 +1214,7 @@
     "classColor": "#F48CBA",
     "race": 31,
     "rank": 9,
-    "score": 1718.1,
+    "score": 1718.7,
     "scoreColor": "#589caf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Varhgon",
@@ -1268,7 +1268,7 @@
     "classColor": "#C69B6D",
     "race": 2,
     "rank": 9,
-    "score": 1529.2,
+    "score": 1529.6,
     "scoreColor": "#5fba8e",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Brickh\u00f8use",
@@ -1520,7 +1520,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 8,
-    "score": 2428.1,
+    "score": 2428.5,
     "scoreColor": "#d04ab2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gharakor",
@@ -1754,7 +1754,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1036.1,
+    "score": 1036.5,
     "scoreColor": "#43ff2a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Theoros",
@@ -1844,7 +1844,7 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 8,
-    "score": 1821.8,
+    "score": 1822.4,
     "scoreColor": "#4989c2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sqweasel",
@@ -2114,7 +2114,7 @@
     "classColor": "#8788EE",
     "race": 9,
     "rank": 2,
-    "score": 2037,
+    "score": 2044.1,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Naphtalli",
@@ -2276,7 +2276,7 @@
     "classColor": "#FFFFFF",
     "race": 9,
     "rank": 9,
-    "score": 2358.3,
+    "score": 2358.9,
     "scoreColor": "#c442c6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Notouchey",
@@ -2294,7 +2294,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 8,
-    "score": 1957,
+    "score": 1957.6,
     "scoreColor": "#2977d5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sathero",
@@ -2330,7 +2330,7 @@
     "classColor": "#3FC7EB",
     "race": 27,
     "rank": 9,
-    "score": 1037.3,
+    "score": 1037.9,
     "scoreColor": "#43ff2a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Luteil",
@@ -2348,7 +2348,7 @@
     "classColor": "#8788EE",
     "race": 5,
     "rank": 9,
-    "score": 368.7,
+    "score": 368.8,
     "scoreColor": "#e7ffdd",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sinborn",
@@ -2456,7 +2456,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 1,
-    "score": 383.2,
+    "score": 383.6,
     "scoreColor": "#e3ffd7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Oshyro",
@@ -2582,7 +2582,7 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 3,
-    "score": 1064.3,
+    "score": 1064.8,
     "scoreColor": "#34ff1c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Typsi",
@@ -2726,7 +2726,7 @@
     "classColor": "#AAD372",
     "race": 2,
     "rank": 9,
-    "score": 2256,
+    "score": 2256.5,
     "scoreColor": "#b039e1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Knaks",
@@ -2762,8 +2762,8 @@
     "classColor": "#C41E3A",
     "race": 2,
     "rank": 8,
-    "score": 2093,
-    "scoreColor": "#5565e2",
+    "score": 2096.1,
+    "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nottito",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nottito",
@@ -2960,7 +2960,7 @@
     "classColor": "#FFFFFF",
     "race": 10,
     "rank": 2,
-    "score": 2155,
+    "score": 2155.6,
     "scoreColor": "#884ee9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Anador",
@@ -2996,7 +2996,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 8,
-    "score": 2125.9,
+    "score": 2126.5,
     "scoreColor": "#7957e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tit\u00f4",
@@ -3050,7 +3050,7 @@
     "classColor": "#3FC7EB",
     "race": 27,
     "rank": 4,
-    "score": 1798.6,
+    "score": 1799.2,
     "scoreColor": "#4d8dbe",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -3284,7 +3284,7 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 1155.3,
+    "score": 1155.5,
     "scoreColor": "#3bf337",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kalykah",
@@ -3320,7 +3320,7 @@
     "classColor": "#AAD372",
     "race": 2,
     "rank": 3,
-    "score": 1568.4,
+    "score": 1569.2,
     "scoreColor": "#5fb296",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gr\u00f5uch",
@@ -3356,8 +3356,8 @@
     "classColor": "#0070DD",
     "race": 9,
     "rank": 9,
-    "score": 717.1,
-    "scoreColor": "#a6ff8c",
+    "score": 762.5,
+    "scoreColor": "#9bff7f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Combatmedik",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Combatmedik",
@@ -3392,7 +3392,7 @@
     "classColor": "#C69B6D",
     "race": 10,
     "rank": 4,
-    "score": 744.7,
+    "score": 745.2,
     "scoreColor": "#a0ff85",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Exev",
@@ -3536,7 +3536,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 528.1,
+    "score": 528.5,
     "scoreColor": "#c9ffb5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/C\u00f5uch",
@@ -3554,7 +3554,7 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 931,
+    "score": 931.4,
     "scoreColor": "#6cff50",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sanctu\u00e5ry",
@@ -4058,7 +4058,7 @@
     "classColor": "#3FC7EB",
     "race": 26,
     "rank": 6,
-    "score": 818.5,
+    "score": 818.9,
     "scoreColor": "#8fff73",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Qigongjinn",
@@ -4094,7 +4094,7 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 9,
-    "score": 1907.1,
+    "score": 1907.8,
     "scoreColor": "#397ece",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alinet",
@@ -4130,7 +4130,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 3,
-    "score": 1765.1,
+    "score": 1765.6,
     "scoreColor": "#5394b7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Thoriss",
@@ -4148,7 +4148,7 @@
     "classColor": "#FF7C0A",
     "race": 8,
     "rank": 4,
-    "score": 2402,
+    "score": 2402.6,
     "scoreColor": "#cc47b9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Azajin",
@@ -4202,7 +4202,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 4,
-    "score": 2023.4,
+    "score": 2024.1,
     "scoreColor": "#1b74d9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fr\u00f8gman",
@@ -4256,7 +4256,7 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 8,
-    "score": 2134.4,
+    "score": 2135,
     "scoreColor": "#7957e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Oja\u00fd",
@@ -4346,7 +4346,7 @@
     "classColor": "#F48CBA",
     "race": 31,
     "rank": 9,
-    "score": 1907,
+    "score": 1907.6,
     "scoreColor": "#397ece",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Azthrael",
@@ -4364,7 +4364,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 2,
-    "score": 2449,
+    "score": 2449.5,
     "scoreColor": "#d34cac",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zandak",
@@ -4562,7 +4562,7 @@
     "classColor": "#0070DD",
     "race": 8,
     "rank": 9,
-    "score": 831.1,
+    "score": 831.6,
     "scoreColor": "#89ff6c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Stormweaver",
@@ -4616,7 +4616,7 @@
     "classColor": "#0070DD",
     "race": 31,
     "rank": 4,
-    "score": 2078.5,
+    "score": 2079.2,
     "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Akinn",
@@ -4670,7 +4670,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 2,
-    "score": 464.6,
+    "score": 465.3,
     "scoreColor": "#d6ffc6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zubaladin",
@@ -4868,8 +4868,8 @@
     "classColor": "#0070DD",
     "race": 36,
     "rank": 8,
-    "score": 2048.2,
-    "scoreColor": "#0070dd",
+    "score": 2050.8,
+    "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alakush",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alakush",
@@ -4940,7 +4940,7 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 3,
-    "score": 1484.7,
+    "score": 1485.3,
     "scoreColor": "#5fbd89",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kittysoras",
@@ -4958,7 +4958,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 1722.6,
+    "score": 1722.9,
     "scoreColor": "#5698b3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Hotvegeta",
@@ -5048,7 +5048,7 @@
     "classColor": "#C41E3A",
     "race": 10,
     "rank": 4,
-    "score": 2095.8,
+    "score": 2096.4,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Seracide",
@@ -5984,7 +5984,7 @@
     "classColor": "#C41E3A",
     "race": 31,
     "rank": 8,
-    "score": 529.2,
+    "score": 529.7,
     "scoreColor": "#c9ffb5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zandeath",
@@ -6092,7 +6092,7 @@
     "classColor": "#8788EE",
     "race": 5,
     "rank": 8,
-    "score": 440.5,
+    "score": 440.9,
     "scoreColor": "#daffcc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zanloch",
@@ -6290,7 +6290,7 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 1062.3,
+    "score": 1062.8,
     "scoreColor": "#34ff1c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Oniun",
@@ -6308,7 +6308,7 @@
     "classColor": "#00FF98",
     "race": 2,
     "rank": 3,
-    "score": 2048.9,
+    "score": 2049.4,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tamirin",
@@ -6542,7 +6542,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 3,
-    "score": 1741.8,
+    "score": 1742.2,
     "scoreColor": "#5698b3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sylneda",
@@ -6596,7 +6596,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 2118,
+    "score": 2119.9,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Jidanbo",
@@ -6632,7 +6632,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 3,
-    "score": 1414.6,
+    "score": 1415,
     "scoreColor": "#5dc97b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zick",
@@ -6884,7 +6884,7 @@
     "classColor": "#FFF468",
     "race": 2,
     "rank": 4,
-    "score": 1770.1,
+    "score": 1771.6,
     "scoreColor": "#5091bb",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tit\u00f5",
@@ -6956,7 +6956,7 @@
     "classColor": "#AAD372",
     "race": 8,
     "rank": 8,
-    "score": 2108.3,
+    "score": 2108.8,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/D\u00f6m",
@@ -6974,7 +6974,7 @@
     "classColor": "#FF7C0A",
     "race": 31,
     "rank": 9,
-    "score": 780.9,
+    "score": 781.4,
     "scoreColor": "#95ff79",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Crani",
@@ -7118,7 +7118,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 2,
-    "score": 2095.2,
+    "score": 2095.8,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zant\u00e3no",
@@ -7226,7 +7226,7 @@
     "classColor": "#C69B6D",
     "race": 6,
     "rank": 9,
-    "score": 1934.6,
+    "score": 1934.8,
     "scoreColor": "#327bd2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kaziganthii",
@@ -7298,7 +7298,7 @@
     "classColor": "#F48CBA",
     "race": 31,
     "rank": 9,
-    "score": 1333.3,
+    "score": 1333.8,
     "scoreColor": "#57d867",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Trollsor",
@@ -7352,7 +7352,7 @@
     "classColor": "#3FC7EB",
     "race": 10,
     "rank": 8,
-    "score": 2421.4,
+    "score": 2421.9,
     "scoreColor": "#d04ab2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Miserea",
@@ -7388,7 +7388,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 87.4,
+    "score": 87.7,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Wh\u00f6s",
@@ -7586,7 +7586,7 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 1719.5,
+    "score": 1719.7,
     "scoreColor": "#589caf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dekurgan",
@@ -7892,7 +7892,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 8,
-    "score": 2511.5,
+    "score": 2511.7,
     "scoreColor": "#dd5498",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slyphox",
@@ -8252,7 +8252,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 4,
-    "score": 988,
+    "score": 988.4,
     "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Bernice",
@@ -8396,7 +8396,7 @@
     "classColor": "#C69B6D",
     "race": 2,
     "rank": 9,
-    "score": 625.9,
+    "score": 626.3,
     "scoreColor": "#b5ff9d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tondomgar",
@@ -8432,7 +8432,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2511.5,
+    "score": 2511.7,
     "scoreColor": "#dd5498",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mcthornbody",
@@ -8684,7 +8684,7 @@
     "classColor": "#AAD372",
     "race": 5,
     "rank": 9,
-    "score": 445.6,
+    "score": 445.9,
     "scoreColor": "#daffcc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Matreze",
@@ -8738,7 +8738,7 @@
     "classColor": "#8788EE",
     "race": 9,
     "rank": 8,
-    "score": 1132.6,
+    "score": 1133.2,
     "scoreColor": "#34f72c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Trillas",
@@ -8939,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -9872,7 +9872,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 8,
-    "score": 2459.7,
+    "score": 2460.3,
     "scoreColor": "#d34cac",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Fellerosa",
@@ -9980,7 +9980,7 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 8,
-    "score": 2391.2,
+    "score": 2391.3,
     "scoreColor": "#cc47b9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villanka",
@@ -10088,7 +10088,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 223.4,
+    "score": 223.8,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meneblasts",
@@ -10250,7 +10250,7 @@
     "classColor": "#C41E3A",
     "race": 36,
     "rank": 8,
-    "score": 1484.1,
+    "score": 1484.9,
     "scoreColor": "#5fbd89",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sqwizil",
@@ -10736,7 +10736,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 8,
-    "score": 2037.5,
+    "score": 2037.6,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alinizho",
@@ -10826,7 +10826,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 8,
-    "score": 1432.5,
+    "score": 1433.2,
     "scoreColor": "#5dc97b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Credan",
@@ -11204,7 +11204,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 686.5,
+    "score": 687,
     "scoreColor": "#abff92",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Selexxa",
@@ -11240,7 +11240,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 8,
-    "score": 2421.4,
+    "score": 2421.9,
     "scoreColor": "#d04ab2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerissa",
@@ -11258,7 +11258,7 @@
     "classColor": "#8788EE",
     "race": 10,
     "rank": 9,
-    "score": 503.4,
+    "score": 503.8,
     "scoreColor": "#cdffbb",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mutwolf",
@@ -11312,7 +11312,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 8,
-    "score": 1467.8,
+    "score": 1470.9,
     "scoreColor": "#5fc185",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gr\u00f8gman",
@@ -11456,7 +11456,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2106.5,
+    "score": 2107.1,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Casttiel",
@@ -11582,7 +11582,7 @@
     "classColor": "#FFFFFF",
     "race": 9,
     "rank": 3,
-    "score": 879.3,
+    "score": 879.9,
     "scoreColor": "#7bff5f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Bubblydanny",
@@ -11636,7 +11636,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 837.1,
+    "score": 837.2,
     "scoreColor": "#89ff6c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villsaya",
@@ -11654,7 +11654,7 @@
     "classColor": "#C41E3A",
     "race": 2,
     "rank": 9,
-    "score": 977.3,
+    "score": 977.8,
     "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dannysdk",
@@ -11726,7 +11726,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 8,
-    "score": 2078,
+    "score": 2078.6,
     "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Panz\u00e8r",
@@ -11762,7 +11762,7 @@
     "classColor": "#8788EE",
     "race": 10,
     "rank": 9,
-    "score": 665,
+    "score": 665.6,
     "scoreColor": "#b0ff98",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Rahmut",
@@ -11780,7 +11780,7 @@
     "classColor": "#FF7C0A",
     "race": 8,
     "rank": 3,
-    "score": 2080,
+    "score": 2080.4,
     "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Seigyu",
@@ -11834,7 +11834,7 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 3,
-    "score": 1317.4,
+    "score": 1318.1,
     "scoreColor": "#57d867",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Maxfried",
@@ -11870,7 +11870,7 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 9,
-    "score": 1297.9,
+    "score": 1305.9,
     "scoreColor": "#54dc62",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kdapopstar",
@@ -11888,7 +11888,7 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 3,
-    "score": 2079.1,
+    "score": 2079.7,
     "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Theor\u00eeze",
@@ -11909,7 +11909,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -11942,7 +11942,7 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 9,
-    "score": 1253.8,
+    "score": 1254.1,
     "scoreColor": "#4ee456",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gwyllt",
@@ -11996,7 +11996,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 4,
-    "score": 2518.5,
+    "score": 2518.7,
     "scoreColor": "#dd5498",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
@@ -12014,7 +12014,7 @@
     "classColor": "#8788EE",
     "race": 2,
     "rank": 8,
-    "score": 2032.9,
+    "score": 2033.6,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Grogabusk",
@@ -12086,7 +12086,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1856.8,
+    "score": 1857,
     "scoreColor": "#4586c6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
@@ -12104,7 +12104,7 @@
     "classColor": "#3FC7EB",
     "race": 35,
     "rank": 8,
-    "score": 2061.2,
+    "score": 2061.9,
     "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Shikase",
@@ -12158,7 +12158,7 @@
     "classColor": "#00FF98",
     "race": 35,
     "rank": 9,
-    "score": 2071,
+    "score": 2071.5,
     "scoreColor": "#5565e2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Chirei",
