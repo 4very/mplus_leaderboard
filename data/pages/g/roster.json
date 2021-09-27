@@ -1502,7 +1502,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 8,
-    "score": 2424.6,
+    "score": 2428.1,
     "scoreColor": "#d04ab2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gharakor",
@@ -3372,7 +3372,7 @@
     "class": 1,
     "className": "Warrior",
     "classColor": "#C69B6D",
-    "race": 36,
+    "race": 10,
     "rank": 4,
     "score": 744.7,
     "scoreColor": "#a0ff85",
@@ -7334,8 +7334,8 @@
     "classColor": "#3FC7EB",
     "race": 10,
     "rank": 8,
-    "score": 2408.8,
-    "scoreColor": "#cc47b9",
+    "score": 2421.4,
+    "scoreColor": "#d04ab2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Miserea",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Miserea",
@@ -9962,7 +9962,7 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 8,
-    "score": 2390.7,
+    "score": 2391.2,
     "scoreColor": "#cc47b9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Villanka",
@@ -11222,7 +11222,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 8,
-    "score": 2417.9,
+    "score": 2421.4,
     "scoreColor": "#d04ab2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nerissa",
@@ -11891,7 +11891,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -13193,24 +13193,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=T\u00eas"
     }
   },
-  "124323561": {
-    "name": "Deathsangels",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Deathsangels",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Deathsangels",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Deathsangels",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Deathsangels"
-    }
-  },
   "125280171": {
     "name": "Cadillax",
     "realm": "sargeras",
@@ -14163,24 +14145,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lilmcsaucy",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lilmcsaucy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lilmcsaucy"
-    }
-  },
-  "156755968": {
-    "name": "Eitherana",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Eitherana",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Eitherana",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Eitherana",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Eitherana"
     }
   },
   "156989700": {
@@ -16271,24 +16235,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Younglord"
     }
   },
-  "186202084": {
-    "name": "Apokalipto",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Apokalipto",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Apokalipto",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Apokalipto",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Apokalipto"
-    }
-  },
   "186297782": {
     "name": "Kelthera",
     "realm": "sargeras",
@@ -16575,24 +16521,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Serpentseye",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Serpentseye",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Serpentseye"
-    }
-  },
-  "188064308": {
-    "name": "C\u00e8n",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 3,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/C\u00e8n",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/C\u00e8n",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/C\u00e8n",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=C\u00e8n"
     }
   },
   "188080275": {
@@ -17961,6 +17889,42 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Carbo",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Carbo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Carbo"
+    }
+  },
+  "188463632": {
+    "name": "Austurter",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 1,
+    "rank": 9,
+    "score": 138.8,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Austurter",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Austurter",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Austurter",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Austurter"
+    }
+  },
+  "108895652": {
+    "name": "Anigma",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Anigma",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Anigma",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anigma",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anigma"
     }
   }
 }
