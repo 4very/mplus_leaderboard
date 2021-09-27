@@ -258,9 +258,9 @@
         }
       }
     ],
-    "score": 3659.6,
-    "scoreColor": "#74ff57",
-    "avgilvl": 177.2,
+    "score": 4574.5,
+    "scoreColor": "#34f72c",
+    "avgilvl": 222.6,
     "highestkey": {
       "key": 12,
       "per": -0.09995989583333331,
@@ -442,7 +442,7 @@
         "classColor": "#0070DD",
         "race": 3,
         "level": 60,
-        "title": "Count Santhano",
+        "title": "Renowned Explorer Santhano",
         "ilvl": 216,
         "score": 766.6,
         "scoreColor": "#9bff7f",
@@ -555,8 +555,8 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 223,
-        "score": 776.6,
-        "scoreColor": "#95ff79",
+        "score": 821.4,
+        "scoreColor": "#8fff73",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -579,8 +579,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 225,
-        "score": 776.6,
-        "scoreColor": "#95ff79",
+        "score": 821.4,
+        "scoreColor": "#8fff73",
         "covenant": "Venthyr",
         "renown": 72,
         "links": {
@@ -603,7 +603,7 @@
         "level": 60,
         "title": "Huntmaster Arinaki",
         "ilvl": 220,
-        "score": 742.9,
+        "score": 748.1,
         "scoreColor": "#a0ff85",
         "covenant": "Kyrian",
         "renown": 69,
@@ -627,10 +627,10 @@
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 216,
-        "score": 776.6,
-        "scoreColor": "#95ff79",
+        "score": 821.4,
+        "scoreColor": "#8fff73",
         "covenant": "Necrolord",
-        "renown": 56,
+        "renown": 57,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -651,8 +651,8 @@
         "level": 60,
         "title": "Dannyshock the Seeker",
         "ilvl": 218,
-        "score": 257.4,
-        "scoreColor": "#f7fff4",
+        "score": 515.6,
+        "scoreColor": "#cdffbb",
         "covenant": "Night Fae",
         "renown": 45,
         "links": {
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 3330.1,
-    "scoreColor": "#89ff6c",
+    "score": 3727.9,
+    "scoreColor": "#6cff50",
     "avgilvl": 220.4,
     "highestkey": {
-      "key": 11,
-      "per": -0.18407682926829272,
+      "key": 12,
+      "per": -0.06036991869918695,
       "dung": "SD",
-      "str": "11 SD (18.41%)"
+      "str": "12 SD (6.04%)"
     },
-    "numkeys": 9
+    "numkeys": 11
   },
   "STISB": {
     "name": "So Then I Started Blasting",
