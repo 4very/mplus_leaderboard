@@ -8939,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11909,7 +11909,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12446,7 +12446,7 @@
     "classColor": "#00FF98",
     "race": 5,
     "rank": 8,
-    "score": 2194.4,
+    "score": 2195,
     "scoreColor": "#9643ec",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Famlee",
@@ -12464,7 +12464,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 8,
-    "score": 2069.2,
+    "score": 2069.8,
     "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Asteraoth",
@@ -12770,7 +12770,7 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1298.7,
+    "score": 1299.2,
     "scoreColor": "#54dc62",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Bradysr",
@@ -13166,7 +13166,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 2053.2,
+    "score": 2053.8,
     "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Beinside",
@@ -13220,7 +13220,7 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1313.9,
+    "score": 1314.3,
     "scoreColor": "#54dc62",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Cadillax",
@@ -13436,7 +13436,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 418.2,
+    "score": 418.7,
     "scoreColor": "#dfffd1",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Chicharrones",
@@ -13490,7 +13490,7 @@
     "classColor": "#AAD372",
     "race": 25,
     "rank": 9,
-    "score": 2043.1,
+    "score": 2043.7,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Chicha",
@@ -14138,7 +14138,7 @@
     "classColor": "#3FC7EB",
     "race": 7,
     "rank": 8,
-    "score": 2202.5,
+    "score": 2203.1,
     "scoreColor": "#a335ee",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Demosthanese",
@@ -14264,7 +14264,7 @@
     "classColor": "#C69B6D",
     "race": 34,
     "rank": 9,
-    "score": 1500.7,
+    "score": 1501,
     "scoreColor": "#5fbd89",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Sanguiniux",
@@ -14408,7 +14408,7 @@
     "classColor": "#A330C9",
     "race": 4,
     "rank": 5,
-    "score": 2168.1,
+    "score": 2168.7,
     "scoreColor": "#884ee9",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Th\u00fcnderlipz",
@@ -14498,7 +14498,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 1808.5,
+    "score": 1809.2,
     "scoreColor": "#4d8dbe",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Flippyflops",
@@ -14822,8 +14822,8 @@
     "classColor": "#00FF98",
     "race": 29,
     "rank": 1,
-    "score": 1645.8,
-    "scoreColor": "#5da7a3",
+    "score": 1654,
+    "scoreColor": "#5ba3a7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Glucos\u00e8",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Glucos\u00e8",
@@ -15020,7 +15020,7 @@
     "classColor": "#AAD372",
     "race": 4,
     "rank": 9,
-    "score": 933.1,
+    "score": 933.7,
     "scoreColor": "#6cff50",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Vlexia",
@@ -15776,7 +15776,7 @@
     "classColor": "#FFF468",
     "race": 1,
     "rank": 5,
-    "score": 361.2,
+    "score": 361.5,
     "scoreColor": "#e7ffdd",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Santano",
@@ -15974,7 +15974,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 0,
-    "score": 1936.3,
+    "score": 1936.9,
     "scoreColor": "#327bd2",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Ashkrall",
@@ -16064,7 +16064,7 @@
     "classColor": "#C41E3A",
     "race": 11,
     "rank": 1,
-    "score": 2027.5,
+    "score": 2028.1,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Lichyro",
@@ -16154,7 +16154,7 @@
     "classColor": "#3FC7EB",
     "race": 1,
     "rank": 5,
-    "score": 2031,
+    "score": 2031.6,
     "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/S\u00e2nthan",
@@ -16262,7 +16262,7 @@
     "classColor": "#AAD372",
     "race": 29,
     "rank": 9,
-    "score": 1003.7,
+    "score": 1004.1,
     "scoreColor": "#50ff36",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Felrel",
@@ -16370,7 +16370,7 @@
     "classColor": "#FF7C0A",
     "race": 32,
     "rank": 9,
-    "score": 956.6,
+    "score": 957,
     "scoreColor": "#63ff48",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Shakalak",
@@ -16388,7 +16388,7 @@
     "classColor": "#0070DD",
     "race": 11,
     "rank": 9,
-    "score": 195.7,
+    "score": 196,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Morhigahn",
@@ -17144,8 +17144,8 @@
     "classColor": "#F48CBA",
     "race": 34,
     "rank": 8,
-    "score": 823.5,
-    "scoreColor": "#8fff73",
+    "score": 831.5,
+    "scoreColor": "#89ff6c",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Goatrack",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Goatrack",
@@ -17324,7 +17324,7 @@
     "classColor": "#C41E3A",
     "race": 7,
     "rank": 9,
-    "score": 1559,
+    "score": 1559.4,
     "scoreColor": "#5fb296",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/J\u00f6rm\u00fbngandr",
@@ -17342,7 +17342,7 @@
     "classColor": "#FFFFFF",
     "race": 37,
     "rank": 9,
-    "score": 401.6,
+    "score": 402,
     "scoreColor": "#dfffd1",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Firehouse",
@@ -17594,7 +17594,7 @@
     "classColor": "#8788EE",
     "race": 1,
     "rank": 2,
-    "score": 1698.7,
+    "score": 1699.3,
     "scoreColor": "#5a9fab",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Zublock",
@@ -17648,7 +17648,7 @@
     "classColor": "#C69B6D",
     "race": 4,
     "rank": 8,
-    "score": 1624.4,
+    "score": 1624.9,
     "scoreColor": "#5eab9f",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Truths",
@@ -17738,7 +17738,7 @@
     "classColor": "#FFFFFF",
     "race": 29,
     "rank": 9,
-    "score": 693.9,
+    "score": 694.3,
     "scoreColor": "#abff92",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Haushinka",
@@ -17792,7 +17792,7 @@
     "classColor": "#A330C9",
     "race": 4,
     "rank": 1,
-    "score": 176.6,
+    "score": 176.9,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Ashkrael",
@@ -17882,7 +17882,7 @@
     "classColor": "#AAD372",
     "race": 1,
     "rank": 9,
-    "score": 552.8,
+    "score": 552.9,
     "scoreColor": "#c4ffaf",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Carbo",
