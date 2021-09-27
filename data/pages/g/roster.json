@@ -305,6 +305,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Killinquick"
     }
   },
+  "92158456": {
+    "name": "Reshift",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Reshift",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Reshift",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Reshift",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Reshift"
+    }
+  },
   "92245726": {
     "name": "Freca",
     "realm": "illidan",
@@ -8648,8 +8666,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 1651.1,
-    "scoreColor": "#5ba3a7",
+    "score": 1716.1,
+    "scoreColor": "#589caf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corrupthunt",
@@ -11891,7 +11909,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12068,8 +12086,8 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1776.2,
-    "scoreColor": "#5091bb",
+    "score": 1800.2,
+    "scoreColor": "#4d8dbe",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
@@ -15785,24 +15803,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Grimrax"
     }
   },
-  "174602649": {
-    "name": "Eliteist",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Eliteist",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Eliteist",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Eliteist",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Eliteist"
-    }
-  },
   "174831651": {
     "name": "Mcserve",
     "realm": "sargeras",
@@ -17072,8 +17072,8 @@
     "classColor": "#C69B6D",
     "race": 3,
     "rank": 9,
-    "score": 338.2,
-    "scoreColor": "#ebffe3",
+    "score": 508.4,
+    "scoreColor": "#cdffbb",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/D\u00e9thl\u00f4k",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/D\u00e9thl\u00f4k",
@@ -17900,8 +17900,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 138.8,
-    "scoreColor": "#ffffff",
+    "score": 225.8,
+    "scoreColor": "#fbfff9",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Austurter",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Austurter",
