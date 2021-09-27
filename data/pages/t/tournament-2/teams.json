@@ -285,8 +285,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 229,
-        "score": 1477.4,
-        "scoreColor": "#5fc185",
+        "score": 1541.9,
+        "scoreColor": "#5fb692",
         "covenant": "Night Fae",
         "renown": 55,
         "links": {
@@ -308,9 +308,9 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 229,
-        "score": 1477.4,
-        "scoreColor": "#5fc185",
+        "ilvl": 230,
+        "score": 1541.9,
+        "scoreColor": "#5fb692",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -333,8 +333,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 230,
-        "score": 1477.4,
-        "scoreColor": "#5fc185",
+        "score": 1541.9,
+        "scoreColor": "#5fb692",
         "covenant": "Necrolord",
         "renown": 66,
         "links": {
@@ -356,11 +356,11 @@
         "race": 27,
         "level": 60,
         "title": "Archmage Cylonarkana",
-        "ilvl": 222,
-        "score": 803.4,
-        "scoreColor": "#8fff73",
+        "ilvl": 223,
+        "score": 920.6,
+        "scoreColor": "#74ff57",
         "covenant": "Venthyr",
-        "renown": 22,
+        "renown": 23,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -381,8 +381,8 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 226,
-        "score": 1477.4,
-        "scoreColor": "#5fc185",
+        "score": 1541.9,
+        "scoreColor": "#5fb692",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -393,16 +393,16 @@
         }
       }
     ],
-    "score": 6713.0,
-    "scoreColor": "#5a9fab",
-    "avgilvl": 227.2,
+    "score": 7088.2,
+    "scoreColor": "#5091bb",
+    "avgilvl": 227.6,
     "highestkey": {
       "key": 16,
       "per": -0.13696990740740744,
       "dung": "NW",
       "str": "16 NW (13.7%)"
     },
-    "numkeys": 25
+    "numkeys": 26
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -736,7 +736,7 @@
         "classColor": "#8788EE",
         "race": 9,
         "level": 60,
-        "title": "Flame Keeper Mash\u00edro",
+        "title": "Mash\u00edro the Dreamer",
         "ilvl": 230,
         "score": 1117.3,
         "scoreColor": "#2bfb1d",
