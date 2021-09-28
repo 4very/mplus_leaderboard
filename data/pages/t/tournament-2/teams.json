@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 4007.6,
-    "scoreColor": "#50ff36",
-    "avgilvl": 223.0,
+    "score": 3202.7,
+    "scoreColor": "#8fff73",
+    "avgilvl": 177.8,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
@@ -578,7 +578,7 @@
         "race": 10,
         "level": 60,
         "title": "Diondre, Hand of A'dal",
-        "ilvl": 227,
+        "ilvl": 229,
         "score": 821.4,
         "scoreColor": "#8fff73",
         "covenant": "Venthyr",
@@ -665,7 +665,7 @@
     ],
     "score": 3727.9,
     "scoreColor": "#6cff50",
-    "avgilvl": 221.8,
+    "avgilvl": 222.2,
     "highestkey": {
       "key": 12,
       "per": -0.06036991869918695,
