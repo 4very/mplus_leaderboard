@@ -458,8 +458,8 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 9,
-    "score": 929.8,
-    "scoreColor": "#6cff50",
+    "score": 1121.8,
+    "scoreColor": "#34f72c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dethl\u00f5k",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dethl\u00f5k",
@@ -4562,7 +4562,7 @@
     "classColor": "#0070DD",
     "race": 8,
     "rank": 9,
-    "score": 831.6,
+    "score": 841.3,
     "scoreColor": "#89ff6c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Stormweaver",
@@ -8939,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11909,7 +11909,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
