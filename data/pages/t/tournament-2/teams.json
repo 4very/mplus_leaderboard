@@ -62,9 +62,9 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 227,
-        "score": 1522.1,
-        "scoreColor": "#5fba8e",
+        "ilvl": 228,
+        "score": 1600.9,
+        "scoreColor": "#5eab9f",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 232,
-        "score": 1404.5,
-        "scoreColor": "#5ccd77",
+        "score": 1483.3,
+        "scoreColor": "#5fbd89",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -123,16 +123,16 @@
         }
       }
     ],
-    "score": 7360.7,
-    "scoreColor": "#4586c6",
-    "avgilvl": 227.8,
+    "score": 7518.3,
+    "scoreColor": "#4082ca",
+    "avgilvl": 228.0,
     "highestkey": {
-      "key": 15,
-      "per": -0.10973289473684211,
-      "dung": "TOP",
-      "str": "15 TOP (10.97%)"
+      "key": 16,
+      "per": -0.00025416666666666643,
+      "dung": "HOA",
+      "str": "16 HOA (0.03%)"
     },
-    "numkeys": 24
+    "numkeys": 25
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -285,10 +285,10 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 229,
-        "score": 1541.9,
-        "scoreColor": "#5fb692",
+        "score": 1625.4,
+        "scoreColor": "#5da7a3",
         "covenant": "Night Fae",
-        "renown": 55,
+        "renown": 56,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -309,8 +309,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 230,
-        "score": 1541.9,
-        "scoreColor": "#5fb692",
+        "score": 1625.4,
+        "scoreColor": "#5da7a3",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -333,8 +333,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 230,
-        "score": 1541.9,
-        "scoreColor": "#5fb692",
+        "score": 1625.4,
+        "scoreColor": "#5da7a3",
         "covenant": "Necrolord",
         "renown": 66,
         "links": {
@@ -380,9 +380,9 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey",
-        "ilvl": 226,
-        "score": 1541.9,
-        "scoreColor": "#5fb692",
+        "ilvl": 228,
+        "score": 1625.4,
+        "scoreColor": "#5da7a3",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -393,16 +393,16 @@
         }
       }
     ],
-    "score": 7088.2,
-    "scoreColor": "#5091bb",
-    "avgilvl": 227.6,
+    "score": 7422.2,
+    "scoreColor": "#4586c6",
+    "avgilvl": 228.0,
     "highestkey": {
       "key": 16,
       "per": -0.13696990740740744,
       "dung": "NW",
       "str": "16 NW (13.7%)"
     },
-    "numkeys": 26
+    "numkeys": 27
   },
   "ASC": {
     "name": "Alliance Shadow Council",
