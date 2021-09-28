@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 226,
-        "score": 1236.7,
-        "scoreColor": "#4be84f",
+        "score": 1338,
+        "scoreColor": "#57d867",
         "covenant": "Kyrian",
         "renown": 63,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 229,
-        "score": 1236.7,
-        "scoreColor": "#4be84f",
+        "score": 1338,
+        "scoreColor": "#57d867",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 227,
-        "score": 1236.7,
-        "scoreColor": "#4be84f",
+        "score": 1338,
+        "scoreColor": "#57d867",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 229,
-        "score": 1119.1,
-        "scoreColor": "#2bfb1d",
+        "score": 1220.4,
+        "scoreColor": "#4be84f",
         "covenant": "Necrolord",
         "renown": 63,
         "links": {
@@ -123,8 +123,8 @@
         }
       }
     ],
-    "score": 6061.5,
-    "scoreColor": "#5fba8e",
+    "score": 6466.7,
+    "scoreColor": "#5eab9f",
     "avgilvl": 226.2,
     "highestkey": {
       "key": 14,
@@ -807,7 +807,7 @@
       "dung": "MISTS",
       "str": "14 MISTS (3.66%)"
     },
-    "numkeys": 19
+    "numkeys": 20
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
