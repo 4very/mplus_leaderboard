@@ -14,11 +14,11 @@
         "race": 10,
         "level": 60,
         "title": "Fingermeat the Fabulous",
-        "ilvl": 226,
-        "score": 1443.8,
-        "scoreColor": "#5ec580",
+        "ilvl": 231,
+        "score": 1522.1,
+        "scoreColor": "#5fba8e",
         "covenant": "Kyrian",
-        "renown": 63,
+        "renown": 64,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Fingermeat",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Fingermeat",
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 229,
-        "score": 1443.8,
-        "scoreColor": "#5ec580",
+        "score": 1522.1,
+        "scoreColor": "#5fba8e",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 227,
-        "score": 1338,
-        "scoreColor": "#57d867",
+        "score": 1522.1,
+        "scoreColor": "#5fba8e",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 229,
-        "score": 1326.2,
-        "scoreColor": "#57d867",
+        "score": 1404.5,
+        "scoreColor": "#5ccd77",
         "covenant": "Necrolord",
         "renown": 63,
         "links": {
@@ -123,16 +123,16 @@
         }
       }
     ],
-    "score": 6784.1,
-    "scoreColor": "#5a9fab",
-    "avgilvl": 226.2,
+    "score": 7203.1,
+    "scoreColor": "#4d8dbe",
+    "avgilvl": 227.2,
     "highestkey": {
-      "key": 14,
-      "per": -0.21008277777777773,
-      "dung": "MISTS",
-      "str": "14 MISTS (21.01%)"
+      "key": 15,
+      "per": -0.10973289473684211,
+      "dung": "TOP",
+      "str": "15 TOP (10.97%)"
     },
-    "numkeys": 22
+    "numkeys": 24
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
