@@ -467,11 +467,11 @@
         "race": 25,
         "level": 60,
         "title": "Baron Ashpartame",
-        "ilvl": 225,
+        "ilvl": 227,
         "score": 843.7,
         "scoreColor": "#89ff6c",
         "covenant": "Necrolord",
-        "renown": 65,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -530,7 +530,7 @@
     ],
     "score": 4007.6,
     "scoreColor": "#50ff36",
-    "avgilvl": 224.4,
+    "avgilvl": 224.8,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
@@ -602,7 +602,7 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 220,
+        "ilvl": 222,
         "score": 748.1,
         "scoreColor": "#a0ff85",
         "covenant": "Kyrian",
@@ -665,7 +665,7 @@
     ],
     "score": 3727.9,
     "scoreColor": "#6cff50",
-    "avgilvl": 222.4,
+    "avgilvl": 222.8,
     "highestkey": {
       "key": 12,
       "per": -0.06036991869918695,
@@ -798,9 +798,9 @@
         }
       }
     ],
-    "score": 6979.1,
-    "scoreColor": "#5698b3",
-    "avgilvl": 229.2,
+    "score": 5577.0,
+    "scoreColor": "#5ccd77",
+    "avgilvl": 183.2,
     "highestkey": {
       "key": 14,
       "per": -0.03655888888888892,
