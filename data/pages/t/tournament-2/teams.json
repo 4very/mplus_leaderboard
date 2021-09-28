@@ -285,8 +285,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 229,
-        "score": 1541.9,
-        "scoreColor": "#5fb692",
+        "score": 1625.4,
+        "scoreColor": "#5da7a3",
         "covenant": "Night Fae",
         "renown": 56,
         "links": {
@@ -333,8 +333,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 230,
-        "score": 1541.9,
-        "scoreColor": "#5fb692",
+        "score": 1625.4,
+        "scoreColor": "#5da7a3",
         "covenant": "Necrolord",
         "renown": 66,
         "links": {
@@ -381,8 +381,8 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 228,
-        "score": 1541.9,
-        "scoreColor": "#5fb692",
+        "score": 1625.4,
+        "scoreColor": "#5da7a3",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -393,8 +393,8 @@
         }
       }
     ],
-    "score": 7171.7,
-    "scoreColor": "#5091bb",
+    "score": 7422.2,
+    "scoreColor": "#4586c6",
     "avgilvl": 228.0,
     "highestkey": {
       "key": 16,
@@ -402,7 +402,7 @@
       "dung": "NW",
       "str": "16 NW (13.7%)"
     },
-    "numkeys": 26
+    "numkeys": 27
   },
   "ASC": {
     "name": "Alliance Shadow Council",
