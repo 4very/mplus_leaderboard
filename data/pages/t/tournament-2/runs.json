@@ -1694,6 +1694,36 @@
       "scoreColor": "#327bd2",
       "timeDiff": -96008,
       "percDiff": -0.04210877192982454
+    },
+    "9977322": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9977322-14-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 120.5,
+      "keystoneLevel": 14,
+      "clearTime": 1734194,
+      "dateCompleted": "2021-09-28T01:45:40.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#327bd2",
+      "timeDiff": -65806,
+      "percDiff": -0.03655888888888892
+    },
+    "9974917": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9974917-13-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 115.5,
+      "keystoneLevel": 13,
+      "clearTime": 2246743,
+      "dateCompleted": "2021-09-28T01:08:26.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#4586c6",
+      "timeDiff": -93257,
+      "percDiff": -0.03985341880341875
     }
   }
 }
