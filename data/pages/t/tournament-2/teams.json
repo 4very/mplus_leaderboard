@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 4824.8,
-    "scoreColor": "#46eb48",
-    "avgilvl": 180.4,
+    "score": 6061.5,
+    "scoreColor": "#5fba8e",
+    "avgilvl": 226.2,
     "highestkey": {
       "key": 14,
       "per": -0.17748981481481485,
@@ -690,8 +690,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 230,
-        "score": 1402.1,
-        "scoreColor": "#5ccd77",
+        "score": 1311.2,
+        "scoreColor": "#54dc62",
         "covenant": "Kyrian",
         "renown": 72,
         "links": {
@@ -714,8 +714,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 228,
-        "score": 1402.1,
-        "scoreColor": "#5ccd77",
+        "score": 1311.2,
+        "scoreColor": "#54dc62",
         "covenant": "Venthyr",
         "renown": 63,
         "links": {
@@ -738,8 +738,8 @@
         "level": 60,
         "title": "Mash\u00edro the Dreamer",
         "ilvl": 231,
-        "score": 1402.1,
-        "scoreColor": "#5ccd77",
+        "score": 1311.2,
+        "scoreColor": "#54dc62",
         "covenant": "Night Fae",
         "renown": 72,
         "links": {
@@ -798,8 +798,8 @@
         }
       }
     ],
-    "score": 6979.1,
-    "scoreColor": "#5698b3",
+    "score": 6706.4,
+    "scoreColor": "#5a9fab",
     "avgilvl": 228.2,
     "highestkey": {
       "key": 14,
