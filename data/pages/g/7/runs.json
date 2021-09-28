@@ -1421,6 +1421,28 @@
       "timeDiff": -96008,
       "percDiff": -0.04210877192982454
     },
+    "9980792": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9980792-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 118.9,
+      "keystoneLevel": 15,
+      "clearTime": 2476141,
+      "dateCompleted": "2021-09-28T02:40:00.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "members": [
+        "112272998",
+        "181241072",
+        "183190629",
+        "199453878",
+        "220689452"
+      ],
+      "count": 5,
+      "scoreColor": "#397ece",
+      "timeDiff": 196141,
+      "percDiff": 0.08602675438596497
+    },
     "9977322": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9977322-14-mists-of-tirna-scithe",
       "dunegonName": "Mists of Tirna Scithe",
@@ -1464,6 +1486,28 @@
       "scoreColor": "#4586c6",
       "timeDiff": -93257,
       "percDiff": -0.03985341880341875
+    },
+    "9981342": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9981342-16-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 133.7,
+      "keystoneLevel": 16,
+      "clearTime": 1267769,
+      "dateCompleted": "2021-09-28T02:49:14.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "members": [
+        "114215083",
+        "163279137",
+        "183203691",
+        "186505889",
+        "203339500"
+      ],
+      "count": 5,
+      "scoreColor": "#7957e7",
+      "timeDiff": -532231,
+      "percDiff": -0.29568388888888886
     },
     "9979335": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9979335-20-the-necrotic-wake",

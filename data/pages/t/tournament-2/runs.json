@@ -1695,6 +1695,36 @@
       "timeDiff": -96008,
       "percDiff": -0.04210877192982454
     },
+    "9984914": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9984914-14-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 122.6,
+      "keystoneLevel": 14,
+      "clearTime": 1421851,
+      "dateCompleted": "2021-09-28T03:37:09.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "meat",
+      "scoreColor": "#1b74d9",
+      "timeDiff": -378149,
+      "percDiff": -0.21008277777777773
+    },
+    "9980792": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9980792-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 118.9,
+      "keystoneLevel": 15,
+      "clearTime": 2476141,
+      "dateCompleted": "2021-09-28T02:40:00.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#397ece",
+      "timeDiff": 196141,
+      "percDiff": 0.08602675438596497
+    },
     "9977322": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9977322-14-mists-of-tirna-scithe",
       "dunegonName": "Mists of Tirna Scithe",
