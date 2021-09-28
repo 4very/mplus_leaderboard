@@ -1754,6 +1754,36 @@
       "scoreColor": "#4586c6",
       "timeDiff": -93257,
       "percDiff": -0.03985341880341875
+    },
+    "9990947": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9990947-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 126.4,
+      "keystoneLevel": 15,
+      "clearTime": 2029809,
+      "dateCompleted": "2021-09-28T05:10:53.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "meat",
+      "scoreColor": "#1b74d9",
+      "timeDiff": -250191,
+      "percDiff": -0.10973289473684211
+    },
+    "9988241": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/9988241-16-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 123.2,
+      "keystoneLevel": 16,
+      "clearTime": 2670887,
+      "dateCompleted": "2021-09-28T04:29:06.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "team": "meat",
+      "scoreColor": "#1b74d9",
+      "timeDiff": 330887,
+      "percDiff": 0.1414047008547008
     }
   }
 }
