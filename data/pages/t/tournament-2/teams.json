@@ -689,9 +689,9 @@
         "race": 10,
         "level": 60,
         "title": "Highlord Lelush",
-        "ilvl": 229,
-        "score": 1290.5,
-        "scoreColor": "#54dc62",
+        "ilvl": 230,
+        "score": 1402.1,
+        "scoreColor": "#5ccd77",
         "covenant": "Kyrian",
         "renown": 72,
         "links": {
@@ -713,9 +713,9 @@
         "race": 2,
         "level": 60,
         "title": "Sito, Storm's End",
-        "ilvl": 226,
-        "score": 1117.3,
-        "scoreColor": "#2bfb1d",
+        "ilvl": 228,
+        "score": 1402.1,
+        "scoreColor": "#5ccd77",
         "covenant": "Venthyr",
         "renown": 63,
         "links": {
@@ -737,9 +737,9 @@
         "race": 9,
         "level": 60,
         "title": "Mash\u00edro the Dreamer",
-        "ilvl": 230,
-        "score": 1290.5,
-        "scoreColor": "#54dc62",
+        "ilvl": 231,
+        "score": 1402.1,
+        "scoreColor": "#5ccd77",
         "covenant": "Night Fae",
         "renown": 72,
         "links": {
@@ -761,11 +761,11 @@
         "race": 27,
         "level": 60,
         "title": "Count Eredris",
-        "ilvl": 229,
-        "score": 1290.5,
-        "scoreColor": "#54dc62",
+        "ilvl": 230,
+        "score": 1402.1,
+        "scoreColor": "#5ccd77",
         "covenant": "Venthyr",
-        "renown": 60,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
@@ -785,9 +785,9 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 220,
-        "score": 1259.1,
-        "scoreColor": "#4ee456",
+        "ilvl": 222,
+        "score": 1370.7,
+        "scoreColor": "#5bd072",
         "covenant": "Night Fae",
         "renown": 66,
         "links": {
@@ -798,16 +798,16 @@
         }
       }
     ],
-    "score": 6247.9,
-    "scoreColor": "#5fb296",
-    "avgilvl": 226.8,
+    "score": 6979.1,
+    "scoreColor": "#5698b3",
+    "avgilvl": 228.2,
     "highestkey": {
-      "key": 12,
-      "per": -0.058419270833333314,
-      "dung": "HOA",
-      "str": "12 HOA (5.84%)"
+      "key": 14,
+      "per": -0.03655888888888892,
+      "dung": "MISTS",
+      "str": "14 MISTS (3.66%)"
     },
-    "numkeys": 17
+    "numkeys": 19
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
