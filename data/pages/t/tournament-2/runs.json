@@ -566,7 +566,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#6cff50",
+      "scoreColor": "#72ff56",
       "timeDiff": -789271,
       "percDiff": -0.3461714912280702
     },
@@ -581,7 +581,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#a6ff8c",
+      "scoreColor": "#a9ff8f",
       "timeDiff": -1009206,
       "percDiff": -0.3911651162790698
     },
@@ -626,7 +626,7 @@
       "keyMod": 3,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#a6ff8c",
+      "scoreColor": "#a9ff8f",
       "timeDiff": -1434614,
       "percDiff": -0.5831764227642277
     },
@@ -641,7 +641,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#34ff1c",
+      "scoreColor": "#43ff2a",
       "timeDiff": -343858,
       "percDiff": -0.14694786324786324
     },
@@ -701,7 +701,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "meat",
-      "scoreColor": "#5091bb",
+      "scoreColor": "#5191ba",
       "timeDiff": 628706,
       "percDiff": 0.24368449612403098
     },
@@ -731,7 +731,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "meat",
-      "scoreColor": "#59d46c",
+      "scoreColor": "#57d769",
       "timeDiff": -939303,
       "percDiff": -0.38183048780487805
     },
@@ -791,7 +791,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#6cff50",
+      "scoreColor": "#72ff56",
       "timeDiff": 341518,
       "percDiff": 0.149788596491228
     },
@@ -806,7 +806,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#34ff1c",
+      "scoreColor": "#43ff2a",
       "timeDiff": -246779,
       "percDiff": -0.13709944444444444
     },
@@ -881,7 +881,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#1eff00",
+      "scoreColor": "#34ff1b",
       "timeDiff": -451362,
       "percDiff": -0.19796578947368426
     },
@@ -896,7 +896,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#63ff48",
+      "scoreColor": "#6aff4f",
       "timeDiff": -651967,
       "percDiff": -0.3622038888888889
     },
@@ -971,7 +971,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#4ee456",
+      "scoreColor": "#47eb49",
       "timeDiff": -543378,
       "percDiff": -0.21061162790697674
     },
@@ -986,7 +986,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#5ccd77",
+      "scoreColor": "#5bcf73",
       "timeDiff": -459963,
       "percDiff": -0.2017381578947368
     },
@@ -1001,7 +1001,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "meat",
-      "scoreColor": "#4586c6",
+      "scoreColor": "#4a8ac2",
       "timeDiff": -18536,
       "percDiff": -0.007534959349593473
     },
@@ -1046,7 +1046,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#1b74d9",
+      "scoreColor": "#1c74d9",
       "timeDiff": -155247,
       "percDiff": -0.06809078947368419
     },
@@ -1061,7 +1061,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#589caf",
+      "scoreColor": "#589dad",
       "timeDiff": -254320,
       "percDiff": -0.10868376068376073
     },
@@ -1076,7 +1076,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#5dc97b",
+      "scoreColor": "#5dcb78",
       "timeDiff": -516875,
       "percDiff": -0.26920572916666663
     },
@@ -1091,7 +1091,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#52e05c",
+      "scoreColor": "#4fe357",
       "timeDiff": -920199,
       "percDiff": -0.3740646341463415
     },
@@ -1121,7 +1121,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#589caf",
+      "scoreColor": "#589dad",
       "timeDiff": -233490,
       "percDiff": -0.1297166666666667
     },
@@ -1136,7 +1136,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "meat",
-      "scoreColor": "#397ece",
+      "scoreColor": "#3a7fcd",
       "timeDiff": 88013,
       "percDiff": 0.03411356589147285
     },
@@ -1151,7 +1151,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#41ef40",
+      "scoreColor": "#3cf337",
       "timeDiff": 103788,
       "percDiff": 0.057660000000000045
     },
@@ -1166,7 +1166,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#4be84f",
+      "scoreColor": "#47eb49",
       "timeDiff": -513105,
       "percDiff": -0.19887790697674423
     },
@@ -1196,7 +1196,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#1b74d9",
+      "scoreColor": "#1c74d9",
       "timeDiff": -186342,
       "percDiff": -0.08172894736842107
     },
@@ -1211,7 +1211,7 @@
       "keyMod": 3,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#52e05c",
+      "scoreColor": "#4fe357",
       "timeDiff": -912647,
       "percDiff": -0.40028377192982456
     },
@@ -1226,7 +1226,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#5da7a3",
+      "scoreColor": "#5da8a1",
       "timeDiff": -375420,
       "percDiff": -0.20856666666666668
     },
@@ -1241,7 +1241,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#589caf",
+      "scoreColor": "#589dad",
       "timeDiff": -452829,
       "percDiff": -0.18407682926829272
     },
@@ -1256,7 +1256,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#1b74d9",
+      "scoreColor": "#1c74d9",
       "timeDiff": -206005,
       "percDiff": -0.11444722222222226
     },
@@ -1286,7 +1286,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#5a9fab",
+      "scoreColor": "#5aa1a9",
       "timeDiff": -62005,
       "percDiff": -0.02719517543859651
     },
@@ -1301,7 +1301,7 @@
       "keyMod": 2,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#2bfb1d",
+      "scoreColor": "#1eff00",
       "timeDiff": -611121,
       "percDiff": -0.3182921875
     },
@@ -1316,7 +1316,7 @@
       "keyMod": 1,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#5eab9f",
+      "scoreColor": "#5eac9d",
       "timeDiff": -64233,
       "percDiff": -0.033454687500000024
     },
@@ -1331,7 +1331,7 @@
       "keyMod": 2,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#57d867",
+      "scoreColor": "#55db63",
       "timeDiff": -500278,
       "percDiff": -0.2194201754385965
     },
@@ -1346,7 +1346,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#5a9fab",
+      "scoreColor": "#5aa1a9",
       "timeDiff": -203153,
       "percDiff": -0.0940523148148148
     },
@@ -1361,7 +1361,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#589caf",
+      "scoreColor": "#589dad",
       "timeDiff": -241051,
       "percDiff": -0.13391722222222224
     },
@@ -1376,7 +1376,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#2bfb1d",
+      "scoreColor": "#1eff00",
       "timeDiff": -950546,
       "percDiff": -0.3864008130081301
     },
@@ -1391,7 +1391,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#5091bb",
+      "scoreColor": "#5191ba",
       "timeDiff": -112165,
       "percDiff": -0.058419270833333314
     },
@@ -1406,7 +1406,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#57d867",
+      "scoreColor": "#55db63",
       "timeDiff": -413954,
       "percDiff": -0.17690341880341875
     },
@@ -1421,7 +1421,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#2bfb1d",
+      "scoreColor": "#1eff00",
       "timeDiff": -858851,
       "percDiff": -0.3670303418803419
     },
@@ -1436,7 +1436,7 @@
       "keyMod": 0,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#5fb296",
+      "scoreColor": "#5fb494",
       "timeDiff": 270413,
       "percDiff": 0.1048112403100776
     },
@@ -1451,7 +1451,7 @@
       "keyMod": 2,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#2bfb1d",
+      "scoreColor": "#1eff00",
       "timeDiff": -830862,
       "percDiff": -0.32203953488372095
     },
@@ -1466,7 +1466,7 @@
       "keyMod": 1,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#54dc62",
+      "scoreColor": "#52df5d",
       "timeDiff": -270535,
       "percDiff": -0.118655701754386
     },
@@ -1481,7 +1481,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#5698b3",
+      "scoreColor": "#5699b2",
       "timeDiff": 236999,
       "percDiff": 0.09186007751937986
     },
@@ -1496,7 +1496,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#5091bb",
+      "scoreColor": "#5191ba",
       "timeDiff": -191923,
       "percDiff": -0.09995989583333331
     },
@@ -1511,7 +1511,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#589caf",
+      "scoreColor": "#589dad",
       "timeDiff": -439638,
       "percDiff": -0.17871463414634148
     },
@@ -1526,7 +1526,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "WSF2T",
-      "scoreColor": "#5eab9f",
+      "scoreColor": "#5eac9d",
       "timeDiff": -245483,
       "percDiff": -0.11364953703703706
     },
@@ -1541,7 +1541,7 @@
       "keyMod": 2,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#57d867",
+      "scoreColor": "#55db63",
       "timeDiff": -685800,
       "percDiff": -0.2787804878048781
     },
@@ -1556,7 +1556,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#5da7a3",
+      "scoreColor": "#5da8a1",
       "timeDiff": 294116,
       "percDiff": 0.15318541666666663
     },
@@ -1571,7 +1571,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#1eff00",
+      "scoreColor": "#34ff1b",
       "timeDiff": -694066,
       "percDiff": -0.29660940170940175
     },
@@ -1586,7 +1586,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#57d867",
+      "scoreColor": "#55db63",
       "timeDiff": -346634,
       "percDiff": -0.18053854166666672
     },
@@ -1601,7 +1601,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#2bfb1d",
+      "scoreColor": "#1eff00",
       "timeDiff": -782806,
       "percDiff": -0.3624101851851852
     },
@@ -1616,7 +1616,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#57d867",
+      "scoreColor": "#55db63",
       "timeDiff": -402996,
       "percDiff": -0.22388666666666668
     },
@@ -1631,7 +1631,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#54dc62",
+      "scoreColor": "#52df5d",
       "timeDiff": -323926,
       "percDiff": -0.16871145833333334
     },
@@ -1646,7 +1646,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "inv",
-      "scoreColor": "#1eff00",
+      "scoreColor": "#34ff1b",
       "timeDiff": -560907,
       "percDiff": -0.24601184210526317
     },
@@ -1661,7 +1661,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#5091bb",
+      "scoreColor": "#5191ba",
       "timeDiff": -148510,
       "percDiff": -0.06036991869918695
     },
@@ -1676,7 +1676,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TST",
-      "scoreColor": "#589caf",
+      "scoreColor": "#589dad",
       "timeDiff": -257714,
       "percDiff": -0.11303245614035085
     },
@@ -1691,7 +1691,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#327bd2",
+      "scoreColor": "#337bd1",
       "timeDiff": -96008,
       "percDiff": -0.04210877192982454
     },
@@ -1706,7 +1706,7 @@
       "keyMod": 2,
       "faction": "horde",
       "team": "meat",
-      "scoreColor": "#1b74d9",
+      "scoreColor": "#2977d5",
       "timeDiff": -378149,
       "percDiff": -0.21008277777777773
     },
@@ -1721,7 +1721,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#397ece",
+      "scoreColor": "#3a7fcd",
       "timeDiff": 196141,
       "percDiff": 0.08602675438596497
     },
@@ -1736,7 +1736,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "STISB",
-      "scoreColor": "#327bd2",
+      "scoreColor": "#337bd1",
       "timeDiff": -65806,
       "percDiff": -0.03655888888888892
     },
@@ -1766,7 +1766,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "meat",
-      "scoreColor": "#1b74d9",
+      "scoreColor": "#1c74d9",
       "timeDiff": -250191,
       "percDiff": -0.10973289473684211
     },
@@ -1781,7 +1781,7 @@
       "keyMod": 0,
       "faction": "horde",
       "team": "meat",
-      "scoreColor": "#1b74d9",
+      "scoreColor": "#1c74d9",
       "timeDiff": 330887,
       "percDiff": 0.1414047008547008
     },
@@ -1811,7 +1811,7 @@
       "keyMod": 1,
       "faction": "horde",
       "team": "TTC",
-      "scoreColor": "#1b74d9",
+      "scoreColor": "#1c74d9",
       "timeDiff": -288138,
       "percDiff": -0.12313589743589748
     },
@@ -1826,7 +1826,7 @@
       "keyMod": 1,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#4d8dbe",
+      "scoreColor": "#4e8ebe",
       "timeDiff": -397915,
       "percDiff": -0.17452412280701757
     },
@@ -1841,7 +1841,7 @@
       "keyMod": 2,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#5ba3a7",
+      "scoreColor": "#5ca4a5",
       "timeDiff": -569363,
       "percDiff": -0.2635939814814815
     },
@@ -1856,7 +1856,7 @@
       "keyMod": 2,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#5da7a3",
+      "scoreColor": "#5da8a1",
       "timeDiff": -555487,
       "percDiff": -0.21530503875968987
     }
