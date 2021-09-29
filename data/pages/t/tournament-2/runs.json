@@ -1845,20 +1845,20 @@
       "timeDiff": -569363,
       "percDiff": -0.2635939814814815
     },
-    "10072218": {
-      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10072218-12-plaguefall",
-      "dunegonName": "Plaguefall",
-      "dungeonAbbr": "PF",
-      "score": 112.2,
-      "keystoneLevel": 12,
-      "clearTime": 1882085,
-      "dateCompleted": "2021-09-29T02:55:47.000Z",
-      "keyMod": 1,
+    "10074625": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10074625-10-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 102.7,
+      "keystoneLevel": 10,
+      "clearTime": 2024513,
+      "dateCompleted": "2021-09-29T03:51:51.000Z",
+      "keyMod": 2,
       "faction": "alliance",
       "team": "ASC",
-      "scoreColor": "#4d8dbe",
-      "timeDiff": -397915,
-      "percDiff": -0.17452412280701757
+      "scoreColor": "#5da7a3",
+      "timeDiff": -555487,
+      "percDiff": -0.21530503875968987
     }
   }
 }
