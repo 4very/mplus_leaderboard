@@ -11474,7 +11474,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2107.1,
+    "score": 2107.3,
     "scoreColor": "#695ee4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Casttiel",
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -15308,7 +15308,7 @@
     "classColor": "#AAD372",
     "race": 4,
     "rank": 9,
-    "score": 131.4,
+    "score": 198.9,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Failcher",
