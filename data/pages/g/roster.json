@@ -26,7 +26,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 1234.4,
+    "score": 1238.8,
     "scoreColor": "#4be84f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Namikawa",
@@ -4886,8 +4886,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 352.1,
-    "scoreColor": "#e7ffdd",
+    "score": 479.6,
+    "scoreColor": "#d2ffc0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e1xx",
@@ -12507,6 +12507,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tuckes",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tuckes",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tuckes"
+    }
+  },
+  "220876585": {
+    "name": "Burtmcsquirt",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 6,
+    "rank": 9,
+    "score": 1869.9,
+    "scoreColor": "#4082ca",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Burtmcsquirt",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Burtmcsquirt",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Burtmcsquirt",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Burtmcsquirt"
     }
   },
   "989898": {
