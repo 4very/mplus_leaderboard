@@ -419,7 +419,7 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 229,
+        "ilvl": 230,
         "score": 1047.4,
         "scoreColor": "#43ff2a",
         "covenant": "Necrolord",
@@ -471,7 +471,7 @@
         "score": 1025,
         "scoreColor": "#50ff36",
         "covenant": "Necrolord",
-        "renown": 67,
+        "renown": 68,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Ashpartame",
@@ -492,8 +492,8 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 220,
-        "score": 881.3,
-        "scoreColor": "#7bff5f",
+        "score": 982.1,
+        "scoreColor": "#5aff3f",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -516,10 +516,10 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 227,
-        "score": 986.2,
-        "scoreColor": "#5aff3f",
+        "score": 1020.5,
+        "scoreColor": "#50ff36",
         "covenant": "Night Fae",
-        "renown": 67,
+        "renown": 68,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 4706.5,
-    "scoreColor": "#41ef40",
-    "avgilvl": 225.4,
+    "score": 4841.6,
+    "scoreColor": "#46eb48",
+    "avgilvl": 225.6,
     "highestkey": {
       "key": 12,
       "per": -0.17452412280701757,
@@ -872,7 +872,7 @@
         "race": 5,
         "level": 60,
         "title": "Netherlord Amoxclav",
-        "ilvl": 220,
+        "ilvl": 223,
         "score": 898.7,
         "scoreColor": "#7bff5f",
         "covenant": "Night Fae",
@@ -935,7 +935,7 @@
     ],
     "score": 4004.2,
     "scoreColor": "#50ff36",
-    "avgilvl": 217.6,
+    "avgilvl": 218.2,
     "highestkey": {
       "key": 8,
       "per": -0.22388666666666668,
