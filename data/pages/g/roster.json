@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -16208,8 +16208,8 @@
     "classColor": "#8788EE",
     "race": 37,
     "rank": 9,
-    "score": 885.4,
-    "scoreColor": "#7bff5f",
+    "score": 986.2,
+    "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Demoslocke",
@@ -16802,8 +16802,8 @@
     "classColor": "#AAD372",
     "race": 3,
     "rank": 9,
-    "score": 881.3,
-    "scoreColor": "#7bff5f",
+    "score": 982.1,
+    "scoreColor": "#5aff3f",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Okyro",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Okyro",

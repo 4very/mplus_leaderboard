@@ -492,8 +492,8 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 220,
-        "score": 881.3,
-        "scoreColor": "#7bff5f",
+        "score": 982.1,
+        "scoreColor": "#5aff3f",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 4706.5,
-    "scoreColor": "#41ef40",
+    "score": 4807.3,
+    "scoreColor": "#46eb48",
     "avgilvl": 225.4,
     "highestkey": {
-      "key": 10,
-      "per": -0.2635939814814815,
-      "dung": "NW",
-      "str": "10 NW (26.36%)"
+      "key": 12,
+      "per": -0.17452412280701757,
+      "dung": "PF",
+      "str": "12 PF (17.45%)"
     },
-    "numkeys": 15
+    "numkeys": 16
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -798,9 +798,9 @@
         }
       }
     ],
-    "score": 6979.1,
-    "scoreColor": "#5698b3",
-    "avgilvl": 229.4,
+    "score": 5577.0,
+    "scoreColor": "#5ccd77",
+    "avgilvl": 183.2,
     "highestkey": {
       "key": 14,
       "per": -0.03655888888888892,
