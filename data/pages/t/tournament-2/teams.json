@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 229,
-        "score": 866.1,
-        "scoreColor": "#82ff65",
+        "score": 946.7,
+        "scoreColor": "#6cff50",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 227,
-        "score": 843.7,
-        "scoreColor": "#89ff6c",
+        "score": 924.2,
+        "scoreColor": "#74ff57",
         "covenant": "Necrolord",
         "renown": 67,
         "links": {
@@ -492,8 +492,8 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 220,
-        "score": 726.3,
-        "scoreColor": "#a0ff85",
+        "score": 881.3,
+        "scoreColor": "#7bff5f",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -516,8 +516,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 227,
-        "score": 804.9,
-        "scoreColor": "#8fff73",
+        "score": 885.4,
+        "scoreColor": "#7bff5f",
         "covenant": "Night Fae",
         "renown": 67,
         "links": {
@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 4007.6,
-    "scoreColor": "#50ff36",
-    "avgilvl": 225.4,
+    "score": 3637.6,
+    "scoreColor": "#74ff57",
+    "avgilvl": 180.6,
     "highestkey": {
       "key": 10,
       "per": -0.033454687500000024,
@@ -896,7 +896,7 @@
         "race": 8,
         "level": 60,
         "title": "Afrofreeze",
-        "ilvl": 223,
+        "ilvl": 225,
         "score": 898.7,
         "scoreColor": "#7bff5f",
         "covenant": "Venthyr",
@@ -935,7 +935,7 @@
     ],
     "score": 4004.2,
     "scoreColor": "#50ff36",
-    "avgilvl": 217.2,
+    "avgilvl": 217.6,
     "highestkey": {
       "key": 8,
       "per": -0.22388666666666668,
