@@ -38,7 +38,7 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 230,
+        "ilvl": 231,
         "score": 1600.9,
         "scoreColor": "#5eab9f",
         "covenant": "Kyrian",
@@ -125,7 +125,7 @@
     ],
     "score": 7518.3,
     "scoreColor": "#4082ca",
-    "avgilvl": 229.0,
+    "avgilvl": 229.2,
     "highestkey": {
       "key": 16,
       "per": -0.00025416666666666643,
@@ -177,7 +177,7 @@
         "score": 914.9,
         "scoreColor": "#74ff57",
         "covenant": "Venthyr",
-        "renown": 66,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Zantano",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Zantano",
