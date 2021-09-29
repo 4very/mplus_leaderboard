@@ -38,7 +38,7 @@
         "race": 6,
         "level": 60,
         "title": "The Prestigious Meatshocks",
-        "ilvl": 229,
+        "ilvl": 230,
         "score": 1600.9,
         "scoreColor": "#5eab9f",
         "covenant": "Kyrian",
@@ -125,7 +125,7 @@
     ],
     "score": 7518.3,
     "scoreColor": "#4082ca",
-    "avgilvl": 228.8,
+    "avgilvl": 229.0,
     "highestkey": {
       "key": 16,
       "per": -0.00025416666666666643,
@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 230,
-        "score": 1047.4,
-        "scoreColor": "#43ff2a",
+        "score": 1081.8,
+        "scoreColor": "#1eff00",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 227,
-        "score": 1025,
-        "scoreColor": "#50ff36",
+        "score": 1059.3,
+        "scoreColor": "#34ff1c",
         "covenant": "Necrolord",
         "renown": 68,
         "links": {
@@ -492,8 +492,8 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 220,
-        "score": 982.1,
-        "scoreColor": "#5aff3f",
+        "score": 1067,
+        "scoreColor": "#34ff1c",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -528,8 +528,8 @@
         }
       }
     ],
-    "score": 4841.6,
-    "scoreColor": "#46eb48",
+    "score": 4995.2,
+    "scoreColor": "#4ee456",
     "avgilvl": 225.6,
     "highestkey": {
       "key": 12,
@@ -537,7 +537,7 @@
       "dung": "PF",
       "str": "12 PF (17.45%)"
     },
-    "numkeys": 16
+    "numkeys": 17
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -798,9 +798,9 @@
         }
       }
     ],
-    "score": 5577.0,
-    "scoreColor": "#5ccd77",
-    "avgilvl": 183.2,
+    "score": 6979.1,
+    "scoreColor": "#5698b3",
+    "avgilvl": 229.4,
     "highestkey": {
       "key": 14,
       "per": -0.03655888888888892,
