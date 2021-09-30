@@ -7604,8 +7604,8 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 1782,
-    "scoreColor": "#5191ba",
+    "score": 1796.7,
+    "scoreColor": "#4e8ebe",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dekurgan",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dekurgan",
@@ -11582,8 +11582,8 @@
     "classColor": "#C41E3A",
     "race": 10,
     "rank": 9,
-    "score": 236.3,
-    "scoreColor": "#fbfff9",
+    "score": 353.1,
+    "scoreColor": "#e8ffde",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Andraxias",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Andraxias",
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12471,24 +12471,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Diondre",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Diondre",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Diondre"
-    }
-  },
-  "220765367": {
-    "name": "Famlee",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 5,
-    "rank": 8,
-    "score": 2195,
-    "scoreColor": "#9842ec",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Famlee",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Famlee",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Famlee",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Famlee"
     }
   },
   "220538756": {
