@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 4995.2,
-    "scoreColor": "#4be750",
-    "avgilvl": 225.4,
+    "score": 3974.7,
+    "scoreColor": "#62ff47",
+    "avgilvl": 180.0,
     "highestkey": {
       "key": 12,
       "per": -0.17452412280701757,
@@ -555,8 +555,8 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 225,
-        "score": 821.4,
-        "scoreColor": "#93ff77",
+        "score": 1070.3,
+        "scoreColor": "#43ff2a",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -579,8 +579,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 229,
-        "score": 821.4,
-        "scoreColor": "#93ff77",
+        "score": 1070.3,
+        "scoreColor": "#43ff2a",
         "covenant": "Venthyr",
         "renown": 74,
         "links": {
@@ -603,8 +603,8 @@
         "level": 60,
         "title": "Huntmaster Arinaki",
         "ilvl": 222,
-        "score": 748.1,
-        "scoreColor": "#a4ff89",
+        "score": 996.9,
+        "scoreColor": "#62ff47",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -627,8 +627,8 @@
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 220,
-        "score": 821.4,
-        "scoreColor": "#93ff77",
+        "score": 1070.3,
+        "scoreColor": "#43ff2a",
         "covenant": "Necrolord",
         "renown": 60,
         "links": {
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 3727.9,
-    "scoreColor": "#72ff56",
+    "score": 4723.4,
+    "scoreColor": "#3cf337",
     "avgilvl": 223.4,
     "highestkey": {
-      "key": 12,
-      "per": -0.06036991869918695,
-      "dung": "SD",
-      "str": "12 SD (6.04%)"
+      "key": 14,
+      "per": -0.16656620370370367,
+      "dung": "NW",
+      "str": "14 NW (16.66%)"
     },
-    "numkeys": 11
+    "numkeys": 13
   },
   "STISB": {
     "name": "So Then I Started Blasting",
