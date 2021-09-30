@@ -62,7 +62,7 @@
         "race": 27,
         "level": 60,
         "title": "Meatspear",
-        "ilvl": 228,
+        "ilvl": 229,
         "score": 1600.9,
         "scoreColor": "#5fb098",
         "covenant": "Kyrian",
@@ -125,7 +125,7 @@
     ],
     "score": 7518.3,
     "scoreColor": "#4082ca",
-    "avgilvl": 229.2,
+    "avgilvl": 229.4,
     "highestkey": {
       "key": 16,
       "per": -0.00025416666666666643,
@@ -876,7 +876,7 @@
         "score": 898.7,
         "scoreColor": "#80ff64",
         "covenant": "Night Fae",
-        "renown": 72,
+        "renown": 74,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Amoxclav",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Amoxclav",

@@ -3716,8 +3716,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 1428,
-    "scoreColor": "#5dcb78",
+    "score": 1591.9,
+    "scoreColor": "#5fb098",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Menenius",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Menenius",
@@ -4130,8 +4130,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 3,
-    "score": 1945.5,
-    "scoreColor": "#2977d5",
+    "score": 2033.9,
+    "scoreColor": "#0070dd",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Thoriss",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Thoriss",
@@ -4256,7 +4256,7 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 8,
-    "score": 2135,
+    "score": 2136.4,
     "scoreColor": "#715be5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Oja\u00fd",
@@ -5192,8 +5192,8 @@
     "classColor": "#C69B6D",
     "race": 6,
     "rank": 3,
-    "score": 1422.3,
-    "scoreColor": "#5dcb78",
+    "score": 1618,
+    "scoreColor": "#5eac9d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Whiteg\u00f9rlz",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Whiteg\u00f9rlz",
@@ -6326,8 +6326,8 @@
     "classColor": "#00FF98",
     "race": 2,
     "rank": 3,
-    "score": 2049.4,
-    "scoreColor": "#0070dd",
+    "score": 2054.3,
+    "scoreColor": "#376cdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Tamirin",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tamirin",
@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12014,7 +12014,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 4,
-    "score": 2572.6,
+    "score": 2575,
     "scoreColor": "#e1588e",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
@@ -13580,8 +13580,8 @@
     "classColor": "#AAD372",
     "race": 1,
     "rank": 9,
-    "score": 670,
-    "scoreColor": "#b3ff9b",
+    "score": 741,
+    "scoreColor": "#a4ff89",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Carbo",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Carbo",
@@ -14588,7 +14588,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 1809.2,
+    "score": 1817.3,
     "scoreColor": "#4e8ebe",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Flippyflops",
