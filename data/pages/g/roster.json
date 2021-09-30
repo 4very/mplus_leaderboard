@@ -3284,8 +3284,8 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 1169.5,
-    "scoreColor": "#35f72c",
+    "score": 1185.2,
+    "scoreColor": "#3cf337",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kalykah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kalykah",
@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12014,7 +12014,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 4,
-    "score": 2575,
+    "score": 2576.9,
     "scoreColor": "#e1588e",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
