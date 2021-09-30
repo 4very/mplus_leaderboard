@@ -3356,8 +3356,8 @@
     "classColor": "#0070DD",
     "race": 9,
     "rank": 9,
-    "score": 762.5,
-    "scoreColor": "#9eff83",
+    "score": 775.4,
+    "scoreColor": "#99ff7d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Combatmedik",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Combatmedik",
@@ -4886,8 +4886,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 479.6,
-    "scoreColor": "#d3ffc2",
+    "score": 521.1,
+    "scoreColor": "#cfffbc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e1xx",
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
