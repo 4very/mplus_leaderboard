@@ -1217,12 +1217,11 @@
       "keyMod": 0,
       "faction": "alliance",
       "members": [
-        "159787507",
         "175976047",
         "183061786",
         "186030028"
       ],
-      "count": 4,
+      "count": 3,
       "scoreColor": "#4f67e1",
       "timeDiff": 114060,
       "percDiff": 0.046365853658536516
