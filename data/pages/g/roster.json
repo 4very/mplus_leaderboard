@@ -3284,8 +3284,8 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 1185.2,
-    "scoreColor": "#3cf337",
+    "score": 1247.7,
+    "scoreColor": "#4be750",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Kalykah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kalykah",
@@ -7604,8 +7604,8 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 1764.6,
-    "scoreColor": "#5495b6",
+    "score": 1782,
+    "scoreColor": "#5191ba",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dekurgan",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dekurgan",
@@ -11582,8 +11582,8 @@
     "classColor": "#C41E3A",
     "race": 10,
     "rank": 9,
-    "score": 170.6,
-    "scoreColor": "#ffffff",
+    "score": 236.3,
+    "scoreColor": "#fbfff9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Andraxias",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Andraxias",
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -14213,7 +14213,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Lilmcsaucy",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lilmcsaucy",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lilmcsaucy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lilmcsaucy"
@@ -14285,7 +14285,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Lildoolittle",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lildoolittle",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lildoolittle",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lildoolittle"
