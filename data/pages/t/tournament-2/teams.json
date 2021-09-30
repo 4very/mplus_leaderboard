@@ -528,9 +528,9 @@
         }
       }
     ],
-    "score": 3974.7,
-    "scoreColor": "#62ff47",
-    "avgilvl": 180.0,
+    "score": 4995.2,
+    "scoreColor": "#4be750",
+    "avgilvl": 225.4,
     "highestkey": {
       "key": 12,
       "per": -0.17452412280701757,
@@ -555,10 +555,10 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 225,
-        "score": 1070.3,
-        "scoreColor": "#43ff2a",
+        "score": 1249,
+        "scoreColor": "#4be750",
         "covenant": "Kyrian",
-        "renown": 65,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
@@ -579,8 +579,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 229,
-        "score": 1070.3,
-        "scoreColor": "#43ff2a",
+        "score": 1249,
+        "scoreColor": "#4be750",
         "covenant": "Venthyr",
         "renown": 74,
         "links": {
@@ -603,10 +603,10 @@
         "level": 60,
         "title": "Huntmaster Arinaki",
         "ilvl": 222,
-        "score": 996.9,
-        "scoreColor": "#62ff47",
+        "score": 1175.6,
+        "scoreColor": "#3cf337",
         "covenant": "Kyrian",
-        "renown": 69,
+        "renown": 70,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -626,11 +626,11 @@
         "race": 10,
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
-        "ilvl": 220,
-        "score": 1070.3,
-        "scoreColor": "#43ff2a",
+        "ilvl": 223,
+        "score": 1249,
+        "scoreColor": "#4be750",
         "covenant": "Necrolord",
-        "renown": 60,
+        "renown": 62,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dr\u00e0cuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dr\u00e0cuhl",
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 4723.4,
-    "scoreColor": "#3cf337",
-    "avgilvl": 223.4,
+    "score": 5438.2,
+    "scoreColor": "#57d769",
+    "avgilvl": 224.0,
     "highestkey": {
       "key": 14,
       "per": -0.16656620370370367,
       "dung": "NW",
       "str": "14 NW (16.66%)"
     },
-    "numkeys": 13
+    "numkeys": 14
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -765,7 +765,7 @@
         "score": 1402.1,
         "scoreColor": "#5bcf73",
         "covenant": "Venthyr",
-        "renown": 61,
+        "renown": 64,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Eredris",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Eredris",
