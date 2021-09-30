@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -15272,8 +15272,8 @@
     "classColor": "#AAD372",
     "race": 4,
     "rank": 9,
-    "score": 379.7,
-    "scoreColor": "#e4ffd8",
+    "score": 455.4,
+    "scoreColor": "#d7ffc8",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Failcher",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Failcher",
