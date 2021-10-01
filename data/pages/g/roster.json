@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -12824,8 +12824,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1299.2,
-    "scoreColor": "#52df5d",
+    "score": 1403.2,
+    "scoreColor": "#5bcf73",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Bradysr",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Bradysr",
