@@ -1808,8 +1808,8 @@
     "classColor": "#0070DD",
     "race": 9,
     "rank": 9,
-    "score": 1654.6,
-    "scoreColor": "#5ca4a5",
+    "score": 1725.4,
+    "scoreColor": "#5699b2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gobsanity",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gobsanity",
@@ -4562,8 +4562,8 @@
     "classColor": "#0070DD",
     "race": 8,
     "rank": 9,
-    "score": 841.3,
-    "scoreColor": "#8dff71",
+    "score": 876.3,
+    "scoreColor": "#80ff64",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Stormweaver",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Stormweaver",
@@ -6668,8 +6668,8 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 9,
-    "score": 1654.6,
-    "scoreColor": "#5ca4a5",
+    "score": 1725.4,
+    "scoreColor": "#5699b2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mysphux",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mysphux",
@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11834,8 +11834,8 @@
     "classColor": "#0070DD",
     "race": 31,
     "rank": 9,
-    "score": 1654.6,
-    "scoreColor": "#5ca4a5",
+    "score": 1725.4,
+    "scoreColor": "#5699b2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corruptshock",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corruptshock",
@@ -12507,6 +12507,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Burtmcsquirt",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Burtmcsquirt",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Burtmcsquirt"
+    }
+  },
+  "218198161": {
+    "name": "Galixlaria",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Galixlaria",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Galixlaria",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Galixlaria",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Galixlaria"
     }
   },
   "989898": {
