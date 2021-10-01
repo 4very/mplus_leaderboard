@@ -284,11 +284,11 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 229,
-        "score": 1635.1,
-        "scoreColor": "#5da8a1",
+        "ilvl": 231,
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Night Fae",
-        "renown": 56,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -308,11 +308,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 234,
-        "score": 1635.1,
-        "scoreColor": "#5da8a1",
+        "ilvl": 235,
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Kyrian",
-        "renown": 64,
+        "renown": 65,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -333,8 +333,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 234,
-        "score": 1635.1,
-        "scoreColor": "#5da8a1",
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Necrolord",
         "renown": 67,
         "links": {
@@ -380,11 +380,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey",
-        "ilvl": 230,
-        "score": 1635.1,
-        "scoreColor": "#5da8a1",
+        "ilvl": 233,
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Kyrian",
-        "renown": 57,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -393,16 +393,16 @@
         }
       }
     ],
-    "score": 7461.0,
-    "scoreColor": "#4082ca",
-    "avgilvl": 230.2,
+    "score": 7822.2,
+    "scoreColor": "#2977d5",
+    "avgilvl": 231.4,
     "highestkey": {
-      "key": 16,
-      "per": -0.13696990740740744,
-      "dung": "NW",
-      "str": "16 NW (13.7%)"
+      "key": 17,
+      "per": -0.048542187499999945,
+      "dung": "HOA",
+      "str": "17 HOA (4.85%)"
     },
-    "numkeys": 28
+    "numkeys": 30
   },
   "ASC": {
     "name": "Alliance Shadow Council",
