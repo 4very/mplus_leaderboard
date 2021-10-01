@@ -491,7 +491,7 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 219,
+        "ilvl": 221,
         "score": 1067,
         "scoreColor": "#43ff2a",
         "covenant": "Kyrian",
@@ -530,7 +530,7 @@
     ],
     "score": 4995.2,
     "scoreColor": "#4be750",
-    "avgilvl": 225.4,
+    "avgilvl": 225.8,
     "highestkey": {
       "key": 12,
       "per": -0.17452412280701757,
