@@ -419,9 +419,9 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 230,
-        "score": 1249,
-        "scoreColor": "#4be750",
+        "ilvl": 231,
+        "score": 1297.6,
+        "scoreColor": "#52df5d",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -442,8 +442,8 @@
         "classColor": "#0070DD",
         "race": 3,
         "level": 60,
-        "title": "Count Santhano",
-        "ilvl": 224,
+        "title": "Renowned Explorer Santhano",
+        "ilvl": 225,
         "score": 766.6,
         "scoreColor": "#9eff83",
         "covenant": "Venthyr",
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 227,
-        "score": 1226.5,
-        "scoreColor": "#47eb49",
+        "score": 1317.1,
+        "scoreColor": "#55db63",
         "covenant": "Necrolord",
         "renown": 69,
         "links": {
@@ -492,10 +492,10 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 221,
-        "score": 1282.8,
-        "scoreColor": "#4fe357",
+        "score": 1302.3,
+        "scoreColor": "#52df5d",
         "covenant": "Kyrian",
-        "renown": 66,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Okyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Okyro",
@@ -515,9 +515,9 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 227,
-        "score": 1236.3,
-        "scoreColor": "#47eb49",
+        "ilvl": 228,
+        "score": 1255.9,
+        "scoreColor": "#4be750",
         "covenant": "Night Fae",
         "renown": 68,
         "links": {
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 5761.2,
-    "scoreColor": "#5ec77d",
-    "avgilvl": 225.8,
+    "score": 5939.5,
+    "scoreColor": "#5ec382",
+    "avgilvl": 226.4,
     "highestkey": {
-      "key": 12,
-      "per": -0.17452412280701757,
-      "dung": "PF",
-      "str": "12 PF (17.45%)"
+      "key": 13,
+      "per": -0.044800877192982425,
+      "dung": "TOP",
+      "str": "13 TOP (4.48%)"
     },
-    "numkeys": 18
+    "numkeys": 20
   },
   "TST": {
     "name": "Titanic Swim Team",

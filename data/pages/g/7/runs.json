@@ -351,11 +351,10 @@
       "keyMod": 2,
       "faction": "alliance",
       "members": [
-        "185887369",
         "188505070",
         "188749542"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#1eff00",
       "timeDiff": -611121,
       "percDiff": -0.3182921875
@@ -371,13 +370,11 @@
       "keyMod": 1,
       "faction": "alliance",
       "members": [
-        "160578181",
         "185887369",
         "188505070",
-        "188749542",
-        "191276872"
+        "188749542"
       ],
-      "count": 5,
+      "count": 3,
       "scoreColor": "#5eac9d",
       "timeDiff": -64233,
       "percDiff": -0.033454687500000024
@@ -393,13 +390,10 @@
       "keyMod": 2,
       "faction": "alliance",
       "members": [
-        "160578181",
-        "185887369",
         "188505070",
-        "188749542",
-        "191276872"
+        "188749542"
       ],
-      "count": 5,
+      "count": 2,
       "scoreColor": "#55db63",
       "timeDiff": -500278,
       "percDiff": -0.2194201754385965
