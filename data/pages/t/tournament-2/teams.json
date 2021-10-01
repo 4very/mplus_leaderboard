@@ -284,11 +284,11 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 229,
-        "score": 1654.6,
-        "scoreColor": "#5ca4a5",
+        "ilvl": 231,
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Night Fae",
-        "renown": 56,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Mysphux",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Mysphux",
@@ -308,11 +308,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 234,
-        "score": 1654.6,
-        "scoreColor": "#5ca4a5",
+        "ilvl": 235,
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Kyrian",
-        "renown": 64,
+        "renown": 65,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -380,11 +380,11 @@
         "race": 10,
         "level": 60,
         "title": "Easybreezey",
-        "ilvl": 230,
-        "score": 1654.6,
-        "scoreColor": "#5ca4a5",
+        "ilvl": 233,
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Kyrian",
-        "renown": 57,
+        "renown": 59,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Easybreezey",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Easybreezey",
@@ -393,16 +393,16 @@
         }
       }
     ],
-    "score": 7539.0,
-    "scoreColor": "#4082ca",
-    "avgilvl": 230.2,
+    "score": 7751.4,
+    "scoreColor": "#337bd1",
+    "avgilvl": 231.4,
     "highestkey": {
       "key": 16,
-      "per": -0.13696990740740744,
-      "dung": "NW",
-      "str": "16 NW (13.7%)"
+      "per": -0.16458464912280701,
+      "dung": "PF",
+      "str": "16 PF (16.46%)"
     },
-    "numkeys": 28
+    "numkeys": 29
   },
   "ASC": {
     "name": "Alliance Shadow Council",
