@@ -333,8 +333,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 234,
-        "score": 1654.6,
-        "scoreColor": "#5ca4a5",
+        "score": 1725.4,
+        "scoreColor": "#5699b2",
         "covenant": "Necrolord",
         "renown": 67,
         "links": {
@@ -393,16 +393,16 @@
         }
       }
     ],
-    "score": 7751.4,
-    "scoreColor": "#337bd1",
+    "score": 7822.2,
+    "scoreColor": "#2977d5",
     "avgilvl": 231.4,
     "highestkey": {
-      "key": 16,
-      "per": -0.16458464912280701,
-      "dung": "PF",
-      "str": "16 PF (16.46%)"
+      "key": 17,
+      "per": -0.048542187499999945,
+      "dung": "HOA",
+      "str": "17 HOA (4.85%)"
     },
-    "numkeys": 29
+    "numkeys": 30
   },
   "ASC": {
     "name": "Alliance Shadow Council",
