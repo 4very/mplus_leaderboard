@@ -285,7 +285,7 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 229,
-        "score": 1625.4,
+        "score": 1635.1,
         "scoreColor": "#5da8a1",
         "covenant": "Night Fae",
         "renown": 56,
@@ -309,7 +309,7 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 234,
-        "score": 1625.4,
+        "score": 1635.1,
         "scoreColor": "#5da8a1",
         "covenant": "Kyrian",
         "renown": 64,
@@ -333,7 +333,7 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 234,
-        "score": 1625.4,
+        "score": 1635.1,
         "scoreColor": "#5da8a1",
         "covenant": "Necrolord",
         "renown": 67,
@@ -381,7 +381,7 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 230,
-        "score": 1625.4,
+        "score": 1635.1,
         "scoreColor": "#5da8a1",
         "covenant": "Kyrian",
         "renown": 57,
@@ -393,8 +393,8 @@
         }
       }
     ],
-    "score": 7422.2,
-    "scoreColor": "#4586c6",
+    "score": 7461.0,
+    "scoreColor": "#4082ca",
     "avgilvl": 230.2,
     "highestkey": {
       "key": 16,
@@ -402,7 +402,7 @@
       "dung": "NW",
       "str": "16 NW (13.7%)"
     },
-    "numkeys": 27
+    "numkeys": 28
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 231,
-        "score": 1297.6,
-        "scoreColor": "#52df5d",
+        "score": 1317.1,
+        "scoreColor": "#55db63",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 225,
-        "score": 766.6,
-        "scoreColor": "#9eff83",
+        "score": 834.8,
+        "scoreColor": "#8dff71",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -528,8 +528,8 @@
         }
       }
     ],
-    "score": 5939.5,
-    "scoreColor": "#5ec382",
+    "score": 6027.2,
+    "scoreColor": "#5fbc8b",
     "avgilvl": 226.4,
     "highestkey": {
       "key": 13,
