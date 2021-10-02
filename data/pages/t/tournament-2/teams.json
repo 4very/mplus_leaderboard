@@ -221,11 +221,11 @@
         "race": 35,
         "level": 60,
         "title": "Procuts",
-        "ilvl": 221,
+        "ilvl": 223,
         "score": 914.9,
         "scoreColor": "#79ff5d",
         "covenant": "Necrolord",
-        "renown": 65,
+        "renown": 68,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Procuts",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Procuts",
@@ -260,7 +260,7 @@
     ],
     "score": 4574.5,
     "scoreColor": "#2bfb1e",
-    "avgilvl": 225.4,
+    "avgilvl": 225.8,
     "highestkey": {
       "key": 12,
       "per": -0.09995989583333331,
