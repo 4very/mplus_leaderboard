@@ -3752,8 +3752,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 681.6,
-    "scoreColor": "#aeff95",
+    "score": 1016.2,
+    "scoreColor": "#59ff3e",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Cerve",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cerve",
@@ -5021,24 +5021,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Khaladinn"
     }
   },
-  "192145359": {
-    "name": "Seracide",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 10,
-    "rank": 4,
-    "score": 2096.4,
-    "scoreColor": "#6261e3",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Seracide",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Seracide",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Seracide",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Seracide"
-    }
-  },
   "192406373": {
     "name": "Pixtix",
     "realm": "illidan",
@@ -5966,8 +5948,8 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 8,
-    "score": 2069.8,
-    "scoreColor": "#376cdf",
+    "score": 2085.2,
+    "scoreColor": "#4f67e1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Asteraoth",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Asteraoth",
@@ -8666,8 +8648,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 1818,
-    "scoreColor": "#4e8ebe",
+    "score": 1863.6,
+    "scoreColor": "#4586c6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corrupthunt",
@@ -8939,7 +8921,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11909,7 +11891,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12507,6 +12489,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Galixlaria",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Galixlaria",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Galixlaria"
+    }
+  },
+  "192145359": {
+    "name": "Seracide",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 10,
+    "rank": 4,
+    "score": 2096.4,
+    "scoreColor": "#6261e3",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Seracide",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Seracide",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Seracide",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Seracide"
     }
   },
   "989898": {
