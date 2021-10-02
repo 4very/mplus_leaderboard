@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 232,
-        "score": 1317.1,
-        "scoreColor": "#55db63",
+        "score": 1381.5,
+        "scoreColor": "#59d36e",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 225,
-        "score": 834.8,
-        "scoreColor": "#8dff71",
+        "score": 885.8,
+        "scoreColor": "#80ff64",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -467,9 +467,9 @@
         "race": 25,
         "level": 60,
         "title": "Baron Ashpartame",
-        "ilvl": 227,
-        "score": 1317.1,
-        "scoreColor": "#55db63",
+        "ilvl": 228,
+        "score": 1381.5,
+        "scoreColor": "#59d36e",
         "covenant": "Necrolord",
         "renown": 69,
         "links": {
@@ -491,9 +491,9 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 223,
-        "score": 1302.3,
-        "scoreColor": "#52df5d",
+        "ilvl": 226,
+        "score": 1366.7,
+        "scoreColor": "#59d36e",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -516,8 +516,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 229,
-        "score": 1255.9,
-        "scoreColor": "#4be750",
+        "score": 1320.3,
+        "scoreColor": "#55db63",
         "covenant": "Night Fae",
         "renown": 68,
         "links": {
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 6027.2,
-    "scoreColor": "#5fbc8b",
-    "avgilvl": 227.2,
+    "score": 6335.8,
+    "scoreColor": "#5fb098",
+    "avgilvl": 228.0,
     "highestkey": {
-      "key": 13,
-      "per": -0.044800877192982425,
-      "dung": "TOP",
-      "str": "13 TOP (4.48%)"
+      "key": 14,
+      "per": -0.0850175438596491,
+      "dung": "PF",
+      "str": "14 PF (8.5%)"
     },
-    "numkeys": 20
+    "numkeys": 23
   },
   "TST": {
     "name": "Titanic Swim Team",
