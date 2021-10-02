@@ -17909,6 +17909,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
     }
   },
+  "191295752": {
+    "name": "Chiryou",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 7,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Chiryou",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Chiryou",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Chiryou",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Chiryou"
+    }
+  },
   "191317839": {
     "name": "Classic\u00f8",
     "realm": "sargeras",
