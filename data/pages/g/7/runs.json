@@ -713,11 +713,10 @@
       "keyMod": 1,
       "faction": "alliance",
       "members": [
-        "185887369",
         "188505070",
         "190634616"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#52df5d",
       "timeDiff": -270535,
       "percDiff": -0.118655701754386
@@ -862,13 +861,11 @@
       "keyMod": 2,
       "faction": "alliance",
       "members": [
-        "160578181",
         "188505070",
         "188749542",
-        "189980882",
-        "191276872"
+        "189980882"
       ],
-      "count": 5,
+      "count": 3,
       "scoreColor": "#55db63",
       "timeDiff": -685800,
       "percDiff": -0.2787804878048781
@@ -948,10 +945,9 @@
       "faction": "horde",
       "members": [
         "163279137",
-        "203738573",
-        "217819077"
+        "203738573"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#cc47b9",
       "timeDiff": -216248,
       "percDiff": -0.11262916666666667
