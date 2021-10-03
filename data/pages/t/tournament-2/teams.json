@@ -16,7 +16,7 @@
         "title": "Fingermeat the Fabulous",
         "ilvl": 232,
         "score": 1600.9,
-        "scoreColor": "#5fb296",
+        "scoreColor": "#5fb494",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -40,7 +40,7 @@
         "title": "The Prestigious Meatshocks",
         "ilvl": 231,
         "score": 1600.9,
-        "scoreColor": "#5fb296",
+        "scoreColor": "#5fb494",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -64,7 +64,7 @@
         "title": "Meatspear",
         "ilvl": 229,
         "score": 1600.9,
-        "scoreColor": "#5fb296",
+        "scoreColor": "#5fb494",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -88,7 +88,7 @@
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 220,
         "score": 1232.3,
-        "scoreColor": "#46eb48",
+        "scoreColor": "#42ef41",
         "covenant": "Night Fae",
         "renown": 38,
         "links": {
@@ -112,7 +112,7 @@
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 235,
         "score": 1483.3,
-        "scoreColor": "#5ec580",
+        "scoreColor": "#5ec77d",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -151,7 +151,7 @@
         "title": "Palabusk",
         "ilvl": 230,
         "score": 914.9,
-        "scoreColor": "#79ff5d",
+        "scoreColor": "#7fff62",
         "covenant": "Kyrian",
         "renown": 71,
         "links": {
@@ -175,7 +175,7 @@
         "title": "Chef Zantano",
         "ilvl": 223,
         "score": 914.9,
-        "scoreColor": "#79ff5d",
+        "scoreColor": "#7fff62",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -199,7 +199,7 @@
         "title": "Serakiri",
         "ilvl": 225,
         "score": 914.9,
-        "scoreColor": "#79ff5d",
+        "scoreColor": "#7fff62",
         "covenant": "Night Fae",
         "renown": 65,
         "links": {
@@ -223,7 +223,7 @@
         "title": "Procuts",
         "ilvl": 224,
         "score": 914.9,
-        "scoreColor": "#79ff5d",
+        "scoreColor": "#7fff62",
         "covenant": "Necrolord",
         "renown": 68,
         "links": {
@@ -247,7 +247,7 @@
         "title": "Likkota the Patient",
         "ilvl": 228,
         "score": 914.9,
-        "scoreColor": "#79ff5d",
+        "scoreColor": "#7fff62",
         "covenant": "Night Fae",
         "renown": 65,
         "links": {
@@ -259,7 +259,7 @@
       }
     ],
     "score": 4574.5,
-    "scoreColor": "#2bfb1d",
+    "scoreColor": "#1eff00",
     "avgilvl": 226.0,
     "highestkey": {
       "key": 12,
@@ -286,7 +286,7 @@
         "title": "Titanslayer Mysphux",
         "ilvl": 231,
         "score": 1725.4,
-        "scoreColor": "#589caf",
+        "scoreColor": "#589dad",
         "covenant": "Night Fae",
         "renown": 59,
         "links": {
@@ -310,7 +310,7 @@
         "title": "Talon King Gobsanity",
         "ilvl": 235,
         "score": 1725.4,
-        "scoreColor": "#589caf",
+        "scoreColor": "#589dad",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -334,7 +334,7 @@
         "title": "Corruptshock the Exalted",
         "ilvl": 234,
         "score": 1725.4,
-        "scoreColor": "#589caf",
+        "scoreColor": "#589dad",
         "covenant": "Necrolord",
         "renown": 67,
         "links": {
@@ -358,7 +358,7 @@
         "title": "Archmage Cylonarkana",
         "ilvl": 224,
         "score": 920.6,
-        "scoreColor": "#79ff5d",
+        "scoreColor": "#7fff62",
         "covenant": "Venthyr",
         "renown": 23,
         "links": {
@@ -382,7 +382,7 @@
         "title": "Easybreezey",
         "ilvl": 233,
         "score": 1725.4,
-        "scoreColor": "#589caf",
+        "scoreColor": "#589dad",
         "covenant": "Kyrian",
         "renown": 59,
         "links": {
@@ -394,7 +394,7 @@
       }
     ],
     "score": 7822.2,
-    "scoreColor": "#327bd2",
+    "scoreColor": "#337bd1",
     "avgilvl": 231.4,
     "highestkey": {
       "key": 17,
@@ -421,7 +421,7 @@
         "title": "Th\u00f9nderlips",
         "ilvl": 232,
         "score": 1451.6,
-        "scoreColor": "#5dc97b",
+        "scoreColor": "#5dcb78",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -445,7 +445,7 @@
         "title": "Renowned Explorer Santhano",
         "ilvl": 226,
         "score": 1202.9,
-        "scoreColor": "#41ef40",
+        "scoreColor": "#3cf337",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -469,7 +469,7 @@
         "title": "Baron Ashpartame",
         "ilvl": 228,
         "score": 1451.6,
-        "scoreColor": "#5dc97b",
+        "scoreColor": "#5dcb78",
         "covenant": "Necrolord",
         "renown": 69,
         "links": {
@@ -493,7 +493,7 @@
         "title": "Okyro the Explorer",
         "ilvl": 226,
         "score": 1366.7,
-        "scoreColor": "#59d46c",
+        "scoreColor": "#57d769",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -517,7 +517,7 @@
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 229,
         "score": 1390.4,
-        "scoreColor": "#5bd072",
+        "scoreColor": "#59d36e",
         "covenant": "Night Fae",
         "renown": 68,
         "links": {
@@ -529,7 +529,7 @@
       }
     ],
     "score": 6863.2,
-    "scoreColor": "#5a9fab",
+    "scoreColor": "#5aa1a9",
     "avgilvl": 228.2,
     "highestkey": {
       "key": 14,
@@ -556,7 +556,7 @@
         "title": "Poke\u00fd the Chosen",
         "ilvl": 225,
         "score": 1249,
-        "scoreColor": "#4be84f",
+        "scoreColor": "#47eb49",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -580,7 +580,7 @@
         "title": "Diondre, Hand of A'dal",
         "ilvl": 229,
         "score": 1249,
-        "scoreColor": "#4be84f",
+        "scoreColor": "#47eb49",
         "covenant": "Venthyr",
         "renown": 74,
         "links": {
@@ -604,7 +604,7 @@
         "title": "Huntmaster Arinaki",
         "ilvl": 222,
         "score": 1175.6,
-        "scoreColor": "#3bf337",
+        "scoreColor": "#35f72c",
         "covenant": "Kyrian",
         "renown": 70,
         "links": {
@@ -628,7 +628,7 @@
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 223,
         "score": 1249,
-        "scoreColor": "#4be84f",
+        "scoreColor": "#47eb49",
         "covenant": "Necrolord",
         "renown": 62,
         "links": {
@@ -652,7 +652,7 @@
         "title": "Dannyshock the Uncorrupted",
         "ilvl": 221,
         "score": 515.6,
-        "scoreColor": "#cfffbc",
+        "scoreColor": "#d0ffbe",
         "covenant": "Night Fae",
         "renown": 49,
         "links": {
@@ -664,7 +664,7 @@
       }
     ],
     "score": 5438.2,
-    "scoreColor": "#57d867",
+    "scoreColor": "#55db63",
     "avgilvl": 224.0,
     "highestkey": {
       "key": 14,
@@ -691,7 +691,7 @@
         "title": "Highlord Lelush",
         "ilvl": 231,
         "score": 1402.1,
-        "scoreColor": "#5bd072",
+        "scoreColor": "#59d36e",
         "covenant": "Kyrian",
         "renown": 72,
         "links": {
@@ -715,7 +715,7 @@
         "title": "Sito, Storm's End",
         "ilvl": 230,
         "score": 1402.1,
-        "scoreColor": "#5bd072",
+        "scoreColor": "#59d36e",
         "covenant": "Venthyr",
         "renown": 63,
         "links": {
@@ -739,7 +739,7 @@
         "title": "Mash\u00edro the Dreamer",
         "ilvl": 232,
         "score": 1402.1,
-        "scoreColor": "#5bd072",
+        "scoreColor": "#59d36e",
         "covenant": "Night Fae",
         "renown": 74,
         "links": {
@@ -763,7 +763,7 @@
         "title": "Count Eredris",
         "ilvl": 230,
         "score": 1402.1,
-        "scoreColor": "#5bd072",
+        "scoreColor": "#59d36e",
         "covenant": "Venthyr",
         "renown": 64,
         "links": {
@@ -787,7 +787,7 @@
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 224,
         "score": 1370.7,
-        "scoreColor": "#59d46c",
+        "scoreColor": "#57d769",
         "covenant": "Night Fae",
         "renown": 66,
         "links": {
@@ -799,7 +799,7 @@
       }
     ],
     "score": 6979.1,
-    "scoreColor": "#589caf",
+    "scoreColor": "#589dad",
     "avgilvl": 229.4,
     "highestkey": {
       "key": 14,
@@ -826,7 +826,7 @@
         "title": "Borgonzola",
         "ilvl": 223,
         "score": 898.7,
-        "scoreColor": "#80ff64",
+        "scoreColor": "#85ff69",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -850,7 +850,7 @@
         "title": "Shammwowzers the Gullible",
         "ilvl": 216,
         "score": 898.7,
-        "scoreColor": "#80ff64",
+        "scoreColor": "#85ff69",
         "covenant": "Necrolord",
         "renown": 51,
         "links": {
@@ -874,7 +874,7 @@
         "title": "Netherlord Amoxclav",
         "ilvl": 223,
         "score": 898.7,
-        "scoreColor": "#80ff64",
+        "scoreColor": "#85ff69",
         "covenant": "Night Fae",
         "renown": 74,
         "links": {
@@ -898,7 +898,7 @@
         "title": "Afrofreeze",
         "ilvl": 225,
         "score": 898.7,
-        "scoreColor": "#80ff64",
+        "scoreColor": "#85ff69",
         "covenant": "Venthyr",
         "renown": 54,
         "links": {
@@ -922,7 +922,7 @@
         "title": "Ashsucks",
         "ilvl": 206,
         "score": 409.4,
-        "scoreColor": "#e0ffd3",
+        "scoreColor": "#e0ffd4",
         "covenant": "Night Fae",
         "renown": 30,
         "links": {
@@ -934,7 +934,7 @@
       }
     ],
     "score": 4004.2,
-    "scoreColor": "#59ff3e",
+    "scoreColor": "#61ff46",
     "avgilvl": 218.6,
     "highestkey": {
       "key": 8,
