@@ -5921,6 +5921,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Innervating"
     }
   },
+  "198423934": {
+    "name": "Traleigha",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Traleigha",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Traleigha",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Traleigha",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Traleigha"
+    }
+  },
   "198437026": {
     "name": "Plaguekitty",
     "realm": "illidan",
@@ -12507,6 +12525,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Seracide",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Seracide",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Seracide"
+    }
+  },
+  "220822201": {
+    "name": "Arkino",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 26,
+    "rank": 9,
+    "score": 732.8,
+    "scoreColor": "#a4ff89",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Arkino",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Arkino",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Arkino",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Arkino"
     }
   },
   "989898": {
