@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 7518.3,
-    "scoreColor": "#4082ca",
-    "avgilvl": 229.4,
+    "score": 6035.0,
+    "scoreColor": "#5fbc8b",
+    "avgilvl": 182.4,
     "highestkey": {
       "key": 16,
       "per": -0.00025416666666666643,
@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 232,
-        "score": 1381.5,
-        "scoreColor": "#59d36e",
+        "score": 1386.1,
+        "scoreColor": "#5bcf73",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 225,
-        "score": 885.8,
-        "scoreColor": "#80ff64",
+        "score": 970.9,
+        "scoreColor": "#6aff4f",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 228,
-        "score": 1381.5,
-        "scoreColor": "#59d36e",
+        "score": 1386.1,
+        "scoreColor": "#5bcf73",
         "covenant": "Necrolord",
         "renown": 69,
         "links": {
@@ -516,7 +516,7 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 229,
-        "score": 1320.3,
+        "score": 1324.8,
         "scoreColor": "#55db63",
         "covenant": "Night Fae",
         "renown": 68,
@@ -528,8 +528,8 @@
         }
       }
     ],
-    "score": 6335.8,
-    "scoreColor": "#5fb098",
+    "score": 6434.6,
+    "scoreColor": "#5eac9d",
     "avgilvl": 228.0,
     "highestkey": {
       "key": 14,
@@ -824,7 +824,7 @@
         "race": 10,
         "level": 60,
         "title": "Borgonzola",
-        "ilvl": 221,
+        "ilvl": 223,
         "score": 898.7,
         "scoreColor": "#80ff64",
         "covenant": "Kyrian",
@@ -935,7 +935,7 @@
     ],
     "score": 4004.2,
     "scoreColor": "#59ff3e",
-    "avgilvl": 218.2,
+    "avgilvl": 218.6,
     "highestkey": {
       "key": 8,
       "per": -0.22388666666666668,

@@ -639,6 +639,68 @@
       "scoreColor": "#337bd1",
       "timeDiff": 29179,
       "percDiff": 0.016210555555555617
+    },
+    "10365482": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10365482-21-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 155.5,
+      "keystoneLevel": 21,
+      "clearTime": 2188396,
+      "dateCompleted": "2021-10-03T03:29:02.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "163279137",
+        "217819077",
+        "219403136",
+        "220278881"
+      ],
+      "count": 4,
+      "scoreColor": "#d34cac",
+      "timeDiff": -91604,
+      "percDiff": -0.040177192982456145
+    },
+    "10364009": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10364009-20-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 151.9,
+      "keystoneLevel": 20,
+      "clearTime": 1932993,
+      "dateCompleted": "2021-10-03T02:46:16.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "163279137",
+        "219403136",
+        "220278881"
+      ],
+      "count": 3,
+      "scoreColor": "#cc47b9",
+      "timeDiff": -347007,
+      "percDiff": -0.15219605263157898
+    },
+    "10365722": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10365722-11-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 106.3,
+      "keystoneLevel": 11,
+      "clearTime": 1930031,
+      "dateCompleted": "2021-10-03T02:48:20.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "members": [
+        "160578181",
+        "185887369",
+        "188505070",
+        "191276872"
+      ],
+      "count": 4,
+      "scoreColor": "#589dad",
+      "timeDiff": -229969,
+      "percDiff": -0.10646712962962968
     }
   }
 }
