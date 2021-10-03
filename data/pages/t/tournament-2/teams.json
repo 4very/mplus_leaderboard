@@ -123,9 +123,9 @@
         }
       }
     ],
-    "score": 6035.0,
-    "scoreColor": "#5fbc8b",
-    "avgilvl": 182.4,
+    "score": 7518.3,
+    "scoreColor": "#4082ca",
+    "avgilvl": 229.4,
     "highestkey": {
       "key": 16,
       "per": -0.00025416666666666643,
@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 232,
-        "score": 1386.1,
-        "scoreColor": "#5bcf73",
+        "score": 1451.6,
+        "scoreColor": "#5ec77d",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -443,9 +443,9 @@
         "race": 3,
         "level": 60,
         "title": "Renowned Explorer Santhano",
-        "ilvl": 225,
-        "score": 970.9,
-        "scoreColor": "#6aff4f",
+        "ilvl": 226,
+        "score": 1202.9,
+        "scoreColor": "#42ef41",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 228,
-        "score": 1386.1,
-        "scoreColor": "#5bcf73",
+        "score": 1451.6,
+        "scoreColor": "#5ec77d",
         "covenant": "Necrolord",
         "renown": 69,
         "links": {
@@ -516,8 +516,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 229,
-        "score": 1324.8,
-        "scoreColor": "#55db63",
+        "score": 1390.4,
+        "scoreColor": "#5bcf73",
         "covenant": "Night Fae",
         "renown": 68,
         "links": {
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 6434.6,
-    "scoreColor": "#5eac9d",
-    "avgilvl": 228.0,
+    "score": 6863.2,
+    "scoreColor": "#589dad",
+    "avgilvl": 228.2,
     "highestkey": {
       "key": 14,
       "per": -0.0850175438596491,
       "dung": "PF",
       "str": "14 PF (8.5%)"
     },
-    "numkeys": 24
+    "numkeys": 26
   },
   "TST": {
     "name": "Titanic Swim Team",

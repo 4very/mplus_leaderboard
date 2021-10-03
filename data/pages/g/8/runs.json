@@ -701,6 +701,88 @@
       "scoreColor": "#589dad",
       "timeDiff": -229969,
       "percDiff": -0.10646712962962968
+    },
+    "10371160": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10371160-17-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 136,
+      "keystoneLevel": 17,
+      "clearTime": 1983541,
+      "dateCompleted": "2021-10-03T05:08:49.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "members": [
+        "163279137",
+        "215416887",
+        "217819077"
+      ],
+      "count": 3,
+      "scoreColor": "#8c4bea",
+      "timeDiff": -176459,
+      "percDiff": -0.08169398148148144
+    },
+    "10369123": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10369123-15-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 129.5,
+      "keystoneLevel": 15,
+      "clearTime": 1565641,
+      "dateCompleted": "2021-10-03T04:30:35.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "members": [
+        "163279137",
+        "217819077",
+        "219403136"
+      ],
+      "count": 3,
+      "scoreColor": "#4f67e1",
+      "timeDiff": -894359,
+      "percDiff": -0.363560569105691
+    },
+    "10368020": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10368020-12-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 111,
+      "keystoneLevel": 12,
+      "clearTime": 2107253,
+      "dateCompleted": "2021-10-03T03:36:54.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "members": [
+        "160578181",
+        "185887369",
+        "188505070",
+        "191276872"
+      ],
+      "count": 4,
+      "scoreColor": "#5191ba",
+      "timeDiff": -172747,
+      "percDiff": -0.07576622807017541
+    },
+    "10368318": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10368318-12-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 110.7,
+      "keystoneLevel": 12,
+      "clearTime": 1818258,
+      "dateCompleted": "2021-10-03T02:05:50.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "members": [
+        "160578181",
+        "185887369",
+        "188505070",
+        "191276872"
+      ],
+      "count": 4,
+      "scoreColor": "#5191ba",
+      "timeDiff": -101742,
+      "percDiff": -0.05299062499999996
     }
   }
 }
