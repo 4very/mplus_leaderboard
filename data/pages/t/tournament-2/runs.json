@@ -2054,6 +2054,36 @@
       "scoreColor": "#589dad",
       "timeDiff": -229969,
       "percDiff": -0.10646712962962968
+    },
+    "10368020": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10368020-12-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 111,
+      "keystoneLevel": 12,
+      "clearTime": 2107253,
+      "dateCompleted": "2021-10-03T03:36:54.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "team": "ASC",
+      "scoreColor": "#5191ba",
+      "timeDiff": -172747,
+      "percDiff": -0.07576622807017541
+    },
+    "10368318": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10368318-12-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 110.7,
+      "keystoneLevel": 12,
+      "clearTime": 1818258,
+      "dateCompleted": "2021-10-03T02:05:50.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "team": "ASC",
+      "scoreColor": "#5191ba",
+      "timeDiff": -101742,
+      "percDiff": -0.05299062499999996
     }
   }
 }
