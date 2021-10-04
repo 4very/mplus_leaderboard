@@ -114,7 +114,13 @@ export async function getStaticPaths() {
   });
 
   return {
-    paths,
+    paths: [
+      {
+        params: {
+          page: 'tournament-2',
+        },
+      },
+    ],
     fallback: false,
   };
 }

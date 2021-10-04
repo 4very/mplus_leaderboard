@@ -43,7 +43,12 @@ export const percentToString = (params: GridCellParams) => (
 
 export const strtolink = (params: GridCellParams) => (
   <a href={params.value.toString()} target="_blank" rel="noreferrer">
-    Link
+    <img
+      className="linkImg"
+      title="View Raider.io Page"
+      src="/images/rio.png"
+      alt=""
+    />
   </a>
 );
 
