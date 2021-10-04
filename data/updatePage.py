@@ -65,6 +65,7 @@ def getAllRuns(folder: str, pageParams: dict) -> dict:
           else:
             validRuns[runId] = run
             validRuns[runId]['team'] = teamId
+            validRuns[runId]['faction'] = player['faction']
             validRuns[runId]['count'] = 1
           
     validRuns = removeNonFullTeamRuns(validRuns, pageParams)

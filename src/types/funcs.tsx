@@ -167,3 +167,15 @@ export const addClass = (params: GridCellParams) => (
     alt=""
   />
 );
+
+export const addFactionToRun = (params: GridCellParams) => (
+  <div className="flex">
+    <img
+      className="w-6 h-8 self-center mr-2"
+      title="Faction"
+      src={`/images/${params.row.faction.toLowerCase()}.png`}
+      alt=""
+    />
+    {params.value}
+  </div>
+);

@@ -138,7 +138,7 @@ export const tTeamColumns = [
 
 export const tRunColumns = [
   { field: 'id', headerName: 'ID', width: 100, hide: true },
-  { field: 'team', headerName: 'Team', width: 120 },
+  { field: 'team', headerName: 'Team', width: 120, renderCell: addFaction },
   {
     field: 'dunegonName',
     headerName: 'Dungeon',
