@@ -322,8 +322,8 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 235,
-        "score": 1725.4,
-        "scoreColor": "#589dad",
+        "score": 1752.5,
+        "scoreColor": "#5699b2",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -347,8 +347,8 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 236,
-        "score": 1725.4,
-        "scoreColor": "#589dad",
+        "score": 1752.5,
+        "scoreColor": "#5699b2",
         "covenant": "Necrolord",
         "renown": 68,
         "links": {
@@ -372,8 +372,8 @@
         "level": 60,
         "title": "Archmage Cylonarkana",
         "ilvl": 224,
-        "score": 920.6,
-        "scoreColor": "#7fff62",
+        "score": 1002.5,
+        "scoreColor": "#61ff46",
         "covenant": "Venthyr",
         "renown": 23,
         "links": {
@@ -397,8 +397,8 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 233,
-        "score": 1725.4,
-        "scoreColor": "#589dad",
+        "score": 1752.5,
+        "scoreColor": "#5699b2",
         "covenant": "Kyrian",
         "renown": 59,
         "links": {
@@ -410,10 +410,10 @@
         "render": "https://render.worldofwarcraft.com/us/character/illidan/128/199657600-main-raw.png"
       }
     ],
-    "score": 7822.2,
-    "scoreColor": "#337bd1",
+    "score": 7985.4,
+    "scoreColor": "#1c74d9",
     "avgilvl": 231.8,
-    "numkeys": 30,
+    "numkeys": 31,
     "highestkey": {
       "key": 17,
       "per": -0.04903698544351143,
