@@ -241,6 +241,7 @@ def getHighestKeys(folder):
       'key': run['keystoneLevel'],
       'per': run['percDiff'],
       'dung': run['dungeonAbbr'],
+      'link': run['url'],
       'str': f'{run["keystoneLevel"]} {run["dungeonAbbr"]} ({round(abs(run["percDiff"]*100),2)}%)'
     }
   

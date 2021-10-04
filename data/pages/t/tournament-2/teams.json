@@ -126,13 +126,14 @@
     "score": 7975.5,
     "scoreColor": "#1c74d9",
     "avgilvl": 232.6,
+    "numkeys": 30,
     "highestkey": {
       "key": 18,
       "per": -0.012991203703703658,
       "dung": "NW",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10451485-18-the-necrotic-wake",
       "str": "18 NW (1.3%)"
-    },
-    "numkeys": 30
+    }
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -261,13 +262,14 @@
     "score": 5622.0,
     "scoreColor": "#59d36e",
     "avgilvl": 226.4,
+    "numkeys": 11,
     "highestkey": {
       "key": 13,
       "per": -0.024639147286821705,
       "dung": "DOS",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10451083-13-de-other-side",
       "str": "13 DOS (2.46%)"
-    },
-    "numkeys": 11
+    }
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -396,13 +398,14 @@
     "score": 7822.2,
     "scoreColor": "#337bd1",
     "avgilvl": 231.8,
+    "numkeys": 30,
     "highestkey": {
       "key": 17,
       "per": -0.048542187499999945,
       "dung": "HOA",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10210918-17-halls-of-atonement",
       "str": "17 HOA (4.85%)"
-    },
-    "numkeys": 30
+    }
   },
   "ASC": {
     "name": "Alliance Shadow Council",
@@ -442,8 +445,8 @@
         "classColor": "#0070DD",
         "race": 3,
         "level": 60,
-        "title": "Renowned Explorer Santhano",
-        "ilvl": 226,
+        "title": "Count Santhano",
+        "ilvl": 227,
         "score": 1504.3,
         "scoreColor": "#5ec382",
         "covenant": "Venthyr",
@@ -514,8 +517,8 @@
         "classColor": "#8788EE",
         "race": 37,
         "level": 60,
-        "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 230,
+        "title": "Elder Demoslocke",
+        "ilvl": 231,
         "score": 1496.9,
         "scoreColor": "#5ec382",
         "covenant": "Night Fae",
@@ -530,14 +533,15 @@
     ],
     "score": 7482.7,
     "scoreColor": "#4586c6",
-    "avgilvl": 228.8,
+    "avgilvl": 229.2,
+    "numkeys": 30,
     "highestkey": {
       "key": 14,
       "per": -0.09838464912280698,
       "dung": "PF",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10458418-14-plaguefall",
       "str": "14 PF (9.84%)"
-    },
-    "numkeys": 30
+    }
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -666,13 +670,14 @@
     "score": 7040.5,
     "scoreColor": "#5699b2",
     "avgilvl": 227.4,
+    "numkeys": 21,
     "highestkey": {
       "key": 16,
       "per": -0.019724479166666642,
       "dung": "HOA",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10457897-16-halls-of-atonement",
       "str": "16 HOA (1.97%)"
-    },
-    "numkeys": 21
+    }
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -801,13 +806,14 @@
     "score": 7308.0,
     "scoreColor": "#4e8ebe",
     "avgilvl": 230.2,
+    "numkeys": 22,
     "highestkey": {
       "key": 14,
       "per": -0.11963333333333337,
       "dung": "DOS",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10452937-14-de-other-side",
       "str": "14 DOS (11.96%)"
-    },
-    "numkeys": 22
+    }
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
@@ -825,8 +831,8 @@
         "level": 60,
         "title": "Borgonzola",
         "ilvl": 223,
-        "score": 1158.1,
-        "scoreColor": "#2bfb1e",
+        "score": 1217.2,
+        "scoreColor": "#3cf337",
         "covenant": "Kyrian",
         "renown": 61,
         "links": {
@@ -849,8 +855,8 @@
         "level": 60,
         "title": "Shammwowzers the Gullible",
         "ilvl": 221,
-        "score": 1158.1,
-        "scoreColor": "#2bfb1e",
+        "score": 1217.2,
+        "scoreColor": "#3cf337",
         "covenant": "Necrolord",
         "renown": 58,
         "links": {
@@ -873,8 +879,8 @@
         "level": 60,
         "title": "Netherlord Amoxclav",
         "ilvl": 223,
-        "score": 1158.1,
-        "scoreColor": "#2bfb1e",
+        "score": 1217.2,
+        "scoreColor": "#3cf337",
         "covenant": "Night Fae",
         "renown": 74,
         "links": {
@@ -897,8 +903,8 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 225,
-        "score": 1158.1,
-        "scoreColor": "#2bfb1e",
+        "score": 1217.2,
+        "scoreColor": "#3cf337",
         "covenant": "Venthyr",
         "renown": 55,
         "links": {
@@ -933,15 +939,16 @@
         }
       }
     ],
-    "score": 5041.8,
-    "scoreColor": "#47eb49",
+    "score": 5278.2,
+    "scoreColor": "#52df5d",
     "avgilvl": 219.6,
+    "numkeys": 21,
     "highestkey": {
       "key": 10,
-      "per": -0.09719230769230769,
-      "dung": "SOA",
-      "str": "10 SOA (9.72%)"
-    },
-    "numkeys": 19
+      "per": -0.23790081300813004,
+      "dung": "SD",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10459226-10-sanguine-depths",
+      "str": "10 SD (23.79%)"
+    }
   }
 }
