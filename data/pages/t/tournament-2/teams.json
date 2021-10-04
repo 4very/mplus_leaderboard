@@ -191,7 +191,7 @@
           "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Zantano",
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Zantano"
         },
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/213/200481493-main-raw.png"
+        "render": null
       },
       {
         "name": "Serakiri",
@@ -297,8 +297,8 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 231,
-        "score": 1725.4,
-        "scoreColor": "#589dad",
+        "score": 1752.5,
+        "scoreColor": "#5699b2",
         "covenant": "Night Fae",
         "renown": 59,
         "links": {
@@ -372,8 +372,8 @@
         "level": 60,
         "title": "Archmage Cylonarkana",
         "ilvl": 224,
-        "score": 1002.5,
-        "scoreColor": "#61ff46",
+        "score": 1089.2,
+        "scoreColor": "#42ff29",
         "covenant": "Venthyr",
         "renown": 23,
         "links": {
@@ -410,7 +410,7 @@
         "render": "https://render.worldofwarcraft.com/us/character/illidan/128/199657600-main-raw.png"
       }
     ],
-    "score": 7985.4,
+    "score": 8099.2,
     "scoreColor": "#1c74d9",
     "avgilvl": 231.8,
     "numkeys": 31,
