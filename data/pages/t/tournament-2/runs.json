@@ -2084,6 +2084,66 @@
       "scoreColor": "#5495b6",
       "timeDiff": -101742,
       "percDiff": -0.05299062499999996
+    },
+    "10446242": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10446242-14-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 115,
+      "keystoneLevel": 14,
+      "clearTime": 2289881,
+      "dateCompleted": "2021-10-03T23:58:04.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "team": "TST",
+      "scoreColor": "#4e8ebe",
+      "timeDiff": 9881,
+      "percDiff": 0.004333771929824648
+    },
+    "10442676": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10442676-12-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 112.8,
+      "keystoneLevel": 12,
+      "clearTime": 1393162,
+      "dateCompleted": "2021-10-03T22:58:08.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "TST",
+      "scoreColor": "#5191ba",
+      "timeDiff": -406838,
+      "percDiff": -0.22602111111111112
+    },
+    "10445796": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10445796-8-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 85,
+      "keystoneLevel": 8,
+      "clearTime": 1451314,
+      "dateCompleted": "2021-10-03T23:40:27.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "team": "inv",
+      "scoreColor": "#55db63",
+      "timeDiff": -1008686,
+      "percDiff": -0.41003495934959344
+    },
+    "10444648": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10444648-8-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 84.4,
+      "keystoneLevel": 8,
+      "clearTime": 1587986,
+      "dateCompleted": "2021-10-03T23:09:52.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "inv",
+      "scoreColor": "#55db63",
+      "timeDiff": -872014,
+      "percDiff": -0.3544772357723577
     }
   }
 }

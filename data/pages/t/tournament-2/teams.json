@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 232,
-        "score": 1600.9,
-        "scoreColor": "#5fb494",
+        "score": 1632.4,
+        "scoreColor": "#5eac9d",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 231,
-        "score": 1600.9,
-        "scoreColor": "#5fb494",
+        "score": 1632.4,
+        "scoreColor": "#5eac9d",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 229,
-        "score": 1600.9,
-        "scoreColor": "#5fb494",
+        "score": 1632.4,
+        "scoreColor": "#5eac9d",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -123,8 +123,8 @@
         }
       }
     ],
-    "score": 7518.3,
-    "scoreColor": "#4586c6",
+    "score": 7612.8,
+    "scoreColor": "#4082ca",
     "avgilvl": 229.4,
     "highestkey": {
       "key": 16,
@@ -555,8 +555,8 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 225,
-        "score": 1249,
-        "scoreColor": "#47eb49",
+        "score": 1310.7,
+        "scoreColor": "#4fe357",
         "covenant": "Kyrian",
         "renown": 66,
         "links": {
@@ -579,8 +579,8 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 229,
-        "score": 1249,
-        "scoreColor": "#47eb49",
+        "score": 1310.7,
+        "scoreColor": "#4fe357",
         "covenant": "Venthyr",
         "renown": 74,
         "links": {
@@ -602,9 +602,9 @@
         "race": 35,
         "level": 60,
         "title": "Huntmaster Arinaki",
-        "ilvl": 222,
-        "score": 1175.6,
-        "scoreColor": "#35f72c",
+        "ilvl": 224,
+        "score": 1205.1,
+        "scoreColor": "#3cf337",
         "covenant": "Kyrian",
         "renown": 70,
         "links": {
@@ -627,8 +627,8 @@
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 223,
-        "score": 1249,
-        "scoreColor": "#47eb49",
+        "score": 1281.2,
+        "scoreColor": "#4be750",
         "covenant": "Necrolord",
         "renown": 62,
         "links": {
@@ -651,8 +651,8 @@
         "level": 60,
         "title": "Dannyshock the Uncorrupted",
         "ilvl": 221,
-        "score": 515.6,
-        "scoreColor": "#d0ffbe",
+        "score": 627.9,
+        "scoreColor": "#baffa3",
         "covenant": "Night Fae",
         "renown": 49,
         "links": {
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 5438.2,
-    "scoreColor": "#55db63",
-    "avgilvl": 224.0,
+    "score": 5735.6,
+    "scoreColor": "#5bcf73",
+    "avgilvl": 224.4,
     "highestkey": {
       "key": 14,
       "per": -0.16656620370370367,
       "dung": "NW",
       "str": "14 NW (16.66%)"
     },
-    "numkeys": 14
+    "numkeys": 16
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -825,8 +825,8 @@
         "level": 60,
         "title": "Borgonzola",
         "ilvl": 223,
-        "score": 898.7,
-        "scoreColor": "#85ff69",
+        "score": 956.4,
+        "scoreColor": "#71ff55",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -849,8 +849,8 @@
         "level": 60,
         "title": "Shammwowzers the Gullible",
         "ilvl": 216,
-        "score": 898.7,
-        "scoreColor": "#85ff69",
+        "score": 956.4,
+        "scoreColor": "#71ff55",
         "covenant": "Necrolord",
         "renown": 51,
         "links": {
@@ -873,8 +873,8 @@
         "level": 60,
         "title": "Netherlord Amoxclav",
         "ilvl": 223,
-        "score": 898.7,
-        "scoreColor": "#85ff69",
+        "score": 956.4,
+        "scoreColor": "#71ff55",
         "covenant": "Night Fae",
         "renown": 74,
         "links": {
@@ -897,8 +897,8 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 225,
-        "score": 898.7,
-        "scoreColor": "#85ff69",
+        "score": 956.4,
+        "scoreColor": "#71ff55",
         "covenant": "Venthyr",
         "renown": 54,
         "links": {
@@ -933,15 +933,15 @@
         }
       }
     ],
-    "score": 4004.2,
-    "scoreColor": "#61ff46",
+    "score": 4235.0,
+    "scoreColor": "#4eff34",
     "avgilvl": 218.6,
     "highestkey": {
       "key": 8,
-      "per": -0.22388666666666668,
-      "dung": "MISTS",
-      "str": "8 MISTS (22.39%)"
+      "per": -0.41003495934959344,
+      "dung": "SD",
+      "str": "8 SD (41.0%)"
     },
-    "numkeys": 15
+    "numkeys": 17
   }
 }
