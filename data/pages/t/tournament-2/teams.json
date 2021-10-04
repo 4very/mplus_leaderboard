@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 232,
-        "score": 1632.4,
-        "scoreColor": "#5eac9d",
+        "score": 1652.9,
+        "scoreColor": "#5da8a1",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 235,
-        "score": 1514.8,
-        "scoreColor": "#5fc087",
+        "score": 1535.3,
+        "scoreColor": "#5fbc8b",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -123,16 +123,16 @@
         }
       }
     ],
-    "score": 7721.0,
-    "scoreColor": "#3a7fcd",
+    "score": 7762.0,
+    "scoreColor": "#337bd1",
     "avgilvl": 229.4,
     "highestkey": {
-      "key": 16,
-      "per": -0.022253333333333347,
-      "dung": "MISTS",
-      "str": "16 MISTS (2.23%)"
+      "key": 17,
+      "per": 0.0001991228070175044,
+      "dung": "TOP",
+      "str": "17 TOP (0.02%)"
     },
-    "numkeys": 26
+    "numkeys": 27
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -149,11 +149,11 @@
         "race": 6,
         "level": 60,
         "title": "Palabusk",
-        "ilvl": 230,
-        "score": 1082.7,
-        "scoreColor": "#42ff29",
+        "ilvl": 231,
+        "score": 1124.4,
+        "scoreColor": "#33ff1b",
         "covenant": "Kyrian",
-        "renown": 71,
+        "renown": 72,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Palabusk",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Palabusk",
@@ -174,8 +174,8 @@
         "level": 60,
         "title": "Chef Zantano",
         "ilvl": 223,
-        "score": 1082.7,
-        "scoreColor": "#42ff29",
+        "score": 1124.4,
+        "scoreColor": "#33ff1b",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -198,10 +198,10 @@
         "level": 60,
         "title": "Serakiri",
         "ilvl": 225,
-        "score": 1082.7,
-        "scoreColor": "#42ff29",
+        "score": 1124.4,
+        "scoreColor": "#33ff1b",
         "covenant": "Night Fae",
-        "renown": 65,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Serakiri",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Serakiri",
@@ -222,8 +222,8 @@
         "level": 60,
         "title": "Procuts",
         "ilvl": 224,
-        "score": 1082.7,
-        "scoreColor": "#42ff29",
+        "score": 1124.4,
+        "scoreColor": "#33ff1b",
         "covenant": "Necrolord",
         "renown": 69,
         "links": {
@@ -246,8 +246,8 @@
         "level": 60,
         "title": "Likkota the Patient",
         "ilvl": 228,
-        "score": 1082.7,
-        "scoreColor": "#42ff29",
+        "score": 1124.4,
+        "scoreColor": "#33ff1b",
         "covenant": "Night Fae",
         "renown": 65,
         "links": {
@@ -258,16 +258,16 @@
         }
       }
     ],
-    "score": 5413.5,
-    "scoreColor": "#55db63",
-    "avgilvl": 226.0,
+    "score": 5622.0,
+    "scoreColor": "#59d36e",
+    "avgilvl": 226.2,
     "highestkey": {
-      "key": 12,
-      "per": -0.1486144444444445,
-      "dung": "MISTS",
-      "str": "12 MISTS (14.86%)"
+      "key": 13,
+      "per": -0.024639147286821705,
+      "dung": "DOS",
+      "str": "13 DOS (2.46%)"
     },
-    "numkeys": 10
+    "numkeys": 11
   },
   "TTC": {
     "name": "Thunderclap Them Cheeks",
@@ -332,7 +332,7 @@
         "race": 31,
         "level": 60,
         "title": "Corruptshock the Exalted",
-        "ilvl": 234,
+        "ilvl": 236,
         "score": 1725.4,
         "scoreColor": "#589dad",
         "covenant": "Necrolord",
@@ -395,7 +395,7 @@
     ],
     "score": 7822.2,
     "scoreColor": "#337bd1",
-    "avgilvl": 231.4,
+    "avgilvl": 231.8,
     "highestkey": {
       "key": 17,
       "per": -0.048542187499999945,
@@ -515,11 +515,11 @@
         "race": 37,
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
-        "ilvl": 229,
+        "ilvl": 230,
         "score": 1390.4,
         "scoreColor": "#59d36e",
         "covenant": "Night Fae",
-        "renown": 68,
+        "renown": 70,
         "links": {
           "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Sargeras/Demoslocke",
@@ -530,7 +530,7 @@
     ],
     "score": 6863.2,
     "scoreColor": "#5aa1a9",
-    "avgilvl": 228.2,
+    "avgilvl": 228.4,
     "highestkey": {
       "key": 14,
       "per": -0.0850175438596491,
@@ -626,7 +626,7 @@
         "race": 10,
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
-        "ilvl": 223,
+        "ilvl": 227,
         "score": 1458,
         "scoreColor": "#5dcb78",
         "covenant": "Necrolord",
@@ -665,7 +665,7 @@
     ],
     "score": 6442.8,
     "scoreColor": "#5fb098",
-    "avgilvl": 224.4,
+    "avgilvl": 225.2,
     "highestkey": {
       "key": 14,
       "per": -0.16656620370370367,
