@@ -31,11 +31,17 @@ export default function teamHall(props: any) {
                 key={team.id}
                 className="font-serif mt-20"
               >
-                {team.id}
+                <img
+                  className="w-8 h-10 self-center mr-2 inline relative -top-1"
+                  title="Faction"
+                  src={`/images/${team.players[0].faction.toLowerCase()}.png`}
+                  alt=""
+                />
+                {team.name}
               </Typography>
               <div
                 key={team.id}
-                className="mb-20"
+                className="mb-48"
                 style={{
                   display: 'grid',
                   gridTemplateColumns: 'repeat(5,300px)',
