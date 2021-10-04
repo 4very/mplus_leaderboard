@@ -419,9 +419,9 @@
         "race": 37,
         "level": 60,
         "title": "Th\u00f9nderlips",
-        "ilvl": 232,
-        "score": 1505.7,
-        "scoreColor": "#5ec382",
+        "ilvl": 233,
+        "score": 1538.6,
+        "scoreColor": "#5fbc8b",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 226,
-        "score": 1289,
-        "scoreColor": "#4be750",
+        "score": 1504.3,
+        "scoreColor": "#5ec382",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Baron Ashpartame",
         "ilvl": 228,
-        "score": 1451.6,
-        "scoreColor": "#5dcb78",
+        "score": 1484.6,
+        "scoreColor": "#5ec77d",
         "covenant": "Necrolord",
         "renown": 69,
         "links": {
@@ -491,9 +491,9 @@
         "race": 3,
         "level": 60,
         "title": "Okyro the Explorer",
-        "ilvl": 226,
-        "score": 1420.8,
-        "scoreColor": "#5bcf73",
+        "ilvl": 227,
+        "score": 1458.3,
+        "scoreColor": "#5dcb78",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -516,8 +516,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 230,
-        "score": 1464,
-        "scoreColor": "#5ec77d",
+        "score": 1496.9,
+        "scoreColor": "#5ec382",
         "covenant": "Night Fae",
         "renown": 70,
         "links": {
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 7131.1,
-    "scoreColor": "#5495b6",
-    "avgilvl": 228.4,
+    "score": 7482.7,
+    "scoreColor": "#4586c6",
+    "avgilvl": 228.8,
     "highestkey": {
       "key": 14,
-      "per": -0.0850175438596491,
+      "per": -0.09838464912280698,
       "dung": "PF",
-      "str": "14 PF (8.5%)"
+      "str": "14 PF (9.84%)"
     },
-    "numkeys": 27
+    "numkeys": 30
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -553,12 +553,12 @@
         "classColor": "#00FF98",
         "race": 28,
         "level": 60,
-        "title": "Poke\u00fd the Chosen",
-        "ilvl": 225,
-        "score": 1534.8,
+        "title": "Poke\u00fd, Hand of the Archon",
+        "ilvl": 228,
+        "score": 1542.7,
         "scoreColor": "#5fbc8b",
         "covenant": "Kyrian",
-        "renown": 66,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Poke\u00fd",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Poke\u00fd",
@@ -577,9 +577,9 @@
         "classColor": "#F48CBA",
         "race": 10,
         "level": 60,
-        "title": "Diondre, Hand of A'dal",
-        "ilvl": 229,
-        "score": 1534.8,
+        "title": "Diondre the Proven Healer",
+        "ilvl": 232,
+        "score": 1542.7,
         "scoreColor": "#5fbc8b",
         "covenant": "Venthyr",
         "renown": 74,
@@ -601,8 +601,8 @@
         "classColor": "#AAD372",
         "race": 35,
         "level": 60,
-        "title": "Huntmaster Arinaki",
-        "ilvl": 224,
+        "title": "Arinaki, Hand of the Archon",
+        "ilvl": 225,
         "score": 1242.6,
         "scoreColor": "#42ef41",
         "covenant": "Kyrian",
@@ -627,8 +627,8 @@
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 227,
-        "score": 1467.8,
-        "scoreColor": "#5ec77d",
+        "score": 1505.2,
+        "scoreColor": "#5ec382",
         "covenant": "Necrolord",
         "renown": 62,
         "links": {
@@ -651,10 +651,10 @@
         "level": 60,
         "title": "Dannyshock the Uncorrupted",
         "ilvl": 225,
-        "score": 1199.4,
+        "score": 1207.3,
         "scoreColor": "#3cf337",
         "covenant": "Night Fae",
-        "renown": 51,
+        "renown": 55,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -663,16 +663,16 @@
         }
       }
     ],
-    "score": 6979.4,
-    "scoreColor": "#589dad",
-    "avgilvl": 226.0,
+    "score": 7040.5,
+    "scoreColor": "#5699b2",
+    "avgilvl": 227.4,
     "highestkey": {
       "key": 16,
       "per": -0.019724479166666642,
       "dung": "HOA",
       "str": "16 HOA (1.97%)"
     },
-    "numkeys": 20
+    "numkeys": 21
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -825,8 +825,8 @@
         "level": 60,
         "title": "Borgonzola",
         "ilvl": 223,
-        "score": 1003.6,
-        "scoreColor": "#61ff46",
+        "score": 1158.1,
+        "scoreColor": "#2bfb1e",
         "covenant": "Kyrian",
         "renown": 61,
         "links": {
@@ -849,8 +849,8 @@
         "level": 60,
         "title": "Shammwowzers the Gullible",
         "ilvl": 221,
-        "score": 1003.6,
-        "scoreColor": "#61ff46",
+        "score": 1158.1,
+        "scoreColor": "#2bfb1e",
         "covenant": "Necrolord",
         "renown": 58,
         "links": {
@@ -873,8 +873,8 @@
         "level": 60,
         "title": "Netherlord Amoxclav",
         "ilvl": 223,
-        "score": 1003.6,
-        "scoreColor": "#61ff46",
+        "score": 1158.1,
+        "scoreColor": "#2bfb1e",
         "covenant": "Night Fae",
         "renown": 74,
         "links": {
@@ -897,8 +897,8 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 225,
-        "score": 1003.6,
-        "scoreColor": "#61ff46",
+        "score": 1158.1,
+        "scoreColor": "#2bfb1e",
         "covenant": "Venthyr",
         "renown": 55,
         "links": {
@@ -933,8 +933,8 @@
         }
       }
     ],
-    "score": 4423.8,
-    "scoreColor": "#33ff1b",
+    "score": 5041.8,
+    "scoreColor": "#47eb49",
     "avgilvl": 219.6,
     "highestkey": {
       "key": 10,
@@ -942,6 +942,6 @@
       "dung": "SOA",
       "str": "10 SOA (9.72%)"
     },
-    "numkeys": 18
+    "numkeys": 19
   }
 }
