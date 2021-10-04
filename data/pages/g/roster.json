@@ -17980,23 +17980,5 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Classic\u00f8",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Classic\u00f8"
     }
-  },
-  "190647320": {
-    "name": "Nailedit",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 34,
-    "rank": 9,
-    "score": 1669.4,
-    "scoreColor": "#5da8a1",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Nailedit",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nailedit",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nailedit",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nailedit"
-    }
   }
 }
