@@ -336,7 +336,7 @@
         "score": 1725.4,
         "scoreColor": "#589dad",
         "covenant": "Necrolord",
-        "renown": 67,
+        "renown": 68,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corruptshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corruptshock",
@@ -528,16 +528,16 @@
         }
       }
     ],
-    "score": 7131.1,
-    "scoreColor": "#5495b6",
-    "avgilvl": 228.4,
+    "score": 5842.1,
+    "scoreColor": "#5ec77d",
+    "avgilvl": 183.2,
     "highestkey": {
       "key": 14,
       "per": -0.0850175438596491,
       "dung": "PF",
       "str": "14 PF (8.5%)"
     },
-    "numkeys": 26
+    "numkeys": 27
   },
   "TST": {
     "name": "Titanic Swim Team",
@@ -555,7 +555,7 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 225,
-        "score": 1497.3,
+        "score": 1508.2,
         "scoreColor": "#5ec382",
         "covenant": "Kyrian",
         "renown": 66,
@@ -579,7 +579,7 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 229,
-        "score": 1497.3,
+        "score": 1508.2,
         "scoreColor": "#5ec382",
         "covenant": "Venthyr",
         "renown": 74,
@@ -603,7 +603,7 @@
         "level": 60,
         "title": "Huntmaster Arinaki",
         "ilvl": 224,
-        "score": 1205.1,
+        "score": 1216,
         "scoreColor": "#3cf337",
         "covenant": "Kyrian",
         "renown": 70,
@@ -627,8 +627,8 @@
         "level": 60,
         "title": "Baron Dr\u00e0cuhl",
         "ilvl": 227,
-        "score": 1458,
-        "scoreColor": "#5dcb78",
+        "score": 1467.8,
+        "scoreColor": "#5ec77d",
         "covenant": "Necrolord",
         "renown": 62,
         "links": {
@@ -651,8 +651,8 @@
         "level": 60,
         "title": "Dannyshock the Uncorrupted",
         "ilvl": 225,
-        "score": 814.5,
-        "scoreColor": "#97ff7b",
+        "score": 1004,
+        "scoreColor": "#61ff46",
         "covenant": "Night Fae",
         "renown": 51,
         "links": {
@@ -663,8 +663,8 @@
         }
       }
     ],
-    "score": 6472.2,
-    "scoreColor": "#5fb098",
+    "score": 6704.2,
+    "scoreColor": "#5ca4a5",
     "avgilvl": 226.0,
     "highestkey": {
       "key": 14,
@@ -672,7 +672,7 @@
       "dung": "NW",
       "str": "14 NW (16.66%)"
     },
-    "numkeys": 17
+    "numkeys": 18
   },
   "STISB": {
     "name": "So Then I Started Blasting",
@@ -737,7 +737,7 @@
         "race": 9,
         "level": 60,
         "title": "Mash\u00edro the Dreamer",
-        "ilvl": 232,
+        "ilvl": 233,
         "score": 1467.9,
         "scoreColor": "#5ec77d",
         "covenant": "Night Fae",
@@ -761,9 +761,9 @@
         "race": 27,
         "level": 60,
         "title": "Count Eredris",
-        "ilvl": 230,
-        "score": 1402.1,
-        "scoreColor": "#59d36e",
+        "ilvl": 231,
+        "score": 1467.9,
+        "scoreColor": "#5ec77d",
         "covenant": "Venthyr",
         "renown": 66,
         "links": {
@@ -785,11 +785,11 @@
         "race": 10,
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
-        "ilvl": 224,
+        "ilvl": 226,
         "score": 1436.4,
         "scoreColor": "#5dcb78",
         "covenant": "Night Fae",
-        "renown": 66,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Slytomato",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Slytomato",
@@ -798,9 +798,9 @@
         }
       }
     ],
-    "score": 7242.2,
-    "scoreColor": "#5191ba",
-    "avgilvl": 229.4,
+    "score": 7308.0,
+    "scoreColor": "#4e8ebe",
+    "avgilvl": 230.2,
     "highestkey": {
       "key": 14,
       "per": -0.11963333333333337,
@@ -828,7 +828,7 @@
         "score": 1003.6,
         "scoreColor": "#61ff46",
         "covenant": "Kyrian",
-        "renown": 57,
+        "renown": 61,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Borgonzola",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Borgonzola",
@@ -848,11 +848,11 @@
         "race": 2,
         "level": 60,
         "title": "Shammwowzers the Gullible",
-        "ilvl": 216,
+        "ilvl": 221,
         "score": 1003.6,
         "scoreColor": "#61ff46",
         "covenant": "Necrolord",
-        "renown": 51,
+        "renown": 58,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Shammwowzers",
@@ -900,7 +900,7 @@
         "score": 1003.6,
         "scoreColor": "#61ff46",
         "covenant": "Venthyr",
-        "renown": 54,
+        "renown": 55,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Afrofreeze",
@@ -935,7 +935,7 @@
     ],
     "score": 4423.8,
     "scoreColor": "#33ff1b",
-    "avgilvl": 218.6,
+    "avgilvl": 219.6,
     "highestkey": {
       "key": 10,
       "per": -0.09719230769230769,
