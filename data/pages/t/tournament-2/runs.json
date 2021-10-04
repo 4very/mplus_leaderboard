@@ -2144,6 +2144,51 @@
       "scoreColor": "#55db63",
       "timeDiff": -872014,
       "percDiff": -0.3544772357723577
+    },
+    "10447097": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10447097-16-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 130.3,
+      "keystoneLevel": 16,
+      "clearTime": 1759944,
+      "dateCompleted": "2021-10-04T00:15:06.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "meat",
+      "scoreColor": "#3b6bdf",
+      "timeDiff": -40056,
+      "percDiff": -0.022253333333333347
+    },
+    "10448604": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10448604-12-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 111.9,
+      "keystoneLevel": 12,
+      "clearTime": 1532494,
+      "dateCompleted": "2021-10-04T00:45:38.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "WSF2T",
+      "scoreColor": "#5495b6",
+      "timeDiff": -267506,
+      "percDiff": -0.1486144444444445
+    },
+    "10448257": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10448257-13-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 117.9,
+      "keystoneLevel": 13,
+      "clearTime": 1756193,
+      "dateCompleted": "2021-10-04T00:38:28.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "team": "TST",
+      "scoreColor": "#4586c6",
+      "timeDiff": -523807,
+      "percDiff": -0.22973991228070179
     }
   }
 }
