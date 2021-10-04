@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 232,
-        "score": 1652.9,
-        "scoreColor": "#5da8a1",
+        "score": 1679.8,
+        "scoreColor": "#5ca4a5",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 231,
-        "score": 1652.9,
-        "scoreColor": "#5da8a1",
+        "score": 1679.8,
+        "scoreColor": "#5ca4a5",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -63,8 +63,8 @@
         "level": 60,
         "title": "Meatspear",
         "ilvl": 229,
-        "score": 1652.9,
-        "scoreColor": "#5da8a1",
+        "score": 1679.8,
+        "scoreColor": "#5ca4a5",
         "covenant": "Kyrian",
         "renown": 69,
         "links": {
@@ -87,8 +87,8 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 220,
-        "score": 1268,
-        "scoreColor": "#47eb49",
+        "score": 1294.9,
+        "scoreColor": "#4fe357",
         "covenant": "Night Fae",
         "renown": 38,
         "links": {
@@ -111,8 +111,8 @@
         "level": 60,
         "title": "Crashin' Thrashin' Meatward",
         "ilvl": 235,
-        "score": 1535.3,
-        "scoreColor": "#5fbc8b",
+        "score": 1562.2,
+        "scoreColor": "#5fb890",
         "covenant": "Necrolord",
         "renown": 64,
         "links": {
@@ -123,16 +123,16 @@
         }
       }
     ],
-    "score": 7762.0,
-    "scoreColor": "#337bd1",
+    "score": 7896.5,
+    "scoreColor": "#2977d5",
     "avgilvl": 229.4,
     "highestkey": {
-      "key": 17,
-      "per": 0.0001991228070175044,
-      "dung": "TOP",
-      "str": "17 TOP (0.02%)"
+      "key": 18,
+      "per": -0.012991203703703658,
+      "dung": "NW",
+      "str": "18 NW (1.3%)"
     },
-    "numkeys": 27
+    "numkeys": 28
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -221,7 +221,7 @@
         "race": 35,
         "level": 60,
         "title": "Procuts",
-        "ilvl": 224,
+        "ilvl": 225,
         "score": 1124.4,
         "scoreColor": "#33ff1b",
         "covenant": "Necrolord",
@@ -260,7 +260,7 @@
     ],
     "score": 5622.0,
     "scoreColor": "#59d36e",
-    "avgilvl": 226.2,
+    "avgilvl": 226.4,
     "highestkey": {
       "key": 13,
       "per": -0.024639147286821705,
@@ -650,11 +650,11 @@
         "race": 2,
         "level": 60,
         "title": "Dannyshock the Uncorrupted",
-        "ilvl": 221,
+        "ilvl": 225,
         "score": 804.7,
         "scoreColor": "#97ff7b",
         "covenant": "Night Fae",
-        "renown": 49,
+        "renown": 51,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshock",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshock",
@@ -665,7 +665,7 @@
     ],
     "score": 6442.8,
     "scoreColor": "#5fb098",
-    "avgilvl": 225.2,
+    "avgilvl": 226.0,
     "highestkey": {
       "key": 14,
       "per": -0.16656620370370367,
