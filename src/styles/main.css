@@ -65,7 +65,7 @@ html {
 }
 
 a{
-  @apply hover:underline text-blue-100
+  @apply hover:underline
 }
 
 .MuiDataGrid-columnHeader {
