@@ -53,7 +53,11 @@ export default function TeamSection({
                   ) : (
                     <>
                       {team.highestkey.str}
-                      <a href={team.highestkey.link}>
+                      <a
+                        href={team.highestkey.link}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
                         <img
                           className="linkImg inline h-5 w-5 align-middle mb-1"
                           title="View Raider.io Page"
