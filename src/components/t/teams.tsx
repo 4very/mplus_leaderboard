@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Typography } from '@material-ui/core';
 import { DataGrid } from '@material-ui/data-grid';
+import Link from 'next/link';
 
 import { TTeamData } from '../../types/tTypes';
 import Indent from '../misc/indent';
@@ -46,7 +47,8 @@ export default function TeamSection({
                   </span>
                 </Typography>
                 <Typography className="font-serif -mt-2" variant="h6">
-                  {`Highest Key Timed: ${team.highestkey.str}`}
+                  {`Highest Key Timed: `}
+                  <Link href={team.highestkey.link}>{team.highestkey.str}</Link>
                 </Typography>
                 <Typography className="font-serif -mt-2" variant="h6">
                   {`Num of Keys Done: ${team.numkeys}`}
