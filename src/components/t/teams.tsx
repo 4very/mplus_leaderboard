@@ -2,7 +2,6 @@ import React from 'react';
 
 import { Typography } from '@material-ui/core';
 import { DataGrid } from '@material-ui/data-grid';
-import Link from 'next/link';
 
 import { TTeamData } from '../../types/tTypes';
 import Indent from '../misc/indent';
@@ -52,9 +51,17 @@ export default function TeamSection({
                   {team.highestkey.link === null ? (
                     team.highestkey.str
                   ) : (
-                    <Link href={team.highestkey.link}>
+                    <>
                       {team.highestkey.str}
-                    </Link>
+                      <a href={team.highestkey.link}>
+                        <img
+                          className="linkImg inline h-5 w-5 align-middle mb-1"
+                          title="View Raider.io Page"
+                          src="/images/rio.png"
+                          alt=""
+                        />
+                      </a>
+                    </>
                   )}
                 </Typography>
                 <Typography className="font-serif -mt-2" variant="h6">
