@@ -15,8 +15,8 @@
         "level": 60,
         "title": "Fingermeat the Fabulous",
         "ilvl": 232,
-        "score": 1652.9,
-        "scoreColor": "#5da8a1",
+        "score": 1632.4,
+        "scoreColor": "#5eac9d",
         "covenant": "Kyrian",
         "renown": 64,
         "links": {
@@ -39,8 +39,8 @@
         "level": 60,
         "title": "The Prestigious Meatshocks",
         "ilvl": 231,
-        "score": 1632.4,
-        "scoreColor": "#5eac9d",
+        "score": 1652.9,
+        "scoreColor": "#5da8a1",
         "covenant": "Kyrian",
         "renown": 65,
         "links": {
@@ -87,8 +87,8 @@
         "level": 60,
         "title": "Sinbreaker Ragingmeat",
         "ilvl": 220,
-        "score": 1232.3,
-        "scoreColor": "#42ef41",
+        "score": 1268,
+        "scoreColor": "#47eb49",
         "covenant": "Night Fae",
         "renown": 38,
         "links": {
@@ -123,7 +123,7 @@
         }
       }
     ],
-    "score": 7685.3,
+    "score": 7721.0,
     "scoreColor": "#3a7fcd",
     "avgilvl": 229.4,
     "highestkey": {
