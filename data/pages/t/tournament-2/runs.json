@@ -2202,8 +2202,8 @@
       "faction": "horde",
       "team": "meat",
       "scoreColor": "#7957e7",
-      "timeDiff": -454,
-      "percDiff": -0.0001991228070175044
+      "timeDiff": 454,
+      "percDiff": 0.0001991228070175044
     },
     "10451083": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/10451083-13-de-other-side",
@@ -2309,6 +2309,66 @@
       "scoreColor": "#337bd1",
       "timeDiff": -267163,
       "percDiff": -0.11717675438596487
+    },
+    "10455845": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10455845-16-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 130.7,
+      "keystoneLevel": 16,
+      "clearTime": 1700559,
+      "dateCompleted": "2021-10-04T03:15:26.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "meat",
+      "scoreColor": "#3b6bdf",
+      "timeDiff": -99441,
+      "percDiff": -0.05524499999999999
+    },
+    "10457897": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10457897-16-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 130.3,
+      "keystoneLevel": 16,
+      "clearTime": 1882129,
+      "dateCompleted": "2021-10-04T03:56:22.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "TST",
+      "scoreColor": "#3b6bdf",
+      "timeDiff": -37871,
+      "percDiff": -0.019724479166666642
+    },
+    "10455848": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10455848-15-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 126.4,
+      "keystoneLevel": 15,
+      "clearTime": 2079853,
+      "dateCompleted": "2021-10-04T03:15:25.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "TST",
+      "scoreColor": "#1c74d9",
+      "timeDiff": -260147,
+      "percDiff": -0.11117393162393163
+    },
+    "10455391": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10455391-14-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 120.6,
+      "keystoneLevel": 14,
+      "clearTime": 2466473,
+      "dateCompleted": "2021-10-04T03:04:50.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#3a7fcd",
+      "timeDiff": -113527,
+      "percDiff": -0.04400271317829463
     }
   }
 }
