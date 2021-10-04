@@ -191,7 +191,7 @@
           "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Zantano",
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Zantano"
         },
-        "render": null
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/213/200481493-main-raw.png"
       },
       {
         "name": "Serakiri",
@@ -296,7 +296,7 @@
         "race": 36,
         "level": 60,
         "title": "Titanslayer Mysphux",
-        "ilvl": 231,
+        "ilvl": 234,
         "score": 1752.5,
         "scoreColor": "#5699b2",
         "covenant": "Night Fae",
@@ -325,7 +325,7 @@
         "score": 1752.5,
         "scoreColor": "#5699b2",
         "covenant": "Kyrian",
-        "renown": 65,
+        "renown": 66,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -371,11 +371,11 @@
         "race": 27,
         "level": 60,
         "title": "Archmage Cylonarkana",
-        "ilvl": 224,
+        "ilvl": 227,
         "score": 1089.2,
         "scoreColor": "#42ff29",
         "covenant": "Venthyr",
-        "renown": 23,
+        "renown": 25,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Cylonarkana",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Cylonarkana",
@@ -412,8 +412,8 @@
     ],
     "score": 8099.2,
     "scoreColor": "#1c74d9",
-    "avgilvl": 231.8,
-    "numkeys": 31,
+    "avgilvl": 233.0,
+    "numkeys": 32,
     "highestkey": {
       "key": 17,
       "per": -0.04903698544351143,
