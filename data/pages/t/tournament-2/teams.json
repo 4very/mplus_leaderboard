@@ -849,8 +849,8 @@
         "level": 60,
         "title": "Shammwowzers the Gullible",
         "ilvl": 216,
-        "score": 956.4,
-        "scoreColor": "#71ff55",
+        "score": 1003.6,
+        "scoreColor": "#61ff46",
         "covenant": "Necrolord",
         "renown": 51,
         "links": {
@@ -873,8 +873,8 @@
         "level": 60,
         "title": "Netherlord Amoxclav",
         "ilvl": 223,
-        "score": 956.4,
-        "scoreColor": "#71ff55",
+        "score": 1003.6,
+        "scoreColor": "#61ff46",
         "covenant": "Night Fae",
         "renown": 74,
         "links": {
@@ -933,8 +933,8 @@
         }
       }
     ],
-    "score": 4235.0,
-    "scoreColor": "#4eff34",
+    "score": 4329.4,
+    "scoreColor": "#42ff29",
     "avgilvl": 218.6,
     "highestkey": {
       "key": 8,
