@@ -32,8 +32,6 @@ def getAccessToken():
     'grant_type': 'client_credentials'
   }
 
-  
-
   try: 
     response = post('https://us.battle.net/oauth/token', data=data, auth=getCredentials())
     data = loads(response.text)
@@ -43,6 +41,27 @@ def getAccessToken():
     return getAccessToken()
 
   return data['access_token']
+
+
+def getRender(realm, name): 
+  url = f'https://us.api.blizzard.com/profile/wow/character/{realm}/{name}/character-media'
+
+  querystring = {"namespace":"profile-us","locale":"en_US","access_token":getAccessToken()}
+
+  try: 
+    response = request("GET", url, params=querystring)
+    data = loads(response.text)
+  except: 
+    warn("Cannot get WOW Render Data")
+    sleep(30)
+    return getRoster(realm, name)
+
+  return data
+
+def WOW_getRenderLink(realm, name):
+  data = getRender(realm, name)
+  try: return data['assets'][3]['value']
+  except: print(data)
 
 
 def getCredentials():

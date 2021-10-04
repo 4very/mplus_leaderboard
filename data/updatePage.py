@@ -1,10 +1,10 @@
 from json import dump, load
-from os.path import join, realpath, dirname
-from os import getcwd
+from os.path import join, realpath, dirname, isdir
+from os import getcwd, mkdir
 from RIO import RIO_GetCharRankings, RIO_GetRecentRuns
 from updateMeta import NumberToClassColor, NumberToClassName, getColorForRunScore, getColorForScore, getDungeonTimings, updateTimeFile
 from datetime import datetime
-from WOW import WOW_GetCharData
+from WOW import WOW_GetCharData, WOW_getRenderLink, getRender
 from time import time
 
 import logging
@@ -145,6 +145,7 @@ def updateRosterData(folder):
 
       rio_data = RIO_GetCharRankings(name,realm)
       char = WOW_GetCharData(name.lower(), realm.lower())
+      renderLink = WOW_getRenderLink(realm.lower(), name.lower())
       try: char['faction']
       except: 
         print(name, realm)
@@ -190,6 +191,7 @@ def updateRosterData(folder):
         'scoreColor': rio_scoreColor,
         'covenant': cov,
         'renown': renown,
+        'render': renderLink,
         'links': {
           'rio': rio_link,
           'armory': f'https://worldofwarcraft.com/en-us/character/us/{realm}/{name}',
@@ -268,3 +270,10 @@ def addHistoricalPoints(folder, start):
 
   with open(join(folder, 'historical.json'), 'w') as f:
     dump(hist, f, indent=2)
+
+
+
+
+
+def getFullRawRender(realm, name):
+  return getRender(realm, name)['assets'][4]
