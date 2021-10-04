@@ -132,7 +132,7 @@
       "dung": "NW",
       "str": "18 NW (1.3%)"
     },
-    "numkeys": 28
+    "numkeys": 29
   },
   "WSF2T": {
     "name": "White Sands Farm to Table: Premium Quality Grain-Fed Gentlefurs",
@@ -420,8 +420,8 @@
         "level": 60,
         "title": "Th\u00f9nderlips",
         "ilvl": 232,
-        "score": 1451.6,
-        "scoreColor": "#5dcb78",
+        "score": 1505.7,
+        "scoreColor": "#5ec382",
         "covenant": "Necrolord",
         "renown": 74,
         "links": {
@@ -444,8 +444,8 @@
         "level": 60,
         "title": "Renowned Explorer Santhano",
         "ilvl": 226,
-        "score": 1202.9,
-        "scoreColor": "#3cf337",
+        "score": 1289,
+        "scoreColor": "#4be750",
         "covenant": "Venthyr",
         "renown": 67,
         "links": {
@@ -492,8 +492,8 @@
         "level": 60,
         "title": "Okyro the Explorer",
         "ilvl": 226,
-        "score": 1366.7,
-        "scoreColor": "#57d769",
+        "score": 1420.8,
+        "scoreColor": "#5bcf73",
         "covenant": "Kyrian",
         "renown": 67,
         "links": {
@@ -516,8 +516,8 @@
         "level": 60,
         "title": "Demoslocke, Lord of the Reins",
         "ilvl": 230,
-        "score": 1390.4,
-        "scoreColor": "#59d36e",
+        "score": 1464,
+        "scoreColor": "#5ec77d",
         "covenant": "Night Fae",
         "renown": 70,
         "links": {
@@ -528,8 +528,8 @@
         }
       }
     ],
-    "score": 6863.2,
-    "scoreColor": "#5aa1a9",
+    "score": 7131.1,
+    "scoreColor": "#5495b6",
     "avgilvl": 228.4,
     "highestkey": {
       "key": 14,
@@ -555,7 +555,7 @@
         "level": 60,
         "title": "Poke\u00fd the Chosen",
         "ilvl": 225,
-        "score": 1487.5,
+        "score": 1497.3,
         "scoreColor": "#5ec382",
         "covenant": "Kyrian",
         "renown": 66,
@@ -579,7 +579,7 @@
         "level": 60,
         "title": "Diondre, Hand of A'dal",
         "ilvl": 229,
-        "score": 1487.5,
+        "score": 1497.3,
         "scoreColor": "#5ec382",
         "covenant": "Venthyr",
         "renown": 74,
@@ -651,7 +651,7 @@
         "level": 60,
         "title": "Dannyshock the Uncorrupted",
         "ilvl": 225,
-        "score": 804.7,
+        "score": 814.5,
         "scoreColor": "#97ff7b",
         "covenant": "Night Fae",
         "renown": 51,
@@ -663,7 +663,7 @@
         }
       }
     ],
-    "score": 6442.8,
+    "score": 6472.2,
     "scoreColor": "#5fb098",
     "avgilvl": 226.0,
     "highestkey": {
@@ -690,8 +690,8 @@
         "level": 60,
         "title": "Highlord Lelush",
         "ilvl": 231,
-        "score": 1402.1,
-        "scoreColor": "#59d36e",
+        "score": 1467.9,
+        "scoreColor": "#5ec77d",
         "covenant": "Kyrian",
         "renown": 72,
         "links": {
@@ -714,8 +714,8 @@
         "level": 60,
         "title": "Sito, Storm's End",
         "ilvl": 230,
-        "score": 1402.1,
-        "scoreColor": "#59d36e",
+        "score": 1467.9,
+        "scoreColor": "#5ec77d",
         "covenant": "Venthyr",
         "renown": 63,
         "links": {
@@ -738,8 +738,8 @@
         "level": 60,
         "title": "Mash\u00edro the Dreamer",
         "ilvl": 232,
-        "score": 1402.1,
-        "scoreColor": "#59d36e",
+        "score": 1467.9,
+        "scoreColor": "#5ec77d",
         "covenant": "Night Fae",
         "renown": 74,
         "links": {
@@ -786,8 +786,8 @@
         "level": 60,
         "title": "Slytomato, Vengeance Incarnate",
         "ilvl": 224,
-        "score": 1370.7,
-        "scoreColor": "#57d769",
+        "score": 1436.4,
+        "scoreColor": "#5dcb78",
         "covenant": "Night Fae",
         "renown": 66,
         "links": {
@@ -798,16 +798,16 @@
         }
       }
     ],
-    "score": 6979.1,
-    "scoreColor": "#589dad",
+    "score": 7242.2,
+    "scoreColor": "#5191ba",
     "avgilvl": 229.4,
     "highestkey": {
       "key": 14,
-      "per": -0.03655888888888892,
-      "dung": "MISTS",
-      "str": "14 MISTS (3.66%)"
+      "per": -0.11963333333333337,
+      "dung": "DOS",
+      "str": "14 DOS (11.96%)"
     },
-    "numkeys": 20
+    "numkeys": 21
   },
   "inv": {
     "name": "Whisper Ashsucks for Invite",
@@ -825,8 +825,8 @@
         "level": 60,
         "title": "Borgonzola",
         "ilvl": 223,
-        "score": 956.4,
-        "scoreColor": "#71ff55",
+        "score": 1003.6,
+        "scoreColor": "#61ff46",
         "covenant": "Kyrian",
         "renown": 57,
         "links": {
@@ -897,8 +897,8 @@
         "level": 60,
         "title": "Afrofreeze",
         "ilvl": 225,
-        "score": 956.4,
-        "scoreColor": "#71ff55",
+        "score": 1003.6,
+        "scoreColor": "#61ff46",
         "covenant": "Venthyr",
         "renown": 54,
         "links": {
@@ -933,15 +933,15 @@
         }
       }
     ],
-    "score": 4329.4,
-    "scoreColor": "#42ff29",
+    "score": 4423.8,
+    "scoreColor": "#33ff1b",
     "avgilvl": 218.6,
     "highestkey": {
-      "key": 8,
-      "per": -0.41003495934959344,
-      "dung": "SD",
-      "str": "8 SD (41.0%)"
+      "key": 10,
+      "per": -0.09719230769230769,
+      "dung": "SOA",
+      "str": "10 SOA (9.72%)"
     },
-    "numkeys": 17
+    "numkeys": 18
   }
 }

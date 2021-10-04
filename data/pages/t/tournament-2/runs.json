@@ -2234,6 +2234,51 @@
       "scoreColor": "#a335ee",
       "timeDiff": -28061,
       "percDiff": -0.012991203703703658
+    },
+    "10453999": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10453999-16-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 132.2,
+      "keystoneLevel": 16,
+      "clearTime": 1781919,
+      "dateCompleted": "2021-10-04T02:36:06.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "meat",
+      "scoreColor": "#5565e2",
+      "timeDiff": -378081,
+      "percDiff": -0.17503749999999996
+    },
+    "10452937": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10452937-14-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 121.5,
+      "keystoneLevel": 14,
+      "clearTime": 2271346,
+      "dateCompleted": "2021-10-04T02:17:26.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "STISB",
+      "scoreColor": "#337bd1",
+      "timeDiff": -308654,
+      "percDiff": -0.11963333333333337
+    },
+    "10452616": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10452616-10-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 101.2,
+      "keystoneLevel": 10,
+      "clearTime": 2112570,
+      "dateCompleted": "2021-10-04T01:50:14.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "team": "inv",
+      "scoreColor": "#5fb098",
+      "timeDiff": -227430,
+      "percDiff": -0.09719230769230769
     }
   }
 }
