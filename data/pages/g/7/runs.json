@@ -30,6 +30,7 @@
       "dateCompleted": "2021-09-22T18:33:14.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "168583004",
         "200029279",
@@ -37,8 +38,8 @@
       ],
       "count": 3,
       "scoreColor": "#1c74d9",
-      "timeDiff": -186342,
-      "percDiff": -0.08172894736842107
+      "timeDiff": -187341,
+      "percDiff": -0.08213111886502367
     },
     "9530213": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9530213-10-mists-of-tirna-scithe",
@@ -126,14 +127,15 @@
       "dateCompleted": "2021-09-23T02:46:58.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2460999,
       "members": [
         "178531751",
         "189783435"
       ],
       "count": 2,
       "scoreColor": "#d74fa5",
-      "timeDiff": -244635,
-      "percDiff": -0.09944512195121946
+      "timeDiff": -245634,
+      "percDiff": -0.09981068663579307
     },
     "9534781": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9534781-11-sanguine-depths",
@@ -183,6 +185,7 @@
       "dateCompleted": "2021-09-23T04:52:26.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "189081947",
         "200973325",
@@ -191,8 +194,8 @@
       ],
       "count": 4,
       "scoreColor": "#5565e2",
-      "timeDiff": -227703,
-      "percDiff": -0.1185953125
+      "timeDiff": -228702,
+      "percDiff": -0.11905367988218629
     },
     "9540134": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9540134-21-plaguefall",
@@ -242,14 +245,15 @@
       "dateCompleted": "2021-09-23T05:32:10.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "189081947",
         "198501487"
       ],
       "count": 2,
       "scoreColor": "#0070dd",
-      "timeDiff": -540395,
-      "percDiff": -0.2814557291666666
+      "timeDiff": -541394,
+      "percDiff": -0.28182940230577946
     },
     "9577222": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9577222-15-mists-of-tirna-scithe",
@@ -261,6 +265,7 @@
       "dateCompleted": "2021-09-23T18:22:17.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "168583004",
         "200029279",
@@ -268,8 +273,8 @@
       ],
       "count": 3,
       "scoreColor": "#1c74d9",
-      "timeDiff": -206005,
-      "percDiff": -0.11444722222222226
+      "timeDiff": -207004,
+      "percDiff": -0.11493843139279925
     },
     "9580117": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9580117-16-the-necrotic-wake",
@@ -281,6 +286,7 @@
       "dateCompleted": "2021-09-23T19:00:43.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2160999,
       "members": [
         "168583004",
         "200029279",
@@ -288,8 +294,8 @@
       ],
       "count": 3,
       "scoreColor": "#5565e2",
-      "timeDiff": -295855,
-      "percDiff": -0.13696990740740744
+      "timeDiff": -296854,
+      "percDiff": -0.13736887430304223
     },
     "9581357": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9581357-15-the-necrotic-wake",
@@ -301,14 +307,15 @@
       "dateCompleted": "2021-09-23T18:57:07.000Z",
       "keyMod": 1,
       "faction": "alliance",
+      "partime": 2160999,
       "members": [
         "175976047",
         "183061786"
       ],
       "count": 2,
       "scoreColor": "#1c74d9",
-      "timeDiff": -341501,
-      "percDiff": -0.15810231481481485
+      "timeDiff": -342500,
+      "percDiff": -0.15849151249028803
     },
     "9603053": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9603053-11-plaguefall",
@@ -320,6 +327,7 @@
       "dateCompleted": "2021-09-24T00:02:04.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "112272998",
         "181241072",
@@ -329,8 +337,8 @@
       ],
       "count": 5,
       "scoreColor": "#5ca4a5",
-      "timeDiff": -62005,
-      "percDiff": -0.02719517543859651
+      "timeDiff": -63004,
+      "percDiff": -0.027621230872963976
     },
     "9611229": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9611229-6-halls-of-atonement",
@@ -457,6 +465,7 @@
       "dateCompleted": "2021-09-25T03:00:42.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2160999,
       "members": [
         "112272998",
         "181241072",
@@ -466,8 +475,8 @@
       ],
       "count": 5,
       "scoreColor": "#5ca4a5",
-      "timeDiff": -203153,
-      "percDiff": -0.0940523148148148
+      "timeDiff": -204152,
+      "percDiff": -0.09447112192092644
     },
     "9694781": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9694781-11-mists-of-tirna-scithe",
@@ -479,6 +488,7 @@
       "dateCompleted": "2021-09-25T02:14:03.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "112272998",
         "181241072",
@@ -488,8 +498,8 @@
       ],
       "count": 5,
       "scoreColor": "#5aa1a9",
-      "timeDiff": -241051,
-      "percDiff": -0.13391722222222224
+      "timeDiff": -242050,
+      "percDiff": -0.13439763153671935
     },
     "9695852": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9695852-6-sanguine-depths",
@@ -522,14 +532,15 @@
       "dateCompleted": "2021-09-25T02:32:06.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "213555984",
         "214792237"
       ],
       "count": 2,
       "scoreColor": "#d74fa5",
-      "timeDiff": -156852,
-      "percDiff": -0.08169375000000001
+      "timeDiff": -157851,
+      "percDiff": -0.08217130774144077
     },
     "9699625": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9699625-12-halls-of-atonement",
@@ -541,6 +552,7 @@
       "dateCompleted": "2021-09-25T03:40:52.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "112272998",
         "181241072",
@@ -550,8 +562,8 @@
       ],
       "count": 5,
       "scoreColor": "#5495b6",
-      "timeDiff": -112165,
-      "percDiff": -0.058419270833333314
+      "timeDiff": -113164,
+      "percDiff": -0.058908932279506665
     },
     "9698970": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9698970-8-spires-of-ascension",
@@ -584,6 +596,7 @@
       "dateCompleted": "2021-09-25T03:18:54.000Z",
       "keyMod": 0,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "178531751",
         "213555984",
@@ -591,8 +604,8 @@
       ],
       "count": 3,
       "scoreColor": "#d34cac",
-      "timeDiff": 49967,
-      "percDiff": 0.021915350877192985
+      "timeDiff": 48968,
+      "percDiff": 0.02146778670222993
     },
     "9700406": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9700406-6-spires-of-ascension",
@@ -604,6 +617,7 @@
       "dateCompleted": "2021-09-25T00:56:22.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 2340999,
       "members": [
         "189860301",
         "200481493",
@@ -613,8 +627,8 @@
       ],
       "count": 5,
       "scoreColor": "#33ff1b",
-      "timeDiff": -858851,
-      "percDiff": -0.3670303418803419
+      "timeDiff": -859850,
+      "percDiff": -0.36730045591646987
     },
     "9701164": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9701164-23-the-necrotic-wake",
@@ -626,14 +640,15 @@
       "dateCompleted": "2021-09-25T04:08:01.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2160999,
       "members": [
         "213555984",
         "214792237"
       ],
       "count": 2,
       "scoreColor": "#e85e7d",
-      "timeDiff": -140384,
-      "percDiff": -0.0649925925925926
+      "timeDiff": -141383,
+      "percDiff": -0.06542483360704932
     },
     "9701386": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9701386-11-de-other-side",
@@ -685,6 +700,7 @@
       "dateCompleted": "2021-09-25T04:42:47.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 2580999,
       "members": [
         "183203691",
         "190562532",
@@ -693,8 +709,8 @@
       ],
       "count": 4,
       "scoreColor": "#1c74d9",
-      "timeDiff": -647405,
-      "percDiff": -0.2509321705426356
+      "timeDiff": -648404,
+      "percDiff": -0.25122210430922287
     },
     "9703910": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9703910-8-theater-of-pain",
@@ -725,6 +741,7 @@
       "dateCompleted": "2021-09-25T06:26:57.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2580999,
       "members": [
         "189081947",
         "199951572",
@@ -732,8 +749,8 @@
       ],
       "count": 3,
       "scoreColor": "#5565e2",
-      "timeDiff": -428687,
-      "percDiff": -0.16615775193798454
+      "timeDiff": -429686,
+      "percDiff": -0.16648049844265733
     },
     "9706057": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9706057-17-sanguine-depths",
@@ -745,6 +762,7 @@
       "dateCompleted": "2021-09-25T05:36:33.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2460999,
       "members": [
         "189081947",
         "198501487",
@@ -753,8 +771,8 @@
       ],
       "count": 4,
       "scoreColor": "#7957e7",
-      "timeDiff": -60824,
-      "percDiff": -0.024725203252032535
+      "timeDiff": -61823,
+      "percDiff": -0.02512109919589567
     },
     "9750050": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750050-13-de-other-side",
@@ -766,6 +784,7 @@
       "dateCompleted": "2021-09-25T04:55:40.000Z",
       "keyMod": 0,
       "faction": "horde",
+      "partime": 2580999,
       "members": [
         "189860301",
         "200481493",
@@ -775,8 +794,8 @@
       ],
       "count": 5,
       "scoreColor": "#589dad",
-      "timeDiff": 236999,
-      "percDiff": 0.09186007751937986
+      "timeDiff": 236000,
+      "percDiff": 0.0914374627808845
     },
     "9750049": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750049-12-halls-of-atonement",
@@ -788,6 +807,7 @@
       "dateCompleted": "2021-09-25T03:54:58.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "189860301",
         "200481493",
@@ -797,8 +817,8 @@
       ],
       "count": 5,
       "scoreColor": "#5495b6",
-      "timeDiff": -191923,
-      "percDiff": -0.09995989583333331
+      "timeDiff": -192922,
+      "percDiff": -0.10042795441330266
     },
     "9750048": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750048-11-sanguine-depths",
@@ -810,6 +830,7 @@
       "dateCompleted": "2021-09-25T03:09:23.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2460999,
       "members": [
         "189860301",
         "200481493",
@@ -819,8 +840,8 @@
       ],
       "count": 5,
       "scoreColor": "#5aa1a9",
-      "timeDiff": -439638,
-      "percDiff": -0.17871463414634148
+      "timeDiff": -440637,
+      "percDiff": -0.1790480207427959
     },
     "9750051": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9750051-10-the-necrotic-wake",
@@ -832,6 +853,7 @@
       "dateCompleted": "2021-09-25T02:13:26.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2160999,
       "members": [
         "189860301",
         "200481493",
@@ -841,8 +863,8 @@
       ],
       "count": 5,
       "scoreColor": "#5fb098",
-      "timeDiff": -245483,
-      "percDiff": -0.11364953703703706
+      "timeDiff": -246482,
+      "percDiff": -0.11405928461790127
     },
     "9765000": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9765000-8-sanguine-depths",
@@ -854,14 +876,15 @@
       "dateCompleted": "2021-09-25T18:48:31.000Z",
       "keyMod": 2,
       "faction": "alliance",
+      "partime": 2460999,
       "members": [
         "188505070",
         "189980882"
       ],
       "count": 2,
       "scoreColor": "#52df5d",
-      "timeDiff": -685800,
-      "percDiff": -0.2787804878048781
+      "timeDiff": -686799,
+      "percDiff": -0.2790732543979091
     },
     "9789763": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9789763-12-halls-of-atonement",
@@ -873,16 +896,15 @@
       "dateCompleted": "2021-09-26T00:57:41.000Z",
       "keyMod": 0,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "220624845",
-        "220696506",
-        "220726593",
-        "220731918"
+        "220696506"
       ],
-      "count": 4,
+      "count": 2,
       "scoreColor": "#5eac9d",
-      "timeDiff": 294116,
-      "percDiff": 0.15318541666666663
+      "timeDiff": 293117,
+      "percDiff": 0.15258571191343662
     },
     "9797672": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9797672-6-spires-of-ascension",
@@ -915,6 +937,7 @@
       "dateCompleted": "2021-09-26T03:56:08.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "163825773",
         "216878287",
@@ -923,8 +946,8 @@
       ],
       "count": 4,
       "scoreColor": "#52df5d",
-      "timeDiff": -346634,
-      "percDiff": -0.18053854166666672
+      "timeDiff": -347633,
+      "percDiff": -0.180964695973293
     },
     "9799082": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9799082-20-halls-of-atonement",
@@ -955,6 +978,7 @@
       "dateCompleted": "2021-09-26T03:24:07.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 2160999,
       "members": [
         "163825773",
         "216878287",
@@ -963,8 +987,8 @@
       ],
       "count": 4,
       "scoreColor": "#33ff1b",
-      "timeDiff": -782806,
-      "percDiff": -0.3624101851851852
+      "timeDiff": -783805,
+      "percDiff": -0.3627049341531393
     },
     "9803246": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9803246-19-the-necrotic-wake",
@@ -976,6 +1000,7 @@
       "dateCompleted": "2021-09-26T05:18:42.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 2160999,
       "members": [
         "163279137",
         "203738573",
@@ -983,8 +1008,8 @@
       ],
       "count": 3,
       "scoreColor": "#bf40cd",
-      "timeDiff": -541987,
-      "percDiff": -0.25091990740740744
+      "timeDiff": -542986,
+      "percDiff": -0.2512661967913914
     },
     "9801173": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9801173-20-mists-of-tirna-scithe",
@@ -996,6 +1021,7 @@
       "dateCompleted": "2021-09-26T04:34:43.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "163279137",
         "203738573",
@@ -1003,8 +1029,8 @@
       ],
       "count": 3,
       "scoreColor": "#cc47b9",
-      "timeDiff": -184732,
-      "percDiff": -0.10262888888888888
+      "timeDiff": -185731,
+      "percDiff": -0.10312665359614304
     },
     "9803214": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9803214-15-halls-of-atonement",
@@ -1016,6 +1042,7 @@
       "dateCompleted": "2021-09-26T05:16:24.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "175782326",
         "181182091",
@@ -1025,8 +1052,8 @@
       ],
       "count": 5,
       "scoreColor": "#1c74d9",
-      "timeDiff": -181388,
-      "percDiff": -0.09447291666666668
+      "timeDiff": -182387,
+      "percDiff": -0.09494382870579321
     },
     "9802128": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9802128-15-theater-of-pain",
@@ -1038,15 +1065,15 @@
       "dateCompleted": "2021-09-26T04:53:55.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
-        "215077030",
         "220065005",
         "220170242"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#1c74d9",
-      "timeDiff": -383869,
-      "percDiff": -0.16836359649122812
+      "timeDiff": -384868,
+      "percDiff": -0.16872782495739802
     },
     "9805254": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9805254-21-mists-of-tirna-scithe",
@@ -1058,6 +1085,7 @@
       "dateCompleted": "2021-09-26T05:57:28.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "163279137",
         "203738573",
@@ -1065,8 +1093,8 @@
       ],
       "count": 3,
       "scoreColor": "#d34cac",
-      "timeDiff": -47065,
-      "percDiff": -0.02614722222222221
+      "timeDiff": -48064,
+      "percDiff": -0.026687410709278603
     },
     "9803687": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9803687-8-mists-of-tirna-scithe",
@@ -1078,6 +1106,7 @@
       "dateCompleted": "2021-09-26T05:05:37.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "163825773",
         "216878287",
@@ -1086,8 +1115,8 @@
       ],
       "count": 4,
       "scoreColor": "#52df5d",
-      "timeDiff": -402996,
-      "percDiff": -0.22388666666666668
+      "timeDiff": -403995,
+      "percDiff": -0.2243171706369631
     },
     "9802908": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9802908-8-halls-of-atonement",
@@ -1099,6 +1128,7 @@
       "dateCompleted": "2021-09-26T04:29:11.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "163825773",
         "216878287",
@@ -1107,8 +1137,8 @@
       ],
       "count": 4,
       "scoreColor": "#4fe357",
-      "timeDiff": -323926,
-      "percDiff": -0.16871145833333334
+      "timeDiff": -324925,
+      "percDiff": -0.16914376321903346
     },
     "9803688": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9803688-6-plaguefall",
@@ -1141,6 +1171,7 @@
       "dateCompleted": "2021-09-26T06:05:11.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2460999,
       "members": [
         "178766201",
         "182359738",
@@ -1150,8 +1181,8 @@
       ],
       "count": 5,
       "scoreColor": "#884ee9",
-      "timeDiff": -180770,
-      "percDiff": -0.07348373983739842
+      "timeDiff": -181769,
+      "percDiff": -0.07385984309623861
     },
     "9808696": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9808696-15-de-other-side",
@@ -1163,6 +1194,7 @@
       "dateCompleted": "2021-09-26T07:04:56.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2580999,
       "members": [
         "112259843",
         "175782326",
@@ -1172,8 +1204,8 @@
       ],
       "count": 5,
       "scoreColor": "#1c74d9",
-      "timeDiff": -407334,
-      "percDiff": -0.15788139534883716
+      "timeDiff": -408333,
+      "percDiff": -0.15820734529536817
     },
     "9851974": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9851974-17-sanguine-depths",
@@ -1185,6 +1217,7 @@
       "dateCompleted": "2021-09-26T19:01:35.000Z",
       "keyMod": 0,
       "faction": "alliance",
+      "partime": 2460999,
       "members": [
         "175976047",
         "183061786",
@@ -1192,8 +1225,8 @@
       ],
       "count": 3,
       "scoreColor": "#0070dd",
-      "timeDiff": 114060,
-      "percDiff": 0.046365853658536516
+      "timeDiff": 113061,
+      "percDiff": 0.04594109952909364
     },
     "9861778": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9861778-13-de-other-side",
@@ -1205,6 +1238,7 @@
       "dateCompleted": "2021-09-26T21:23:17.000Z",
       "keyMod": 0,
       "faction": "alliance",
+      "partime": 2580999,
       "members": [
         "154121268",
         "186030028",
@@ -1212,8 +1246,8 @@
       ],
       "count": 3,
       "scoreColor": "#5aa1a9",
-      "timeDiff": 683818,
-      "percDiff": 0.26504573643410856
+      "timeDiff": 682819,
+      "percDiff": 0.26455608855330826
     },
     "9861941": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9861941-6-de-other-side",
@@ -1225,6 +1259,7 @@
       "dateCompleted": "2021-09-26T20:15:13.000Z",
       "keyMod": 2,
       "faction": "alliance",
+      "partime": 2580999,
       "members": [
         "183061786",
         "186030028",
@@ -1232,8 +1267,8 @@
       ],
       "count": 3,
       "scoreColor": "#33ff1b",
-      "timeDiff": -956503,
-      "percDiff": -0.3707375968992248
+      "timeDiff": -957502,
+      "percDiff": -0.3709811588458577
     },
     "9868366": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9868366-19-plaguefall",
@@ -1264,17 +1299,16 @@
       "dateCompleted": "2021-09-27T00:32:29.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2460999,
       "members": [
         "219868600",
         "220624845",
-        "220696506",
-        "220726593",
-        "220731918"
+        "220696506"
       ],
-      "count": 5,
+      "count": 3,
       "scoreColor": "#5495b6",
-      "timeDiff": -148510,
-      "percDiff": -0.06036991869918695
+      "timeDiff": -149509,
+      "percDiff": -0.060751345287015535
     },
     "9870251": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9870251-11-theater-of-pain",
@@ -1286,16 +1320,15 @@
       "dateCompleted": "2021-09-26T23:47:26.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "219868600",
-        "220624845",
-        "220726593",
-        "220731918"
+        "220624845"
       ],
-      "count": 4,
+      "count": 2,
       "scoreColor": "#5aa1a9",
-      "timeDiff": -257714,
-      "percDiff": -0.11303245614035085
+      "timeDiff": -258713,
+      "percDiff": -0.11342091776454089
     },
     "9877266": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9877266-20-theater-of-pain",
@@ -1307,6 +1340,7 @@
       "dateCompleted": "2021-09-27T02:28:56.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "163279137",
         "203738573",
@@ -1315,8 +1349,8 @@
       ],
       "count": 4,
       "scoreColor": "#c845bf",
-      "timeDiff": -123863,
-      "percDiff": -0.05432587719298243
+      "timeDiff": -124862,
+      "percDiff": -0.05474005030252094
     },
     "9890603": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9890603-15-halls-of-atonement",
@@ -1328,14 +1362,15 @@
       "dateCompleted": "2021-09-27T04:26:41.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "199498006",
         "220065005"
       ],
       "count": 2,
       "scoreColor": "#1c74d9",
-      "timeDiff": -309132,
-      "percDiff": -0.16100625000000002
+      "timeDiff": -310131,
+      "percDiff": -0.16144256191700257
     },
     "9907317": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9907317-16-de-other-side",
@@ -1347,6 +1382,7 @@
       "dateCompleted": "2021-09-27T04:58:37.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2580999,
       "members": [
         "189297033",
         "190341445",
@@ -1356,8 +1392,8 @@
       ],
       "count": 5,
       "scoreColor": "#3b6bdf",
-      "timeDiff": -85101,
-      "percDiff": -0.032984883720930225
+      "timeDiff": -86100,
+      "percDiff": -0.03335917603997518
     },
     "9961056": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9961056-14-plaguefall",
@@ -1369,6 +1405,7 @@
       "dateCompleted": "2021-09-27T21:48:30.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "168583004",
         "195983585",
@@ -1377,8 +1414,8 @@
       ],
       "count": 4,
       "scoreColor": "#3a7fcd",
-      "timeDiff": -96008,
-      "percDiff": -0.04210877192982454
+      "timeDiff": -97007,
+      "percDiff": -0.04252829571604366
     },
     "9980792": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9980792-15-theater-of-pain",
@@ -1390,6 +1427,7 @@
       "dateCompleted": "2021-09-28T02:40:00.000Z",
       "keyMod": 0,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "112272998",
         "181241072",
@@ -1399,8 +1437,8 @@
       ],
       "count": 5,
       "scoreColor": "#4082ca",
-      "timeDiff": 196141,
-      "percDiff": 0.08602675438596497
+      "timeDiff": 195142,
+      "percDiff": 0.0855511115962786
     },
     "9977322": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9977322-14-mists-of-tirna-scithe",
@@ -1412,6 +1450,7 @@
       "dateCompleted": "2021-09-28T01:45:40.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "112272998",
         "181241072",
@@ -1421,8 +1460,8 @@
       ],
       "count": 5,
       "scoreColor": "#3a7fcd",
-      "timeDiff": -65806,
-      "percDiff": -0.03655888888888892
+      "timeDiff": -66805,
+      "percDiff": -0.03709330210621997
     },
     "9974917": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9974917-13-spires-of-ascension",
@@ -1434,6 +1473,7 @@
       "dateCompleted": "2021-09-28T01:08:26.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2340999,
       "members": [
         "112272998",
         "181241072",
@@ -1443,8 +1483,8 @@
       ],
       "count": 5,
       "scoreColor": "#4a8ac2",
-      "timeDiff": -93257,
-      "percDiff": -0.03985341880341875
+      "timeDiff": -94256,
+      "percDiff": -0.04026315261134239
     },
     "9981342": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9981342-16-mists-of-tirna-scithe",
@@ -1456,6 +1496,7 @@
       "dateCompleted": "2021-09-28T02:49:14.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "114215083",
         "163279137",
@@ -1464,8 +1505,8 @@
       ],
       "count": 4,
       "scoreColor": "#695ee4",
-      "timeDiff": -532231,
-      "percDiff": -0.29568388888888886
+      "timeDiff": -533230,
+      "percDiff": -0.29607456750392425
     },
     "9979335": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9979335-20-the-necrotic-wake",
@@ -1477,6 +1518,7 @@
       "dateCompleted": "2021-09-28T01:24:19.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2160999,
       "members": [
         "178531751",
         "213555984",
@@ -1484,8 +1526,8 @@
       ],
       "count": 3,
       "scoreColor": "#cc47b9",
-      "timeDiff": -400367,
-      "percDiff": -0.18535509259259264
+      "timeDiff": -401366,
+      "percDiff": -0.18573169168518822
     },
     "9975780": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9975780-21-de-other-side",
@@ -1497,6 +1539,7 @@
       "dateCompleted": "2021-09-28T00:50:29.000Z",
       "keyMod": 0,
       "faction": "horde",
+      "partime": 2580999,
       "members": [
         "178531751",
         "213555984",
@@ -1504,8 +1547,8 @@
       ],
       "count": 3,
       "scoreColor": "#c845bf",
-      "timeDiff": 3281,
-      "percDiff": 0.001271705426356684
+      "timeDiff": 2282,
+      "percDiff": 0.0008841537714661118
     },
     "9980886": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9980886-21-mists-of-tirna-scithe",
@@ -1517,14 +1560,15 @@
       "dateCompleted": "2021-09-28T02:11:02.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "213555984",
         "214792237"
       ],
       "count": 2,
       "scoreColor": "#da519e",
-      "timeDiff": -288531,
-      "percDiff": -0.16029499999999997
+      "timeDiff": -289530,
+      "percDiff": -0.16076077776833853
     },
     "9981352": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9981352-15-theater-of-pain",
@@ -1536,6 +1580,7 @@
       "dateCompleted": "2021-09-28T02:34:43.000Z",
       "keyMod": 0,
       "faction": "alliance",
+      "partime": 2280999,
       "members": [
         "155866761",
         "164946113",
@@ -1544,8 +1589,8 @@
       ],
       "count": 4,
       "scoreColor": "#4586c6",
-      "timeDiff": 474295,
-      "percDiff": 0.20802412280701765
+      "timeDiff": 473296,
+      "percDiff": 0.20749504931830298
     },
     "9984914": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9984914-14-mists-of-tirna-scithe",
@@ -1557,6 +1602,7 @@
       "dateCompleted": "2021-09-28T03:37:09.000Z",
       "keyMod": 2,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "125290639",
         "215572555",
@@ -1565,8 +1611,8 @@
       ],
       "count": 4,
       "scoreColor": "#337bd1",
-      "timeDiff": -378149,
-      "percDiff": -0.21008277777777773
+      "timeDiff": -379148,
+      "percDiff": -0.2105209386568232
     },
     "9985549": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9985549-23-plaguefall",
@@ -1578,14 +1624,15 @@
       "dateCompleted": "2021-09-28T03:46:23.000Z",
       "keyMod": 0,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "213555984",
         "214792237"
       ],
       "count": 2,
       "scoreColor": "#dd5498",
-      "timeDiff": 164737,
-      "percDiff": 0.0722530701754387
+      "timeDiff": 163738,
+      "percDiff": 0.0717834597910827
     },
     "9985866": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9985866-15-sanguine-depths",
@@ -1597,6 +1644,7 @@
       "dateCompleted": "2021-09-28T03:50:51.000Z",
       "keyMod": 0,
       "faction": "alliance",
+      "partime": 2460999,
       "members": [
         "175976047",
         "183061786",
@@ -1604,8 +1652,8 @@
       ],
       "count": 3,
       "scoreColor": "#4082ca",
-      "timeDiff": 255493,
-      "percDiff": 0.103858943089431
+      "timeDiff": 254494,
+      "percDiff": 0.10341085063423439
     },
     "9985699": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9985699-22-spires-of-ascension",
@@ -1617,14 +1665,15 @@
       "dateCompleted": "2021-09-28T02:55:45.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2340999,
       "members": [
         "213555984",
         "214792237"
       ],
       "count": 2,
       "scoreColor": "#e05691",
-      "timeDiff": -83943,
-      "percDiff": -0.03587307692307695
+      "timeDiff": -84942,
+      "percDiff": -0.03628450930564264
     },
     "9988241": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9988241-16-spires-of-ascension",
@@ -1636,6 +1685,7 @@
       "dateCompleted": "2021-09-28T04:29:06.000Z",
       "keyMod": 0,
       "faction": "horde",
+      "partime": 2340999,
       "members": [
         "125290639",
         "215572555",
@@ -1644,8 +1694,8 @@
       ],
       "count": 4,
       "scoreColor": "#2977d5",
-      "timeDiff": 330887,
-      "percDiff": 0.1414047008547008
+      "timeDiff": 329888,
+      "percDiff": 0.14091761679522286
     },
     "9990947": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9990947-15-theater-of-pain",
@@ -1657,17 +1707,17 @@
       "dateCompleted": "2021-09-28T05:10:53.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2280999,
       "members": [
         "125290639",
-        "186505889",
         "215572555",
         "220696049",
         "220696413"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#1c74d9",
-      "timeDiff": -250191,
-      "percDiff": -0.10973289473684211
+      "timeDiff": -251190,
+      "percDiff": -0.11012280145673015
     },
     "9989235": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9989235-22-sanguine-depths",
@@ -1679,14 +1729,15 @@
       "dateCompleted": "2021-09-28T04:44:02.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2460999,
       "members": [
         "213555984",
         "214792237"
       ],
       "count": 2,
       "scoreColor": "#e05691",
-      "timeDiff": -50762,
-      "percDiff": -0.020634959349593474
+      "timeDiff": -51761,
+      "percDiff": -0.0210325156572595
     },
     "9993068": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9993068-16-halls-of-atonement",
@@ -1698,17 +1749,17 @@
       "dateCompleted": "2021-09-28T05:53:15.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1920999,
       "members": [
         "125290639",
-        "186505889",
         "215572555",
         "220696049",
         "220696413"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#3b6bdf",
-      "timeDiff": -488,
-      "percDiff": -0.00025416666666666643
+      "timeDiff": -1487,
+      "percDiff": -0.0007740764050371274
     },
     "9993908": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9993908-15-spires-of-ascension",
@@ -1720,6 +1771,7 @@
       "dateCompleted": "2021-09-28T06:11:26.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 2340999,
       "members": [
         "168583004",
         "200029279",
@@ -1727,8 +1779,8 @@
       ],
       "count": 3,
       "scoreColor": "#1c74d9",
-      "timeDiff": -288138,
-      "percDiff": -0.12313589743589748
+      "timeDiff": -289137,
+      "percDiff": -0.1235100912046524
     },
     "9991891": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9991891-22-mists-of-tirna-scithe",
@@ -1740,14 +1792,15 @@
       "dateCompleted": "2021-09-28T05:23:02.000Z",
       "keyMod": 1,
       "faction": "horde",
+      "partime": 1800999,
       "members": [
         "213555984",
         "214792237"
       ],
       "count": 2,
       "scoreColor": "#e05691",
-      "timeDiff": -171031,
-      "percDiff": -0.0950172222222222
+      "timeDiff": -172030,
+      "percDiff": -0.09551920906119327
     },
     "9999420": {
       "url": "https://raider.io/mythic-plus-runs/season-sl-2/9999420-16-mists-of-tirna-scithe",
@@ -1759,14 +1812,15 @@
       "dateCompleted": "2021-09-28T00:25:34.000Z",
       "keyMod": 1,
       "faction": "alliance",
+      "partime": 1800999,
       "members": [
         "95012110",
         "155866761"
       ],
       "count": 2,
       "scoreColor": "#5565e2",
-      "timeDiff": -199594,
-      "percDiff": -0.11088555555555557
+      "timeDiff": -200593,
+      "percDiff": -0.11137874035465867
     }
   }
 }
