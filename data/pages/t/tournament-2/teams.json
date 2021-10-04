@@ -129,10 +129,10 @@
     "numkeys": 30,
     "highestkey": {
       "key": 18,
-      "per": -0.012991203703703658,
+      "per": -0.013447484242241625,
       "dung": "NW",
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/10451485-18-the-necrotic-wake",
-      "str": "18 NW (1.3%)"
+      "str": "18 NW (1.34%)"
     }
   },
   "WSF2T": {
@@ -265,10 +265,10 @@
     "numkeys": 11,
     "highestkey": {
       "key": 13,
-      "per": -0.024639147286821705,
+      "per": -0.025016669901848032,
       "dung": "DOS",
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/10451083-13-de-other-side",
-      "str": "13 DOS (2.46%)"
+      "str": "13 DOS (2.5%)"
     }
   },
   "TTC": {
@@ -401,10 +401,10 @@
     "numkeys": 30,
     "highestkey": {
       "key": 17,
-      "per": -0.048542187499999945,
+      "per": -0.04903698544351143,
       "dung": "HOA",
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/10210918-17-halls-of-atonement",
-      "str": "17 HOA (4.85%)"
+      "str": "17 HOA (4.9%)"
     }
   },
   "ASC": {
@@ -537,10 +537,10 @@
     "numkeys": 30,
     "highestkey": {
       "key": 14,
-      "per": -0.09838464912280698,
+      "per": -0.09877952598839368,
       "dung": "PF",
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/10458418-14-plaguefall",
-      "str": "14 PF (9.84%)"
+      "str": "14 PF (9.88%)"
     }
   },
   "TST": {
@@ -673,10 +673,10 @@
     "numkeys": 21,
     "highestkey": {
       "key": 16,
-      "per": -0.019724479166666642,
+      "per": -0.020234263526425544,
       "dung": "HOA",
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/10457897-16-halls-of-atonement",
-      "str": "16 HOA (1.97%)"
+      "str": "16 HOA (2.02%)"
     }
   },
   "STISB": {
@@ -809,10 +809,10 @@
     "numkeys": 22,
     "highestkey": {
       "key": 14,
-      "per": -0.11963333333333337,
+      "per": -0.11997408755292038,
       "dung": "DOS",
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/10452937-14-de-other-side",
-      "str": "14 DOS (11.96%)"
+      "str": "14 DOS (12.0%)"
     }
   },
   "inv": {
@@ -945,10 +945,10 @@
     "numkeys": 21,
     "highestkey": {
       "key": 10,
-      "per": -0.23790081300813004,
+      "per": -0.23821017399844535,
       "dung": "SD",
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/10459226-10-sanguine-depths",
-      "str": "10 SD (23.79%)"
+      "str": "10 SD (23.82%)"
     }
   }
 }

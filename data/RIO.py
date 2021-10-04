@@ -47,7 +47,8 @@ def RIO_GetRecentRuns(name: str, realm: str):
       'clearTime': run['clear_time_ms'],
       'dateCompleted': run['completed_at'],
       'keyMod': run['num_keystone_upgrades'],
-      'faction': RIO_Data['faction']
+      'faction': RIO_Data['faction'],
+      'partime': run['par_time_ms']
     }
   
   return returnValue

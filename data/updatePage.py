@@ -46,9 +46,9 @@ def AddTimeAndPercDiff(runs):
 
   for runId, run in runs.items():
     runs[runId]['timeDiff'] = \
-      run['clearTime'] - dungeonTimers[run['dungeonAbbr']]
+      run['clearTime'] - run['partime']
     runs[runId]['percDiff'] = \
-      run['clearTime'] / dungeonTimers[run['dungeonAbbr']] - 1
+      run['clearTime'] / run['partime'] - 1
     
 
 def getAllRuns(folder: str, pageParams: dict) -> dict:
