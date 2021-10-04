@@ -64,6 +64,7 @@ export interface TPlayerRow {
   links: Links;
   scoreColor: string;
   team: string;
+  render: string;
 }
 
 export const tTeamColumns = [

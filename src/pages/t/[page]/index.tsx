@@ -39,6 +39,11 @@ export default function ContentPage(props: any) {
           <div>
             <Link href={`${props.page}/graphs`}>Click here to view graphs</Link>
           </div>
+          <div>
+            <Link href={`${props.page}/hall`}>
+              Click here to view the team hall
+            </Link>
+          </div>
         </Typography>
 
         <Dungeons runData={props.runRows} columns={tRunColumns} />
