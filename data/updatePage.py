@@ -42,7 +42,6 @@ def AddScoreColors(runs):
     runs[runId]['scoreColor'] = getColorForRunScore(run['score'])
   
 def AddTimeAndPercDiff(runs):
-  dungeonTimers = getDungeonTimings()
 
   for runId, run in runs.items():
     runs[runId]['timeDiff'] = \

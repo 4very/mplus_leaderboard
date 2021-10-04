@@ -46,9 +46,16 @@ export default function TeamSection({
                     {team.score}
                   </span>
                 </Typography>
+
                 <Typography className="font-serif -mt-2" variant="h6">
                   {`Highest Key Timed: `}
-                  <Link href={team.highestkey.link}>{team.highestkey.str}</Link>
+                  {team.highestkey.link === null ? (
+                    team.highestkey.str
+                  ) : (
+                    <Link href={team.highestkey.link}>
+                      {team.highestkey.str}
+                    </Link>
+                  )}
                 </Typography>
                 <Typography className="font-serif -mt-2" variant="h6">
                   {`Num of Keys Done: ${team.numkeys}`}
