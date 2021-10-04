@@ -5,6 +5,7 @@ from RIO import RIO_GetCharRankings, RIO_GetRecentRuns
 from updateMeta import NumberToClassColor, NumberToClassName, getColorForRunScore, getColorForScore, getDungeonTimings, updateTimeFile
 from datetime import datetime
 from WOW import WOW_GetCharData
+from time import time
 
 import logging
 
@@ -13,6 +14,7 @@ def updatePage(folder: str, pageParams: dict):
   writeRunsToFile(runs, folder)
   updateTimeFile(folder)
   updateRosterData(folder)
+  addHistoricalPoints(folder, pageParams['start-date'])
 
 def writeRunsToFile(runs: dict, folder: str):
   runsFile = join(folder, 'runs.json')
@@ -243,3 +245,25 @@ def getHighestKeys(folder):
     }
   
   return highKeyObj
+
+
+def addHistoricalPoints(folder, start):
+  with open(join(folder, 'teams.json'), 'r') as f:
+    teams = load(f)
+
+  with open(join(folder, 'historical.json'), 'r') as f:
+    hist = load(f)
+
+  cday = (time()-start)/86400
+  ilvlobj = {"day":cday}
+  scoreobj = {"day":cday}
+
+  for key,item in teams.items():
+    ilvlobj[key] = item["avgilvl"]
+    scoreobj[key] = item["score"]
+    
+  hist['ilvl'].append(ilvlobj)
+  hist['tscore'].append(scoreobj)
+
+  with open(join(folder, 'historical.json'), 'w') as f:
+    dump(hist, f, indent=2)
