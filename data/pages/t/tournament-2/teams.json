@@ -407,7 +407,7 @@
           "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Easybreezey",
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Easybreezey"
         },
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/128/199657600-main-raw.png"
+        "render": null
       }
     ],
     "score": 8248.0,
