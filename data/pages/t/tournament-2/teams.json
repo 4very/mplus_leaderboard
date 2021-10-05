@@ -397,8 +397,8 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 233,
-        "score": 1765.4,
-        "scoreColor": "#5699b2",
+        "score": 1775.8,
+        "scoreColor": "#5495b6",
         "covenant": "Kyrian",
         "renown": 59,
         "links": {
@@ -410,10 +410,10 @@
         "render": "https://render.worldofwarcraft.com/us/character/illidan/128/199657600-main-raw.png"
       }
     ],
-    "score": 8150.8,
+    "score": 8161.2,
     "scoreColor": "#1c74d9",
     "avgilvl": 233.0,
-    "numkeys": 33,
+    "numkeys": 34,
     "highestkey": {
       "key": 18,
       "per": -0.01509995285949628,
