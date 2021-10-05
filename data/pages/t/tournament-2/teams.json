@@ -321,11 +321,11 @@
         "race": 9,
         "level": 60,
         "title": "Talon King Gobsanity",
-        "ilvl": 235,
+        "ilvl": 237,
         "score": 1789.7,
         "scoreColor": "#5495b6",
         "covenant": "Kyrian",
-        "renown": 66,
+        "renown": 67,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Gobsanity",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Gobsanity",
@@ -412,7 +412,7 @@
     ],
     "score": 8248.0,
     "scoreColor": "#0070dd",
-    "avgilvl": 233.4,
+    "avgilvl": 233.8,
     "numkeys": 36,
     "highestkey": {
       "key": 18,
