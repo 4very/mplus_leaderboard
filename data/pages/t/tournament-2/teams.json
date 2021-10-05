@@ -297,7 +297,7 @@
         "level": 60,
         "title": "Titanslayer Mysphux",
         "ilvl": 234,
-        "score": 1752.5,
+        "score": 1765.4,
         "scoreColor": "#5699b2",
         "covenant": "Night Fae",
         "renown": 59,
@@ -322,7 +322,7 @@
         "level": 60,
         "title": "Talon King Gobsanity",
         "ilvl": 235,
-        "score": 1752.5,
+        "score": 1765.4,
         "scoreColor": "#5699b2",
         "covenant": "Kyrian",
         "renown": 66,
@@ -347,7 +347,7 @@
         "level": 60,
         "title": "Corruptshock the Exalted",
         "ilvl": 236,
-        "score": 1752.5,
+        "score": 1765.4,
         "scoreColor": "#5699b2",
         "covenant": "Necrolord",
         "renown": 68,
@@ -397,7 +397,7 @@
         "level": 60,
         "title": "Easybreezey",
         "ilvl": 233,
-        "score": 1752.5,
+        "score": 1765.4,
         "scoreColor": "#5699b2",
         "covenant": "Kyrian",
         "renown": 59,
@@ -410,16 +410,16 @@
         "render": "https://render.worldofwarcraft.com/us/character/illidan/128/199657600-main-raw.png"
       }
     ],
-    "score": 8099.2,
+    "score": 8150.8,
     "scoreColor": "#1c74d9",
     "avgilvl": 233.0,
-    "numkeys": 32,
+    "numkeys": 33,
     "highestkey": {
-      "key": 17,
-      "per": -0.04903698544351143,
-      "dung": "HOA",
-      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10210918-17-halls-of-atonement",
-      "str": "17 HOA (4.9%)"
+      "key": 18,
+      "per": -0.01509995285949628,
+      "dung": "MISTS",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/10527720-18-mists-of-tirna-scithe",
+      "str": "18 MISTS (1.51%)"
     }
   },
   "ASC": {
