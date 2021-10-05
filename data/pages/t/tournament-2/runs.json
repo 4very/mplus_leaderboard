@@ -2608,6 +2608,38 @@
       "scoreColor": "#695ee4",
       "timeDiff": 375215,
       "percDiff": 0.1644959072757155
+    },
+    "10533238": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10533238-17-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 136,
+      "keystoneLevel": 17,
+      "clearTime": 1774658,
+      "dateCompleted": "2021-10-05T03:13:37.000Z",
+      "keyMod": 1,
+      "faction": "Horde",
+      "partime": 1920999,
+      "team": "TTC",
+      "scoreColor": "#884ee9",
+      "timeDiff": -146341,
+      "percDiff": -0.07617963361771662
+    },
+    "10532328": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10532328-11-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 105.4,
+      "keystoneLevel": 11,
+      "clearTime": 1748965,
+      "dateCompleted": "2021-10-05T02:47:49.000Z",
+      "keyMod": 1,
+      "faction": "Horde",
+      "partime": 1800999,
+      "team": "inv",
+      "scoreColor": "#5ca4a5",
+      "timeDiff": -52034,
+      "percDiff": -0.028891742860490233
     }
   }
 }
