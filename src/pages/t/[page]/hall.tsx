@@ -80,7 +80,7 @@ export default function teamHall(props: any) {
                           target="_blank"
                           rel="noreferrer"
                         >
-                          {player.name}
+                          {player.title}
                         </a>
                       </Typography>
                     </div>
