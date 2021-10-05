@@ -774,12 +774,11 @@
       "faction": "alliance",
       "partime": 2280999,
       "members": [
-        "160578181",
         "185887369",
         "188505070",
         "191276872"
       ],
-      "count": 4,
+      "count": 3,
       "scoreColor": "#5495b6",
       "timeDiff": -173746,
       "percDiff": -0.07617101103507717
