@@ -1556,7 +1556,7 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 1227,
+    "score": 1229.9,
     "scoreColor": "#42ef41",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Shammwowzers",
@@ -8666,8 +8666,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 2063,
-    "scoreColor": "#0070dd",
+    "score": 2075.3,
+    "scoreColor": "#3b6bdf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corrupthunt",
@@ -8939,7 +8939,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -9602,7 +9602,7 @@
     "classColor": "#8788EE",
     "race": 5,
     "rank": 9,
-    "score": 1227,
+    "score": 1229.9,
     "scoreColor": "#42ef41",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Amoxclav",
@@ -11909,7 +11909,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12068,7 +12068,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1227,
+    "score": 1229.9,
     "scoreColor": "#42ef41",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Borgonzola",
@@ -12302,7 +12302,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 1227,
+    "score": 1229.9,
     "scoreColor": "#42ef41",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Afrofreeze",
@@ -17162,8 +17162,8 @@
     "classColor": "#C69B6D",
     "race": 3,
     "rank": 9,
-    "score": 679.4,
-    "scoreColor": "#b0ff98",
+    "score": 846.6,
+    "scoreColor": "#91ff75",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/D\u00e9thl\u00f4k",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/D\u00e9thl\u00f4k",
