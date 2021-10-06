@@ -4868,8 +4868,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 521.1,
-    "scoreColor": "#d0ffbe",
+    "score": 578,
+    "scoreColor": "#c3ffae",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e1xx",
@@ -8982,7 +8982,7 @@
     }
   },
   "215572555": {
-    "name": "Meatward",
+    "name": "Drunkcredan",
     "realm": "illidan",
     "faction": "horde",
     "class": 10,
@@ -8990,13 +8990,13 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 1562.9,
+    "scoreColor": "#5fb890",
     "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatward",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatward",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatward"
+      "rio": "https://raider.io/characters/us/illidan/Drunkcredan",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Drunkcredan",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Drunkcredan",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Drunkcredan"
     }
   },
   "215648926": {
