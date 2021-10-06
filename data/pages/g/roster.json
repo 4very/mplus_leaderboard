@@ -8990,10 +8990,10 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 1562.9,
-    "scoreColor": "#5fb890",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Meatward",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatward",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatward",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatward"
