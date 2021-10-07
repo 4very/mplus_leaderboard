@@ -17962,5 +17962,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Apitome",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Apitome"
     }
+  },
+  "191389310": {
+    "name": "Vaelthire",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 1,
+    "rank": 9,
+    "score": 264,
+    "scoreColor": "#f8fff4",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Vaelthire",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vaelthire",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vaelthire",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vaelthire"
+    }
   }
 }
