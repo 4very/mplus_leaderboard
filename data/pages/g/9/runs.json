@@ -62,6 +62,89 @@
       "scoreColor": "#2977d5",
       "timeDiff": 348954,
       "percDiff": 0.15298296930423905
+    },
+    "10682017": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10682017-2-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 1037968,
+      "dateCompleted": "2021-10-07T01:57:48.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "178816593",
+        "219761197",
+        "220726593"
+      ],
+      "count": 3,
+      "scoreColor": "#acff92",
+      "timeDiff": -1243031,
+      "percDiff": -0.5449502608286982
+    },
+    "10680153": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10680153-4-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 59.6,
+      "keystoneLevel": 4,
+      "clearTime": 1448969,
+      "dateCompleted": "2021-10-07T01:27:36.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "178816593",
+        "219761197",
+        "220726593"
+      ],
+      "count": 3,
+      "scoreColor": "#71ff55",
+      "timeDiff": -832030,
+      "percDiff": -0.3647656136631362
+    },
+    "10678979": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10678979-6-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 69.5,
+      "keystoneLevel": 6,
+      "clearTime": 1659949,
+      "dateCompleted": "2021-10-07T00:49:56.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "178816593",
+        "219761197",
+        "220726593"
+      ],
+      "count": 3,
+      "scoreColor": "#33ff1b",
+      "timeDiff": -921050,
+      "percDiff": -0.35685794531497295
+    },
+    "10682058": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/10682058-2-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 1390440,
+      "dateCompleted": "2021-10-07T01:40:11.000Z",
+      "keyMod": 3,
+      "faction": "alliance",
+      "partime": 2460999,
+      "members": [
+        "95012110",
+        "189955831"
+      ],
+      "count": 2,
+      "scoreColor": "#acff92",
+      "timeDiff": -1070559,
+      "percDiff": -0.43500992889472934
     }
   }
 }
