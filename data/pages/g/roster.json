@@ -17918,8 +17918,8 @@
     "classColor": "#FFFFFF",
     "race": 7,
     "rank": 9,
-    "score": 1500,
-    "scoreColor": "#5ec382",
+    "score": 1544.7,
+    "scoreColor": "#5fbc8b",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Chiryou",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Chiryou",
@@ -17961,6 +17961,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Apitome",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Apitome",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Apitome"
+    }
+  },
+  "191436831": {
+    "name": "\u00d5j",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 7,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/\u00d5j",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/\u00d5j",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=\u00d5j"
     }
   }
 }
