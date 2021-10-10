@@ -4544,7 +4544,7 @@
     "classColor": "#0070DD",
     "race": 8,
     "rank": 9,
-    "score": 895.6,
+    "score": 899.1,
     "scoreColor": "#85ff69",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Stormweaver",
@@ -17961,6 +17961,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/\u00d5j",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/\u00d5j",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=\u00d5j"
+    }
+  },
+  "191446775": {
+    "name": "Tartulus",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 30,
+    "rank": 9,
+    "score": 194.8,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Tartulus",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Tartulus",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Tartulus",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Tartulus"
     }
   }
 }
