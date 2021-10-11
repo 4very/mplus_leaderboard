@@ -16596,7 +16596,7 @@
     }
   },
   "188463632": {
-    "name": "Austurter",
+    "name": "Afrobubble",
     "realm": "sargeras",
     "faction": "alliance",
     "class": 2,
@@ -16604,13 +16604,13 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 601.2,
-    "scoreColor": "#bfffa8",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Austurter",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Austurter",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Austurter",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Austurter"
+      "rio": "https://raider.io/characters/us/sargeras/Afrobubble",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrobubble",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Afrobubble",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Afrobubble"
     }
   },
   "188480190": {
