@@ -1223,6 +1223,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Varhgon"
     }
   },
+  "146823555": {
+    "name": "Shakalakaabm",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Shakalakaabm",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Shakalakaabm",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Shakalakaabm",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shakalakaabm"
+    }
+  },
   "149592103": {
     "name": "Arngyrd",
     "realm": "illidan",
