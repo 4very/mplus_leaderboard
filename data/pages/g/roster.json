@@ -2411,6 +2411,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathyr"
     }
   },
+  "178954451": {
+    "name": "Traladin",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Traladin",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Traladin",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Traladin",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Traladin"
+    }
+  },
   "179114267": {
     "name": "Gito",
     "realm": "illidan",
@@ -10257,24 +10275,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Adax",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Adax",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Adax"
-    }
-  },
-  "218086578": {
-    "name": "Sqwizil",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 36,
-    "rank": 8,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sqwizil",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sqwizil",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sqwizil"
     }
   },
   "218131138": {
