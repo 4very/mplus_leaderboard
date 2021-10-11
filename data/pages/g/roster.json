@@ -13391,24 +13391,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Baneswolf"
     }
   },
-  "135956050": {
-    "name": "Zuburan",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 7,
-    "rank": 2,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Zuburan",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zuburan",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Zuburan",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zuburan"
-    }
-  },
   "136018269": {
     "name": "Warkor",
     "realm": "sargeras",
@@ -17997,6 +17979,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Tartulus",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Tartulus",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Tartulus"
+    }
+  },
+  "135956050": {
+    "name": "Zuburan",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 7,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Zuburan",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zuburan",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Zuburan",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zuburan"
     }
   }
 }
