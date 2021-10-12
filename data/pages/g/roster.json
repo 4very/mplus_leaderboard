@@ -12104,7 +12104,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 1967,
+    "score": 1972.8,
     "scoreColor": "#2977d5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Daenisse",
@@ -12507,6 +12507,60 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Burtmcsquirt",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Burtmcsquirt",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Burtmcsquirt"
+    }
+  },
+  "195388458": {
+    "name": "Scoop",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 10,
+    "rank": 9,
+    "score": 2192.1,
+    "scoreColor": "#884ee9",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Scoop",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Scoop",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Scoop",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Scoop"
+    }
+  },
+  "195615346": {
+    "name": "Zeizee",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 10,
+    "rank": 9,
+    "score": 2068.8,
+    "scoreColor": "#0070dd",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Zeizee",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zeizee",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Zeizee",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zeizee"
+    }
+  },
+  "219115702": {
+    "name": "Deaddruid",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 28,
+    "rank": 9,
+    "score": 2377,
+    "scoreColor": "#c442c6",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Deaddruid",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Deaddruid",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Deaddruid",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Deaddruid"
     }
   },
   "989898": {
