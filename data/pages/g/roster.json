@@ -26,8 +26,8 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 1238.8,
-    "scoreColor": "#42ef41",
+    "score": 1278.8,
+    "scoreColor": "#4be750",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Namikawa",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Namikawa",
@@ -8957,7 +8957,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -11927,7 +11927,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
