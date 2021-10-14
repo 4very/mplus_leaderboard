@@ -2285,24 +2285,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Notouchey"
     }
   },
-  "178766201": {
-    "name": "Sathero",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 10,
-    "rank": 8,
-    "score": 2018.1,
-    "scoreColor": "#1c74d9",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sathero",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sathero",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sathero",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathero"
-    }
-  },
   "178780395": {
     "name": "Seraza",
     "realm": "illidan",
@@ -3390,7 +3372,7 @@
     "class": 1,
     "className": "Warrior",
     "classColor": "#C69B6D",
-    "race": 10,
+    "race": 36,
     "rank": 4,
     "score": 745.2,
     "scoreColor": "#a9ff90",
@@ -8719,7 +8701,7 @@
     "className": "Hunter",
     "classColor": "#AAD372",
     "race": 36,
-    "rank": 9,
+    "rank": 4,
     "score": 2123.9,
     "scoreColor": "#6261e3",
     "links": {
@@ -12579,6 +12561,42 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dannyshot",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dannyshot",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dannyshot"
+    }
+  },
+  "178766201": {
+    "name": "Sathero",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 10,
+    "rank": 9,
+    "score": 2018.1,
+    "scoreColor": "#1c74d9",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Sathero",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sathero",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sathero",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathero"
+    }
+  },
+  "220358593": {
+    "name": "Braddpizza",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 8,
+    "rank": 9,
+    "score": 2196.7,
+    "scoreColor": "#8c4bea",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Braddpizza",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Braddpizza",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Braddpizza",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Braddpizza"
     }
   },
   "989898": {
