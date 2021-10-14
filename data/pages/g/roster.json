@@ -18070,23 +18070,5 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kotlinnative",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kotlinnative"
     }
-  },
-  "190728114": {
-    "name": "Fa\u00eblyssa",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 11,
-    "rank": 9,
-    "score": 1338,
-    "scoreColor": "#50e258",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Fa\u00eblyssa",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Fa\u00eblyssa",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Fa\u00eblyssa",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Fa\u00eblyssa"
-    }
   }
 }
