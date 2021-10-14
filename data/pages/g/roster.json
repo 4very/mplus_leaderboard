@@ -12617,6 +12617,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Arkino"
     }
   },
+  "220317312": {
+    "name": "Acacallis",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 35,
+    "rank": 9,
+    "score": 1161.8,
+    "scoreColor": "#1eff00",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Acacallis",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Acacallis",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Acacallis",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Acacallis"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
