@@ -61,6 +61,48 @@
       "scoreColor": "#1c74d9",
       "timeDiff": -227281,
       "percDiff": -0.11831396060070831
+    },
+    "11284128": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/11284128-15-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 119.7,
+      "keystoneLevel": 15,
+      "clearTime": 2632726,
+      "dateCompleted": "2021-10-15T02:21:05.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "183421074",
+        "191425731",
+        "195388458",
+        "219115702"
+      ],
+      "count": 4,
+      "scoreColor": "#3b7fcd",
+      "timeDiff": 51727,
+      "percDiff": 0.020041464564689804
+    },
+    "11284308": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/11284308-11-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 106.9,
+      "keystoneLevel": 11,
+      "clearTime": 1993542,
+      "dateCompleted": "2021-10-15T02:12:53.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "partime": 2340999,
+      "members": [
+        "183061786",
+        "188505070"
+      ],
+      "count": 2,
+      "scoreColor": "#5ba2a8",
+      "timeDiff": -347457,
+      "percDiff": -0.14842253243166703
     }
   }
 }
