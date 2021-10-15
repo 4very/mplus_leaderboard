@@ -8747,24 +8747,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Korahlia"
     }
   },
-  "215092157": {
-    "name": "Brope",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 9,
-    "rank": 9,
-    "score": 96.7,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Brope",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Brope",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Brope",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Brope"
-    }
-  },
   "215092159": {
     "name": "Trillas",
     "realm": "illidan",
