@@ -12635,6 +12635,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Acacallis"
     }
   },
+  "158938132": {
+    "name": "Boeing",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Boeing",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Boeing",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Boeing",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Boeing"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
