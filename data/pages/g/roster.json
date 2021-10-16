@@ -12977,6 +12977,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Raybanz"
     }
   },
+  "89455213": {
+    "name": "Bradyboom",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Bradyboom",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Bradyboom",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Bradyboom",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Bradyboom"
+    }
+  },
   "90115606": {
     "name": "Aubrya",
     "realm": "sargeras",
@@ -18026,8 +18044,8 @@
     "classColor": "#00FF98",
     "race": 25,
     "rank": 1,
-    "score": 1624.7,
-    "scoreColor": "#5fb296",
+    "score": 1631.5,
+    "scoreColor": "#5eae9b",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
