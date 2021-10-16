@@ -8801,24 +8801,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Okrthul"
     }
   },
-  "215238830": {
-    "name": "Allaistra",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 27,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Allaistra",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Allaistra",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Allaistra",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Allaistra"
-    }
-  },
   "215344463": {
     "name": "Lindp",
     "realm": "illidan",
@@ -12633,6 +12615,42 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Boeing",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Boeing",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Boeing"
+    }
+  },
+  "202632854": {
+    "name": "Zinani",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 35,
+    "rank": 9,
+    "score": 2335.2,
+    "scoreColor": "#b63cd9",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Zinani",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zinani",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Zinani",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zinani"
+    }
+  },
+  "220986443": {
+    "name": "Villaneuve",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 10,
+    "rank": 9,
+    "score": 685.8,
+    "scoreColor": "#b3ff9b",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Villaneuve",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villaneuve",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Villaneuve",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Villaneuve"
     }
   },
   "989898": {
