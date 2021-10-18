@@ -12689,6 +12689,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Villaneuve"
     }
   },
+  "188758547": {
+    "name": "Phits",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Phits",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Phits",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Phits",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Phits"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -18213,6 +18231,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Superpred",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Superpred",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Superpred"
+    }
+  },
+  "189229485": {
+    "name": "Flemtality",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Flemtality",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemtality",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
     }
   }
 }
