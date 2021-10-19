@@ -7730,8 +7730,8 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 1827.5,
-    "scoreColor": "#4e8ebd",
+    "score": 1862.2,
+    "scoreColor": "#4b8bc1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dekurgan",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dekurgan",
@@ -17243,6 +17243,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Maxentium"
     }
   },
+  "189024091": {
+    "name": "Superpred",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 32,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Superpred",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Superpred",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Superpred",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Superpred"
+    }
+  },
   "189059655": {
     "name": "Chillinbig",
     "realm": "sargeras",
@@ -17313,6 +17331,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gameryan",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Gameryan",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Gameryan"
+    }
+  },
+  "189229485": {
+    "name": "Flemtality",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Flemtality",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemtality",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
     }
   },
   "189270480": {
@@ -18231,42 +18267,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kotlinnative",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kotlinnative",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kotlinnative"
-    }
-  },
-  "189024091": {
-    "name": "Superpred",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 32,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Superpred",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Superpred",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Superpred",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Superpred"
-    }
-  },
-  "189229485": {
-    "name": "Flemtality",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Flemtality",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemtality",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
     }
   }
 }
