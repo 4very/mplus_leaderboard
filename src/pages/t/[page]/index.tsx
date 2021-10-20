@@ -98,12 +98,15 @@ export async function getStaticProps(context: any) {
   const metaDataData = await jsonfile.readFile(pagesFile);
   const metaData: TMetaData = await metaDataData[page];
 
+  const rules = fs.readFileSync(path.join(folderPath, 'rules.md'), 'utf8');
+
   return {
     props: {
       runRows,
       teamData,
       upDATE,
       metaData,
+      rules,
       page,
     },
   };

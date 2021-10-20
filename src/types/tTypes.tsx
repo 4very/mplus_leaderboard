@@ -18,6 +18,7 @@ export interface TPropsType {
   runRows: TRunRow[];
   teamData: TTeamData[];
   metaData: TMetaData;
+  rules: string | null;
   upDATE: string;
 }
 

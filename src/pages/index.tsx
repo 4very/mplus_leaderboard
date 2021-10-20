@@ -9,7 +9,7 @@ export default function HomePage() {
       <div className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border text-center">
         <div className="mb-20">
           <Typography variant="h1" className="font-serif">
-            Currently Online
+            <Link href="www.currentlyonline.org"> Currently Online </Link>
           </Typography>
           <Typography variant="h3" className="font-serif">
             Mythic+ Tracker
