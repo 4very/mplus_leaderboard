@@ -12715,7 +12715,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 28,
-    "rank": 9,
+    "rank": 8,
     "score": 700.6,
     "scoreColor": "#aeff95",
     "links": {
@@ -12723,6 +12723,42 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ceelion",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ceelion",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ceelion"
+    }
+  },
+  "220821887": {
+    "name": "Sose",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Sose",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sose",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sose",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sose"
+    }
+  },
+  "220652969": {
+    "name": "Bozzyh",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Bozzyh",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bozzyh",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Bozzyh",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Bozzyh"
     }
   },
   "989898": {
