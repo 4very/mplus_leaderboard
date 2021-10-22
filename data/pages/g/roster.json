@@ -18026,8 +18026,8 @@
     "classColor": "#C69B6D",
     "race": 4,
     "rank": 8,
-    "score": 1705.4,
-    "scoreColor": "#5ba2a8",
+    "score": 1764.5,
+    "scoreColor": "#579ab0",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Truths",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Truths",
@@ -18368,8 +18368,8 @@
     "classColor": "#0070DD",
     "race": 3,
     "rank": 8,
-    "score": 1586,
-    "scoreColor": "#5fb692",
+    "score": 1618.5,
+    "scoreColor": "#5fb296",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Santhano",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Santhano",
@@ -18411,6 +18411,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemzor",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemzor",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemzor"
+    }
+  },
+  "187565747": {
+    "name": "Jassellis",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Jassellis",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jassellis",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jassellis",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jassellis"
     }
   }
 }
