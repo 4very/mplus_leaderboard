@@ -28,7 +28,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests croniter pytz pandas
     
-    - name: Run scraper
+    - name: Update Pages
       run: python ./data/main.py --info --pages
       env:
           WOW_CLIENT_ID: ${{ secrets.WOW_CLIENT_ID }}
@@ -38,6 +38,6 @@ jobs:
       run: |
         git config user.name Scraper
         git add .
-        git commit -m "Commit `date +'%Y-%m-%d %H:%M:%S'`" || echo "Nothing to commit"
-        git pull -s recursive -X ours
+        git commit -m "Updated Pages `date +'%Y-%m-%d %H:%M:%S'`" || echo "Nothing to commit"
+        git pull origin main -s recursive -X ours --rebase
         git push origin main
