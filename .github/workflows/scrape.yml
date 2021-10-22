@@ -39,5 +39,5 @@ jobs:
         git config user.name Scraper
         git add .
         git commit -m "Commit `date +'%Y-%m-%d %H:%M:%S'`" || echo "Nothing to commit"
-        git pull origin main -s recursive -X ours
+        git pull origin main -s recursive -X ours --rebase
         git push origin main
