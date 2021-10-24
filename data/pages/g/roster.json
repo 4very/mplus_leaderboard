@@ -12053,7 +12053,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Welldonewar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
@@ -12644,7 +12644,7 @@
     "classColor": "#00FF98",
     "race": 26,
     "rank": 9,
-    "score": 2157.9,
+    "score": 2158.5,
     "scoreColor": "#715be5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Arkino",
