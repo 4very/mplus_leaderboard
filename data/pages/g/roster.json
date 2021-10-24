@@ -836,7 +836,7 @@
     "classColor": "#8788EE",
     "race": 9,
     "rank": 9,
-    "score": 1803.8,
+    "score": 1805.2,
     "scoreColor": "#5292b9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mash\u00edro",
@@ -3896,8 +3896,8 @@
     "classColor": "#FFF468",
     "race": 26,
     "rank": 9,
-    "score": 380.2,
-    "scoreColor": "#e5ffda",
+    "score": 560,
+    "scoreColor": "#c9ffb5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sq\u00f9ishy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sq\u00f9ishy",
@@ -4796,8 +4796,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1209.9,
-    "scoreColor": "#35f72d",
+    "score": 1389.7,
+    "scoreColor": "#56da64",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zito",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zito",
@@ -7395,24 +7395,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Thlissa",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Thlissa",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Thlissa"
-    }
-  },
-  "203392354": {
-    "name": "Bowdownsonny",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 28,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Bowdownsonny",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bowdownsonny",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Bowdownsonny",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Bowdownsonny"
     }
   },
   "203494915": {
