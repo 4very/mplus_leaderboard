@@ -13705,7 +13705,7 @@
     "className": "Mage",
     "classColor": "#3FC7EB",
     "race": 7,
-    "rank": 9,
+    "rank": 6,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -16729,7 +16729,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 32,
-    "rank": 9,
+    "rank": 2,
     "score": 1020.3,
     "scoreColor": "#68ff4c",
     "links": {
