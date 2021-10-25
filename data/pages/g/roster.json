@@ -12779,6 +12779,42 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maycie"
     }
   },
+  "188393751": {
+    "name": "Taibox",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 2,
+    "rank": 3,
+    "score": 2008.3,
+    "scoreColor": "#1c74d9",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Taibox",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Taibox",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Taibox",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Taibox"
+    }
+  },
+  "218595516": {
+    "name": "Resp\u00e9ct",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
+    "rank": 9,
+    "score": 67.5,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Resp\u00e9ct",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Resp\u00e9ct",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Resp\u00e9ct",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Resp\u00e9ct"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
