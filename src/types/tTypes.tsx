@@ -26,6 +26,9 @@ export interface TMetaData {
   name: string;
   startText: string;
   endText: string;
+  collectGraphs: boolean;
+  teamDetails: boolean;
+  teamHall: boolean;
 }
 
 export interface TRunRow {

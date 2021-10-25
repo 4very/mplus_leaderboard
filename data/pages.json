@@ -5,7 +5,10 @@
     "endText": "August 17th 2021",
     "start-date": 1628607600,
     "end-date": 1629298800,
-    "players-required": 4
+    "players-required": 4,
+    "collectGraphs": false,
+    "teamDetails": false,
+    "teamHall": false
   },
   "tournament-2": {
     "name": "the September(ish) M+ Tournament!",
@@ -13,14 +16,20 @@
     "startText": "September 14th 2021",
     "end-date": 1633446000,
     "endText": "October 5th 2021",
-    "players-required": 4
+    "players-required": 4,
+    "collectGraphs": true,
+    "teamDetails": true,
+    "teamHall": true
   },
   "tournament-3": {
     "name": "The Spooky Specs Mythic+ Tournament",
-    "start-date": 1635260400,
-    "startText": "October 26th 2021",
-    "end-date": 1636387200,
-    "endText": "November 8th 2021",
-    "players-required": 4
+    "start-date": 1635865200,
+    "startText": "November 2nd 2021",
+    "end-date": 1637074800,
+    "endText": "November 24th 2021",
+    "players-required": 4,
+    "collectGraphs": false,
+    "teamDetails": false,
+    "teamHall": true
   }
 }
