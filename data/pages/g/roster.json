@@ -4085,6 +4085,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Slitzy"
     }
   },
+  "188393751": {
+    "name": "Taibox",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 2,
+    "rank": 3,
+    "score": 2008.3,
+    "scoreColor": "#1c74d9",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Taibox",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Taibox",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Taibox",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Taibox"
+    }
+  },
   "188490662": {
     "name": "Liedal",
     "realm": "illidan",
@@ -11321,6 +11339,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Morthe"
     }
   },
+  "219367534": {
+    "name": "Maycie",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 2319.6,
+    "scoreColor": "#b039e0",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Maycie",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Maycie",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Maycie",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maycie"
+    }
+  },
   "219367561": {
     "name": "Selexxa",
     "realm": "illidan",
@@ -12419,6 +12455,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Stonkula"
     }
   },
+  "220652969": {
+    "name": "Bozzyh",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Bozzyh",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bozzyh",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Bozzyh",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Bozzyh"
+    }
+  },
   "220686029": {
     "name": "Palabusk",
     "realm": "illidan",
@@ -12635,6 +12689,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Diondre"
     }
   },
+  "220821887": {
+    "name": "Sose",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Sose",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sose",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sose",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sose"
+    }
+  },
   "220822201": {
     "name": "Arkino",
     "realm": "illidan",
@@ -12689,60 +12761,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Villaneuve"
     }
   },
-  "221011702": {
-    "name": "Ceelion",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 28,
-    "rank": 8,
-    "score": 897.1,
-    "scoreColor": "#89ff6d",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Ceelion",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ceelion",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ceelion",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ceelion"
-    }
-  },
-  "220821887": {
-    "name": "Sose",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 5,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sose",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sose",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sose",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sose"
-    }
-  },
-  "220652969": {
-    "name": "Bozzyh",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Bozzyh",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bozzyh",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Bozzyh",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Bozzyh"
-    }
-  },
   "221011523": {
     "name": "Berzerkohno",
     "realm": "illidan",
@@ -12761,40 +12779,22 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Berzerkohno"
     }
   },
-  "219367534": {
-    "name": "Maycie",
+  "221011702": {
+    "name": "Ceelion",
     "realm": "illidan",
     "faction": "horde",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 10,
-    "rank": 9,
-    "score": 2314.4,
-    "scoreColor": "#b039e0",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 28,
+    "rank": 8,
+    "score": 897.1,
+    "scoreColor": "#89ff6d",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Maycie",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Maycie",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Maycie",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maycie"
-    }
-  },
-  "188393751": {
-    "name": "Taibox",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 2,
-    "rank": 3,
-    "score": 2008.3,
-    "scoreColor": "#1c74d9",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Taibox",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Taibox",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Taibox",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Taibox"
+      "rio": "https://raider.io/characters/us/illidan/Ceelion",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ceelion",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ceelion",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ceelion"
     }
   },
   "989898": {
