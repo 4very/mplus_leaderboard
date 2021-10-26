@@ -13481,6 +13481,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Persuit"
     }
   },
+  "104345780": {
+    "name": "Amancipate",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 11,
+    "rank": 9,
+    "score": 121.7,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Amancipate",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Amancipate",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Amancipate",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Amancipate"
+    }
+  },
   "106485730": {
     "name": "Aminence",
     "realm": "sargeras",
@@ -13497,6 +13515,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Aminence",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Aminence",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Aminence"
+    }
+  },
+  "108510621": {
+    "name": "Athereal",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Athereal",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Athereal",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Athereal",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Athereal"
     }
   },
   "108895652": {
@@ -13967,6 +14003,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Guyfury"
     }
   },
+  "144742640": {
+    "name": "Apiphany",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Apiphany",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Apiphany",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Apiphany",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Apiphany"
+    }
+  },
   "144748001": {
     "name": "Uilos",
     "realm": "sargeras",
@@ -14055,6 +14109,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Injects",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Injects",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Injects"
+    }
+  },
+  "146830917": {
+    "name": "Avasive",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Avasive",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Avasive",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Avasive",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Avasive"
     }
   },
   "148452931": {
@@ -14235,6 +14307,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Rooffuss",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Rooffuss",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Rooffuss"
+    }
+  },
+  "151908103": {
+    "name": "Anmity",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Anmity",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Anmity",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anmity",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anmity"
     }
   },
   "151946824": {
@@ -15351,6 +15441,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dwarvlock",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dwarvlock",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dwarvlock"
+    }
+  },
+  "167088299": {
+    "name": "Stielas",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 22,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Stielas",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Stielas",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Stielas",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Stielas"
     }
   },
   "167143066": {
@@ -16757,6 +16865,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Shakalak"
     }
   },
+  "186874352": {
+    "name": "Adify",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Adify",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Adify",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Adify",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Adify"
+    }
+  },
   "187167130": {
     "name": "Morhigahn",
     "realm": "sargeras",
@@ -16845,6 +16971,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Narangerel",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Narangerel",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Narangerel"
+    }
+  },
+  "187565747": {
+    "name": "Jassellis",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Jassellis",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jassellis",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jassellis",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jassellis"
     }
   },
   "187722169": {
@@ -16953,6 +17097,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zant\u00e3no",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Zant\u00e3no",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zant\u00e3no"
+    }
+  },
+  "188505070": {
+    "name": "Santhano",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 3,
+    "rank": 8,
+    "score": 1766,
+    "scoreColor": "#579ab0",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Santhano",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Santhano",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Santhano",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Santhano"
     }
   },
   "188515897": {
@@ -17493,6 +17655,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Twohornz",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Twohornz",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Twohornz"
+    }
+  },
+  "189484835": {
+    "name": "Flemzor",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Flemzor",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemzor",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemzor",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemzor"
     }
   },
   "189766900": {
@@ -18044,7 +18224,7 @@
     "classColor": "#C69B6D",
     "race": 4,
     "rank": 8,
-    "score": 1846.7,
+    "score": 1860.5,
     "scoreColor": "#4b8bc1",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Truths",
@@ -18321,186 +18501,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kotlinnative",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kotlinnative",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kotlinnative"
-    }
-  },
-  "167088299": {
-    "name": "Stielas",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 22,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Stielas",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Stielas",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Stielas",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Stielas"
-    }
-  },
-  "108510621": {
-    "name": "Athereal",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Athereal",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Athereal",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Athereal",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Athereal"
-    }
-  },
-  "104345780": {
-    "name": "Amancipate",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 11,
-    "rank": 9,
-    "score": 121.7,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Amancipate",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Amancipate",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Amancipate",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Amancipate"
-    }
-  },
-  "146830917": {
-    "name": "Avasive",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Avasive",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Avasive",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Avasive",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Avasive"
-    }
-  },
-  "188505070": {
-    "name": "Santhano",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 3,
-    "rank": 8,
-    "score": 1766,
-    "scoreColor": "#579ab0",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Santhano",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Santhano",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Santhano",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Santhano"
-    }
-  },
-  "144742640": {
-    "name": "Apiphany",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Apiphany",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Apiphany",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Apiphany",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Apiphany"
-    }
-  },
-  "189484835": {
-    "name": "Flemzor",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Flemzor",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemzor",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemzor",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemzor"
-    }
-  },
-  "187565747": {
-    "name": "Jassellis",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Jassellis",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jassellis",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jassellis",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jassellis"
-    }
-  },
-  "151908103": {
-    "name": "Anmity",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Anmity",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Anmity",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anmity",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anmity"
-    }
-  },
-  "186874352": {
-    "name": "Adify",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Adify",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Adify",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Adify",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Adify"
     }
   }
 }
