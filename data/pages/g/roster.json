@@ -15443,24 +15443,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dwarvlock"
     }
   },
-  "167088299": {
-    "name": "Stielas",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 22,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Stielas",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Stielas",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Stielas",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Stielas"
-    }
-  },
   "167143066": {
     "name": "Tralithias",
     "realm": "sargeras",
@@ -17810,8 +17792,8 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 908.7,
-    "scoreColor": "#83ff67",
+    "score": 944.7,
+    "scoreColor": "#7dff61",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Raanthia",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Raanthia",
