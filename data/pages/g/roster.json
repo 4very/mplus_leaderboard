@@ -1277,24 +1277,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Linderof"
     }
   },
-  "153156112": {
-    "name": "Brickh\u00f8use",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Brickh\u00f8use",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Brickh\u00f8use",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Brickh\u00f8use"
-    }
-  },
   "153698737": {
     "name": "Redoo",
     "realm": "illidan",
