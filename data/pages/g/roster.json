@@ -5885,6 +5885,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Oxosii"
     }
   },
+  "197487090": {
+    "name": "Kokoe",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 36,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kokoe",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kokoe",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kokoe",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kokoe"
+    }
+  },
   "197755044": {
     "name": "Galadin",
     "realm": "illidan",
