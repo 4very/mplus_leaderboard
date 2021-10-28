@@ -18448,5 +18448,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kotlinnative",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kotlinnative"
     }
+  },
+  "190573045": {
+    "name": "Cheeken",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 25,
+    "rank": 9,
+    "score": 2053.7,
+    "scoreColor": "#8c4bea",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Cheeken",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cheeken",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cheeken",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cheeken"
+    }
   }
 }
