@@ -11348,7 +11348,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2382.2,
+    "score": 2383.6,
     "scoreColor": "#cf49b3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Maycie",
@@ -12777,6 +12777,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ceelion",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ceelion",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ceelion"
+    }
+  },
+  "157523860": {
+    "name": "Iladari",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 2039.5,
+    "scoreColor": "#8351e8",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Iladari",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Iladari",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Iladari",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Iladari"
     }
   },
   "989898": {
