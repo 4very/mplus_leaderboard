@@ -13652,7 +13652,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 8,
-    "score": 1755.4,
+    "score": 1793.1,
     "scoreColor": "#1773da",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Apitome",
@@ -14307,6 +14307,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Arictt",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Arictt",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Arictt"
+    }
+  },
+  "151776881": {
+    "name": "Demvarien",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Demvarien",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Demvarien",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Demvarien",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Demvarien"
     }
   },
   "151850862": {
@@ -15218,8 +15236,8 @@
     "classColor": "#AAD372",
     "race": 4,
     "rank": 9,
-    "score": 339.8,
-    "scoreColor": "#cfffbc",
+    "score": 358.4,
+    "scoreColor": "#c4ffaf",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Puunjii",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Puunjii",
