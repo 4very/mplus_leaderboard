@@ -834,7 +834,7 @@
     "class": 9,
     "className": "Warlock",
     "classColor": "#8788EE",
-    "race": 9,
+    "race": 8,
     "rank": 9,
     "score": 1886,
     "scoreColor": "#406ae0",
@@ -6947,6 +6947,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Arzaeniea"
     }
   },
+  "200456343": {
+    "name": "Wito",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Wito",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Wito",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Wito",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Wito"
+    }
+  },
   "200481493": {
     "name": "Zantano",
     "realm": "illidan",
@@ -11330,8 +11348,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2364.8,
-    "scoreColor": "#cc47b9",
+    "score": 2369,
+    "scoreColor": "#cf49b3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Maycie",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Maycie",
@@ -11600,7 +11618,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2207.9,
+    "score": 2209,
     "scoreColor": "#b33bdc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Casttiel",
@@ -11679,24 +11697,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Drisak",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Drisak",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Drisak"
-    }
-  },
-  "219758610": {
-    "name": "\u00c5iden",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/\u00c5iden",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/\u00c5iden",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=\u00c5iden"
     }
   },
   "219761197": {
@@ -17882,8 +17882,8 @@
     "classColor": "#0070DD",
     "race": 32,
     "rank": 9,
-    "score": 456,
-    "scoreColor": "#93ff77",
+    "score": 552.3,
+    "scoreColor": "#48ff2e",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Bulksy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Bulksy",
