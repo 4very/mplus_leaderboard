@@ -4418,7 +4418,7 @@
     "classColor": "#F48CBA",
     "race": 31,
     "rank": 9,
-    "score": 2016.3,
+    "score": 2021,
     "scoreColor": "#8351e8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Azthrael",
@@ -15227,24 +15227,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sturmbear"
     }
   },
-  "163498263": {
-    "name": "Puunjii",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 4,
-    "rank": 9,
-    "score": 358.4,
-    "scoreColor": "#c4ffaf",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Puunjii",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Puunjii",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Puunjii",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Puunjii"
-    }
-  },
   "163572638": {
     "name": "Tymelock",
     "realm": "sargeras",
@@ -17568,7 +17550,7 @@
     }
   },
   "189229485": {
-    "name": "Flemtality",
+    "name": "Flemtastic",
     "realm": "sargeras",
     "faction": "alliance",
     "class": 9,
@@ -17579,10 +17561,10 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Flemtality",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemtality",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemtastic",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtastic",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtastic"
     }
   },
   "189270480": {
@@ -18107,6 +18089,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nat\u00e2s"
     }
   },
+  "190573045": {
+    "name": "Cheeken",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 25,
+    "rank": 9,
+    "score": 2053.7,
+    "scoreColor": "#8c4bea",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Cheeken",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cheeken",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cheeken",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cheeken"
+    }
+  },
   "190593800": {
     "name": "Amyalang",
     "realm": "sargeras",
@@ -18503,22 +18503,22 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kotlinnative"
     }
   },
-  "190573045": {
-    "name": "Cheeken",
+  "191546276": {
+    "name": "Flemtality",
     "realm": "sargeras",
     "faction": "alliance",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 25,
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
     "rank": 9,
-    "score": 2053.7,
-    "scoreColor": "#8c4bea",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Cheeken",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cheeken",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cheeken",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cheeken"
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemtality",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
     }
   }
 }
