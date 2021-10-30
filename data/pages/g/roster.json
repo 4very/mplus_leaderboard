@@ -11366,7 +11366,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 2400.8,
+    "score": 2406,
     "scoreColor": "#d24cad",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Maycie",
@@ -17792,8 +17792,8 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 1143.8,
-    "scoreColor": "#5fbc8b",
+    "score": 1156.1,
+    "scoreColor": "#5fb98f",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Raanthia",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Raanthia",
@@ -18447,6 +18447,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Chiryou",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Chiryou",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Chiryou"
+    }
+  },
+  "191307398": {
+    "name": "Malridor",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Malridor",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Malridor",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Malridor",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Malridor"
     }
   },
   "191436831": {
