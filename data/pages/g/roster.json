@@ -989,24 +989,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cannedmeat"
     }
   },
-  "132757337": {
-    "name": "Harltraz",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 31,
-    "rank": 9,
-    "score": 72.8,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Harltraz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Harltraz",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Harltraz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Harltraz"
-    }
-  },
   "132915645": {
     "name": "Sebasti\u00e1n",
     "realm": "illidan",
@@ -5739,6 +5721,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Liind",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Liind",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Liind"
+    }
+  },
+  "196357759": {
+    "name": "Ouijetaivue",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Ouijetaivue",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ouijetaivue",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ouijetaivue",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ouijetaivue"
     }
   },
   "196418113": {
