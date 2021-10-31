@@ -674,14 +674,59 @@
       "faction": "alliance",
       "partime": 2460999,
       "members": [
+        "131101429",
         "188505070",
         "188590126",
         "191546276"
       ],
-      "count": 3,
+      "count": 4,
       "scoreColor": "#675fe4",
       "timeDiff": 403397,
       "percDiff": 0.1639159544558937
+    },
+    "12242317": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12242317-15-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 125.2,
+      "keystoneLevel": 15,
+      "clearTime": 1778394,
+      "dateCompleted": "2021-10-31T02:39:50.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "partime": 1800999,
+      "members": [
+        "131101429",
+        "188505070",
+        "188590126",
+        "191546276"
+      ],
+      "count": 4,
+      "scoreColor": "#7b56e7",
+      "timeDiff": -22605,
+      "percDiff": -0.012551367324468266
+    },
+    "12242318": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12242318-15-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 116.7,
+      "keystoneLevel": 15,
+      "clearTime": 2432857,
+      "dateCompleted": "2021-10-31T01:56:18.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 1920999,
+      "members": [
+        "131101429",
+        "188505070",
+        "188590126",
+        "191546276"
+      ],
+      "count": 4,
+      "scoreColor": "#2c6dde",
+      "timeDiff": 511858,
+      "percDiff": 0.26645406895058255
     }
   }
 }
