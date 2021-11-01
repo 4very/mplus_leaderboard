@@ -18485,6 +18485,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=\u00d5j"
     }
   },
+  "191440282": {
+    "name": "Finall",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Finall",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Finall",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Finall",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Finall"
+    }
+  },
   "191446775": {
     "name": "Tartulus",
     "realm": "sargeras",
