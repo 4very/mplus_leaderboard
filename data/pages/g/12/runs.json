@@ -1027,6 +1027,68 @@
       "scoreColor": "#406ae0",
       "timeDiff": 594650,
       "percDiff": 0.23039528492649541
+    },
+    "12378312": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12378312-17-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 135.3,
+      "keystoneLevel": 17,
+      "clearTime": 1872148,
+      "dateCompleted": "2021-11-02T02:34:04.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1920999,
+      "members": [
+        "112272998",
+        "217819077",
+        "219367534",
+        "221011702"
+      ],
+      "count": 4,
+      "scoreColor": "#a937e8",
+      "timeDiff": -48851,
+      "percDiff": -0.025429997621029488
+    },
+    "12377862": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12377862-20-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 150.9,
+      "keystoneLevel": 20,
+      "clearTime": 2118304,
+      "dateCompleted": "2021-11-02T02:25:24.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "202632854",
+        "219115702"
+      ],
+      "count": 2,
+      "scoreColor": "#d54ea8",
+      "timeDiff": -162695,
+      "percDiff": -0.07132620400096623
+    },
+    "12377591": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12377591-20-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 151.9,
+      "keystoneLevel": 20,
+      "clearTime": 2095460,
+      "dateCompleted": "2021-11-02T02:03:47.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2460999,
+      "members": [
+        "213555984",
+        "214792237"
+      ],
+      "count": 2,
+      "scoreColor": "#d54ea8",
+      "timeDiff": -365539,
+      "percDiff": -0.14853277063501447
     }
   }
 }
