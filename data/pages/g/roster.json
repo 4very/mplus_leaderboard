@@ -458,7 +458,7 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 9,
-    "score": 1774.8,
+    "score": 1781,
     "scoreColor": "#1773da",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dethl\u00f5k",
@@ -8846,8 +8846,8 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 4,
-    "score": 2145.3,
-    "scoreColor": "#a335ee",
+    "score": 2153.3,
+    "scoreColor": "#a937e8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corrupthunt",
@@ -12068,7 +12068,7 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 3,
-    "score": 2273.1,
+    "score": 2279.6,
     "scoreColor": "#c141cb",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Theor\u00eeze",
@@ -18555,6 +18555,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemtality",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
+    }
+  },
+  "191482749": {
+    "name": "Nicorobln",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 32,
+    "rank": 9,
+    "score": 1505.5,
+    "scoreColor": "#5191ba",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Nicorobln",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nicorobln",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nicorobln",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nicorobln"
     }
   }
 }
