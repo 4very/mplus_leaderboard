@@ -20,6 +20,9 @@ export default function Dungeons({
       sort: 'desc',
     },
   ]);
+  if (runData.length === 0) {
+    return <></>;
+  }
   return (
     <>
       <Typography variant="h4" className="mt-8 font-serif">
