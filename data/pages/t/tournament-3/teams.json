@@ -5,33 +5,142 @@
       {
         "name": "Nottito",
         "realm": "Illidan",
-        "role": "Tank"
+        "role": "Tank",
+        "id": 182359738,
+        "faction": "Horde",
+        "class": 6,
+        "className": "Death Knight",
+        "classColor": "#C41E3A",
+        "race": 2,
+        "level": 60,
+        "title": "Nottito",
+        "ilvl": 250,
+        "score": 2111.2,
+        "scoreColor": "#9c3eed",
+        "covenant": "Venthyr",
+        "renown": 64,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/186/182359738-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Nottito",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Nottito",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Nottito",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Nottito"
+        }
       },
       {
         "name": "Anador",
         "realm": "Illidan",
-        "role": "Healer"
+        "role": "Healer",
+        "id": 183203691,
+        "faction": "Horde",
+        "class": 5,
+        "className": "Priest",
+        "classColor": "#FFFFFF",
+        "race": 10,
+        "level": 60,
+        "title": "Anador",
+        "ilvl": 249,
+        "score": 2160.4,
+        "scoreColor": "#a937e8",
+        "covenant": "Venthyr",
+        "renown": 79,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/107/183203691-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Anador",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Anador",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Anador",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Anador"
+        }
       },
       {
         "name": "Asteraoth",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 198501487,
+        "faction": "Horde",
+        "class": 8,
+        "className": "Mage",
+        "classColor": "#3FC7EB",
+        "race": 8,
+        "level": 60,
+        "title": "Starcaller Asteraoth",
+        "ilvl": 251,
+        "score": 2085.2,
+        "scoreColor": "#9445eb",
+        "covenant": "Kyrian",
+        "renown": 76,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/111/198501487-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Asteraoth",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Asteraoth",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Asteraoth",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Asteraoth"
+        }
       },
       {
         "name": "Kaziganthii",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 203339500,
+        "faction": "Horde",
+        "class": 1,
+        "className": "Warrior",
+        "classColor": "#C69B6D",
+        "race": 6,
+        "level": 60,
+        "title": "Kaziganthii of the Iron Vanguard",
+        "ilvl": 247,
+        "score": 2052.2,
+        "scoreColor": "#8c4bea",
+        "covenant": "Night Fae",
+        "renown": 76,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/236/203339500-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Kaziganthii",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Kaziganthii",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Kaziganthii",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Kaziganthii"
+        }
       },
       {
         "name": "Corrupthunt",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 215077030,
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 36,
+        "level": 60,
+        "title": "Elder Corrupthunt",
+        "ilvl": 246,
+        "score": 2153.3,
+        "scoreColor": "#a937e8",
+        "covenant": "Night Fae",
+        "renown": 79,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/166/215077030-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corrupthunt",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Corrupthunt",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Corrupthunt"
+        }
       },
       {
-        "name": "Rénshi",
+        "name": "R\u00e9nshi",
         "realm": "Illidan",
         "role": "Damage"
       }
-    ]
+    ],
+    "score": 10562.3,
+    "scoreColor": "#eb6273",
+    "avgilvl": 248.6,
+    "highestkey": {
+      "key": 0,
+      "per": 0,
+      "str": "none"
+    },
+    "numkeys": 0
   }
 }

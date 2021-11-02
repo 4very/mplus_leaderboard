@@ -10,11 +10,18 @@ from time import time
 import logging
 
 def updatePage(folder: str, pageParams: dict):
+  makeFiles(folder)
   runs = getRuns(folder, pageParams)
   writeRunsToFile(runs, folder)
   updateTimeFile(folder)
   updateRosterData(folder)
-  addHistoricalPoints(folder, pageParams['start-date'])
+  if pageParams['collectGraphs']:
+    addHistoricalPoints(folder, pageParams['start-date'])
+
+def makeFiles(folder):
+  if not isdir(join(folder,'runs.json')):
+    with open(join(folder,'runs.json'), 'w') as f:
+      dump({'data':{}}, f, indent=2)
 
 def writeRunsToFile(runs: dict, folder: str):
   runsFile = join(folder, 'runs.json')
