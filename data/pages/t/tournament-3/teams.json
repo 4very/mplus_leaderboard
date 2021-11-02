@@ -162,5 +162,65 @@
       "str": "none"
     },
     "numkeys": 0
+  },
+  "GOM": {
+    "name": "Grumpy Old Men",
+    "players": [
+      {
+        "name": "Whitegùrlz",
+        "realm": "Illidan",
+        "role": "Tank"
+      },
+      {
+        "name": "Seigyu",
+        "realm": "Illidan",
+        "role": "Heal"
+      },
+      {
+        "name": "Arinaki",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Dannyshot",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Dracuhl",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Theorîze",
+        "realm": "Illidan",
+        "role": "Damage"
+      }
+    ]
+  },
+  "BBB": {
+    "name": "Bobby's Boost Buyers",
+    "players": [
+      {
+        "name": "Oshyro",
+        "realm": "Illidan",
+        "role": "Tank"
+      },
+      {
+        "name": "Soroyam",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Sausagepants",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Propulse",
+        "realm": "Illidan",
+        "role": "Damage"
+      }
+    ]
   }
 }
