@@ -17,8 +17,8 @@
         "ilvl": 250,
         "score": 2111.2,
         "scoreColor": "#9c3eed",
-        "covenant": "Kyrian",
-        "renown": 43,
+        "covenant": "Venthyr",
+        "renown": 64,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/182359738-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Nottito",
@@ -392,7 +392,7 @@
         "race": 2,
         "level": 60,
         "title": "Sausagepants",
-        "ilvl": 237,
+        "ilvl": 239,
         "score": 1027.5,
         "scoreColor": "#5dca7a",
         "covenant": "Night Fae",
@@ -433,7 +433,7 @@
     ],
     "score": 4114.0,
     "scoreColor": "#5dca7a",
-    "avgilvl": 229.5,
+    "avgilvl": 230.0,
     "highestkey": {
       "key": 0,
       "per": 0,
