@@ -142,7 +142,7 @@ export async function getStaticPaths() {
       },
       {
         params: {
-          page: 'tournament-1',
+          page: 'tournament-3',
         },
       },
     ],

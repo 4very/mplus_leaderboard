@@ -44,7 +44,7 @@ export default function teamHall(props: any) {
                 className="mb-48"
                 style={{
                   display: 'grid',
-                  gridTemplateColumns: 'repeat(5,300px)',
+                  gridTemplateColumns: `repeat(${team.players.length},300px)`,
                   height: '350px',
                 }}
               >
