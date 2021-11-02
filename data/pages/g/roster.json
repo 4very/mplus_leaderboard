@@ -18556,23 +18556,5 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
     }
-  },
-  "191482749": {
-    "name": "Nicorobln",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 32,
-    "rank": 9,
-    "score": 1505.5,
-    "scoreColor": "#5191ba",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Nicorobln",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Nicorobln",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Nicorobln",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nicorobln"
-    }
   }
 }
