@@ -940,6 +940,93 @@
       "scoreColor": "#ae39e2",
       "timeDiff": -243338,
       "percDiff": -0.11260440194558163
+    },
+    "12375698": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12375698-19-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 145.4,
+      "keystoneLevel": 19,
+      "clearTime": 2204741,
+      "dateCompleted": "2021-11-02T01:41:04.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "112272998",
+        "189411814",
+        "217819077",
+        "220278881"
+      ],
+      "count": 4,
+      "scoreColor": "#c845bf",
+      "timeDiff": -76258,
+      "percDiff": -0.03343184280221079
+    },
+    "12373133": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12373133-15-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 126.5,
+      "keystoneLevel": 15,
+      "clearTime": 2006875,
+      "dateCompleted": "2021-11-02T00:53:17.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "112272998",
+        "189411814",
+        "215077030",
+        "219367534",
+        "220986443"
+      ],
+      "count": 5,
+      "scoreColor": "#8351e8",
+      "timeDiff": -274124,
+      "percDiff": -0.12017716798648315
+    },
+    "12374215": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12374215-21-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 149.7,
+      "keystoneLevel": 21,
+      "clearTime": 2338931,
+      "dateCompleted": "2021-11-02T01:12:54.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "202632854",
+        "219115702"
+      ],
+      "count": 2,
+      "scoreColor": "#d24cad",
+      "timeDiff": 57932,
+      "percDiff": 0.025397643751706944
+    },
+    "12375097": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12375097-15-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 117.1,
+      "keystoneLevel": 15,
+      "clearTime": 3175649,
+      "dateCompleted": "2021-11-02T00:36:07.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 2580999,
+      "members": [
+        "95012110",
+        "155866761",
+        "160444473",
+        "191546276"
+      ],
+      "count": 4,
+      "scoreColor": "#406ae0",
+      "timeDiff": 594650,
+      "percDiff": 0.23039528492649541
     }
   }
 }
