@@ -1,0 +1,37 @@
+{
+  "dudes.": {
+    "name": "Dudes. Just f*cking agree on a name.",
+    "players": [
+      {
+        "name": "Nottito",
+        "realm": "Illidan",
+        "role": "Tank"
+      },
+      {
+        "name": "Anador",
+        "realm": "Illidan",
+        "role": "Healer"
+      },
+      {
+        "name": "Asteraoth",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Kaziganthii",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Corrupthunt",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
+      {
+        "name": "Rénshi",
+        "realm": "Illidan",
+        "role": "Damage"
+      }
+    ]
+  }
+}

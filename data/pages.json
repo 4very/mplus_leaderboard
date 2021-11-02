@@ -29,7 +29,7 @@
     "endText": "November 24th 2021",
     "players-required": 4,
     "collectGraphs": false,
-    "teamDetails": false,
+    "teamDetails": true,
     "teamHall": true
   }
 }
