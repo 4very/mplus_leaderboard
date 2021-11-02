@@ -24,20 +24,30 @@ export default function HomePage() {
               <Link href="/g/current">Current Week</Link>
             </Typography>
           </div>
-          <div className="">
+          <div className="flex self-center justify-center flex-col mb-20">
             <Typography variant="h3" className="font-serif">
               Guild Tournaments
-            </Typography>
-            <Typography variant="h4" className="underline">
-              <Link href="/t/tournament-2">
-                the September(ish) M+ Tournament!
-              </Link>
             </Typography>
             <Typography variant="h4" className="underline">
               <Link href="/t/tournament-3">
                 the Spooky Specs Mythic+ Tournament
               </Link>
             </Typography>
+
+            {/* <Typography variant="h4" className="underline">
+              <Link href="/t/tournament-1">Tournament 1</Link>
+            </Typography> */}
+          </div>
+          <div className="">
+            <Typography variant="h4" className="font-serif">
+              Previous Tournaments
+            </Typography>
+            <Typography variant="h5" className="underline">
+              <Link href="/t/tournament-2">
+                the September(ish) M+ Tournament!
+              </Link>
+            </Typography>
+
             {/* <Typography variant="h4" className="underline">
               <Link href="/t/tournament-1">Tournament 1</Link>
             </Typography> */}
