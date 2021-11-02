@@ -71,7 +71,8 @@ def getAllRuns(folder: str, pageParams: dict) -> dict:
 
         for player in team['players']:
             for runId, run in getPlayerRuns(player['name'].lower(), player['realm'].lower()).items():
-              # if isValidRun(runId, run, folder, pageParams): TODO
+                if not isValidRun(runId, run, folder, pageParams):
+                  continue
                 if runId in validRuns.keys():
                     validRuns[runId]['count'] += 1
                 else:
@@ -109,9 +110,9 @@ def getPlayerRuns(name: str, realm: str) -> list:
 
 
 def isValidRun(id: str, run: object, folder: str, pageParams: object):
-    return \
-        not isDuplicate(id, folder) and \
-        isValidDate(run['dateCompleted'], pageParams['start-date'])
+    return isValidDate(run['dateCompleted'], pageParams['start-date'])
+        # not isDuplicate(id, folder) and \
+        
 
 
 def removeNonFullTeamRuns(validRuns: object, pageParams: object):

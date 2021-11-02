@@ -169,34 +169,163 @@
       {
         "name": "Whitegùrlz",
         "realm": "Illidan",
-        "role": "Tank"
+        "role": "Tank",
+        "id": 192926058,
+        "faction": "Horde",
+        "class": 1,
+        "className": "Warrior",
+        "classColor": "#C69B6D",
+        "race": 6,
+        "level": 60,
+        "title": "Whitegùrlz the Undying",
+        "ilvl": 246,
+        "score": 1798.1,
+        "scoreColor": "#1773da",
+        "covenant": "Kyrian",
+        "renown": 80,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/106/192926058-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Whitegùrlz",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Whitegùrlz",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Whitegùrlz",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Whitegùrlz"
+        }
       },
       {
         "name": "Seigyu",
         "realm": "Illidan",
-        "role": "Heal"
+        "role": "Heal",
+        "id": 220065005,
+        "faction": "Horde",
+        "class": 11,
+        "className": "Druid",
+        "classColor": "#FF7C0A",
+        "race": 8,
+        "level": 60,
+        "title": "Seigyu, Hand of A'dal",
+        "ilvl": 249,
+        "score": 2135,
+        "scoreColor": "#a335ee",
+        "covenant": "Night Fae",
+        "renown": 80,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/237/220065005-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Seigyu",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Seigyu",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Seigyu",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Seigyu"
+        }
       },
       {
         "name": "Arinaki",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 220696506,
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 35,
+        "level": 60,
+        "title": "Arinaki, Hand of the Archon",
+        "ilvl": 241,
+        "score": 1813.3,
+        "scoreColor": "#1773da",
+        "covenant": "Kyrian",
+        "renown": 80,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Arinaki",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Arinaki",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Arinaki"
+        }
       },
       {
         "name": "Dannyshot",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 219794560,
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 2,
+        "level": 60,
+        "title": "Dannyshot",
+        "ilvl": 241,
+        "score": 1459.5,
+        "scoreColor": "#5597b4",
+        "covenant": "Night Fae",
+        "renown": 75,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/128/219794560-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Dannyshot",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshot",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Dannyshot",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Dannyshot"
+        }
       },
       {
         "name": "Dracuhl",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 219591485,
+        "faction": "Horde",
+        "class": 12,
+        "className": "Demon Hunter",
+        "classColor": "#A330C9",
+        "race": 10,
+        "level": 60,
+        "title": "Dracuhl the Proud",
+        "ilvl": 243,
+        "score": 1296.6,
+        "scoreColor": "#5da8a2",
+        "covenant": "Night Fae",
+        "renown": 57,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/61/219591485-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Dracuhl",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dracuhl",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Dracuhl",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Dracuhl"
+        }
       },
       {
         "name": "Theorîze",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 220170242,
+        "faction": "Horde",
+        "class": 4,
+        "className": "Rogue",
+        "classColor": "#FFF468",
+        "race": 5,
+        "level": 60,
+        "title": "Theorîze",
+        "ilvl": 250,
+        "score": 2284.9,
+        "scoreColor": "#c141cb",
+        "covenant": "Venthyr",
+        "renown": 80,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/2/220170242-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Theorîze",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Theorîze",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Theorîze",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Theorîze"
+        }
       }
-    ]
+    ],
+    "score": 10787.4,
+    "scoreColor": "#1773da",
+    "avgilvl": 245.0,
+    "highestkey": {
+      "key": 0,
+      "per": 0,
+      "str": "none"
+    },
+    "numkeys": 0
   },
   "BBB": {
     "name": "Bobby's Boost Buyers",
@@ -204,23 +333,112 @@
       {
         "name": "Oshyro",
         "realm": "Illidan",
-        "role": "Tank"
+        "role": "Tank",
+        "id": 179483671,
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 10,
+        "level": 60,
+        "title": "Oshyro, Herald of the Titans",
+        "ilvl": 212,
+        "score": 383.6,
+        "scoreColor": "#b9ffa1",
+        "covenant": "Venthyr",
+        "renown": 48,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/23/179483671-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Oshyro",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Oshyro",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Oshyro",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Oshyro"
+        }
       },
       {
         "name": "Soroyam",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 183421074,
+        "faction": "Horde",
+        "class": 8,
+        "className": "Mage",
+        "classColor": "#3FC7EB",
+        "race": 27,
+        "level": 60,
+        "title": "Soroyam the Faceless One",
+        "ilvl": 242,
+        "score": 1808,
+        "scoreColor": "#1773da",
+        "covenant": "Kyrian",
+        "renown": 43,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Soroyam",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Soroyam",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Soroyam",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Soroyam"
+        }
       },
       {
         "name": "Sausagepants",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 187336568,
+        "faction": "Horde",
+        "class": 3,
+        "className": "Hunter",
+        "classColor": "#AAD372",
+        "race": 2,
+        "level": 60,
+        "title": "Sausagepants",
+        "ilvl": 237,
+        "score": 1027.5,
+        "scoreColor": "#5dca7a",
+        "covenant": "Night Fae",
+        "renown": 73,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Sausagepants",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sausagepants",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Sausagepants",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Sausagepants"
+        }
       },
       {
         "name": "Propulse",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 170598347,
+        "faction": "Horde",
+        "class": 9,
+        "className": "Warlock",
+        "classColor": "#8788EE",
+        "race": 5,
+        "level": 60,
+        "title": "Legionnaire Propulse",
+        "ilvl": 226,
+        "score": 894.9,
+        "scoreColor": "#57d966",
+        "covenant": "Night Fae",
+        "renown": 64,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Propulse",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Propulse",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Propulse",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Propulse"
+        }
       }
-    ]
+    ],
+    "score": 4114.0,
+    "scoreColor": "#5dca7a",
+    "avgilvl": 229.25,
+    "highestkey": {
+      "key": 0,
+      "per": 0,
+      "str": "none"
+    },
+    "numkeys": 0
   }
 }
