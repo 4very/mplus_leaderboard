@@ -128,14 +128,34 @@
         }
       },
       {
-        "name": "R\u00e9nshi",
+        "name": "Rénshi",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 112259843,
+        "faction": "Horde",
+        "class": 2,
+        "className": "Paladin",
+        "classColor": "#F48CBA",
+        "race": 10,
+        "level": 60,
+        "title": "Rénshi the Argent Champion",
+        "ilvl": 251,
+        "score": 2184.4,
+        "scoreColor": "#ae39e2",
+        "covenant": "Kyrian",
+        "renown": 80,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/3/112259843-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Rénshi",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Rénshi",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Rénshi",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Rénshi"
+        }
       }
     ],
-    "score": 10562.3,
-    "scoreColor": "#eb6273",
-    "avgilvl": 248.6,
+    "score": 12746.7,
+    "scoreColor": "#9c3eed",
+    "avgilvl": 249.0,
     "highestkey": {
       "key": 0,
       "per": 0,

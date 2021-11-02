@@ -30,15 +30,15 @@ def writeRunsToFile(runs: dict, folder: str):
     jsonData = load(f)
 
   jsonData['data'] = {**jsonData['data'], **runs}
-  
+
   with open(runsFile, 'w') as f:
     dump(jsonData, f, indent=2)
     logging.info(f'Wrote {len(runs)} new runs to file')
-  
+
 
 def getRuns(folder: str, pageParams: dict) -> dict:
   runs = getAllRuns(folder, pageParams)
-  
+
   AddScoreColors(runs)
   AddTimeAndPercDiff(runs)
 
@@ -47,7 +47,7 @@ def getRuns(folder: str, pageParams: dict) -> dict:
 def AddScoreColors(runs):
   for runId, run in runs.items():
     runs[runId]['scoreColor'] = getColorForRunScore(run['score'])
-  
+
 def AddTimeAndPercDiff(runs):
 
   for runId, run in runs.items():
@@ -86,7 +86,7 @@ def getTeams(folder: str) -> dict:
   with open(join(folder,'teams.json'),'r') as f: return load(f)
 
 def dumpTeams(folder: str, teamData: object) -> dict:
-  with open(join(folder,'teams.json'),'w') as f: return dump(teamData,f,indent=2)
+  with open(join(folder,'teams.json'),'w') as f: return dump(teamData,f,indent=2,ensure_ascii=False)
 
 def getRunsFromFile(folder: str) -> dict:
   with open(join(folder,'runs.json'),'r') as f: return load(f)
@@ -147,7 +147,7 @@ def updateRosterData(folder):
   for key, team in teams.items():
     team_score = 0
     team_ilvl = 0
-    for i in range(5):
+    for i in range(len(team['players'])):
       name = team['players'][i]['name']
       realm = team['players'][i]['realm']
 
@@ -211,8 +211,8 @@ def updateRosterData(folder):
     teams[key] = {
       **teams[key],
       'score': round(team_score, 2),
-      'scoreColor': getColorForScore(team_score/4.0),
-      'avgilvl': round(team_ilvl/5, 2),
+      'scoreColor': getColorForScore(team_score/len(team['players'])),
+      'avgilvl': round(team_ilvl/len(team['players']), 2),
       'highestkey':{
         **highKeys[key]
       },
