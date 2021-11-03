@@ -1430,8 +1430,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 2039.5,
-    "scoreColor": "#8351e8",
+    "score": 2046.6,
+    "scoreColor": "#8c4bea",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Iladari",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Iladari",
@@ -15047,6 +15047,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Holyjiggle"
     }
   },
+  "161499990": {
+    "name": "Succyboi",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Succyboi",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Succyboi",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Succyboi",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Succyboi"
+    }
+  },
   "161747675": {
     "name": "Lockyidiot",
     "realm": "sargeras",
@@ -17180,8 +17198,8 @@
     "classColor": "#8788EE",
     "race": 29,
     "rank": 6,
-    "score": 1533.9,
-    "scoreColor": "#4e8ebd",
+    "score": 1537.8,
+    "scoreColor": "#4b8bc0",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Afrocheese",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrocheese",
