@@ -5357,7 +5357,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Madamekitty",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Madamekitty",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Madamekitty",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Madamekitty"
@@ -8237,7 +8237,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Hallowkitty",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hallowkitty",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Hallowkitty",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Hallowkitty"
@@ -17810,7 +17810,7 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 1211.6,
+    "score": 1218.1,
     "scoreColor": "#5fb395",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Raanthia",
