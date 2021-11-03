@@ -2285,24 +2285,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Notouchey"
     }
   },
-  "178766201": {
-    "name": "Sathero",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 10,
-    "rank": 8,
-    "score": 2020,
-    "scoreColor": "#8351e8",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sathero",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sathero",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sathero",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathero"
-    }
-  },
   "178780395": {
     "name": "Seraza",
     "realm": "illidan",
@@ -3049,7 +3031,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 28,
-    "rank": 8,
+    "rank": 9,
     "score": 2139.6,
     "scoreColor": "#a335ee",
     "links": {
@@ -4723,7 +4705,7 @@
     "className": "Demon Hunter",
     "classColor": "#A330C9",
     "race": 10,
-    "rank": 8,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -8917,7 +8899,7 @@
     "className": "Warlock",
     "classColor": "#8788EE",
     "race": 9,
-    "rank": 8,
+    "rank": 9,
     "score": 1290.1,
     "scoreColor": "#5eaa9f",
     "links": {
@@ -12185,24 +12167,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rammal"
     }
   },
-  "220278881": {
-    "name": "Kdapopstars",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 10,
-    "rank": 9,
-    "score": 2600.7,
-    "scoreColor": "#e75e7f",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstars",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstars"
-    }
-  },
   "220279185": {
     "name": "Grogabusk",
     "realm": "illidan",
@@ -12813,6 +12777,60 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ceelion",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ceelion",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ceelion"
+    }
+  },
+  "220278881": {
+    "name": "Kdapopstars",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 10,
+    "rank": 8,
+    "score": 2600.7,
+    "scoreColor": "#e75e7f",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstars",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstars"
+    }
+  },
+  "178766201": {
+    "name": "Sathero",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 10,
+    "rank": 8,
+    "score": 2020,
+    "scoreColor": "#8351e8",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Sathero",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sathero",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sathero",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathero"
+    }
+  },
+  "221101334": {
+    "name": "Basurapanda",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 2380.3,
+    "scoreColor": "#cf49b3",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Basurapanda",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Basurapanda",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Basurapanda",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Basurapanda"
     }
   },
   "989898": {
@@ -13652,8 +13670,8 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 8,
-    "score": 1946.1,
-    "scoreColor": "#675fe4",
+    "score": 2003.6,
+    "scoreColor": "#7b56e7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Apitome",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Apitome",
