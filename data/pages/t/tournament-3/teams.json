@@ -418,10 +418,10 @@
         "level": 60,
         "title": "Legionnaire Propulse",
         "ilvl": 226,
-        "score": 948.3,
-        "scoreColor": "#5ad36f",
+        "score": 982.4,
+        "scoreColor": "#5ccd76",
         "covenant": "Night Fae",
-        "renown": 64,
+        "renown": 65,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Propulse",
@@ -431,7 +431,7 @@
         }
       }
     ],
-    "score": 4167.4,
+    "score": 4201.5,
     "scoreColor": "#5ec77d",
     "avgilvl": 230.0,
     "highestkey": {
