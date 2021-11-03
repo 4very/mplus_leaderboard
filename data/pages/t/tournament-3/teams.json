@@ -114,7 +114,7 @@
         "race": 36,
         "level": 60,
         "title": "Elder Corrupthunt",
-        "ilvl": 246,
+        "ilvl": 247,
         "score": 2153.3,
         "scoreColor": "#a937e8",
         "covenant": "Night Fae",
@@ -155,7 +155,7 @@
     ],
     "score": 12746.7,
     "scoreColor": "#9c3eed",
-    "avgilvl": 249.0,
+    "avgilvl": 249.17,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -418,8 +418,8 @@
         "level": 60,
         "title": "Legionnaire Propulse",
         "ilvl": 226,
-        "score": 894.9,
-        "scoreColor": "#57d966",
+        "score": 948.3,
+        "scoreColor": "#5ad36f",
         "covenant": "Night Fae",
         "renown": 64,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
@@ -431,8 +431,8 @@
         }
       }
     ],
-    "score": 4114.0,
-    "scoreColor": "#5dca7a",
+    "score": 4167.4,
+    "scoreColor": "#5ec77d",
     "avgilvl": 230.0,
     "highestkey": {
       "key": 0,
