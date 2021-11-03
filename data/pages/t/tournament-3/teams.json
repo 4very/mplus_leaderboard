@@ -183,7 +183,7 @@
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
         "renown": 80,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/106/192926058-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Whitegùrlz",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Whitegùrlz",
@@ -417,7 +417,7 @@
         "race": 5,
         "level": 60,
         "title": "Legionnaire Propulse",
-        "ilvl": 226,
+        "ilvl": 227,
         "score": 1024,
         "scoreColor": "#5dca7a",
         "covenant": "Night Fae",
@@ -433,7 +433,7 @@
     ],
     "score": 4243.1,
     "scoreColor": "#5ec481",
-    "avgilvl": 230.0,
+    "avgilvl": 230.25,
     "highestkey": {
       "key": 0,
       "per": 0,
