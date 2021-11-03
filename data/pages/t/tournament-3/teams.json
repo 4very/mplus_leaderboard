@@ -18,7 +18,7 @@
         "score": 2111.2,
         "scoreColor": "#9c3eed",
         "covenant": "Venthyr",
-        "renown": 64,
+        "renown": 65,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/182359738-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Nottito",
@@ -42,8 +42,8 @@
         "ilvl": 249,
         "score": 2160.4,
         "scoreColor": "#a937e8",
-        "covenant": "Kyrian",
-        "renown": 3,
+        "covenant": "Venthyr",
+        "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/107/183203691-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Anador",
@@ -346,7 +346,7 @@
         "score": 383.6,
         "scoreColor": "#b9ffa1",
         "covenant": "Venthyr",
-        "renown": 48,
+        "renown": 50,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/23/179483671-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Oshyro",
