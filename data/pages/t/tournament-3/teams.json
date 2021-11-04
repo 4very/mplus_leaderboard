@@ -68,7 +68,7 @@
         "score": 2085.2,
         "scoreColor": "#9445eb",
         "covenant": "Kyrian",
-        "renown": 76,
+        "renown": 78,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/111/198501487-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Asteraoth",
@@ -343,8 +343,8 @@
         "level": 60,
         "title": "Oshyro, Herald of the Titans",
         "ilvl": 212,
-        "score": 383.6,
-        "scoreColor": "#b9ffa1",
+        "score": 450.1,
+        "scoreColor": "#93ff77",
         "covenant": "Venthyr",
         "renown": 50,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/23/179483671-main-raw.png",
@@ -371,7 +371,7 @@
         "score": 1808,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
-        "renown": 48,
+        "renown": 52,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -431,7 +431,7 @@
         }
       }
     ],
-    "score": 4243.1,
+    "score": 4309.6,
     "scoreColor": "#5ec481",
     "avgilvl": 230.25,
     "highestkey": {
