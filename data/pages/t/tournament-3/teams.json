@@ -358,12 +358,52 @@
       {
         "name": "Dranoosh",
         "realm": "Illidan",
-        "role": "Damage"
+        "role": "Damage",
+        "id": 195166200,
+        "faction": "Horde",
+        "class": 1,
+        "className": "Warrior",
+        "classColor": "#C69B6D",
+        "race": 36,
+        "level": 60,
+        "title": "Dranoosh, Liberator of Orgrimmar",
+        "ilvl": 224,
+        "score": 0,
+        "scoreColor": "#ffffff",
+        "covenant": "Venthyr",
+        "renown": 79,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/248/195166200-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Dranoosh",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dranoosh",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Dranoosh",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Dranoosh"
+        }
       },
       {
         "name": "Okuro",
         "realm": "Illidan",
-        "role": "Heal"
+        "role": "Heal",
+        "id": 180123322,
+        "faction": "Horde",
+        "class": 5,
+        "className": "Priest",
+        "classColor": "#FFFFFF",
+        "race": 27,
+        "level": 60,
+        "title": "Loremaster Okuro",
+        "ilvl": 228,
+        "score": 191.2,
+        "scoreColor": "#ffffff",
+        "covenant": "Kyrian",
+        "renown": 65,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/186/180123322-main-raw.png",
+        "links": {
+          "rio": "https://raider.io/characters/us/illidan/Okuro",
+          "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Okuro",
+          "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Okuro",
+          "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Okuro"
+        }
       },
       {
         "name": "Soroyam",
@@ -441,9 +481,9 @@
         }
       }
     ],
-    "score": 4309.6,
-    "scoreColor": "#5ec481",
-    "avgilvl": 230.25,
+    "score": 4500.8,
+    "scoreColor": "#48ea4a",
+    "avgilvl": 228.83,
     "highestkey": {
       "key": 0,
       "per": 0,
