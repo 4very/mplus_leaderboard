@@ -304,10 +304,10 @@
         "level": 60,
         "title": "Theorîze",
         "ilvl": 250,
-        "score": 2289.5,
+        "score": 2289.7,
         "scoreColor": "#c141cb",
         "covenant": "Necrolord",
-        "renown": 41,
+        "renown": 44,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/2/220170242-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Theorîze",
@@ -317,9 +317,9 @@
         }
       }
     ],
-    "score": 10792.0,
-    "scoreColor": "#1773da",
-    "avgilvl": 245.0,
+    "score": 9332.7,
+    "scoreColor": "#4b8bc0",
+    "avgilvl": 204.83,
     "highestkey": {
       "key": 0,
       "per": 0,
