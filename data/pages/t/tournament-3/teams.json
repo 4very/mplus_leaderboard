@@ -306,9 +306,9 @@
         "ilvl": 250,
         "score": 2284.9,
         "scoreColor": "#c141cb",
-        "covenant": "Venthyr",
-        "renown": 80,
-        "render": null,
+        "covenant": "Necrolord",
+        "renown": 41,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/2/220170242-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Theorîze",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Theorîze",
