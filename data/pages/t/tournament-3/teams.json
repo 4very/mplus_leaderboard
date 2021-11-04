@@ -355,11 +355,15 @@
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Oshyro"
         }
       },
-      ,
+      {
+        "name": "Dranoosh",
+        "realm": "Illidan",
+        "role": "Damage"
+      },
       {
         "name": "Okuro",
         "realm": "Illidan",
-        "role": "Heal",
+        "role": "Heal"
       },
       {
         "name": "Soroyam",
@@ -435,11 +439,6 @@
           "wcl": "https://www.warcraftlogs.com/character/us/Illidan/Propulse",
           "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=Illidan&name=Propulse"
         }
-      },
-      {
-        "name": "Dranoosh",
-        "realm": "Illidan",
-        "role": "Damage",
       }
     ],
     "score": 4309.6,
