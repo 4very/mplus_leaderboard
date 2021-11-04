@@ -307,7 +307,7 @@
         "score": 2289.7,
         "scoreColor": "#c141cb",
         "covenant": "Necrolord",
-        "renown": 44,
+        "renown": 53,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/2/220170242-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Theorîze",
@@ -371,8 +371,8 @@
         "score": 1808,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
-        "renown": 52,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
+        "renown": 53,
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Soroyam",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Soroyam",
