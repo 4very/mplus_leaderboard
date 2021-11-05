@@ -14309,24 +14309,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Arictt"
     }
   },
-  "151776881": {
-    "name": "Demvarien",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Demvarien",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Demvarien",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Demvarien",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Demvarien"
-    }
-  },
   "151850862": {
     "name": "Rooffuss",
     "realm": "sargeras",
