@@ -1613,7 +1613,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Reconwar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Reconwar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Reconwar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Reconwar"
@@ -10916,7 +10916,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 2049.4,
+    "score": 2055.1,
     "scoreColor": "#8c4bea",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pikamage",
@@ -12176,8 +12176,8 @@
     "classColor": "#0070DD",
     "race": 35,
     "rank": 9,
-    "score": 1510.5,
-    "scoreColor": "#4e8ebd",
+    "score": 1561.4,
+    "scoreColor": "#4889c3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Acacallis",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Acacallis",
