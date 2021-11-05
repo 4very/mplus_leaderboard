@@ -93,7 +93,7 @@
         "score": 2066.3,
         "scoreColor": "#9445eb",
         "covenant": "Night Fae",
-        "renown": 77,
+        "renown": 78,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/236/203339500-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Kaziganthii",
@@ -231,8 +231,8 @@
         "ilvl": 241,
         "score": 1813.3,
         "scoreColor": "#1773da",
-        "covenant": "Kyrian",
-        "renown": 80,
+        "covenant": "Night Fae",
+        "renown": 42,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
@@ -368,7 +368,7 @@
         "level": 60,
         "title": "Dranoosh, Liberator of Orgrimmar",
         "ilvl": 224,
-        "score": 0,
+        "score": 117.6,
         "scoreColor": "#ffffff",
         "covenant": "Venthyr",
         "renown": 79,
@@ -393,8 +393,8 @@
         "level": 60,
         "title": "Loremaster Okuro",
         "ilvl": 228,
-        "score": 191.2,
-        "scoreColor": "#ffffff",
+        "score": 308.8,
+        "scoreColor": "#d9ffca",
         "covenant": "Kyrian",
         "renown": 65,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/180123322-main-raw.png",
@@ -443,8 +443,8 @@
         "level": 60,
         "title": "Sausagepants",
         "ilvl": 239,
-        "score": 1027.5,
-        "scoreColor": "#5dca7a",
+        "score": 1145.1,
+        "scoreColor": "#5fbc8b",
         "covenant": "Night Fae",
         "renown": 73,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Legionnaire Propulse",
         "ilvl": 227,
-        "score": 1024,
-        "scoreColor": "#5dca7a",
+        "score": 1077.8,
+        "scoreColor": "#5ec481",
         "covenant": "Night Fae",
         "renown": 69,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
@@ -481,14 +481,16 @@
         }
       }
     ],
-    "score": 4500.8,
-    "scoreColor": "#48ea4a",
+    "score": 4907.4,
+    "scoreColor": "#50e159",
     "avgilvl": 228.83,
     "highestkey": {
-      "key": 0,
-      "per": 0,
-      "str": "none"
+      "key": 7,
+      "per": -0.2702679834581252,
+      "dung": "TOP",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/12547247-7-theater-of-pain",
+      "str": "7 TOP (27.03%)"
     },
-    "numkeys": 0
+    "numkeys": 1
   }
 }
