@@ -15,7 +15,7 @@
         "level": 60,
         "title": "Nottito",
         "ilvl": 250,
-        "score": 2111.2,
+        "score": 2123.9,
         "scoreColor": "#9c3eed",
         "covenant": "Necrolord",
         "renown": 80,
@@ -40,7 +40,7 @@
         "level": 60,
         "title": "Anador",
         "ilvl": 249,
-        "score": 2160.4,
+        "score": 2167.2,
         "scoreColor": "#a937e8",
         "covenant": "Venthyr",
         "renown": 79,
@@ -90,10 +90,10 @@
         "level": 60,
         "title": "Kaziganthii of the Iron Vanguard",
         "ilvl": 247,
-        "score": 2052.2,
-        "scoreColor": "#8c4bea",
+        "score": 2066.3,
+        "scoreColor": "#9445eb",
         "covenant": "Night Fae",
-        "renown": 76,
+        "renown": 77,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/236/203339500-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Kaziganthii",
@@ -115,7 +115,7 @@
         "level": 60,
         "title": "Elder Corrupthunt",
         "ilvl": 247,
-        "score": 2153.3,
+        "score": 2159.8,
         "scoreColor": "#a937e8",
         "covenant": "Night Fae",
         "renown": 80,
@@ -140,7 +140,7 @@
         "level": 60,
         "title": "Rénshi the Argent Champion",
         "ilvl": 251,
-        "score": 2184.4,
+        "score": 2192.2,
         "scoreColor": "#ae39e2",
         "covenant": "Kyrian",
         "renown": 80,
@@ -153,15 +153,15 @@
         }
       }
     ],
-    "score": 12746.7,
-    "scoreColor": "#9c3eed",
+    "score": 12794.6,
+    "scoreColor": "#a335ee",
     "avgilvl": 249.17,
     "highestkey": {
       "key": 0,
       "per": 0,
       "str": "none"
     },
-    "numkeys": 0
+    "numkeys": 1
   },
   "Old": {
     "name": "Grumpy Old Men",
