@@ -44,7 +44,7 @@
         "scoreColor": "#a937e8",
         "covenant": "Venthyr",
         "renown": 79,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/107/183203691-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Anador",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Anador",
@@ -208,7 +208,7 @@
         "scoreColor": "#a335ee",
         "covenant": "Night Fae",
         "renown": 80,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/237/220065005-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Seigyu",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Seigyu",
