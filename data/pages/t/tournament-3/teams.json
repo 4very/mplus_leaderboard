@@ -206,8 +206,8 @@
         "ilvl": 249,
         "score": 2135.2,
         "scoreColor": "#a335ee",
-        "covenant": "Night Fae",
-        "renown": 80,
+        "covenant": "Venthyr",
+        "renown": 60,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/237/220065005-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Seigyu",
@@ -346,7 +346,7 @@
         "score": 450.1,
         "scoreColor": "#93ff77",
         "covenant": "Venthyr",
-        "renown": 55,
+        "renown": 60,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/23/179483671-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Oshyro",
@@ -442,11 +442,11 @@
         "race": 2,
         "level": 60,
         "title": "Sausagepants",
-        "ilvl": 240,
+        "ilvl": 241,
         "score": 1145.1,
         "scoreColor": "#5fbc8b",
         "covenant": "Night Fae",
-        "renown": 76,
+        "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sausagepants",
@@ -483,7 +483,7 @@
     ],
     "score": 5165.8,
     "scoreColor": "#55dc62",
-    "avgilvl": 229.33,
+    "avgilvl": 229.5,
     "highestkey": {
       "key": 8,
       "per": -0.15757963944745268,
