@@ -395,8 +395,8 @@
         "ilvl": 229,
         "score": 418,
         "scoreColor": "#adff94",
-        "covenant": "Kyrian",
-        "renown": 66,
+        "covenant": "Venthyr",
+        "renown": 47,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/180123322-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Okuro",
@@ -481,9 +481,9 @@
         }
       }
     ],
-    "score": 5165.8,
-    "scoreColor": "#55dc62",
-    "avgilvl": 229.33,
+    "score": 4715.7,
+    "scoreColor": "#4be74f",
+    "avgilvl": 194.0,
     "highestkey": {
       "key": 8,
       "per": -0.15757963944745268,
