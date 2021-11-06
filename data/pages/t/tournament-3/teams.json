@@ -371,7 +371,7 @@
         "score": 226.8,
         "scoreColor": "#f6fff2",
         "covenant": "Kyrian",
-        "renown": 49,
+        "renown": 51,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/248/195166200-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dranoosh",
@@ -471,7 +471,7 @@
         "score": 1117.8,
         "scoreColor": "#5fbe88",
         "covenant": "Night Fae",
-        "renown": 69,
+        "renown": 70,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Propulse",
@@ -485,12 +485,12 @@
     "scoreColor": "#55dc62",
     "avgilvl": 228.83,
     "highestkey": {
-      "key": 7,
-      "per": -0.2702679834581252,
+      "key": 8,
+      "per": -0.15757963944745268,
       "dung": "TOP",
-      "link": "https://raider.io/mythic-plus-runs/season-sl-2/12547247-7-theater-of-pain",
-      "str": "7 TOP (27.03%)"
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/12611568-8-theater-of-pain",
+      "str": "8 TOP (15.76%)"
     },
-    "numkeys": 2
+    "numkeys": 3
   }
 }
