@@ -18556,5 +18556,41 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemtality",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemtality"
     }
+  },
+  "191549898": {
+    "name": "Mich\u00edru",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Mich\u00edru",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mich\u00edru",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mich\u00edru",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mich\u00edru"
+    }
+  },
+  "78106364": {
+    "name": "G\u00efbbz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 29,
+    "rank": 9,
+    "score": 67.5,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/G\u00efbbz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/G\u00efbbz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/G\u00efbbz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=G\u00efbbz"
+    }
   }
 }
