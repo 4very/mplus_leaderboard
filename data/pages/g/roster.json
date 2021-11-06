@@ -1844,8 +1844,8 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 8,
-    "score": 2123.6,
-    "scoreColor": "#9c3eed",
+    "score": 2152.9,
+    "scoreColor": "#a937e8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sqweasel",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sqweasel",
@@ -4958,8 +4958,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1927.5,
-    "scoreColor": "#5c63e3",
+    "score": 1949.8,
+    "scoreColor": "#675fe4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slowhealslol",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Slowhealslol",
@@ -14687,6 +14687,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=G\u00f6dric"
     }
   },
+  "157864627": {
+    "name": "Lucien\u00e2",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Lucien\u00e2",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lucien\u00e2",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lucien\u00e2",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lucien\u00e2"
+    }
+  },
   "157899872": {
     "name": "Aquivocal",
     "realm": "sargeras",
@@ -18591,6 +18609,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/G\u00efbbz",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/G\u00efbbz",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=G\u00efbbz"
+    }
+  },
+  "168620526": {
+    "name": "Corruptzulu",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 1,
+    "rank": 9,
+    "score": 928.3,
+    "scoreColor": "#58d66b",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Corruptzulu",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Corruptzulu",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Corruptzulu",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Corruptzulu"
     }
   }
 }
