@@ -368,7 +368,7 @@
         "level": 60,
         "title": "Sin Eater Dranoosh",
         "ilvl": 224,
-        "score": 117.6,
+        "score": 221.4,
         "scoreColor": "#ffffff",
         "covenant": "Kyrian",
         "renown": 49,
@@ -393,8 +393,8 @@
         "level": 60,
         "title": "Loremaster Okuro",
         "ilvl": 229,
-        "score": 308.8,
-        "scoreColor": "#d9ffca",
+        "score": 412.6,
+        "scoreColor": "#adff94",
         "covenant": "Kyrian",
         "renown": 66,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/180123322-main-raw.png",
@@ -421,7 +421,7 @@
         "score": 1808,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
-        "renown": 57,
+        "renown": 59,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -468,8 +468,8 @@
         "level": 60,
         "title": "Legionnaire Propulse",
         "ilvl": 228,
-        "score": 1077.8,
-        "scoreColor": "#5ec481",
+        "score": 1112.4,
+        "scoreColor": "#5fbe88",
         "covenant": "Night Fae",
         "renown": 69,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
@@ -481,8 +481,8 @@
         }
       }
     ],
-    "score": 4907.4,
-    "scoreColor": "#50e159",
+    "score": 5149.6,
+    "scoreColor": "#53de5e",
     "avgilvl": 228.83,
     "highestkey": {
       "key": 7,
@@ -491,6 +491,6 @@
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/12547247-7-theater-of-pain",
       "str": "7 TOP (27.03%)"
     },
-    "numkeys": 1
+    "numkeys": 2
   }
 }
