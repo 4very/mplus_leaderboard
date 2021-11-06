@@ -178,7 +178,7 @@
         "race": 6,
         "level": 60,
         "title": "Whitegùrlz the Undying",
-        "ilvl": 246,
+        "ilvl": 245,
         "score": 1798.1,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
@@ -257,7 +257,7 @@
         "score": 1459.5,
         "scoreColor": "#5597b4",
         "covenant": "Night Fae",
-        "renown": 75,
+        "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/128/219794560-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshot",
@@ -319,7 +319,7 @@
     ],
     "score": 10800.2,
     "scoreColor": "#1773da",
-    "avgilvl": 245.0,
+    "avgilvl": 244.83,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -421,7 +421,7 @@
         "score": 1808,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
-        "renown": 59,
+        "renown": 61,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -442,11 +442,11 @@
         "race": 2,
         "level": 60,
         "title": "Sausagepants",
-        "ilvl": 237,
+        "ilvl": 240,
         "score": 1145.1,
         "scoreColor": "#5fbc8b",
         "covenant": "Night Fae",
-        "renown": 74,
+        "renown": 76,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sausagepants",
@@ -483,7 +483,7 @@
     ],
     "score": 5165.8,
     "scoreColor": "#55dc62",
-    "avgilvl": 228.83,
+    "avgilvl": 229.33,
     "highestkey": {
       "key": 8,
       "per": -0.15757963944745268,
