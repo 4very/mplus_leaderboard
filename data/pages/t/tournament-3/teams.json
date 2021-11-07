@@ -317,9 +317,9 @@
         }
       }
     ],
-    "score": 10997.7,
-    "scoreColor": "#0070dd",
-    "avgilvl": 245.17,
+    "score": 9191.6,
+    "scoreColor": "#4e8ebd",
+    "avgilvl": 204.17,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -447,7 +447,7 @@
         "scoreColor": "#5fb98f",
         "covenant": "Night Fae",
         "renown": 79,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Sausagepants",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Sausagepants",
