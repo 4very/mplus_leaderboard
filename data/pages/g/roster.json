@@ -18575,6 +18575,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kotlinnative"
     }
   },
+  "191491570": {
+    "name": "Flembo",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Flembo",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flembo",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flembo",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flembo"
+    }
+  },
   "191546276": {
     "name": "Flemtality",
     "realm": "sargeras",
@@ -18645,6 +18663,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Corruptzulu",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Corruptzulu",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Corruptzulu"
+    }
+  },
+  "116806880": {
+    "name": "Antendre",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Antendre",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Antendre",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Antendre",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Antendre"
     }
   }
 }
