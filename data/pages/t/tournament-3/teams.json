@@ -94,7 +94,7 @@
         "scoreColor": "#9445eb",
         "covenant": "Night Fae",
         "renown": 78,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/236/203339500-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Kaziganthii",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Kaziganthii",
@@ -153,9 +153,9 @@
         }
       }
     ],
-    "score": 10670.7,
-    "scoreColor": "#1773da",
-    "avgilvl": 207.67,
+    "score": 12794.6,
+    "scoreColor": "#a335ee",
+    "avgilvl": 249.33,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -206,8 +206,8 @@
         "ilvl": 249,
         "score": 2135.2,
         "scoreColor": "#a335ee",
-        "covenant": "Venthyr",
-        "renown": 60,
+        "covenant": "Night Fae",
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/237/220065005-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Seigyu",
@@ -232,7 +232,7 @@
         "score": 1890.1,
         "scoreColor": "#406ae0",
         "covenant": "Night Fae",
-        "renown": 60,
+        "renown": 65,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",

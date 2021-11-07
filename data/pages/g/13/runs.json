@@ -116,10 +116,9 @@
       "partime": 2340999,
       "members": [
         "155866761",
-        "159787507",
         "191546276"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#9c3eed",
       "timeDiff": -220900,
       "percDiff": -0.09436142433209072
@@ -464,6 +463,48 @@
       "scoreColor": "#d44daa",
       "timeDiff": -345150,
       "percDiff": -0.1402479237090304
+    },
+    "12673796": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12673796-18-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 133.8,
+      "keystoneLevel": 18,
+      "clearTime": 1975291,
+      "dateCompleted": "2021-11-06T23:58:35.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 1800999,
+      "members": [
+        "155866761",
+        "159787507",
+        "191295752",
+        "191546276"
+      ],
+      "count": 4,
+      "scoreColor": "#a335ee",
+      "timeDiff": 174292,
+      "percDiff": 0.09677517866472996
+    },
+    "12672593": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12672593-17-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 129.3,
+      "keystoneLevel": 17,
+      "clearTime": 2407614,
+      "dateCompleted": "2021-11-06T23:20:25.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "159787507",
+        "191295752"
+      ],
+      "count": 2,
+      "scoreColor": "#9445eb",
+      "timeDiff": 126615,
+      "percDiff": 0.055508573217261326
     }
   }
 }
