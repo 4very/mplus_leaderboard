@@ -18700,5 +18700,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Barkatdemoon",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Barkatdemoon"
     }
+  },
+  "146690306": {
+    "name": "Kariva",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Kariva",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kariva",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kariva",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kariva"
+    }
   }
 }
