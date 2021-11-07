@@ -178,8 +178,8 @@
         "race": 6,
         "level": 60,
         "title": "Whitegùrlz the Undying",
-        "ilvl": 245,
-        "score": 1798.1,
+        "ilvl": 246,
+        "score": 1806.1,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
         "renown": 80,
@@ -204,7 +204,7 @@
         "level": 60,
         "title": "Seigyu, Hand of A'dal",
         "ilvl": 249,
-        "score": 2135.2,
+        "score": 2139.3,
         "scoreColor": "#a335ee",
         "covenant": "Night Fae",
         "renown": 80,
@@ -229,8 +229,8 @@
         "level": 60,
         "title": "Arinaki, Hand of the Archon",
         "ilvl": 242,
-        "score": 1890.1,
-        "scoreColor": "#406ae0",
+        "score": 1918,
+        "scoreColor": "#4f67e1",
         "covenant": "Night Fae",
         "renown": 65,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
@@ -252,12 +252,12 @@
         "classColor": "#AAD372",
         "race": 2,
         "level": 60,
-        "title": "Dannyshot",
+        "title": "Dannyshot the Uncorrupted",
         "ilvl": 241,
-        "score": 1459.5,
-        "scoreColor": "#5597b4",
+        "score": 1526.7,
+        "scoreColor": "#4e8ebd",
         "covenant": "Night Fae",
-        "renown": 79,
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/128/219794560-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshot",
@@ -317,15 +317,15 @@
         }
       }
     ],
-    "score": 10877.0,
-    "scoreColor": "#1773da",
-    "avgilvl": 245.0,
+    "score": 10984.2,
+    "scoreColor": "#0070dd",
+    "avgilvl": 245.17,
     "highestkey": {
       "key": 0,
       "per": 0,
       "str": "none"
     },
-    "numkeys": 0
+    "numkeys": 1
   },
   "BoB": {
     "name": "Bobby's Boost Buyers",
@@ -443,8 +443,8 @@
         "level": 60,
         "title": "Sausagepants",
         "ilvl": 241,
-        "score": 1145.1,
-        "scoreColor": "#5fbc8b",
+        "score": 1159.8,
+        "scoreColor": "#5fb98f",
         "covenant": "Night Fae",
         "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
@@ -481,7 +481,7 @@
         }
       }
     ],
-    "score": 5165.8,
+    "score": 5180.5,
     "scoreColor": "#55dc62",
     "avgilvl": 229.5,
     "highestkey": {
