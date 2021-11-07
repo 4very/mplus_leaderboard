@@ -6758,7 +6758,7 @@
     "classColor": "#C69B6D",
     "race": 36,
     "rank": 4,
-    "score": 2129.5,
+    "score": 2136.6,
     "scoreColor": "#a335ee",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Jidanbo",
@@ -7334,7 +7334,7 @@
     "classColor": "#00FF98",
     "race": 35,
     "rank": 9,
-    "score": 2400.3,
+    "score": 2401,
     "scoreColor": "#d14baf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zinani",
@@ -11096,7 +11096,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2412.1,
+    "score": 2412.8,
     "scoreColor": "#d44daa",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Deaddruid",
@@ -12813,6 +12813,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Segoviawar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Segoviawar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Segoviawar"
+    }
+  },
+  "221094108": {
+    "name": "Assmodeana",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 755.5,
+    "scoreColor": "#48ea4a",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Assmodeana",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Assmodeana",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Assmodeana",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Assmodeana"
     }
   },
   "989898": {
