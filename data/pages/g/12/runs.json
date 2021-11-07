@@ -660,12 +660,11 @@
       "faction": "alliance",
       "partime": 2460999,
       "members": [
-        "131101429",
         "188505070",
         "188590126",
         "191546276"
       ],
-      "count": 4,
+      "count": 3,
       "scoreColor": "#675fe4",
       "timeDiff": 403397,
       "percDiff": 0.1639159544558937
