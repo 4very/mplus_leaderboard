@@ -624,10 +624,12 @@
       "faction": "alliance",
       "partime": 1800999,
       "members": [
+        "131101429",
         "159787507",
+        "191295752",
         "191549898"
       ],
-      "count": 2,
+      "count": 4,
       "scoreColor": "#8c4bea",
       "timeDiff": -411493,
       "percDiff": -0.22848041559156895
@@ -644,10 +646,12 @@
       "faction": "alliance",
       "partime": 2280999,
       "members": [
+        "131101429",
         "159787507",
+        "191295752",
         "191549898"
       ],
-      "count": 2,
+      "count": 4,
       "scoreColor": "#ae39e2",
       "timeDiff": -237596,
       "percDiff": -0.10416313203118455
