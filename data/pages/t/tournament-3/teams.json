@@ -258,7 +258,7 @@
         "scoreColor": "#4e8ebd",
         "covenant": "Night Fae",
         "renown": 80,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/128/219794560-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshot",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshot",
@@ -283,7 +283,7 @@
         "scoreColor": "#5da8a2",
         "covenant": "Night Fae",
         "renown": 57,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/61/219591485-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dracuhl",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dracuhl",
@@ -317,9 +317,9 @@
         }
       }
     ],
-    "score": 9701.1,
-    "scoreColor": "#4183c9",
-    "avgilvl": 204.67,
+    "score": 10997.7,
+    "scoreColor": "#0070dd",
+    "avgilvl": 245.17,
     "highestkey": {
       "key": 0,
       "per": 0,
