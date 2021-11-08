@@ -317,9 +317,9 @@
         }
       }
     ],
-    "score": 8700.2,
-    "scoreColor": "#5597b4",
-    "avgilvl": 203.5,
+    "score": 10997.7,
+    "scoreColor": "#0070dd",
+    "avgilvl": 245.17,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -372,7 +372,7 @@
         "scoreColor": "#edffe4",
         "covenant": "Kyrian",
         "renown": 55,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/248/195166200-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dranoosh",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dranoosh",
