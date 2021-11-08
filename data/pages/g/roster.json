@@ -18772,5 +18772,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kariva",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kariva"
     }
+  },
+  "191406060": {
+    "name": "Durronbolt",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 1,
+    "rank": 9,
+    "score": 223.6,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Durronbolt",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durronbolt",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durronbolt",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durronbolt"
+    }
   }
 }
