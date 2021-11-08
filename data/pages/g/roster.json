@@ -15119,6 +15119,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lockyidiot"
     }
   },
+  "161843316": {
+    "name": "Angeliqu\u00eb",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Angeliqu\u00eb",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Angeliqu\u00eb",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Angeliqu\u00eb",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Angeliqu\u00eb"
+    }
+  },
   "162009905": {
     "name": "Maybellene",
     "realm": "sargeras",
