@@ -368,8 +368,8 @@
         "level": 60,
         "title": "Sin Eater Dranoosh",
         "ilvl": 224,
-        "score": 226.8,
-        "scoreColor": "#f6fff2",
+        "score": 260.2,
+        "scoreColor": "#edffe4",
         "covenant": "Kyrian",
         "renown": 51,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/248/195166200-main-raw.png",
@@ -393,8 +393,8 @@
         "level": 60,
         "title": "Loremaster Okuro",
         "ilvl": 229,
-        "score": 418,
-        "scoreColor": "#adff94",
+        "score": 451.4,
+        "scoreColor": "#93ff77",
         "covenant": "Venthyr",
         "renown": 48,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/180123322-main-raw.png",
@@ -418,7 +418,7 @@
         "level": 60,
         "title": "Soroyam the Faceless One",
         "ilvl": 243,
-        "score": 1808,
+        "score": 1809.7,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
         "renown": 66,
@@ -443,8 +443,8 @@
         "level": 60,
         "title": "Sausagepants",
         "ilvl": 241,
-        "score": 1297.1,
-        "scoreColor": "#5da8a2",
+        "score": 1335.9,
+        "scoreColor": "#5ca5a5",
         "covenant": "Night Fae",
         "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
@@ -481,7 +481,7 @@
         }
       }
     ],
-    "score": 5317.8,
+    "score": 5425.1,
     "scoreColor": "#57d966",
     "avgilvl": 229.5,
     "highestkey": {
@@ -491,6 +491,6 @@
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/12611568-8-theater-of-pain",
       "str": "8 TOP (15.76%)"
     },
-    "numkeys": 3
+    "numkeys": 4
   }
 }
