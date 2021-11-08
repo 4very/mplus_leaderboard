@@ -367,11 +367,11 @@
         "race": 36,
         "level": 60,
         "title": "Sin Eater Dranoosh",
-        "ilvl": 224,
+        "ilvl": 225,
         "score": 260.2,
         "scoreColor": "#edffe4",
         "covenant": "Kyrian",
-        "renown": 51,
+        "renown": 55,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/248/195166200-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dranoosh",
@@ -481,9 +481,9 @@
         }
       }
     ],
-    "score": 5425.1,
-    "scoreColor": "#57d966",
-    "avgilvl": 229.5,
+    "score": 4975.0,
+    "scoreColor": "#50e159",
+    "avgilvl": 194.33,
     "highestkey": {
       "key": 8,
       "per": -0.15757963944745268,
