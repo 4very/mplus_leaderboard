@@ -233,7 +233,7 @@
         "scoreColor": "#4f67e1",
         "covenant": "Night Fae",
         "renown": 65,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Arinaki",
@@ -481,9 +481,9 @@
         }
       }
     ],
-    "score": 4020.7,
-    "scoreColor": "#3cf337",
-    "avgilvl": 189.33,
+    "score": 5317.8,
+    "scoreColor": "#57d966",
+    "avgilvl": 229.5,
     "highestkey": {
       "key": 8,
       "per": -0.15757963944745268,
