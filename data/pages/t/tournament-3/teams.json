@@ -258,7 +258,7 @@
         "scoreColor": "#4e8ebd",
         "covenant": "Night Fae",
         "renown": 80,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/128/219794560-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshot",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshot",

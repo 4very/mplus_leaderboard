@@ -7334,7 +7334,7 @@
     "classColor": "#00FF98",
     "race": 35,
     "rank": 9,
-    "score": 2404.9,
+    "score": 2408.5,
     "scoreColor": "#d14baf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zinani",
@@ -11096,7 +11096,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2416.1,
+    "score": 2419.6,
     "scoreColor": "#d44daa",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Deaddruid",
@@ -12831,6 +12831,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Assmodeana",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Assmodeana",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Assmodeana"
+    }
+  },
+  "221120049": {
+    "name": "Black\u00f5s",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Black\u00f5s",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Black\u00f5s",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Black\u00f5s",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Black\u00f5s"
     }
   },
   "989898": {
