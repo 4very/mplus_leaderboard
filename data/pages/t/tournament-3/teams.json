@@ -119,7 +119,7 @@
         "scoreColor": "#a937e8",
         "covenant": "Night Fae",
         "renown": 80,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/166/215077030-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corrupthunt",
@@ -481,9 +481,9 @@
         }
       }
     ],
-    "score": 5425.1,
-    "scoreColor": "#57d966",
-    "avgilvl": 229.67,
+    "score": 5164.9,
+    "scoreColor": "#55dc62",
+    "avgilvl": 192.17,
     "highestkey": {
       "key": 8,
       "per": -0.15757963944745268,

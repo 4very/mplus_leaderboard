@@ -3275,6 +3275,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Alathanar"
     }
   },
+  "184636311": {
+    "name": "Kanakz",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kanakz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kanakz",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kanakz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kanakz"
+    }
+  },
   "184712217": {
     "name": "Verrisia",
     "realm": "illidan",
@@ -10952,8 +10970,8 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 2073.8,
-    "scoreColor": "#9445eb",
+    "score": 2097,
+    "scoreColor": "#9c3eed",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pikamage",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Pikamage",
@@ -12797,6 +12815,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ceelion"
     }
   },
+  "221094108": {
+    "name": "Assmodeana",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 768.7,
+    "scoreColor": "#4be74f",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Assmodeana",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Assmodeana",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Assmodeana",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Assmodeana"
+    }
+  },
   "221101334": {
     "name": "Basurapanda",
     "realm": "illidan",
@@ -12831,42 +12867,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Segoviawar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Segoviawar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Segoviawar"
-    }
-  },
-  "221094108": {
-    "name": "Assmodeana",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 768.7,
-    "scoreColor": "#4be74f",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Assmodeana",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Assmodeana",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Assmodeana",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Assmodeana"
-    }
-  },
-  "184636311": {
-    "name": "Kanakz",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kanakz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kanakz",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kanakz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kanakz"
     }
   },
   "221120049": {
@@ -13065,6 +13065,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Orgazmo",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Orgazmo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Orgazmo"
+    }
+  },
+  "78106364": {
+    "name": "G\u00efbbz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 29,
+    "rank": 9,
+    "score": 135,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/G\u00efbbz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/G\u00efbbz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/G\u00efbbz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=G\u00efbbz"
     }
   },
   "80958054": {
@@ -13679,6 +13697,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Amplisa"
     }
   },
+  "116806880": {
+    "name": "Antendre",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Antendre",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Antendre",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Antendre",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Antendre"
+    }
+  },
   "119882548": {
     "name": "T\u00eas",
     "realm": "sargeras",
@@ -14199,6 +14235,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Injects",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Injects",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Injects"
+    }
+  },
+  "146690306": {
+    "name": "Kariva",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Kariva",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kariva",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kariva",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kariva"
     }
   },
   "146830917": {
@@ -15657,6 +15711,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00fbnderlips",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Th\u00fbnderlips",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00fbnderlips"
+    }
+  },
+  "168620526": {
+    "name": "Corruptzulu",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 1,
+    "rank": 9,
+    "score": 928.3,
+    "scoreColor": "#58d66b",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Corruptzulu",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Corruptzulu",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Corruptzulu",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Corruptzulu"
     }
   },
   "168637356": {
@@ -18575,6 +18647,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Malridor"
     }
   },
+  "191406060": {
+    "name": "Durronbolt",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 1,
+    "rank": 9,
+    "score": 223.6,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Durronbolt",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durronbolt",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durronbolt",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durronbolt"
+    }
+  },
   "191436831": {
     "name": "\u00d5j",
     "realm": "sargeras",
@@ -18701,60 +18791,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mich\u00edru"
     }
   },
-  "78106364": {
-    "name": "G\u00efbbz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 29,
-    "rank": 9,
-    "score": 135,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/G\u00efbbz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/G\u00efbbz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/G\u00efbbz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=G\u00efbbz"
-    }
-  },
-  "168620526": {
-    "name": "Corruptzulu",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 1,
-    "rank": 9,
-    "score": 928.3,
-    "scoreColor": "#58d66b",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Corruptzulu",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Corruptzulu",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Corruptzulu",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Corruptzulu"
-    }
-  },
-  "116806880": {
-    "name": "Antendre",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Antendre",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Antendre",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Antendre",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Antendre"
-    }
-  },
   "191590217": {
     "name": "Barkatdemoon",
     "realm": "sargeras",
@@ -18771,42 +18807,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Barkatdemoon",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Barkatdemoon",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Barkatdemoon"
-    }
-  },
-  "146690306": {
-    "name": "Kariva",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Kariva",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kariva",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kariva",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kariva"
-    }
-  },
-  "191406060": {
-    "name": "Durronbolt",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 223.6,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Durronbolt",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durronbolt",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durronbolt",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durronbolt"
     }
   }
 }
