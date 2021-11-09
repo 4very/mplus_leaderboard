@@ -228,11 +228,11 @@
         "race": 35,
         "level": 60,
         "title": "Arinaki, Hand of the Archon",
-        "ilvl": 242,
+        "ilvl": 243,
         "score": 1918,
         "scoreColor": "#4f67e1",
         "covenant": "Night Fae",
-        "renown": 65,
+        "renown": 66,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Arinaki",
@@ -319,7 +319,7 @@
     ],
     "score": 10997.7,
     "scoreColor": "#0070dd",
-    "avgilvl": 245.33,
+    "avgilvl": 245.5,
     "highestkey": {
       "key": 0,
       "per": 0,
