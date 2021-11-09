@@ -12851,6 +12851,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Assmodeana"
     }
   },
+  "184636311": {
+    "name": "Kanakz",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kanakz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kanakz",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kanakz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kanakz"
+    }
+  },
   "221120049": {
     "name": "Black\u00f5s",
     "realm": "illidan",
