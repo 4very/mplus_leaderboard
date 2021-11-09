@@ -421,7 +421,7 @@
         "score": 1809.7,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
-        "renown": 72,
+        "renown": 73,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -481,9 +481,9 @@
         }
       }
     ],
-    "score": 5164.9,
-    "scoreColor": "#55dc62",
-    "avgilvl": 192.17,
+    "score": 5425.1,
+    "scoreColor": "#57d966",
+    "avgilvl": 229.67,
     "highestkey": {
       "key": 8,
       "per": -0.15757963944745268,
