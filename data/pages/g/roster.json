@@ -18844,23 +18844,5 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Smroo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Smroo"
     }
-  },
-  "190703494": {
-    "name": "Leieland",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Leieland",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Leieland",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Leieland",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Leieland"
-    }
   }
 }
