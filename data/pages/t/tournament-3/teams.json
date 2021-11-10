@@ -258,7 +258,7 @@
         "scoreColor": "#4e8ebd",
         "covenant": "Night Fae",
         "renown": 80,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/128/219794560-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dannyshot",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dannyshot",
@@ -317,9 +317,9 @@
         }
       }
     ],
-    "score": 9087.5,
-    "scoreColor": "#4e8ebd",
-    "avgilvl": 205.17,
+    "score": 11005.5,
+    "scoreColor": "#0070dd",
+    "avgilvl": 245.67,
     "highestkey": {
       "key": 0,
       "per": 0,
