@@ -4723,7 +4723,7 @@
     "className": "Demon Hunter",
     "classColor": "#A330C9",
     "race": 10,
-    "rank": 8,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -10970,7 +10970,7 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 2108.8,
+    "score": 2110.9,
     "scoreColor": "#9c3eed",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pikamage",
@@ -12841,7 +12841,7 @@
     "className": "Demon Hunter",
     "classColor": "#A330C9",
     "race": 10,
-    "rank": 9,
+    "rank": 8,
     "score": 2380.3,
     "scoreColor": "#ce49b5",
     "links": {
@@ -18807,6 +18807,60 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Barkatdemoon",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Barkatdemoon",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Barkatdemoon"
+    }
+  },
+  "191550935": {
+    "name": "Warglox",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 22,
+    "rank": 9,
+    "score": 67.5,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Warglox",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Warglox",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Warglox",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Warglox"
+    }
+  },
+  "191400391": {
+    "name": "Smroo",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 22,
+    "rank": 9,
+    "score": 66.8,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Smroo",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Smroo",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Smroo",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Smroo"
+    }
+  },
+  "190703494": {
+    "name": "Leieland",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Leieland",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Leieland",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Leieland",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Leieland"
     }
   }
 }
