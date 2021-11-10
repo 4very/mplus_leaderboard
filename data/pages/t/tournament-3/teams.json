@@ -206,8 +206,8 @@
         "ilvl": 250,
         "score": 2152.8,
         "scoreColor": "#a937e8",
-        "covenant": "Venthyr",
-        "renown": 68,
+        "covenant": "Night Fae",
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/237/220065005-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Seigyu",
@@ -421,7 +421,7 @@
         "score": 1809.7,
         "scoreColor": "#1773da",
         "covenant": "Kyrian",
-        "renown": 73,
+        "renown": 74,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -468,10 +468,10 @@
         "level": 60,
         "title": "Legionnaire Propulse",
         "ilvl": 228,
-        "score": 1117.8,
-        "scoreColor": "#5fbe88",
+        "score": 1285,
+        "scoreColor": "#5eaa9f",
         "covenant": "Night Fae",
-        "renown": 71,
+        "renown": 73,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Propulse",
@@ -481,8 +481,8 @@
         }
       }
     ],
-    "score": 5425.1,
-    "scoreColor": "#57d966",
+    "score": 5592.3,
+    "scoreColor": "#58d66b",
     "avgilvl": 229.67,
     "highestkey": {
       "key": 8,
