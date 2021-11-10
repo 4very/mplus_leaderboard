@@ -1862,8 +1862,8 @@
     "classColor": "#8788EE",
     "race": 5,
     "rank": 9,
-    "score": 1285.7,
-    "scoreColor": "#5eaa9f",
+    "score": 1305.8,
+    "scoreColor": "#5da8a2",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Propulse",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Propulse",
@@ -2618,8 +2618,8 @@
     "classColor": "#FFFFFF",
     "race": 27,
     "rank": 1,
-    "score": 451.4,
-    "scoreColor": "#93ff77",
+    "score": 558.1,
+    "scoreColor": "#48ff2e",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Okuro",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Okuro",
@@ -3896,8 +3896,8 @@
     "classColor": "#AAD372",
     "race": 2,
     "rank": 9,
-    "score": 1398.7,
-    "scoreColor": "#589cae",
+    "score": 1574.6,
+    "scoreColor": "#4889c3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sausagepants",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sausagepants",
@@ -12752,7 +12752,7 @@
     "classColor": "#C41E3A",
     "race": 6,
     "rank": 9,
-    "score": 1983.7,
+    "score": 1985.8,
     "scoreColor": "#715be5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Burtmcsquirt",
@@ -14771,7 +14771,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Lilmcsaucy",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lilmcsaucy",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lilmcsaucy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lilmcsaucy"
