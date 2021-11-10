@@ -12752,8 +12752,8 @@
     "classColor": "#C41E3A",
     "race": 6,
     "rank": 9,
-    "score": 1985.8,
-    "scoreColor": "#715be5",
+    "score": 1991.4,
+    "scoreColor": "#7b56e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Burtmcsquirt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Burtmcsquirt",
@@ -18843,6 +18843,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Smroo",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Smroo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Smroo"
+    }
+  },
+  "171469941": {
+    "name": "Titanosaur",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 1,
+    "rank": 9,
+    "score": 2264.5,
+    "scoreColor": "#bc3ed1",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Titanosaur",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Titanosaur",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Titanosaur",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Titanosaur"
     }
   }
 }
