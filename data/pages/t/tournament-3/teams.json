@@ -17,8 +17,8 @@
         "ilvl": 251,
         "score": 2123.9,
         "scoreColor": "#9c3eed",
-        "covenant": "Kyrian",
-        "renown": 52,
+        "covenant": "Necrolord",
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/182359738-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Nottito",
@@ -203,11 +203,11 @@
         "race": 8,
         "level": 60,
         "title": "Seigyu, Hand of A'dal",
-        "ilvl": 251,
+        "ilvl": 250,
         "score": 2152.8,
         "scoreColor": "#a937e8",
         "covenant": "Venthyr",
-        "renown": 67,
+        "renown": 68,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/237/220065005-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Seigyu",
@@ -319,7 +319,7 @@
     ],
     "score": 10997.7,
     "scoreColor": "#0070dd",
-    "avgilvl": 245.83,
+    "avgilvl": 245.67,
     "highestkey": {
       "key": 0,
       "per": 0,
