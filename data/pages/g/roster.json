@@ -1862,7 +1862,7 @@
     "classColor": "#8788EE",
     "race": 5,
     "rank": 9,
-    "score": 1285,
+    "score": 1285.7,
     "scoreColor": "#5eaa9f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Propulse",
@@ -3896,8 +3896,8 @@
     "classColor": "#AAD372",
     "race": 2,
     "rank": 9,
-    "score": 1335.9,
-    "scoreColor": "#5ca5a5",
+    "score": 1398.7,
+    "scoreColor": "#589cae",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sausagepants",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sausagepants",
@@ -7532,8 +7532,8 @@
     "classColor": "#F48CBA",
     "race": 31,
     "rank": 9,
-    "score": 1333.8,
-    "scoreColor": "#5ca5a5",
+    "score": 1369.1,
+    "scoreColor": "#5a9fab",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Trollsor",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Trollsor",
@@ -8126,7 +8126,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 8,
-    "score": 2548.3,
+    "score": 2551.3,
     "scoreColor": "#e1588d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slyphox",
@@ -8666,7 +8666,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2548.3,
+    "score": 2551.3,
     "scoreColor": "#e1588d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mcthornbody",
@@ -12824,8 +12824,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 768.7,
-    "scoreColor": "#4be74f",
+    "score": 802.5,
+    "scoreColor": "#4ee455",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Assmodeana",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Assmodeana",
@@ -14771,7 +14771,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/sargeras/Lilmcsaucy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lilmcsaucy",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lilmcsaucy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lilmcsaucy"
@@ -17270,7 +17270,7 @@
     "classColor": "#0070DD",
     "race": 3,
     "rank": 8,
-    "score": 1918.3,
+    "score": 1918.4,
     "scoreColor": "#4f67e1",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Santhano",
@@ -18278,7 +18278,7 @@
     "classColor": "#FFF468",
     "race": 25,
     "rank": 9,
-    "score": 2060.7,
+    "score": 2061,
     "scoreColor": "#8c4bea",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Cheeken",
@@ -18350,8 +18350,8 @@
     "classColor": "#8788EE",
     "race": 1,
     "rank": 2,
-    "score": 1885.3,
-    "scoreColor": "#406ae0",
+    "score": 1909.1,
+    "scoreColor": "#4f67e1",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Zublock",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zublock",
@@ -18764,7 +18764,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 1965.2,
+    "score": 1969.9,
     "scoreColor": "#675fe4",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Flemtality",

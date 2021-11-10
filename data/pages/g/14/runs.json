@@ -101,6 +101,73 @@
       "scoreColor": "#dd5399",
       "timeDiff": -210011,
       "percDiff": -0.11660806030430892
+    },
+    "12893603": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12893603-13-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 117.3,
+      "keystoneLevel": 13,
+      "clearTime": 2013474,
+      "dateCompleted": "2021-11-10T04:13:10.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2460999,
+      "members": [
+        "170598347",
+        "180123322",
+        "183421074",
+        "187336568",
+        "203713315"
+      ],
+      "count": 5,
+      "scoreColor": "#406ae0",
+      "timeDiff": -447525,
+      "percDiff": -0.18184688413120043
+    },
+    "12892884": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12892884-12-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 111.9,
+      "keystoneLevel": 12,
+      "clearTime": 2190259,
+      "dateCompleted": "2021-11-10T03:24:28.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "170598347",
+        "180123322",
+        "183421074",
+        "187336568"
+      ],
+      "count": 4,
+      "scoreColor": "#1773da",
+      "timeDiff": -390740,
+      "percDiff": -0.15139099240255416
+    },
+    "12893324": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/12893324-15-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 126.1,
+      "keystoneLevel": 15,
+      "clearTime": 1751432,
+      "dateCompleted": "2021-11-10T04:01:54.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "partime": 1920999,
+      "members": [
+        "188505070",
+        "190573045",
+        "190634616",
+        "191546276"
+      ],
+      "count": 4,
+      "scoreColor": "#8351e8",
+      "timeDiff": -169567,
+      "percDiff": -0.08827021773566779
     }
   }
 }

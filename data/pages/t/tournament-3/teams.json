@@ -392,11 +392,11 @@
         "race": 27,
         "level": 60,
         "title": "Loremaster Okuro",
-        "ilvl": 229,
+        "ilvl": 231,
         "score": 451.4,
         "scoreColor": "#93ff77",
         "covenant": "Venthyr",
-        "renown": 48,
+        "renown": 51,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/180123322-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Okuro",
@@ -443,8 +443,8 @@
         "level": 60,
         "title": "Sausagepants",
         "ilvl": 241,
-        "score": 1335.9,
-        "scoreColor": "#5ca5a5",
+        "score": 1398.7,
+        "scoreColor": "#589cae",
         "covenant": "Night Fae",
         "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/120/187336568-main-raw.png",
@@ -468,10 +468,10 @@
         "level": 60,
         "title": "Legionnaire Propulse",
         "ilvl": 228,
-        "score": 1285,
+        "score": 1285.7,
         "scoreColor": "#5eaa9f",
         "covenant": "Night Fae",
-        "renown": 73,
+        "renown": 75,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Propulse",
@@ -481,16 +481,16 @@
         }
       }
     ],
-    "score": 5592.3,
-    "scoreColor": "#58d66b",
-    "avgilvl": 229.67,
+    "score": 5655.8,
+    "scoreColor": "#5ad36f",
+    "avgilvl": 230.0,
     "highestkey": {
-      "key": 8,
-      "per": -0.15757963944745268,
-      "dung": "TOP",
-      "link": "https://raider.io/mythic-plus-runs/season-sl-2/12611568-8-theater-of-pain",
-      "str": "8 TOP (15.76%)"
+      "key": 13,
+      "per": -0.18184688413120043,
+      "dung": "SD",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/12893603-13-sanguine-depths",
+      "str": "13 SD (18.18%)"
     },
-    "numkeys": 4
+    "numkeys": 6
   }
 }
