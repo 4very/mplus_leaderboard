@@ -7370,7 +7370,7 @@
     "classColor": "#00FF98",
     "race": 35,
     "rank": 9,
-    "score": 2418.7,
+    "score": 2429,
     "scoreColor": "#d44daa",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zinani",
@@ -8126,7 +8126,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 8,
-    "score": 2551.3,
+    "score": 2553.3,
     "scoreColor": "#e1588d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slyphox",
@@ -8666,7 +8666,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2551.3,
+    "score": 2553.3,
     "scoreColor": "#e1588d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mcthornbody",
@@ -11132,8 +11132,8 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2427.8,
-    "scoreColor": "#d44daa",
+    "score": 2438.1,
+    "scoreColor": "#d74fa4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Deaddruid",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Deaddruid",
@@ -12752,7 +12752,7 @@
     "classColor": "#C41E3A",
     "race": 6,
     "rank": 9,
-    "score": 1996,
+    "score": 1998.8,
     "scoreColor": "#7b56e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Burtmcsquirt",
@@ -15893,24 +15893,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Failcher"
     }
   },
-  "169540244": {
-    "name": "Oppanheimer",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Oppanheimer",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Oppanheimer",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Oppanheimer",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Oppanheimer"
-    }
-  },
   "169668929": {
     "name": "Trav\u00fcs",
     "realm": "sargeras",
@@ -18861,6 +18843,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Titanosaur",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Titanosaur",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Titanosaur"
+    }
+  },
+  "191594602": {
+    "name": "Stormyshadow",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 1507.3,
+    "scoreColor": "#5191ba",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Stormyshadow",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Stormyshadow",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Stormyshadow",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Stormyshadow"
     }
   }
 }
