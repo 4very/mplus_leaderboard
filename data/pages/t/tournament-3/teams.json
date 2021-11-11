@@ -17,8 +17,8 @@
         "ilvl": 251,
         "score": 2123.9,
         "scoreColor": "#9c3eed",
-        "covenant": "Kyrian",
-        "renown": 53,
+        "covenant": "Necrolord",
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/182359738-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Nottito",
@@ -304,7 +304,7 @@
         "level": 60,
         "title": "Theorîze",
         "ilvl": 250,
-        "score": 2297.5,
+        "score": 2307.2,
         "scoreColor": "#c442c6",
         "covenant": "Venthyr",
         "renown": 80,
@@ -317,7 +317,7 @@
         }
       }
     ],
-    "score": 11005.5,
+    "score": 11015.2,
     "scoreColor": "#0070dd",
     "avgilvl": 245.67,
     "highestkey": {
