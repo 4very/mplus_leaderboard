@@ -203,7 +203,7 @@
         "race": 8,
         "level": 60,
         "title": "Seigyu, Hand of A'dal",
-        "ilvl": 251,
+        "ilvl": 250,
         "score": 2160.6,
         "scoreColor": "#a937e8",
         "covenant": "Venthyr",
@@ -319,7 +319,7 @@
     ],
     "score": 11005.5,
     "scoreColor": "#0070dd",
-    "avgilvl": 245.83,
+    "avgilvl": 245.67,
     "highestkey": {
       "key": 0,
       "per": 0,
