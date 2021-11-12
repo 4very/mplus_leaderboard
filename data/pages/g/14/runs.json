@@ -53,10 +53,9 @@
       "partime": 2460999,
       "members": [
         "155866761",
-        "191295752",
-        "191549898"
+        "191295752"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#c744c0",
       "timeDiff": -303594,
       "percDiff": -0.12336209807480625
@@ -223,11 +222,10 @@
       "faction": "alliance",
       "partime": 1920999,
       "members": [
-        "159787507",
         "191549898",
         "171469941"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#b73cd7",
       "timeDiff": -269515,
       "percDiff": -0.14029939630369404
@@ -597,12 +595,34 @@
       "partime": 1920999,
       "members": [
         "131101429",
-        "159787507"
+        "159787507",
+        "191549898"
       ],
-      "count": 2,
+      "count": 3,
       "scoreColor": "#c442c6",
       "timeDiff": -17410,
       "percDiff": -0.009062992744920728
+    },
+    "13048516": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/13048516-17-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 138,
+      "keystoneLevel": 17,
+      "clearTime": 1780523,
+      "dateCompleted": "2021-11-12T19:17:32.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2340999,
+      "members": [
+        "131101429",
+        "159787507",
+        "191549898"
+      ],
+      "count": 3,
+      "scoreColor": "#ae39e2",
+      "timeDiff": -560476,
+      "percDiff": -0.23941744528724707
     }
   }
 }
