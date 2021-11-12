@@ -13796,8 +13796,8 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 8,
-    "score": 2062.9,
-    "scoreColor": "#864fe9",
+    "score": 2078.9,
+    "scoreColor": "#8e4aea",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Apitome",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Apitome",
@@ -18987,6 +18987,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Clemille",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Clemille",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Clemille"
+    }
+  },
+  "191465669": {
+    "name": "Masudy",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Masudy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Masudy",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Masudy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Masudy"
     }
   }
 }
