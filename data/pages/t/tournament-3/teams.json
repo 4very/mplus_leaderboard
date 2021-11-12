@@ -397,7 +397,7 @@
         "scoreColor": "#48ff2e",
         "covenant": "Venthyr",
         "renown": 51,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/186/180123322-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Okuro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Okuro",
