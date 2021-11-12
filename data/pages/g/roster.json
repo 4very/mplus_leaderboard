@@ -12887,6 +12887,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Black\u00f5s"
     }
   },
+  "219329156": {
+    "name": "Releion",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 2455.7,
+    "scoreColor": "#d44daa",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Releion",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Releion",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Releion",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Releion"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -16226,8 +16244,8 @@
     "classColor": "#FFFFFF",
     "race": 29,
     "rank": 9,
-    "score": 262.5,
-    "scoreColor": "#edffe4",
+    "score": 287.5,
+    "scoreColor": "#e3ffd7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Lollipopss",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lollipopss",
