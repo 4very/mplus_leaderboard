@@ -12824,8 +12824,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 802.5,
-    "scoreColor": "#4ee455",
+    "score": 832.9,
+    "scoreColor": "#50e159",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Assmodeana",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Assmodeana",
@@ -17252,8 +17252,8 @@
     "classColor": "#0070DD",
     "race": 3,
     "rank": 8,
-    "score": 1918.4,
-    "scoreColor": "#4f67e1",
+    "score": 1933.6,
+    "scoreColor": "#5c63e3",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Santhano",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Santhano",
@@ -18746,7 +18746,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 1998,
+    "score": 2013.2,
     "scoreColor": "#7b56e7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Flemtality",
@@ -18875,7 +18875,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/sargeras/Anonymousoj",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Anonymousoj",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anonymousoj",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonymousoj"
