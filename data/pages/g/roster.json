@@ -5375,7 +5375,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Madamekitty",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Madamekitty",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Madamekitty",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Madamekitty"
@@ -6149,7 +6149,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Plaguekitty",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Plaguekitty",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Plaguekitty",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Plaguekitty"
@@ -18890,7 +18890,7 @@
     "classColor": "#C69B6D",
     "race": 1,
     "rank": 9,
-    "score": 2277.1,
+    "score": 2283.7,
     "scoreColor": "#bc3ed1",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Titanosaur",
