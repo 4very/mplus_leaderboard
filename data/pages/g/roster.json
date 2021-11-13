@@ -1439,6 +1439,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Iladari"
     }
   },
+  "157803124": {
+    "name": "Boogiedemon",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Boogiedemon",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Boogiedemon",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Boogiedemon",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Boogiedemon"
+    }
+  },
   "158938132": {
     "name": "Boeing",
     "realm": "illidan",
@@ -14822,7 +14840,7 @@
     "classColor": "#3FC7EB",
     "race": 7,
     "rank": 8,
-    "score": 2251.7,
+    "score": 2264.8,
     "scoreColor": "#b73cd7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Demosthanese",
@@ -15110,8 +15128,8 @@
     "classColor": "#A330C9",
     "race": 4,
     "rank": 5,
-    "score": 2257.1,
-    "scoreColor": "#b73cd7",
+    "score": 2270.2,
+    "scoreColor": "#bc3ed1",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Th\u00fcnderlipz",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00fcnderlipz",
@@ -18674,7 +18692,7 @@
     "classColor": "#FFFFFF",
     "race": 7,
     "rank": 9,
-    "score": 2158.4,
+    "score": 2171.5,
     "scoreColor": "#a335ee",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Chiryou",
@@ -18836,8 +18854,8 @@
     "classColor": "#AAD372",
     "race": 29,
     "rank": 9,
-    "score": 2214.3,
-    "scoreColor": "#ae39e2",
+    "score": 2227.9,
+    "scoreColor": "#b33add",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Mich\u00edru",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mich\u00edru",
