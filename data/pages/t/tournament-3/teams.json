@@ -153,9 +153,9 @@
         }
       }
     ],
-    "score": 10743.3,
-    "scoreColor": "#1773da",
-    "avgilvl": 207.83,
+    "score": 12853.3,
+    "scoreColor": "#9c3ded",
+    "avgilvl": 249.67,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -325,7 +325,7 @@
       "per": 0,
       "str": "none"
     },
-    "numkeys": 1
+    "numkeys": 0
   },
   "BoB": {
     "name": "Bobby's Boost Buyers",
