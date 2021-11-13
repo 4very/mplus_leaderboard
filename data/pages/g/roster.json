@@ -12923,6 +12923,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Valnatien"
     }
   },
+  "221161943": {
+    "name": "F\u00ebanoramari\u00eb",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 9,
+    "score": 1080.5,
+    "scoreColor": "#5fc185",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/F\u00ebanoramari\u00eb",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/F\u00ebanoramari\u00eb",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/F\u00ebanoramari\u00eb",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=F\u00ebanoramari\u00eb"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -17270,8 +17288,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 800.4,
-    "scoreColor": "#4ee455",
+    "score": 912,
+    "scoreColor": "#58d66b",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Afrobubble",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrobubble",
@@ -18962,8 +18980,8 @@
     "classColor": "#3FC7EB",
     "race": 3,
     "rank": 9,
-    "score": 67.5,
-    "scoreColor": "#ffffff",
+    "score": 289.1,
+    "scoreColor": "#e3ffd7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Eanagh",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Eanagh",
