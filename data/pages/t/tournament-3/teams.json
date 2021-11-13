@@ -65,7 +65,7 @@
         "level": 60,
         "title": "Starcaller Asteraoth",
         "ilvl": 251,
-        "score": 2092,
+        "score": 2110,
         "scoreColor": "#9544eb",
         "covenant": "Kyrian",
         "renown": 80,
@@ -92,8 +92,8 @@
         "ilvl": 247,
         "score": 2066.3,
         "scoreColor": "#8e4aea",
-        "covenant": "Night Fae",
-        "renown": 80,
+        "covenant": "Kyrian",
+        "renown": 46,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/236/203339500-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Kaziganthii",
@@ -153,7 +153,7 @@
         }
       }
     ],
-    "score": 12826.0,
+    "score": 12844.0,
     "scoreColor": "#9c3ded",
     "avgilvl": 249.67,
     "highestkey": {
