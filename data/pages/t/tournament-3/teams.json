@@ -153,9 +153,9 @@
         }
       }
     ],
-    "score": 12853.3,
-    "scoreColor": "#9c3ded",
-    "avgilvl": 249.67,
+    "score": 10743.3,
+    "scoreColor": "#1773da",
+    "avgilvl": 207.83,
     "highestkey": {
       "key": 0,
       "per": 0,
@@ -203,11 +203,11 @@
         "race": 8,
         "level": 60,
         "title": "Seigyu, Hand of A'dal",
-        "ilvl": 250,
+        "ilvl": 251,
         "score": 2160.6,
         "scoreColor": "#a335ee",
-        "covenant": "Night Fae",
-        "renown": 80,
+        "covenant": "Venthyr",
+        "renown": 77,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/237/220065005-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Seigyu",
@@ -319,7 +319,7 @@
     ],
     "score": 11015.2,
     "scoreColor": "#0070dd",
-    "avgilvl": 245.83,
+    "avgilvl": 246.0,
     "highestkey": {
       "key": 0,
       "per": 0,
