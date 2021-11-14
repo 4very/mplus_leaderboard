@@ -15,7 +15,7 @@
         "level": 60,
         "title": "Nottito",
         "ilvl": 251,
-        "score": 2183.7,
+        "score": 2190.6,
         "scoreColor": "#a937e8",
         "covenant": "Necrolord",
         "renown": 80,
@@ -40,8 +40,8 @@
         "level": 60,
         "title": "Anador",
         "ilvl": 250,
-        "score": 2217.4,
-        "scoreColor": "#ae39e2",
+        "score": 2224.2,
+        "scoreColor": "#b33add",
         "covenant": "Venthyr",
         "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/107/183203691-main-raw.png",
@@ -90,10 +90,10 @@
         "level": 60,
         "title": "Kaziganthii of the Iron Vanguard",
         "ilvl": 247,
-        "score": 2066.3,
-        "scoreColor": "#8e4aea",
-        "covenant": "Kyrian",
-        "renown": 46,
+        "score": 2099.6,
+        "scoreColor": "#9544eb",
+        "covenant": "Night Fae",
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/236/203339500-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Kaziganthii",
@@ -140,7 +140,7 @@
         "level": 60,
         "title": "Spirestalker Rénshi",
         "ilvl": 251,
-        "score": 2231.9,
+        "score": 2238.8,
         "scoreColor": "#b33add",
         "covenant": "Kyrian",
         "renown": 80,
@@ -153,17 +153,17 @@
         }
       }
     ],
-    "score": 13089.0,
+    "score": 13142.9,
     "scoreColor": "#a937e8",
     "avgilvl": 249.67,
     "highestkey": {
       "key": 20,
-      "per": -0.06417687491536728,
-      "dung": "SOA",
-      "link": "https://raider.io/mythic-plus-runs/season-sl-2/13165326-20-spires-of-ascension",
-      "str": "20 SOA (6.42%)"
+      "per": -0.10768459535897723,
+      "dung": "HOA",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/13169984-20-halls-of-atonement",
+      "str": "20 HOA (10.77%)"
     },
-    "numkeys": 3
+    "numkeys": 4
   },
   "Old": {
     "name": "Grumpy Old Men",
