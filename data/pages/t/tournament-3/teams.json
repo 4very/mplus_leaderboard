@@ -119,7 +119,7 @@
         "scoreColor": "#a937e8",
         "covenant": "Night Fae",
         "renown": 80,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/166/215077030-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Corrupthunt",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Corrupthunt",
@@ -467,11 +467,11 @@
         "race": 5,
         "level": 60,
         "title": "Legionnaire Propulse",
-        "ilvl": 228,
-        "score": 1319.3,
-        "scoreColor": "#5da8a2",
+        "ilvl": 229,
+        "score": 1377.9,
+        "scoreColor": "#5a9fab",
         "covenant": "Night Fae",
-        "renown": 77,
+        "renown": 79,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Propulse",
@@ -481,9 +481,9 @@
         }
       }
     ],
-    "score": 5972.0,
-    "scoreColor": "#5ccd76",
-    "avgilvl": 231.33,
+    "score": 6030.6,
+    "scoreColor": "#5dca7a",
+    "avgilvl": 231.5,
     "highestkey": {
       "key": 13,
       "per": -0.18184688413120043,
