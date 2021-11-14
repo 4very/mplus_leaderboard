@@ -15731,6 +15731,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Simm\u00f8ns"
     }
   },
+  "166714470": {
+    "name": "Raxbin",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Raxbin",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Raxbin",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Raxbin",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Raxbin"
+    }
+  },
   "167027405": {
     "name": "Dwarvlock",
     "realm": "sargeras",
