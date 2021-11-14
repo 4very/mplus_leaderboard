@@ -7064,8 +7064,8 @@
     "classColor": "#0070DD",
     "race": 35,
     "rank": 9,
-    "score": 1124.4,
-    "scoreColor": "#5fbe88",
+    "score": 1139.5,
+    "scoreColor": "#5fbc8b",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zantano",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zantano",
@@ -7352,7 +7352,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 2,
-    "score": 2095.8,
+    "score": 2096.9,
     "scoreColor": "#9544eb",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zant\u00e3no",
@@ -12905,6 +12905,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Black\u00f5s"
     }
   },
+  "221121105": {
+    "name": "Irisromantin",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Irisromantin",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Irisromantin",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Irisromantin",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Irisromantin"
+    }
+  },
   "219329156": {
     "name": "Releion",
     "realm": "illidan",
@@ -12957,6 +12975,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/F\u00ebanoramari\u00eb",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/F\u00ebanoramari\u00eb",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=F\u00ebanoramari\u00eb"
+    }
+  },
+  "216490442": {
+    "name": "Zxckhunter",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 2,
+    "rank": 9,
+    "score": 791.9,
+    "scoreColor": "#4ee455",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Zxckhunter",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zxckhunter",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Zxckhunter",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zxckhunter"
     }
   },
   "989898": {
