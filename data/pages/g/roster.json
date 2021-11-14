@@ -6245,24 +6245,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sqwonkal"
     }
   },
-  "198746595": {
-    "name": "Foniun",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 5,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Foniun",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Foniun",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Foniun",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Foniun"
-    }
-  },
   "198834143": {
     "name": "Snowchild",
     "realm": "illidan",
@@ -12995,6 +12977,60 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zxckhunter"
     }
   },
+  "180565843": {
+    "name": "Bapu",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 27,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Bapu",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bapu",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Bapu",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Bapu"
+    }
+  },
+  "220632666": {
+    "name": "Odiiyn",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Odiiyn",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Odiiyn",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Odiiyn",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Odiiyn"
+    }
+  },
+  "221086471": {
+    "name": "Awperator",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Awperator",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Awperator",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Awperator",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Awperator"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -18998,7 +19034,7 @@
     "classColor": "#C69B6D",
     "race": 1,
     "rank": 9,
-    "score": 2325.1,
+    "score": 2329,
     "scoreColor": "#c442c6",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Titanosaur",
