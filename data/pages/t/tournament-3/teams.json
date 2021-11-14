@@ -65,8 +65,8 @@
         "level": 60,
         "title": "Starcaller Asteraoth",
         "ilvl": 251,
-        "score": 2110,
-        "scoreColor": "#9544eb",
+        "score": 2134,
+        "scoreColor": "#9c3ded",
         "covenant": "Kyrian",
         "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/111/198501487-main-raw.png",
@@ -153,15 +153,17 @@
         }
       }
     ],
-    "score": 12914.9,
+    "score": 12938.9,
     "scoreColor": "#a335ee",
     "avgilvl": 249.67,
     "highestkey": {
-      "key": 0,
-      "per": 0,
-      "str": "none"
+      "key": 19,
+      "per": -0.14351803410621244,
+      "dung": "HOA",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/13162906-19-halls-of-atonement",
+      "str": "19 HOA (14.35%)"
     },
-    "numkeys": 1
+    "numkeys": 2
   },
   "Old": {
     "name": "Grumpy Old Men",
