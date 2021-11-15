@@ -421,11 +421,11 @@
         "race": 27,
         "level": 60,
         "title": "Soroyam the Faceless One",
-        "ilvl": 243,
+        "ilvl": 244,
         "score": 1811.6,
         "scoreColor": "#1773da",
-        "covenant": "Kyrian",
-        "renown": 79,
+        "covenant": "Venthyr",
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/146/183421074-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Soroyam",
@@ -487,7 +487,7 @@
     ],
     "score": 6063.7,
     "scoreColor": "#5dca7a",
-    "avgilvl": 231.83,
+    "avgilvl": 232.0,
     "highestkey": {
       "key": 13,
       "per": -0.18184688413120043,
