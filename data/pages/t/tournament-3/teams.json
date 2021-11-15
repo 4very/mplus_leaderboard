@@ -255,7 +255,7 @@
         "race": 2,
         "level": 60,
         "title": "Dannyshot the Uncorrupted",
-        "ilvl": 243,
+        "ilvl": 244,
         "score": 1551.2,
         "scoreColor": "#4b8bc0",
         "covenant": "Night Fae",
@@ -321,7 +321,7 @@
     ],
     "score": 11108.0,
     "scoreColor": "#2a6dde",
-    "avgilvl": 246.0,
+    "avgilvl": 246.17,
     "highestkey": {
       "key": 19,
       "per": -0.08297240267062278,
