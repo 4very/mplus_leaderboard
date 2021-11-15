@@ -351,7 +351,7 @@
         "scoreColor": "#93ff77",
         "covenant": "Venthyr",
         "renown": 60,
-        "render": "https://render.worldofwarcraft.com/us/character/illidan/23/179483671-main-raw.png",
+        "render": null,
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Oshyro",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Oshyro",
@@ -475,7 +475,7 @@
         "score": 1377.9,
         "scoreColor": "#5a9fab",
         "covenant": "Night Fae",
-        "renown": 79,
+        "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Propulse",
