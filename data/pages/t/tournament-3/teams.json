@@ -376,7 +376,7 @@
         "scoreColor": "#edffe4",
         "covenant": "Venthyr",
         "renown": 80,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/248/195166200-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Dranoosh",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Dranoosh",
@@ -476,7 +476,7 @@
         "scoreColor": "#5a9fab",
         "covenant": "Night Fae",
         "renown": 79,
-        "render": null,
+        "render": "https://render.worldofwarcraft.com/us/character/illidan/203/170598347-main-raw.png",
         "links": {
           "rio": "https://raider.io/characters/us/illidan/Propulse",
           "armory": "https://worldofwarcraft.com/en-us/character/us/Illidan/Propulse",
