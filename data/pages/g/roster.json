@@ -12851,6 +12851,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Awperator"
     }
   },
+  "181292605": {
+    "name": "Dodsfalle",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 3,
+    "score": 1577.2,
+    "scoreColor": "#4889c3",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dodsfalle",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dodsfalle",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dodsfalle",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dodsfalle"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
