@@ -115,8 +115,8 @@
         "level": 60,
         "title": "Elder Corrupthunt",
         "ilvl": 248,
-        "score": 2230.3,
-        "scoreColor": "#b33add",
+        "score": 2256.7,
+        "scoreColor": "#b73cd7",
         "covenant": "Night Fae",
         "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/166/215077030-main-raw.png",
@@ -140,8 +140,8 @@
         "level": 60,
         "title": "Blood Guard Rénshi",
         "ilvl": 251,
-        "score": 2239.5,
-        "scoreColor": "#b33add",
+        "score": 2265,
+        "scoreColor": "#b73cd7",
         "covenant": "Kyrian",
         "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/3/112259843-main-raw.png",
@@ -153,8 +153,8 @@
         }
       }
     ],
-    "score": 13143.6,
-    "scoreColor": "#a937e8",
+    "score": 13195.5,
+    "scoreColor": "#ae39e2",
     "avgilvl": 249.67,
     "highestkey": {
       "key": 20,
@@ -329,7 +329,7 @@
       "link": "https://raider.io/mythic-plus-runs/season-sl-2/13249488-19-sanguine-depths",
       "str": "19 SD (8.3%)"
     },
-    "numkeys": 1
+    "numkeys": 2
   },
   "BoB": {
     "name": "Bobby's Boost Buyers",
