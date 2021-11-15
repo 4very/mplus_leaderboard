@@ -180,8 +180,8 @@
         "race": 6,
         "level": 60,
         "title": "Dragonslayer Whitegùrlz",
-        "ilvl": 246,
-        "score": 1829.8,
+        "ilvl": 247,
+        "score": 1834.4,
         "scoreColor": "#0070dd",
         "covenant": "Kyrian",
         "renown": 80,
@@ -231,8 +231,8 @@
         "level": 60,
         "title": "Arinaki, Hand of the Archon",
         "ilvl": 244,
-        "score": 1926.4,
-        "scoreColor": "#5864e2",
+        "score": 1947.9,
+        "scoreColor": "#6361e4",
         "covenant": "Night Fae",
         "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
@@ -256,7 +256,7 @@
         "level": 60,
         "title": "Dannyshot the Uncorrupted",
         "ilvl": 243,
-        "score": 1546.6,
+        "score": 1551.2,
         "scoreColor": "#4b8bc0",
         "covenant": "Night Fae",
         "renown": 80,
@@ -319,15 +319,17 @@
         }
       }
     ],
-    "score": 11075.6,
-    "scoreColor": "#0070dd",
-    "avgilvl": 246.17,
+    "score": 11106.3,
+    "scoreColor": "#2a6dde",
+    "avgilvl": 246.33,
     "highestkey": {
-      "key": 0,
-      "per": 0,
-      "str": "none"
+      "key": 19,
+      "per": -0.08297240267062278,
+      "dung": "SD",
+      "link": "https://raider.io/mythic-plus-runs/season-sl-2/13249488-19-sanguine-depths",
+      "str": "19 SD (8.3%)"
     },
-    "numkeys": 0
+    "numkeys": 1
   },
   "BoB": {
     "name": "Bobby's Boost Buyers",
