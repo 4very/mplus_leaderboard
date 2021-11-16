@@ -12887,6 +12887,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rheaver"
     }
   },
+  "221178040": {
+    "name": "Senilebull",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Senilebull",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Senilebull",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Senilebull",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Senilebull"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
