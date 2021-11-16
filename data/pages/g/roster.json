@@ -1493,24 +1493,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Bozzydru"
     }
   },
-  "162494160": {
-    "name": "Kilobyte",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 8,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kilobyte",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kilobyte",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kilobyte",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kilobyte"
-    }
-  },
   "163279137": {
     "name": "Gharakor",
     "realm": "illidan",
@@ -18277,7 +18259,7 @@
     "className": "Rogue",
     "classColor": "#FFF468",
     "race": 25,
-    "rank": 9,
+    "rank": 8,
     "score": 2061,
     "scoreColor": "#864fe9",
     "links": {
@@ -18763,7 +18745,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 4,
-    "rank": 9,
+    "rank": 8,
     "score": 2013.2,
     "scoreColor": "#7659e6",
     "links": {
@@ -18863,24 +18845,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Smroo"
     }
   },
-  "171469941": {
-    "name": "Titanosaur",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 1,
-    "rank": 9,
-    "score": 2329,
-    "scoreColor": "#c442c6",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Titanosaur",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Titanosaur",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Titanosaur",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Titanosaur"
-    }
-  },
   "191594602": {
     "name": "Stormyshadow",
     "realm": "sargeras",
@@ -18889,7 +18853,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 4,
-    "rank": 9,
+    "rank": 8,
     "score": 1567.5,
     "scoreColor": "#4889c3",
     "links": {
