@@ -153,9 +153,9 @@
         }
       }
     ],
-    "score": 11128.8,
-    "scoreColor": "#2a6dde",
-    "avgilvl": 208.0,
+    "score": 13353.0,
+    "scoreColor": "#b33add",
+    "avgilvl": 249.67,
     "highestkey": {
       "key": 20,
       "per": -0.10768459535897723,
@@ -231,8 +231,8 @@
         "level": 60,
         "title": "Arinaki, Hand of the Archon",
         "ilvl": 244,
-        "score": 1947.9,
-        "scoreColor": "#6361e4",
+        "score": 2011.3,
+        "scoreColor": "#7659e6",
         "covenant": "Night Fae",
         "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/186/220696506-main-raw.png",
@@ -319,7 +319,7 @@
         }
       }
     ],
-    "score": 11418.9,
+    "score": 11482.3,
     "scoreColor": "#4c67e1",
     "avgilvl": 246.33,
     "highestkey": {
