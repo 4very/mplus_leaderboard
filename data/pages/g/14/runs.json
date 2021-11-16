@@ -2007,6 +2007,26 @@
       "scoreColor": "#40f03e",
       "timeDiff": -1161629,
       "percDiff": -0.5375425902557105
+    },
+    "13315215": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/13315215-23-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 159.4,
+      "keystoneLevel": 23,
+      "clearTime": 1894198,
+      "dateCompleted": "2021-11-16T02:59:06.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "213555984",
+        "214792237"
+      ],
+      "count": 2,
+      "scoreColor": "#df5693",
+      "timeDiff": 93199,
+      "percDiff": 0.05174850180372115
     }
   }
 }
