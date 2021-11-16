@@ -306,8 +306,8 @@
         "level": 60,
         "title": "Theorîze",
         "ilvl": 250,
-        "score": 2307.2,
-        "scoreColor": "#c040cc",
+        "score": 2315.2,
+        "scoreColor": "#c442c6",
         "covenant": "Venthyr",
         "renown": 80,
         "render": "https://render.worldofwarcraft.com/us/character/illidan/2/220170242-main-raw.png",
@@ -319,7 +319,7 @@
         }
       }
     ],
-    "score": 11410.9,
+    "score": 11418.9,
     "scoreColor": "#4c67e1",
     "avgilvl": 246.17,
     "highestkey": {
