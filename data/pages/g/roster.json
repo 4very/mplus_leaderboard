@@ -1817,6 +1817,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Reekhoum"
     }
   },
+  "169547227": {
+    "name": "Dorr\u00eds",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dorr\u00eds",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dorr\u00eds",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dorr\u00eds",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dorr\u00eds"
+    }
+  },
   "170323036": {
     "name": "Sqweasel",
     "realm": "illidan",
@@ -12849,6 +12867,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dodsfalle",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dodsfalle",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dodsfalle"
+    }
+  },
+  "70189502": {
+    "name": "Rheaver",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 36,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Rheaver",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rheaver",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rheaver",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rheaver"
     }
   },
   "989898": {
