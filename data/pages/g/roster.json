@@ -12905,6 +12905,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Senilebull"
     }
   },
+  "213283872": {
+    "name": "Shazrak",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 1273.9,
+    "scoreColor": "#5eaa9f",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Shazrak",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Shazrak",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Shazrak",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shazrak"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -18753,6 +18771,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durronbolt",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durronbolt",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durronbolt"
+    }
+  },
+  "191434774": {
+    "name": "Avanescent",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Avanescent",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Avanescent",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Avanescent",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Avanescent"
     }
   },
   "191436831": {
