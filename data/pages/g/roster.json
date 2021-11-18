@@ -9539,24 +9539,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Keyal"
     }
   },
-  "216490442": {
-    "name": "Zxckhunter",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 2,
-    "rank": 9,
-    "score": 1232,
-    "scoreColor": "#5fb098",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Zxckhunter",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zxckhunter",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Zxckhunter",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zxckhunter"
-    }
-  },
   "216516410": {
     "name": "Xeca",
     "realm": "illidan",
@@ -19095,6 +19077,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sniffity",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sniffity",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sniffity"
+    }
+  },
+  "160713186": {
+    "name": "Teenuh",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 11,
+    "rank": 9,
+    "score": 521.9,
+    "scoreColor": "#74ff57",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Teenuh",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Teenuh",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Teenuh",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Teenuh"
     }
   }
 }
