@@ -56,7 +56,7 @@
         "191295752"
       ],
       "count": 2,
-      "scoreColor": "#c744c0",
+      "scoreColor": "#c744c2",
       "timeDiff": -303594,
       "percDiff": -0.12336209807480625
     },
@@ -306,7 +306,7 @@
         "219115702"
       ],
       "count": 2,
-      "scoreColor": "#dd5399",
+      "scoreColor": "#dc539b",
       "timeDiff": -367497,
       "percDiff": -0.14932838249832692
     },
@@ -326,7 +326,7 @@
         "191295752"
       ],
       "count": 2,
-      "scoreColor": "#b73cd7",
+      "scoreColor": "#b73cd8",
       "timeDiff": 485895,
       "percDiff": 0.2697919321443265
     },
@@ -366,7 +366,7 @@
         "219115702"
       ],
       "count": 2,
-      "scoreColor": "#dd5399",
+      "scoreColor": "#dc539b",
       "timeDiff": -323803,
       "percDiff": -0.14983949552961384
     },
@@ -526,7 +526,7 @@
         "191546276"
       ],
       "count": 2,
-      "scoreColor": "#b33add",
+      "scoreColor": "#b23add",
       "timeDiff": 66660,
       "percDiff": 0.034700694794739695
     },
@@ -648,7 +648,7 @@
         "200029279"
       ],
       "count": 2,
-      "scoreColor": "#c442c6",
+      "scoreColor": "#c342c7",
       "timeDiff": -98643,
       "percDiff": -0.05134984453401592
     },
@@ -756,7 +756,7 @@
         "219367534"
       ],
       "count": 5,
-      "scoreColor": "#bc3ed1",
+      "scoreColor": "#bb3ed2",
       "timeDiff": -457966,
       "percDiff": -0.21192328177847375
     },
@@ -776,7 +776,7 @@
         "219115702"
       ],
       "count": 2,
-      "scoreColor": "#bc3ed1",
+      "scoreColor": "#bb3ed2",
       "timeDiff": 303171,
       "percDiff": 0.13291150061880774
     },
@@ -878,7 +878,7 @@
         "191295752"
       ],
       "count": 4,
-      "scoreColor": "#b33add",
+      "scoreColor": "#b23add",
       "timeDiff": 29004,
       "percDiff": 0.012715481243086968
     },
@@ -899,7 +899,7 @@
         "191295752"
       ],
       "count": 3,
-      "scoreColor": "#bc3ed1",
+      "scoreColor": "#bb3ed2",
       "timeDiff": -453617,
       "percDiff": -0.18432230163441754
     },
@@ -920,7 +920,7 @@
         "191295752"
       ],
       "count": 3,
-      "scoreColor": "#ce49b5",
+      "scoreColor": "#cd48b7",
       "timeDiff": -56817,
       "percDiff": -0.03154749114241595
     },
@@ -960,7 +960,7 @@
         "178531751"
       ],
       "count": 2,
-      "scoreColor": "#c442c6",
+      "scoreColor": "#c342c7",
       "timeDiff": 37456,
       "percDiff": 0.016420875239314014
     },
@@ -980,7 +980,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#d44daa",
+      "scoreColor": "#d34cac",
       "timeDiff": -521164,
       "percDiff": -0.2019233637827833
     },
@@ -1000,7 +1000,7 @@
         "191295752"
       ],
       "count": 2,
-      "scoreColor": "#c040cc",
+      "scoreColor": "#bf40cd",
       "timeDiff": 75893,
       "percDiff": 0.033271825195890115
     },
@@ -1022,7 +1022,7 @@
         "191295752"
       ],
       "count": 4,
-      "scoreColor": "#b33add",
+      "scoreColor": "#b23add",
       "timeDiff": 82191,
       "percDiff": 0.0427855506431809
     },
@@ -1045,7 +1045,7 @@
         "215077030"
       ],
       "count": 5,
-      "scoreColor": "#c744c0",
+      "scoreColor": "#c744c2",
       "timeDiff": -275698,
       "percDiff": -0.14351803410621244
     },
@@ -1068,7 +1068,7 @@
         "215077030"
       ],
       "count": 5,
-      "scoreColor": "#ce49b5",
+      "scoreColor": "#cd48b7",
       "timeDiff": -150238,
       "percDiff": -0.06417687491536728
     },
@@ -1091,7 +1091,7 @@
         "215077030"
       ],
       "count": 5,
-      "scoreColor": "#d14baf",
+      "scoreColor": "#d04ab1",
       "timeDiff": -206862,
       "percDiff": -0.10768459535897723
     },
@@ -1320,10 +1320,9 @@
       "partime": 2580999,
       "members": [
         "116806880",
-        "169032544",
         "191595981"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#40f03e",
       "timeDiff": -1359077,
       "percDiff": -0.5265701381519327
@@ -1452,7 +1451,7 @@
         "191549898"
       ],
       "count": 3,
-      "scoreColor": "#b33add",
+      "scoreColor": "#b23add",
       "timeDiff": -17225,
       "percDiff": -0.007357969823993948
     },
@@ -1579,7 +1578,7 @@
         "220065005"
       ],
       "count": 3,
-      "scoreColor": "#ae39e2",
+      "scoreColor": "#ae38e3",
       "timeDiff": -494447,
       "percDiff": -0.2112119654899468
     },
@@ -1601,7 +1600,7 @@
         "220696506"
       ],
       "count": 4,
-      "scoreColor": "#c442c6",
+      "scoreColor": "#c342c7",
       "timeDiff": -204195,
       "percDiff": -0.08297240267062278
     },
@@ -1643,7 +1642,7 @@
         "220278881"
       ],
       "count": 3,
-      "scoreColor": "#d74fa4",
+      "scoreColor": "#d64ea6",
       "timeDiff": -54861,
       "percDiff": -0.024051303836608473
     },
@@ -1665,7 +1664,7 @@
         "220696506"
       ],
       "count": 4,
-      "scoreColor": "#b73cd7",
+      "scoreColor": "#b73cd8",
       "timeDiff": 800851,
       "percDiff": 0.3420979675770899
     },
@@ -1686,7 +1685,7 @@
         "217589860"
       ],
       "count": 3,
-      "scoreColor": "#e1588d",
+      "scoreColor": "#e05790",
       "timeDiff": -78519,
       "percDiff": -0.03190533600379353
     },
@@ -1729,7 +1728,7 @@
         "189411814"
       ],
       "count": 2,
-      "scoreColor": "#ae39e2",
+      "scoreColor": "#ae38e3",
       "timeDiff": -602357,
       "percDiff": -0.24476117219064286
     },
@@ -1749,7 +1748,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#da519e",
+      "scoreColor": "#d950a1",
       "timeDiff": -331583,
       "percDiff": -0.14164166665598743
     },
@@ -1769,7 +1768,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#e45a88",
+      "scoreColor": "#e3598b",
       "timeDiff": -445506,
       "percDiff": -0.20615742996641828
     },
@@ -1789,7 +1788,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#ea6176",
+      "scoreColor": "#e95f7a",
       "timeDiff": -169264,
       "percDiff": -0.0881124873047826
     },
@@ -1832,7 +1831,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#e85f7c",
+      "scoreColor": "#e75d7f",
       "timeDiff": 91473,
       "percDiff": 0.040102165761580766
     },
@@ -1852,7 +1851,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#f06765",
+      "scoreColor": "#ee6669",
       "timeDiff": -146843,
       "percDiff": -0.06437661743823653
     },
@@ -1914,7 +1913,7 @@
         "220278881"
       ],
       "count": 3,
-      "scoreColor": "#e1588d",
+      "scoreColor": "#e05790",
       "timeDiff": 50531,
       "percDiff": 0.022153012780803394
     },
@@ -1934,7 +1933,7 @@
         "219115702"
       ],
       "count": 2,
-      "scoreColor": "#d74fa4",
+      "scoreColor": "#d64ea6",
       "timeDiff": -4880,
       "percDiff": -0.00213941347628821
     },
@@ -2015,7 +2014,7 @@
         "214792237"
       ],
       "count": 2,
-      "scoreColor": "#df5693",
+      "scoreColor": "#de5596",
       "timeDiff": 93199,
       "percDiff": 0.05174850180372115
     },
@@ -2036,7 +2035,7 @@
         "220278881"
       ],
       "count": 3,
-      "scoreColor": "#f06765",
+      "scoreColor": "#ee6669",
       "timeDiff": -120689,
       "percDiff": -0.052910588737653974
     },
@@ -2057,7 +2056,7 @@
         "217589860"
       ],
       "count": 3,
-      "scoreColor": "#d74fa4",
+      "scoreColor": "#d64ea6",
       "timeDiff": -21511,
       "percDiff": -0.008334369753727144
     }
