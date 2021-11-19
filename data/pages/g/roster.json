@@ -2105,24 +2105,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kenrae"
     }
   },
-  "175484189": {
-    "name": "Elvyraah",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 8,
-    "rank": 2,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Elvyraah",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Elvyraah",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Elvyraah",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Elvyraah"
-    }
-  },
   "175782326": {
     "name": "Naphtalli",
     "realm": "illidan",
@@ -2131,7 +2113,7 @@
     "className": "Warlock",
     "classColor": "#8788EE",
     "race": 9,
-    "rank": 2,
+    "rank": 9,
     "score": 2054,
     "scoreColor": "#8351e8",
     "links": {
@@ -2157,42 +2139,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Taurses",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Taurses",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Taurses"
-    }
-  },
-  "176404827": {
-    "name": "Maybellene",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Maybellene",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Maybellene",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Maybellene",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maybellene"
-    }
-  },
-  "176621851": {
-    "name": "Girsul",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 10,
-    "rank": 2,
-    "score": 189.6,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Girsul",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Girsul",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Girsul",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Girsul"
     }
   },
   "177197473": {
@@ -12921,6 +12867,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Shazrak",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Shazrak",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shazrak"
+    }
+  },
+  "184382892": {
+    "name": "Na\u00f9ghtynurse",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 9,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Na\u00f9ghtynurse",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Na\u00f9ghtynurse",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Na\u00f9ghtynurse",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Na\u00f9ghtynurse"
     }
   },
   "989898": {
