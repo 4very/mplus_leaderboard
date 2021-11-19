@@ -2105,24 +2105,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kenrae"
     }
   },
-  "175782326": {
-    "name": "Naphtalli",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 9,
-    "rank": 9,
-    "score": 2054,
-    "scoreColor": "#8351e8",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Naphtalli",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Naphtalli",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Naphtalli",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Naphtalli"
-    }
-  },
   "175790208": {
     "name": "Taurses",
     "realm": "illidan",
@@ -5271,24 +5253,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Jaedius",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Jaedius",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Jaedius"
-    }
-  },
-  "193728436": {
-    "name": "Jorgia",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 8,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Jorgia",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Jorgia",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Jorgia",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Jorgia"
     }
   },
   "193964641": {
@@ -19131,6 +19095,42 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Penguen",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Penguen",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Penguen"
+    }
+  },
+  "171469941": {
+    "name": "Titanosaur",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 1,
+    "rank": 9,
+    "score": 2359,
+    "scoreColor": "#c744c2",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Titanosaur",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Titanosaur",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Titanosaur",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Titanosaur"
+    }
+  },
+  "171477288": {
+    "name": "Lockhartz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 1,
+    "rank": 9,
+    "score": 1445.2,
+    "scoreColor": "#5699b2",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Lockhartz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lockhartz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lockhartz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lockhartz"
     }
   }
 }
