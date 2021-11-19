@@ -19114,5 +19114,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Charvell",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Charvell"
     }
+  },
+  "191630216": {
+    "name": "Penguen",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 34,
+    "rank": 9,
+    "score": 66.4,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Penguen",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Penguen",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Penguen",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Penguen"
+    }
   }
 }
