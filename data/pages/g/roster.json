@@ -2149,7 +2149,7 @@
     "className": "Hunter",
     "classColor": "#AAD372",
     "race": 10,
-    "rank": 2,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -5317,7 +5317,7 @@
     "className": "Shaman",
     "classColor": "#0070DD",
     "race": 8,
-    "rank": 2,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -8205,6 +8205,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Solairefox",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Solairefox",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Solairefox"
+    }
+  },
+  "213866082": {
+    "name": "Scoopity",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Scoopity",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Scoopity",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Scoopity",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Scoopity"
     }
   },
   "213995243": {
@@ -11240,8 +11258,8 @@
     "classColor": "#FF7C0A",
     "race": 8,
     "rank": 9,
-    "score": 517.9,
-    "scoreColor": "#74ff57",
+    "score": 553.3,
+    "scoreColor": "#48ff2e",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Jdrue",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Jdrue",
@@ -15920,8 +15938,8 @@
     "classColor": "#FF7C0A",
     "race": 32,
     "rank": 5,
-    "score": 843.2,
-    "scoreColor": "#52df5d",
+    "score": 900,
+    "scoreColor": "#56d965",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Th\u00fbndrthighs",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00fbndrthighs",
@@ -18692,8 +18710,8 @@
     "classColor": "#00FF98",
     "race": 25,
     "rank": 1,
-    "score": 1631.5,
-    "scoreColor": "#4183c9",
+    "score": 1689.1,
+    "scoreColor": "#387dcf",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Ashpartame",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpartame",
@@ -18746,7 +18764,7 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 403.3,
+    "score": 403.6,
     "scoreColor": "#adff94",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Durronbolt",
@@ -18998,8 +19016,8 @@
     "classColor": "#3FC7EB",
     "race": 3,
     "rank": 9,
-    "score": 568.9,
-    "scoreColor": "#48ff2e",
+    "score": 603.1,
+    "scoreColor": "#28fc18",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Eanagh",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Eanagh",
@@ -19124,7 +19142,7 @@
     "classColor": "#A330C9",
     "race": 4,
     "rank": 9,
-    "score": 0,
+    "score": 66.4,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Charvell",

@@ -519,6 +519,50 @@
       "scoreColor": "#599eac",
       "timeDiff": -376476,
       "percDiff": -0.20903731762205313
+    },
+    "13505667": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/13505667-13-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 115.2,
+      "keystoneLevel": 13,
+      "clearTime": 2303199,
+      "dateCompleted": "2021-11-19T03:27:50.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "partime": 2340999,
+      "members": [
+        "169032544",
+        "188505070",
+        "190573045",
+        "190634616",
+        "191276872"
+      ],
+      "count": 5,
+      "scoreColor": "#1773da",
+      "timeDiff": -37800,
+      "percDiff": -0.016146952647139057
+    },
+    "13506026": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/13506026-2-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 44.2,
+      "keystoneLevel": 2,
+      "clearTime": 1426546,
+      "dateCompleted": "2021-11-19T03:10:45.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2160999,
+      "members": [
+        "191406060",
+        "191550935",
+        "191599895"
+      ],
+      "count": 3,
+      "scoreColor": "#40f03d",
+      "timeDiff": -734453,
+      "percDiff": -0.3398673483884074
     }
   }
 }
