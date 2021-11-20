@@ -3779,6 +3779,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shivvanno"
     }
   },
+  "187035437": {
+    "name": "Dhurock",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 36,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dhurock",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dhurock",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dhurock",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dhurock"
+    }
+  },
   "187046356": {
     "name": "Sq\u00f9ishy",
     "realm": "illidan",
