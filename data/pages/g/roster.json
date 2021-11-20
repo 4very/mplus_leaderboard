@@ -11204,8 +11204,8 @@
     "classColor": "#FF7C0A",
     "race": 8,
     "rank": 9,
-    "score": 907.6,
-    "scoreColor": "#56d965",
+    "score": 920.4,
+    "scoreColor": "#58d669",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Jdrue",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Jdrue",
@@ -12176,8 +12176,8 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 9,
-    "score": 2432.7,
-    "scoreColor": "#d04ab1",
+    "score": 2440.4,
+    "scoreColor": "#d34cac",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pixelbar",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Pixelbar",
@@ -12716,7 +12716,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 1133.4,
+    "score": 1136.4,
     "scoreColor": "#5fbd8a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Assmodeana",
@@ -15209,6 +15209,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00f9nderlips"
     }
   },
+  "160713186": {
+    "name": "Teenuh",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 11,
+    "rank": 9,
+    "score": 785.2,
+    "scoreColor": "#4be84f",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Teenuh",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Teenuh",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Teenuh",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Teenuh"
+    }
+  },
   "161045886": {
     "name": "Flippyflops",
     "realm": "sargeras",
@@ -15938,8 +15956,8 @@
     "classColor": "#FF7C0A",
     "race": 32,
     "rank": 5,
-    "score": 1017.7,
-    "scoreColor": "#5dcb79",
+    "score": 1174.7,
+    "scoreColor": "#5fba8d",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Th\u00fbndrthighs",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00fbndrthighs",
@@ -16109,24 +16127,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Fanh"
     }
   },
-  "170345479": {
-    "name": "Beeson",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Beeson",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Beeson",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Beeson",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Beeson"
-    }
-  },
   "170420690": {
     "name": "Universes",
     "realm": "sargeras",
@@ -16271,6 +16271,42 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sycari"
     }
   },
+  "171469941": {
+    "name": "Titanosaur",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 1,
+    "rank": 9,
+    "score": 2359,
+    "scoreColor": "#c744c2",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Titanosaur",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Titanosaur",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Titanosaur",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Titanosaur"
+    }
+  },
+  "171477288": {
+    "name": "Lockhartz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 1,
+    "rank": 9,
+    "score": 1455.5,
+    "scoreColor": "#5699b2",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Lockhartz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lockhartz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lockhartz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lockhartz"
+    }
+  },
   "171765897": {
     "name": "Tralee",
     "realm": "sargeras",
@@ -16377,6 +16413,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dwarvmonk",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dwarvmonk",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dwarvmonk"
+    }
+  },
+  "172676519": {
+    "name": "Mamabear",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 989.2,
+    "scoreColor": "#5cce75",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Mamabear",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mamabear",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mamabear",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mamabear"
     }
   },
   "172829381": {
@@ -17061,6 +17115,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Iolshield",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Iolshield",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Iolshield"
+    }
+  },
+  "186386760": {
+    "name": "Dynka",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Dynka",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dynka",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dynka",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dynka"
     }
   },
   "186504051": {
@@ -18719,6 +18791,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpartame"
     }
   },
+  "191295752": {
+    "name": "Chiryou",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 7,
+    "rank": 8,
+    "score": 2201.7,
+    "scoreColor": "#ae38e3",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Chiryou",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Chiryou",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Chiryou",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Chiryou"
+    }
+  },
   "191307398": {
     "name": "Malridor",
     "realm": "sargeras",
@@ -19025,6 +19115,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Eanagh"
     }
   },
+  "191599895": {
+    "name": "Charvell",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 4,
+    "rank": 9,
+    "score": 66.4,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Charvell",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Charvell",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Charvell",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Charvell"
+    }
+  },
   "191600687": {
     "name": "Charvelle",
     "realm": "sargeras",
@@ -19061,96 +19169,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonymousoj"
     }
   },
-  "191295752": {
-    "name": "Chiryou",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 7,
-    "rank": 8,
-    "score": 2201.7,
-    "scoreColor": "#ae38e3",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Chiryou",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Chiryou",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Chiryou",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Chiryou"
-    }
-  },
-  "191638505": {
-    "name": "Sniffity",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 22,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Sniffity",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sniffity",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sniffity",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sniffity"
-    }
-  },
-  "160713186": {
-    "name": "Teenuh",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 11,
-    "rank": 9,
-    "score": 785.2,
-    "scoreColor": "#4be84f",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Teenuh",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Teenuh",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Teenuh",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Teenuh"
-    }
-  },
-  "172676519": {
-    "name": "Mamabear",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 989.2,
-    "scoreColor": "#5cce75",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Mamabear",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mamabear",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mamabear",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mamabear"
-    }
-  },
-  "191599895": {
-    "name": "Charvell",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 4,
-    "rank": 9,
-    "score": 66.4,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Charvell",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Charvell",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Charvell",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Charvell"
-    }
-  },
   "191630216": {
     "name": "Penguen",
     "realm": "sargeras",
@@ -19169,58 +19187,22 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Penguen"
     }
   },
-  "171469941": {
-    "name": "Titanosaur",
+  "191638505": {
+    "name": "Sniffity",
     "realm": "sargeras",
     "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 1,
-    "rank": 9,
-    "score": 2359,
-    "scoreColor": "#c744c2",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Titanosaur",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Titanosaur",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Titanosaur",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Titanosaur"
-    }
-  },
-  "171477288": {
-    "name": "Lockhartz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 1,
-    "rank": 9,
-    "score": 1455.5,
-    "scoreColor": "#5699b2",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Lockhartz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lockhartz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lockhartz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lockhartz"
-    }
-  },
-  "186386760": {
-    "name": "Dynka",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 1,
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 22,
     "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Dynka",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dynka",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dynka",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dynka"
+      "rio": "https://raider.io/characters/us/sargeras/Sniffity",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sniffity",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sniffity",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sniffity"
     }
   }
 }
