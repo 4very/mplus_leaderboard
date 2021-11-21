@@ -15623,6 +15623,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Fellathorn"
     }
   },
+  "165629279": {
+    "name": "Talisae",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Talisae",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Talisae",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Talisae",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Talisae"
+    }
+  },
   "165882980": {
     "name": "Kelvaridin",
     "realm": "sargeras",
@@ -16413,24 +16431,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dwarvmonk",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dwarvmonk",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dwarvmonk"
-    }
-  },
-  "172676519": {
-    "name": "Mamabear",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 989.2,
-    "scoreColor": "#5cce75",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Mamabear",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mamabear",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mamabear",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mamabear"
     }
   },
   "172829381": {
