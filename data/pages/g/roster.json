@@ -12689,6 +12689,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ceelion"
     }
   },
+  "221041137": {
+    "name": "Mjakk",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Mjakk",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mjakk",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mjakk",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mjakk"
+    }
+  },
   "221086471": {
     "name": "Awperator",
     "realm": "illidan",
