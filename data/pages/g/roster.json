@@ -143,24 +143,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Segv"
     }
   },
-  "82910011": {
-    "name": "Skystreak",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Skystreak",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Skystreak",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Skystreak",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Skystreak"
-    }
-  },
   "85268378": {
     "name": "Panamagreen",
     "realm": "illidan",
