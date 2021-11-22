@@ -12941,6 +12941,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Villkari"
     }
   },
+  "221224638": {
+    "name": "Flemtality",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Flemtality",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Flemtality",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Flemtality",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Flemtality"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -15902,7 +15920,7 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 65.3,
+    "score": 155.3,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Gharah",
