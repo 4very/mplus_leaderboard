@@ -12221,24 +12221,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Daenisse"
     }
   },
-  "220532697": {
-    "name": "Pixelbar",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 6,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Pixelbar",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Pixelbar",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Pixelbar"
-    }
-  },
   "220538756": {
     "name": "Tuckes",
     "realm": "illidan",
@@ -12588,7 +12570,7 @@
     "class": 11,
     "className": "Druid",
     "classColor": "#FF7C0A",
-    "race": 8,
+    "race": 6,
     "rank": 9,
     "score": 187.6,
     "scoreColor": "#ffffff",
@@ -14831,24 +14813,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Wornwidow"
     }
   },
-  "155866761": {
-    "name": "Demosthanese",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 7,
-    "rank": 8,
-    "score": 2268,
-    "scoreColor": "#b63cd8",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Demosthanese",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Demosthanese",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Demosthanese",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Demosthanese"
-    }
-  },
   "156616944": {
     "name": "Lilmcsaucy",
     "realm": "sargeras",
@@ -16899,24 +16863,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cylondeath",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cylondeath",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cylondeath"
-    }
-  },
-  "185887369": {
-    "name": "Demoslocke",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 37,
-    "rank": 9,
-    "score": 1496.9,
-    "scoreColor": "#5293b8",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Demoslocke",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Demoslocke",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Demoslocke",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Demoslocke"
     }
   },
   "186030028": {
