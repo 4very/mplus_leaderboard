@@ -12230,10 +12230,10 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 9,
-    "score": 2450.3,
-    "scoreColor": "#d24cad",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Pixelbar",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Pixelbar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Pixelbar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Pixelbar"
