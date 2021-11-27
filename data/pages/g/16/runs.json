@@ -519,6 +519,26 @@
       "scoreColor": "#5fb297",
       "timeDiff": -201174,
       "percDiff": -0.10472363598315249
+    },
+    "14139712": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14139712-20-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 150.5,
+      "keystoneLevel": 20,
+      "clearTime": 2195787,
+      "dateCompleted": "2021-11-27T18:26:56.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "213555984",
+        "214792237"
+      ],
+      "count": 2,
+      "scoreColor": "#cc48b8",
+      "timeDiff": -85212,
+      "percDiff": -0.03735731580767898
     }
   }
 }
