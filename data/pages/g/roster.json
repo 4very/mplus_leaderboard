@@ -12941,6 +12941,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Herb\u00e2life"
     }
   },
+  "221228850": {
+    "name": "Kuongsung",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 26,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kuongsung",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kuongsung",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kuongsung",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kuongsung"
+    }
+  },
   "179181813": {
     "name": "Maylako",
     "realm": "illidan",
@@ -13785,6 +13803,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Antendre",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Antendre",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Antendre"
+    }
+  },
+  "117107945": {
+    "name": "Vyndjitsu",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Vyndjitsu",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vyndjitsu",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vyndjitsu",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vyndjitsu"
     }
   },
   "119882548": {
@@ -16883,6 +16919,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cylondeath"
     }
   },
+  "186004198": {
+    "name": "Blammtacular",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Blammtacular",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Blammtacular",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Blammtacular",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Blammtacular"
+    }
+  },
   "186030028": {
     "name": "S\u00e2nthan",
     "realm": "sargeras",
@@ -17324,8 +17378,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 1193.9,
-    "scoreColor": "#5fb790",
+    "score": 1297.3,
+    "scoreColor": "#5da9a0",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Afrobubble",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrobubble",
