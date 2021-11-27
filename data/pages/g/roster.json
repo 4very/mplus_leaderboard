@@ -12941,6 +12941,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Herb\u00e2life"
     }
   },
+  "179181813": {
+    "name": "Maylako",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Maylako",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Maylako",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Maylako",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maylako"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -18746,8 +18764,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 449.6,
-    "scoreColor": "#a0ff85",
+    "score": 517.1,
+    "scoreColor": "#74ff57",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Durronbolt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durronbolt",
@@ -18953,6 +18971,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Floxey"
     }
   },
+  "191582518": {
+    "name": "Flemzy",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Flemzy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemzy",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemzy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemzy"
+    }
+  },
   "191590217": {
     "name": "Barkatdemoon",
     "realm": "sargeras",
@@ -19016,7 +19052,7 @@
     "classColor": "#A330C9",
     "race": 4,
     "rank": 9,
-    "score": 66.4,
+    "score": 133.9,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Charvell",
@@ -19088,7 +19124,7 @@
     "classColor": "#0070DD",
     "race": 11,
     "rank": 9,
-    "score": 0,
+    "score": 67.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Durpologist",
