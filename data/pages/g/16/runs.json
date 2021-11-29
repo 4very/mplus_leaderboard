@@ -861,6 +861,73 @@
       "scoreColor": "#c946bd",
       "timeDiff": -541789,
       "percDiff": -0.2820350244846561
+    },
+    "14283507": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14283507-17-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 135.5,
+      "keystoneLevel": 17,
+      "clearTime": 1728290,
+      "dateCompleted": "2021-11-29T06:10:46.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "112272998",
+        "215947624",
+        "220581586",
+        "221101334"
+      ],
+      "count": 4,
+      "scoreColor": "#a335ee",
+      "timeDiff": -72709,
+      "percDiff": -0.040371482715981566
+    },
+    "14281687": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14281687-19-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 137.7,
+      "keystoneLevel": 19,
+      "clearTime": 2275783,
+      "dateCompleted": "2021-11-29T05:27:08.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "partime": 1920999,
+      "members": [
+        "112272998",
+        "114215083",
+        "189411814",
+        "220065005"
+      ],
+      "count": 4,
+      "scoreColor": "#ad38e3",
+      "timeDiff": 354784,
+      "percDiff": 0.18468723825467892
+    },
+    "14282937": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14282937-17-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 135.8,
+      "keystoneLevel": 17,
+      "clearTime": 1691923,
+      "dateCompleted": "2021-11-29T05:57:03.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "183203691",
+        "190562532",
+        "202264022",
+        "218078769",
+        "218202114"
+      ],
+      "count": 5,
+      "scoreColor": "#a335ee",
+      "timeDiff": -109076,
+      "percDiff": -0.06056416466638792
     }
   }
 }
