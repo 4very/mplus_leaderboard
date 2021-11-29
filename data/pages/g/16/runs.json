@@ -949,6 +949,29 @@
       "scoreColor": "#8351e8",
       "timeDiff": -589225,
       "percDiff": -0.25169809982832114
+    },
+    "14313680": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14313680-18-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 133.9,
+      "keystoneLevel": 18,
+      "clearTime": 2548680,
+      "dateCompleted": "2021-11-29T18:34:40.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 2340999,
+      "members": [
+        "159787507",
+        "190679271",
+        "191295752",
+        "191549898",
+        "191595981"
+      ],
+      "count": 5,
+      "scoreColor": "#9c3eed",
+      "timeDiff": 207681,
+      "percDiff": 0.0887146897542459
     }
   }
 }
