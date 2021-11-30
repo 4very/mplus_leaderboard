@@ -18476,10 +18476,10 @@
     "classColor": "#AAD372",
     "race": 1,
     "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 262.5,
+    "scoreColor": "#edffe4",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/sargeras/Quelquun",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Quelquun",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Quelquun",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Quelquun"
