@@ -1060,6 +1060,29 @@
       "scoreColor": "#a335ee",
       "timeDiff": 11786,
       "percDiff": 0.005167034268756865
+    },
+    "14355322": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14355322-18-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 134.4,
+      "keystoneLevel": 18,
+      "clearTime": 2258913,
+      "dateCompleted": "2021-11-30T03:58:38.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 2160999,
+      "members": [
+        "131101429",
+        "159787507",
+        "164946113",
+        "191546276",
+        "191549898"
+      ],
+      "count": 5,
+      "scoreColor": "#a335ee",
+      "timeDiff": 97914,
+      "percDiff": 0.04530959986561767
     }
   }
 }
