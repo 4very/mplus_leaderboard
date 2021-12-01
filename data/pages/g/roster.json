@@ -12896,7 +12896,7 @@
     "classColor": "#C69B6D",
     "race": 2,
     "rank": 8,
-    "score": 2512,
+    "score": 2513.9,
     "scoreColor": "#da529d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Segoviawar",
@@ -13011,6 +13011,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kuongsung",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kuongsung",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kuongsung"
+    }
+  },
+  "217237547": {
+    "name": "Saucedrippy",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Saucedrippy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Saucedrippy",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Saucedrippy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Saucedrippy"
     }
   },
   "989898": {
@@ -18069,24 +18087,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Trolzi",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Trolzi",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Trolzi"
-    }
-  },
-  "189958974": {
-    "name": "Treaddion",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 37,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Treaddion",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Treaddion",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Treaddion"
     }
   },
   "189980882": {
