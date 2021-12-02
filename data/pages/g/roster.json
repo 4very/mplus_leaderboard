@@ -15695,24 +15695,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Aergweyn"
     }
   },
-  "163860618": {
-    "name": "Woeisyou",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 4,
-    "rank": 9,
-    "score": 382.3,
-    "scoreColor": "#b9ffa1",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Woeisyou",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Woeisyou",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Woeisyou",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Woeisyou"
-    }
-  },
   "164326739": {
     "name": "Twitchadin",
     "realm": "sargeras",
