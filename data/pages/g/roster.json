@@ -13049,6 +13049,60 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Saucedrippy"
     }
   },
+  "126834068": {
+    "name": "Poryphoryion",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Poryphoryion",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Poryphoryion",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Poryphoryion",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Poryphoryion"
+    }
+  },
+  "217821927": {
+    "name": "Rivexa",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 10,
+    "rank": 9,
+    "score": 731.2,
+    "scoreColor": "#44ee44",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Rivexa",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rivexa",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rivexa",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rivexa"
+    }
+  },
+  "219930810": {
+    "name": "Villksana",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 10,
+    "rank": 9,
+    "score": 277.5,
+    "scoreColor": "#e3ffd7",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Villksana",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villksana",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Villksana",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Villksana"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
