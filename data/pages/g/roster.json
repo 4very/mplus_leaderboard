@@ -9863,24 +9863,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ellean"
     }
   },
-  "217129300": {
-    "name": "Rizaxa",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 9,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Rizaxa",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rizaxa",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rizaxa",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rizaxa"
-    }
-  },
   "217180693": {
     "name": "Cylonsentry",
     "realm": "illidan",
