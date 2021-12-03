@@ -13103,6 +13103,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Villksana"
     }
   },
+  "219593340": {
+    "name": "Harrisoniius",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 10,
+    "rank": 3,
+    "score": 755.1,
+    "scoreColor": "#47eb49",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Harrisoniius",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Harrisoniius",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Harrisoniius",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Harrisoniius"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -17313,6 +17331,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Adify",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Adify",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Adify"
+    }
+  },
+  "187127261": {
+    "name": "Mechalyle",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 37,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Mechalyle",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mechalyle",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mechalyle",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mechalyle"
     }
   },
   "187167130": {
