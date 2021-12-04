@@ -13094,8 +13094,8 @@
     "classColor": "#3FC7EB",
     "race": 10,
     "rank": 3,
-    "score": 755.1,
-    "scoreColor": "#47eb49",
+    "score": 794,
+    "scoreColor": "#4de554",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Harrisoniius",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Harrisoniius",
@@ -18533,7 +18533,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Amyalang",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Amyalang",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Amyalang",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Amyalang"
