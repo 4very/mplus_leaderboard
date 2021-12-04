@@ -971,6 +971,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatshocks"
     }
   },
+  "126834068": {
+    "name": "Poryphoryion",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Poryphoryion",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Poryphoryion",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Poryphoryion",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Poryphoryion"
+    }
+  },
   "132571921": {
     "name": "Cannedmeat",
     "realm": "illidan",
@@ -9881,6 +9899,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonsentry"
     }
   },
+  "217237547": {
+    "name": "Saucedrippy",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Saucedrippy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Saucedrippy",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Saucedrippy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Saucedrippy"
+    }
+  },
   "217256142": {
     "name": "Tagem",
     "realm": "illidan",
@@ -10167,6 +10203,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Evewalle",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Evewalle",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Evewalle"
+    }
+  },
+  "217821927": {
+    "name": "Rivexa",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 10,
+    "rank": 9,
+    "score": 763.7,
+    "scoreColor": "#48ea4a",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Rivexa",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rivexa",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rivexa",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rivexa"
     }
   },
   "217829005": {
@@ -11483,24 +11537,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lorrainen"
     }
   },
-  "219412848": {
-    "name": "Gr\u00f8gman",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 8,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gr\u00f8gman",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gr\u00f8gman",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gr\u00f8gman"
-    }
-  },
   "219504403": {
     "name": "Yadi",
     "realm": "illidan",
@@ -11571,6 +11607,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dracuhl",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dracuhl",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dracuhl"
+    }
+  },
+  "219593340": {
+    "name": "Harrisoniius",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 10,
+    "rank": 3,
+    "score": 828,
+    "scoreColor": "#50e159",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Harrisoniius",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Harrisoniius",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Harrisoniius",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Harrisoniius"
     }
   },
   "219604420": {
@@ -11877,6 +11931,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Jackarta",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Jackarta",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Jackarta"
+    }
+  },
+  "219930810": {
+    "name": "Villksana",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 10,
+    "rank": 9,
+    "score": 310,
+    "scoreColor": "#d9ffca",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Villksana",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Villksana",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Villksana",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Villksana"
     }
   },
   "219978603": {
@@ -12471,6 +12543,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bozzyh",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Bozzyh",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Bozzyh"
+    }
+  },
+  "220676905": {
+    "name": "Platebeef",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 9,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Platebeef",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Platebeef",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Platebeef",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Platebeef"
     }
   },
   "220686029": {
@@ -13121,22 +13211,22 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Macnum"
     }
   },
-  "220676905": {
-    "name": "Platebeef",
+  "217464433": {
+    "name": "Moocake",
     "realm": "illidan",
     "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 9,
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
     "rank": 9,
-    "score": 0,
+    "score": 223.6,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Platebeef",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Platebeef",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Platebeef",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Platebeef"
+      "rio": "https://raider.io/characters/us/illidan/Moocake",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Moocake",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Moocake",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Moocake"
     }
   },
   "989898": {
