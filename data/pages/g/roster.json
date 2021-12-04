@@ -19366,5 +19366,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/P\u00efnalope",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=P\u00efnalope"
     }
+  },
+  "160845415": {
+    "name": "Th\u00f9nderlipz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlipz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00f9nderlipz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Th\u00f9nderlipz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00f9nderlipz"
+    }
   }
 }
