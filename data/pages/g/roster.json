@@ -13094,13 +13094,49 @@
     "classColor": "#3FC7EB",
     "race": 10,
     "rank": 3,
-    "score": 794,
-    "scoreColor": "#4de554",
+    "score": 828,
+    "scoreColor": "#50e258",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Harrisoniius",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Harrisoniius",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Harrisoniius",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Harrisoniius"
+    }
+  },
+  "221249675": {
+    "name": "Macnum",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 2,
+    "rank": 9,
+    "score": 200.1,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Macnum",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Macnum",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Macnum",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Macnum"
+    }
+  },
+  "220676905": {
+    "name": "Platebeef",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 9,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Platebeef",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Platebeef",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Platebeef",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Platebeef"
     }
   },
   "989898": {
