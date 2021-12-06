@@ -13139,6 +13139,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Macnum"
     }
   },
+  "221280769": {
+    "name": "Corruptdruid",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Corruptdruid",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Corruptdruid",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Corruptdruid",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Corruptdruid"
+    }
+  },
   "221292453": {
     "name": "Whymyppsoft",
     "realm": "illidan",
