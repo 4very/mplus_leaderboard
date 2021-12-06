@@ -2689,7 +2689,7 @@
     "className": "Shaman",
     "classColor": "#0070DD",
     "race": 36,
-    "rank": 9,
+    "rank": 2,
     "score": 356.4,
     "scoreColor": "#c4ffaf",
     "links": {
@@ -3445,7 +3445,7 @@
     "className": "Warrior",
     "classColor": "#C69B6D",
     "race": 36,
-    "rank": 4,
+    "rank": 2,
     "score": 745.2,
     "scoreColor": "#48ea4a",
     "links": {
@@ -4391,6 +4391,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ozert"
     }
   },
+  "189703827": {
+    "name": "Eochaid",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Eochaid",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Eochaid",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Eochaid",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Eochaid"
+    }
+  },
   "189711894": {
     "name": "Evonne",
     "realm": "illidan",
@@ -5101,7 +5119,7 @@
     "className": "Death Knight",
     "classColor": "#C41E3A",
     "race": 10,
-    "rank": 4,
+    "rank": 2,
     "score": 2096.4,
     "scoreColor": "#9544eb",
     "links": {
@@ -12085,7 +12103,7 @@
     "className": "Shaman",
     "classColor": "#0070DD",
     "race": 31,
-    "rank": 9,
+    "rank": 2,
     "score": 2063.7,
     "scoreColor": "#864fe9",
     "links": {
