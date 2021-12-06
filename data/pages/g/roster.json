@@ -15101,6 +15101,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dieyoung"
     }
   },
+  "157857826": {
+    "name": "Mardymcfly",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 7,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Mardymcfly",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mardymcfly",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mardymcfly",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mardymcfly"
+    }
+  },
   "157857883": {
     "name": "G\u00f6dric",
     "realm": "sargeras",
