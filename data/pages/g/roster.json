@@ -13391,6 +13391,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=T\u00e5r\u00e5"
     }
   },
+  "81606616": {
+    "name": "P\u00efnalope",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/P\u00efnalope",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/P\u00efnalope",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/P\u00efnalope",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=P\u00efnalope"
+    }
+  },
   "81619918": {
     "name": "Bloodfangz",
     "realm": "sargeras",
@@ -15477,6 +15495,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Teenuh",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Teenuh",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Teenuh"
+    }
+  },
+  "160845415": {
+    "name": "Th\u00f9nderlipz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlipz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00f9nderlipz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Th\u00f9nderlipz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00f9nderlipz"
     }
   },
   "161045886": {
@@ -19383,42 +19419,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durpologist",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durpologist",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durpologist"
-    }
-  },
-  "81606616": {
-    "name": "P\u00efnalope",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/P\u00efnalope",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/P\u00efnalope",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/P\u00efnalope",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=P\u00efnalope"
-    }
-  },
-  "160845415": {
-    "name": "Th\u00f9nderlipz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 3,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Th\u00f9nderlipz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00f9nderlipz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Th\u00f9nderlipz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00f9nderlipz"
     }
   }
 }
