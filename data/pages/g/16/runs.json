@@ -953,12 +953,11 @@
       "faction": "alliance",
       "partime": 2340999,
       "members": [
-        "159787507",
         "190679271",
         "191295752",
         "191595981"
       ],
-      "count": 4,
+      "count": 3,
       "scoreColor": "#9c3ded",
       "timeDiff": 207681,
       "percDiff": 0.0887146897542459
