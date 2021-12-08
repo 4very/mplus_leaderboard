@@ -15083,6 +15083,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Wornwidow"
     }
   },
+  "155943265": {
+    "name": "Deatharc",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Deatharc",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Deatharc",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Deatharc",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Deatharc"
+    }
+  },
   "156616944": {
     "name": "Lilmcsaucy",
     "realm": "sargeras",
@@ -19401,6 +19419,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Penguen",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Penguen",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Penguen"
+    }
+  },
+  "191658123": {
+    "name": "Whisdru",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 32,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Whisdru",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Whisdru",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Whisdru",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Whisdru"
     }
   },
   "191660009": {
