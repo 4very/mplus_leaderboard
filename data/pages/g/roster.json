@@ -19474,5 +19474,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kaitya",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kaitya"
     }
+  },
+  "191727647": {
+    "name": "Anonmonk",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 37,
+    "rank": 9,
+    "score": 1906.6,
+    "scoreColor": "#4c67e1",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Anonmonk",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Anonmonk",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anonmonk",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonmonk"
+    }
   }
 }
