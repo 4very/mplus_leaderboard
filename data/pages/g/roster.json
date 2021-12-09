@@ -11591,6 +11591,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Yadi"
     }
   },
+  "219515947": {
+    "name": "Firstwarrior",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Firstwarrior",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Firstwarrior",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Firstwarrior",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Firstwarrior"
+    }
+  },
   "219549663": {
     "name": "Zent\u00e0",
     "realm": "illidan",
@@ -12823,7 +12841,7 @@
     "className": "Monk",
     "classColor": "#00FF98",
     "race": 2,
-    "rank": 9,
+    "rank": 4,
     "score": 2272.1,
     "scoreColor": "#bb3ed3",
     "links": {
@@ -19491,6 +19509,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Anonmonk",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anonmonk",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonmonk"
+    }
+  },
+  "191713217": {
+    "name": "Durrunbolt",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 1,
+    "rank": 9,
+    "score": 2013.8,
+    "scoreColor": "#7659e6",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Durrunbolt",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durrunbolt",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durrunbolt",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durrunbolt"
     }
   }
 }
