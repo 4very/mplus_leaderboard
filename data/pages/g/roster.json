@@ -13193,6 +13193,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Whymyppsoft"
     }
   },
+  "214889786": {
+    "name": "Nat\u00e5s",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Nat\u00e5s",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nat\u00e5s",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Nat\u00e5s",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nat\u00e5s"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
