@@ -13229,6 +13229,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nowei"
     }
   },
+  "221249564": {
+    "name": "Speziato",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 36,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Speziato",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Speziato",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Speziato",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Speziato"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -16917,24 +16935,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mcserve",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mcserve",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mcserve"
-    }
-  },
-  "175136938": {
-    "name": "M\u00e1bel",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 7,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/M\u00e1bel",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/M\u00e1bel",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/M\u00e1bel",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=M\u00e1bel"
     }
   },
   "175175754": {
