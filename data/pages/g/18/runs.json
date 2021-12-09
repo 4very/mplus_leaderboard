@@ -1,3 +1,46 @@
 {
-  "data": {}
+  "data": {
+    "14944482": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14944482-17-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 127.9,
+      "keystoneLevel": 17,
+      "clearTime": 2663460,
+      "dateCompleted": "2021-12-09T02:22:16.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "186046561",
+        "191546276"
+      ],
+      "count": 2,
+      "scoreColor": "#864fe9",
+      "timeDiff": 382461,
+      "percDiff": 0.16767258556448295
+    },
+    "14944480": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/14944480-15-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 127.8,
+      "keystoneLevel": 15,
+      "clearTime": 1902857,
+      "dateCompleted": "2021-12-09T01:26:27.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2460999,
+      "members": [
+        "186046561",
+        "188505070",
+        "188590126",
+        "191546276"
+      ],
+      "count": 4,
+      "scoreColor": "#864fe9",
+      "timeDiff": -558142,
+      "percDiff": -0.22679489101783468
+    }
+  }
 }
