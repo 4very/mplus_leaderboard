@@ -1601,24 +1601,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Varashada"
     }
   },
-  "164762875": {
-    "name": "Reconwar",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Reconwar",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Reconwar",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Reconwar",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Reconwar"
-    }
-  },
   "164889935": {
     "name": "Ragrots",
     "realm": "illidan",
