@@ -13247,6 +13247,78 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Symbolah"
     }
   },
+  "180464142": {
+    "name": "Razi\u00e9l",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Razi\u00e9l",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Razi\u00e9l",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Razi\u00e9l",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Razi\u00e9l"
+    }
+  },
+  "215355909": {
+    "name": "Ka\u00edn",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 28,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Ka\u00edn",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ka\u00edn",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ka\u00edn",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ka\u00edn"
+    }
+  },
+  "87296344": {
+    "name": "B\u00e1tmon",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/B\u00e1tmon",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/B\u00e1tmon",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/B\u00e1tmon",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=B\u00e1tmon"
+    }
+  },
+  "91905231": {
+    "name": "K\u00edmura",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/K\u00edmura",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/K\u00edmura",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/K\u00edmura",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=K\u00edmura"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
