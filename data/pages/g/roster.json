@@ -2087,6 +2087,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kenrae"
     }
   },
+  "175660059": {
+    "name": "Barnab\u00e2s",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Barnab\u00e2s",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Barnab\u00e2s",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Barnab\u00e2s",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Barnab\u00e2s"
+    }
+  },
   "175790208": {
     "name": "Taurses",
     "realm": "illidan",
