@@ -13121,6 +13121,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=K\u00edmura"
     }
   },
+  "220489805": {
+    "name": "Austurter",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 9,
+    "rank": 9,
+    "score": 202.5,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Austurter",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Austurter",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Austurter",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Austurter"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
