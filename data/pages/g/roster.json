@@ -13139,6 +13139,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Austurter"
     }
   },
+  "216682887": {
+    "name": "Y\u00f9bel",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 2029.5,
+    "scoreColor": "#7e54e7",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Y\u00f9bel",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Y\u00f9bel",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Y\u00f9bel",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Y\u00f9bel"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
