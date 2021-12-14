@@ -217,6 +217,49 @@
       "scoreColor": "#7659e6",
       "timeDiff": 34729,
       "percDiff": 0.01345564256320908
+    },
+    "15259656": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/15259656-15-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 117.7,
+      "keystoneLevel": 15,
+      "clearTime": 2128898,
+      "dateCompleted": "2021-12-14T01:28:21.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 1800999,
+      "members": [
+        "169032544",
+        "188505070",
+        "191665320"
+      ],
+      "count": 3,
+      "scoreColor": "#3e6ae0",
+      "timeDiff": 327899,
+      "percDiff": 0.18206506500003616
+    },
+    "15261404": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/15261404-14-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 122.7,
+      "keystoneLevel": 14,
+      "clearTime": 1690803,
+      "dateCompleted": "2021-12-14T02:06:28.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2160999,
+      "members": [
+        "190573045",
+        "190679271",
+        "191546276",
+        "191665320"
+      ],
+      "count": 4,
+      "scoreColor": "#6361e4",
+      "timeDiff": -470196,
+      "percDiff": -0.2175827013339664
     }
   }
 }
