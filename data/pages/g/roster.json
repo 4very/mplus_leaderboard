@@ -2087,6 +2087,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kenrae"
     }
   },
+  "175390093": {
+    "name": "Luana",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Luana",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Luana",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Luana",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Luana"
+    }
+  },
   "175660059": {
     "name": "Barnab\u00e2s",
     "realm": "illidan",
@@ -18260,8 +18278,8 @@
     "classColor": "#F48CBA",
     "race": 34,
     "rank": 8,
-    "score": 1049.3,
-    "scoreColor": "#5ec77d",
+    "score": 1055.1,
+    "scoreColor": "#5ec481",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Goatrack",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Goatrack",
@@ -19448,8 +19466,8 @@
     "classColor": "#0070DD",
     "race": 32,
     "rank": 9,
-    "score": 916,
-    "scoreColor": "#58d66b",
+    "score": 1077.8,
+    "scoreColor": "#5ec481",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Kaitya",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kaitya",
