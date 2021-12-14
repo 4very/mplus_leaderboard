@@ -13193,6 +13193,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nidzo"
     }
   },
+  "217589660": {
+    "name": "Luxxenna",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Luxxenna",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Luxxenna",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Luxxenna",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Luxxenna"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
