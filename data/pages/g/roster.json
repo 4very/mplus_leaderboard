@@ -12518,10 +12518,10 @@
     "classColor": "#AAD372",
     "race": 27,
     "rank": 9,
-    "score": 1767.9,
-    "scoreColor": "#1773da",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Meatspear",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatspear",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatspear",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatspear"
