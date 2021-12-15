@@ -13157,6 +13157,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Whymyppsoft"
     }
   },
+  "221356400": {
+    "name": "Barefootsage",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Barefootsage",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Barefootsage",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Barefootsage",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Barefootsage"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
