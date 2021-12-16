@@ -12239,24 +12239,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rammal"
     }
   },
-  "220278881": {
-    "name": "Kdapopstars",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 10,
-    "rank": 8,
-    "score": 2647.3,
-    "scoreColor": "#e65c82",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstars",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstars"
-    }
-  },
   "220279185": {
     "name": "Grogabusk",
     "realm": "illidan",
@@ -16233,6 +16215,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ghrizzley",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ghrizzley",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ghrizzley"
+    }
+  },
+  "168891852": {
+    "name": "Ipvpmypants",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 32,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Ipvpmypants",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ipvpmypants",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ipvpmypants",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ipvpmypants"
     }
   },
   "168935205": {
