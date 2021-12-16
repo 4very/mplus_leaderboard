@@ -11447,24 +11447,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Morthe"
     }
   },
-  "219367534": {
-    "name": "Maycie",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 10,
-    "rank": 9,
-    "score": 2419.2,
-    "scoreColor": "#d04ab3",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Maycie",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Maycie",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Maycie",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maycie"
-    }
-  },
   "219367561": {
     "name": "Selexxa",
     "realm": "illidan",
