@@ -13175,6 +13175,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kasakir"
     }
   },
+  "221345008": {
+    "name": "B\u00fbrtmcsquirt",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 2,
+    "rank": 9,
+    "score": 215.3,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/B\u00fbrtmcsquirt",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/B\u00fbrtmcsquirt",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/B\u00fbrtmcsquirt",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=B\u00fbrtmcsquirt"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -16262,8 +16280,8 @@
     "classColor": "#FF7C0A",
     "race": 32,
     "rank": 5,
-    "score": 1391.5,
-    "scoreColor": "#589cae",
+    "score": 1557.7,
+    "scoreColor": "#4b8bc0",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Th\u00fbndrthighs",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Th\u00fbndrthighs",
