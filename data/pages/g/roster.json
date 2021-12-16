@@ -4787,6 +4787,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ratchetor"
     }
   },
+  "190327333": {
+    "name": "Anuelle",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 27,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Anuelle",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Anuelle",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Anuelle",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Anuelle"
+    }
+  },
   "190341445": {
     "name": "Akinn",
     "realm": "illidan",
@@ -8162,7 +8180,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 8,
-    "score": 2647.6,
+    "score": 2651.2,
     "scoreColor": "#e65c82",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Slyphox",
@@ -8756,7 +8774,7 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 9,
-    "score": 2647.5,
+    "score": 2651,
     "scoreColor": "#e65c82",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Mcthornbody",
@@ -10952,7 +10970,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 2091.4,
+    "score": 2093.8,
     "scoreColor": "#9544eb",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alinizho",
@@ -13173,6 +13191,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Barefootsage",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Barefootsage",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Barefootsage"
+    }
+  },
+  "220637275": {
+    "name": "Kasakir",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 4,
+    "score": 1972.2,
+    "scoreColor": "#6d5de5",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kasakir",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kasakir",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kasakir",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kasakir"
     }
   },
   "989898": {
