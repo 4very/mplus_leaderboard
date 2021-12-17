@@ -4022,7 +4022,7 @@
     "classColor": "#AAD372",
     "race": 2,
     "rank": 9,
-    "score": 2224.2,
+    "score": 2226,
     "scoreColor": "#b23ade",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Sausagepants",
@@ -5181,6 +5181,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gorgman",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gorgman",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gorgman"
+    }
+  },
+  "191947872": {
+    "name": "Lonwolf",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 36,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lonwolf",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lonwolf",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lonwolf",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lonwolf"
     }
   },
   "192031395": {
@@ -14199,24 +14217,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Toxicsaint",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Toxicsaint",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Toxicsaint"
-    }
-  },
-  "135436819": {
-    "name": "Baneswolf",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Baneswolf",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Baneswolf",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Baneswolf",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Baneswolf"
     }
   },
   "135956050": {
