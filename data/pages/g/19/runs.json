@@ -388,6 +388,26 @@
       "scoreColor": "#e85e7d",
       "timeDiff": -307730,
       "percDiff": -0.14240173179163895
+    },
+    "15486681": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/15486681-23-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 166.1,
+      "keystoneLevel": 23,
+      "clearTime": 1750355,
+      "dateCompleted": "2021-12-17T19:34:05.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1920999,
+      "members": [
+        "213555984",
+        "214792237"
+      ],
+      "count": 2,
+      "scoreColor": "#e85e7d",
+      "timeDiff": -170644,
+      "percDiff": -0.08883086352465563
     }
   }
 }
