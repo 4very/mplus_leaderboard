@@ -14435,6 +14435,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Carbo"
     }
   },
+  "142480280": {
+    "name": "Z\u00earo",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Z\u00earo",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Z\u00earo",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Z\u00earo",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Z\u00earo"
+    }
+  },
   "144231662": {
     "name": "Leahana",
     "realm": "sargeras",
