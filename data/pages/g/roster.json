@@ -10763,24 +10763,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zumbala"
     }
   },
-  "218348765": {
-    "name": "Fugato",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Fugato",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fugato",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Fugato",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Fugato"
-    }
-  },
   "218355817": {
     "name": "Synergetik",
     "realm": "illidan",
