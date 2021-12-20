@@ -13211,6 +13211,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cheechiosan"
     }
   },
+  "220278881": {
+    "name": "Kdapopstars",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 10,
+    "rank": 9,
+    "score": 2647.3,
+    "scoreColor": "#e65c82",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstars",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstars"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
