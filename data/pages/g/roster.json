@@ -12527,6 +12527,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Odiiyn"
     }
   },
+  "220637275": {
+    "name": "Kasakir",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 4,
+    "score": 1972.2,
+    "scoreColor": "#6d5de5",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kasakir",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kasakir",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kasakir",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kasakir"
+    }
+  },
   "220652969": {
     "name": "Bozzyh",
     "realm": "illidan",
@@ -13139,42 +13157,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Whymyppsoft"
     }
   },
-  "221356400": {
-    "name": "Barefootsage",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 8,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Barefootsage",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Barefootsage",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Barefootsage",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Barefootsage"
-    }
-  },
-  "220637275": {
-    "name": "Kasakir",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 8,
-    "rank": 4,
-    "score": 1972.2,
-    "scoreColor": "#6d5de5",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kasakir",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kasakir",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kasakir",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kasakir"
-    }
-  },
   "221345008": {
     "name": "B\u00fbrtmcsquirt",
     "realm": "illidan",
@@ -13191,6 +13173,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/B\u00fbrtmcsquirt",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/B\u00fbrtmcsquirt",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=B\u00fbrtmcsquirt"
+    }
+  },
+  "221356400": {
+    "name": "Barefootsage",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Barefootsage",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Barefootsage",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Barefootsage",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Barefootsage"
     }
   },
   "221369355": {
