@@ -5084,7 +5084,7 @@
     "classColor": "#AAD372",
     "race": 36,
     "rank": 9,
-    "score": 2068.6,
+    "score": 2069.3,
     "scoreColor": "#8e4aea",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
@@ -12147,24 +12147,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
-    }
-  },
-  "220186617": {
-    "name": "Sneakyinvis",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sneakyinvis",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sneakyinvis",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sneakyinvis",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sneakyinvis"
     }
   },
   "220193831": {
