@@ -11132,7 +11132,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 67.5,
+    "score": 135,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Letharos",
@@ -17810,10 +17810,10 @@
     "classColor": "#8788EE",
     "race": 29,
     "rank": 8,
-    "score": 2035.4,
-    "scoreColor": "#7e54e7",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Afrocheese",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrocheese",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Afrocheese",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Afrocheese"
