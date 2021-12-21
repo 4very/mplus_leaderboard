@@ -11483,24 +11483,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Prexx"
     }
   },
-  "219403136": {
-    "name": "Nerissa",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 10,
-    "rank": 8,
-    "score": 2425.8,
-    "scoreColor": "#d04ab3",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Nerissa",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nerissa",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Nerissa",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nerissa"
-    }
-  },
   "219504403": {
     "name": "Yadi",
     "realm": "illidan",
@@ -12219,6 +12201,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rammal",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rammal",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rammal"
+    }
+  },
+  "220278881": {
+    "name": "Kdapopstars",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 10,
+    "rank": 9,
+    "score": 2647.3,
+    "scoreColor": "#e65c82",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstars",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstars"
     }
   },
   "220279185": {
@@ -13191,24 +13191,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cheechiosan",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cheechiosan",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cheechiosan"
-    }
-  },
-  "220278881": {
-    "name": "Kdapopstars",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 10,
-    "rank": 9,
-    "score": 2647.3,
-    "scoreColor": "#e65c82",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstars",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstars"
     }
   },
   "989898": {
