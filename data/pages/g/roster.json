@@ -11132,8 +11132,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 232.5,
-    "scoreColor": "#f6fff2",
+    "score": 358.2,
+    "scoreColor": "#c4ffaf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Letharos",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Letharos",
@@ -17799,24 +17799,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/N\u00f6d",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/N\u00f6d",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=N\u00f6d"
-    }
-  },
-  "188590126": {
-    "name": "Afrocheese",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 29,
-    "rank": 8,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrocheese",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Afrocheese",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Afrocheese"
     }
   },
   "188608072": {
