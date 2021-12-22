@@ -1601,6 +1601,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shammwowzers"
     }
   },
+  "164039937": {
+    "name": "Nahtury",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Nahtury",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nahtury",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Nahtury",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nahtury"
+    }
+  },
   "164326342": {
     "name": "Ry\u00faken",
     "realm": "illidan",
@@ -11121,24 +11139,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Misticfox",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Misticfox",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Misticfox"
-    }
-  },
-  "219001536": {
-    "name": "Letharos",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 764.7,
-    "scoreColor": "#48ea4a",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Letharos",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Letharos",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Letharos",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Letharos"
     }
   },
   "219039414": {
