@@ -12427,7 +12427,7 @@
     "className": "Monk",
     "classColor": "#00FF98",
     "race": 35,
-    "rank": 9,
+    "rank": 8,
     "score": 2127.1,
     "scoreColor": "#9c3ded",
     "links": {
@@ -13191,6 +13191,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cheechiosan",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cheechiosan",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cheechiosan"
+    }
+  },
+  "221390117": {
+    "name": "Afrocheese",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 2,
+    "rank": 9,
+    "score": 2035.4,
+    "scoreColor": "#7e54e7",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Afrocheese",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Afrocheese",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Afrocheese",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrocheese"
     }
   },
   "989898": {
