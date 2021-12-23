@@ -10133,24 +10133,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Unoboom"
     }
   },
-  "217589660": {
-    "name": "Luxxenna",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 10,
-    "rank": 9,
-    "score": 197.3,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Luxxenna",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Luxxenna",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Luxxenna",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Luxxenna"
-    }
-  },
   "217589860": {
     "name": "Fellerosa",
     "realm": "illidan",
@@ -10293,24 +10275,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Yvessl",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Yvessl",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Yvessl"
-    }
-  },
-  "217821927": {
-    "name": "Rivexa",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 10,
-    "rank": 9,
-    "score": 1036.8,
-    "scoreColor": "#5dc87c",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Rivexa",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rivexa",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rivexa",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rivexa"
     }
   },
   "217829005": {
@@ -10617,24 +10581,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Galixlaria",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Galixlaria",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Galixlaria"
-    }
-  },
-  "218202114": {
-    "name": "Kelsenna",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 10,
-    "rank": 9,
-    "score": 2150.2,
-    "scoreColor": "#a335ee",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kelsenna",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kelsenna",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kelsenna",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kelsenna"
     }
   },
   "218232725": {
@@ -11447,24 +11393,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Morthe"
     }
   },
-  "219367561": {
-    "name": "Selexxa",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 10,
-    "rank": 9,
-    "score": 852.4,
-    "scoreColor": "#52df5d",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Selexxa",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Selexxa",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Selexxa",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Selexxa"
-    }
-  },
   "219398220": {
     "name": "Prexx",
     "realm": "illidan",
@@ -12077,24 +12005,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Monkdaren"
     }
   },
-  "220156906": {
-    "name": "Kdapopstar",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 10,
-    "rank": 9,
-    "score": 1305.9,
-    "scoreColor": "#5da9a0",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kdapopstar",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstar",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstar",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstar"
-    }
-  },
   "220170242": {
     "name": "Theor\u00eeze",
     "realm": "illidan",
@@ -12201,24 +12111,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rammal",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rammal",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rammal"
-    }
-  },
-  "220278881": {
-    "name": "Kdapopstars",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 10,
-    "rank": 9,
-    "score": 2647.3,
-    "scoreColor": "#e65c82",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kdapopstars",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kdapopstars",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kdapopstars",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kdapopstars"
     }
   },
   "220279185": {
@@ -12705,24 +12597,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Arinaki",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Arinaki",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Arinaki"
-    }
-  },
-  "220697684": {
-    "name": "Ragingmeat",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 10,
-    "rank": 9,
-    "score": 1519.1,
-    "scoreColor": "#5090bb",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Ragingmeat",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ragingmeat",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ragingmeat",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ragingmeat"
     }
   },
   "220731918": {
