@@ -16100,8 +16100,8 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 994.4,
-    "scoreColor": "#5cce75",
+    "score": 1263.1,
+    "scoreColor": "#5faf9a",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Gharah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gharah",
@@ -18620,7 +18620,7 @@
     "classColor": "#8788EE",
     "race": 1,
     "rank": 2,
-    "score": 2018.6,
+    "score": 2021.8,
     "scoreColor": "#7b56e7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Zublock",
@@ -18695,7 +18695,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Pikamein",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Pikamein",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Pikamein",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Pikamein"
