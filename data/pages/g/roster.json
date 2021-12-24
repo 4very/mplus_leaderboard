@@ -5093,24 +5093,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Alakush"
     }
   },
-  "191425731": {
-    "name": "Dr\u00e1xx",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 36,
-    "rank": 9,
-    "score": 2069.3,
-    "scoreColor": "#8c4bea",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e1xx",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dr\u00e1xx",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dr\u00e1xx"
-    }
-  },
   "191492349": {
     "name": "Slowhealslol",
     "realm": "illidan",
@@ -10133,24 +10115,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Unoboom"
     }
   },
-  "217589860": {
-    "name": "Fellerosa",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 8,
-    "score": 2486,
-    "scoreColor": "#d850a3",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Fellerosa",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fellerosa",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Fellerosa",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Fellerosa"
-    }
-  },
   "217596407": {
     "name": "Yesfather",
     "realm": "illidan",
@@ -10934,7 +10898,7 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 2136.9,
+    "score": 2146.6,
     "scoreColor": "#9c3eed",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alinizho",
@@ -13101,6 +13065,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Afrocheese",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Afrocheese",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrocheese"
+    }
+  },
+  "191425731": {
+    "name": "Dr\u00e1xx",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 36,
+    "rank": 9,
+    "score": 2069.3,
+    "scoreColor": "#8c4bea",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e1xx",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dr\u00e1xx",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dr\u00e1xx"
     }
   },
   "989898": {
