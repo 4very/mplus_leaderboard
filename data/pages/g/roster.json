@@ -13454,8 +13454,8 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 622.8,
-    "scoreColor": "#30f925",
+    "score": 656.3,
+    "scoreColor": "#36f62f",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Bradyboom",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Bradyboom",
@@ -15146,7 +15146,7 @@
     "classColor": "#C69B6D",
     "race": 34,
     "rank": 9,
-    "score": 1780.8,
+    "score": 1781.3,
     "scoreColor": "#1773da",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Sanguiniux",
@@ -18551,7 +18551,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Amyalang",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Amyalang",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Amyalang",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Amyalang"
