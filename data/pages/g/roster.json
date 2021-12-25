@@ -1475,24 +1475,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Iladari"
     }
   },
-  "157803124": {
-    "name": "Boogiedemon",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Boogiedemon",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Boogiedemon",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Boogiedemon",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Boogiedemon"
-    }
-  },
   "158938132": {
     "name": "Boeing",
     "realm": "illidan",
