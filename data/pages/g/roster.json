@@ -8252,8 +8252,8 @@
     "classColor": "#FFFFFF",
     "race": 27,
     "rank": 9,
-    "score": 387.2,
-    "scoreColor": "#b9ffa1",
+    "score": 639.3,
+    "scoreColor": "#30f925",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Orth\u00f6n",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Orth\u00f6n",
@@ -9245,7 +9245,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -9386,8 +9386,8 @@
     "classColor": "#00FF98",
     "race": 6,
     "rank": 9,
-    "score": 1743.2,
-    "scoreColor": "#2b78d5",
+    "score": 1812,
+    "scoreColor": "#1773da",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Joh",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Joh",
