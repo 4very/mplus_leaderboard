@@ -1883,7 +1883,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Dorr\u00eds",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dorr\u00eds",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dorr\u00eds",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dorr\u00eds"
@@ -11456,8 +11456,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 3,
-    "score": 1448.3,
-    "scoreColor": "#5699b2",
+    "score": 1567.2,
+    "scoreColor": "#4b8bc1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dracuhl",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dracuhl",
@@ -12554,7 +12554,7 @@
     "classColor": "#AAD372",
     "race": 35,
     "rank": 9,
-    "score": 2102.6,
+    "score": 2105,
     "scoreColor": "#9445eb",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Arinaki",
