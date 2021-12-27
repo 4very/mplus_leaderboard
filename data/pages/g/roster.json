@@ -13067,6 +13067,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dr\u00e1xx"
     }
   },
+  "160634013": {
+    "name": "Griefer",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Griefer",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Griefer",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Griefer",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Griefer"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
