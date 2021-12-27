@@ -1872,21 +1872,21 @@
     }
   },
   "169547227": {
-    "name": "Dorr\u00eds",
+    "name": "Gulj\u00ecn",
     "realm": "illidan",
     "faction": "horde",
     "class": 6,
     "className": "Death Knight",
     "classColor": "#C41E3A",
-    "race": 2,
+    "race": 31,
     "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dorr\u00eds",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dorr\u00eds",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dorr\u00eds"
+      "rio": "https://raider.io/characters/us/illidan/Gulj\u00ecn",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gulj\u00ecn",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gulj\u00ecn",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gulj\u00ecn"
     }
   },
   "170323036": {
@@ -6578,8 +6578,8 @@
     "classColor": "#FFFFFF",
     "race": 5,
     "rank": 9,
-    "score": 1615.8,
-    "scoreColor": "#4485c6",
+    "score": 1673.5,
+    "scoreColor": "#3c80cc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Oniun",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Oniun",
