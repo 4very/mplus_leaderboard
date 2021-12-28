@@ -1493,6 +1493,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Boeing"
     }
   },
+  "160634013": {
+    "name": "Griefer",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Griefer",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Griefer",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Griefer",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Griefer"
+    }
+  },
   "161032959": {
     "name": "Justie",
     "realm": "illidan",
@@ -5073,6 +5091,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alakush",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Alakush",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Alakush"
+    }
+  },
+  "191425731": {
+    "name": "Dr\u00e1xx",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 36,
+    "rank": 9,
+    "score": 2069.3,
+    "scoreColor": "#8c4bea",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e1xx",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dr\u00e1xx",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dr\u00e1xx"
     }
   },
   "191492349": {
@@ -13047,42 +13083,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Afrocheese",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Afrocheese",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrocheese"
-    }
-  },
-  "191425731": {
-    "name": "Dr\u00e1xx",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 36,
-    "rank": 9,
-    "score": 2069.3,
-    "scoreColor": "#8c4bea",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Dr\u00e1xx",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dr\u00e1xx",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dr\u00e1xx",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dr\u00e1xx"
-    }
-  },
-  "160634013": {
-    "name": "Griefer",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 5,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Griefer",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Griefer",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Griefer",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Griefer"
     }
   },
   "989898": {
