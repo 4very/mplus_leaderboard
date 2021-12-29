@@ -16469,6 +16469,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sycari"
     }
   },
+  "171302641": {
+    "name": "Feistygoat",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Feistygoat",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Feistygoat",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Feistygoat",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Feistygoat"
+    }
+  },
   "171765897": {
     "name": "Tralee",
     "realm": "sargeras",
