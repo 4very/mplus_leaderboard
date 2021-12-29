@@ -1,3 +1,48 @@
 {
-  "data": {}
+  "data": {
+    "16278964": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/16278964-15-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 128.1,
+      "keystoneLevel": 15,
+      "clearTime": 1723882,
+      "dateCompleted": "2021-12-29T00:35:19.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "112259843",
+        "187336568",
+        "192926058",
+        "199493521"
+      ],
+      "count": 4,
+      "scoreColor": "#8351e8",
+      "timeDiff": -557117,
+      "percDiff": -0.2442425446043598
+    },
+    "16276245": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/16276245-15-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 127.1,
+      "keystoneLevel": 15,
+      "clearTime": 2156539,
+      "dateCompleted": "2021-12-28T23:54:23.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "112259843",
+        "187336568",
+        "189411814",
+        "199493521"
+      ],
+      "count": 4,
+      "scoreColor": "#7b56e7",
+      "timeDiff": -424460,
+      "percDiff": -0.16445570106768737
+    }
+  }
 }
