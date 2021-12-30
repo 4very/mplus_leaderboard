@@ -19420,5 +19420,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anonmonk",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonmonk"
     }
+  },
+  "191828408": {
+    "name": "Lynskychaser",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Lynskychaser",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lynskychaser",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lynskychaser",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lynskychaser"
+    }
   }
 }
