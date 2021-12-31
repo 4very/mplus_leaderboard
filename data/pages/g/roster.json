@@ -19079,6 +19079,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Masudy"
     }
   },
+  "191488342": {
+    "name": "Afroshock",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Afroshock",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afroshock",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Afroshock",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Afroshock"
+    }
+  },
   "191491570": {
     "name": "Flembo",
     "realm": "sargeras",
