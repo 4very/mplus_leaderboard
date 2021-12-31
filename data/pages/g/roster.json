@@ -2105,24 +2105,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tralock"
     }
   },
-  "175192769": {
-    "name": "Zankade",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 31,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zankade",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Zankade",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Zankade"
-    }
-  },
   "175324358": {
     "name": "Kenrae",
     "realm": "illidan",
@@ -15416,7 +15398,7 @@
     "classColor": "#0070DD",
     "race": 11,
     "rank": 9,
-    "score": 1729.9,
+    "score": 1749.2,
     "scoreColor": "#2b78d5",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Teenuh",
@@ -16100,8 +16082,8 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 1666.2,
-    "scoreColor": "#3c80cc",
+    "score": 1744.9,
+    "scoreColor": "#2b78d5",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Gharah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gharah",
