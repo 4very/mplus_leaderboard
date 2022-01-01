@@ -19421,6 +19421,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonmonk"
     }
   },
+  "191815747": {
+    "name": "Whiswar",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 37,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Whiswar",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Whiswar",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Whiswar",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Whiswar"
+    }
+  },
   "191828408": {
     "name": "Lynskychaser",
     "realm": "sargeras",
