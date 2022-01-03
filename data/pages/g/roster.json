@@ -15218,10 +15218,10 @@
     "classColor": "#AAD372",
     "race": 22,
     "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 275.1,
+    "scoreColor": "#e3ffd7",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/sargeras/Mckade",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mckade",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mckade",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mckade"
