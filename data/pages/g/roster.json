@@ -15293,7 +15293,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Drakk\u00ebn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Drakk\u00ebn",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Drakk\u00ebn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Drakk\u00ebn"
@@ -16100,8 +16100,8 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 1841.7,
-    "scoreColor": "#1773da",
+    "score": 1912,
+    "scoreColor": "#406ae0",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Gharah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gharah",
