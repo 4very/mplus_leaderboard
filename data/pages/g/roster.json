@@ -15210,21 +15210,21 @@
     }
   },
   "159473269": {
-    "name": "Mck\u00e2de",
+    "name": "Mckade",
     "realm": "sargeras",
     "faction": "alliance",
     "class": 3,
     "className": "Hunter",
     "classColor": "#AAD372",
-    "race": 1,
+    "race": 22,
     "rank": 9,
-    "score": 275.1,
-    "scoreColor": "#e3ffd7",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Mck\u00e2de",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mck\u00e2de",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mck\u00e2de",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mck\u00e2de"
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mckade",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mckade",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mckade"
     }
   },
   "159524183": {
@@ -15282,21 +15282,21 @@
     }
   },
   "159675111": {
-    "name": "Drakk\u00ebn",
+    "name": "Wojt\u00ebk",
     "realm": "sargeras",
     "faction": "alliance",
     "class": 11,
     "className": "Druid",
     "classColor": "#FF7C0A",
-    "race": 22,
+    "race": 32,
     "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Drakk\u00ebn",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Drakk\u00ebn",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Drakk\u00ebn"
+      "rio": "https://raider.io/characters/us/sargeras/Wojt\u00ebk",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Wojt\u00ebk",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Wojt\u00ebk",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Wojt\u00ebk"
     }
   },
   "159774659": {
