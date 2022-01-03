@@ -2959,7 +2959,7 @@
     "className": "Death Knight",
     "classColor": "#C41E3A",
     "race": 2,
-    "rank": 8,
+    "rank": 2,
     "score": 2198.5,
     "scoreColor": "#ad38e3",
     "links": {
@@ -4191,6 +4191,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Liedal",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Liedal",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Liedal"
+    }
+  },
+  "188623507": {
+    "name": "Demonisha",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Demonisha",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Demonisha",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Demonisha",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Demonisha"
     }
   },
   "188645544": {
@@ -13083,6 +13101,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Afrocheese",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Afrocheese",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrocheese"
+    }
+  },
+  "221134863": {
+    "name": "Hurnoho",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 31,
+    "rank": 9,
+    "score": 159.8,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Hurnoho",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hurnoho",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Hurnoho",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Hurnoho"
     }
   },
   "989898": {
