@@ -287,6 +287,75 @@
       "scoreColor": "#715be5",
       "timeDiff": -31330,
       "percDiff": -0.017395900830594613
+    },
+    "16720814": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/16720814-7-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 77.7,
+      "keystoneLevel": 7,
+      "clearTime": 1407190,
+      "dateCompleted": "2022-01-04T05:02:50.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 1800999,
+      "members": [
+        "136075018",
+        "183061786",
+        "191488342",
+        "191622134",
+        "191815747"
+      ],
+      "count": 5,
+      "scoreColor": "#5fb297",
+      "timeDiff": -393809,
+      "percDiff": -0.21866142068929517
+    },
+    "16720811": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/16720811-5-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 64.5,
+      "keystoneLevel": 5,
+      "clearTime": 1376060,
+      "dateCompleted": "2022-01-04T04:30:57.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2160999,
+      "members": [
+        "136075018",
+        "175600082",
+        "191488342",
+        "191622134",
+        "191815747"
+      ],
+      "count": 5,
+      "scoreColor": "#5dc87c",
+      "timeDiff": -784939,
+      "percDiff": -0.3632296914528882
+    },
+    "16720813": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/16720813-2-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 44.8,
+      "keystoneLevel": 2,
+      "clearTime": 1444597,
+      "dateCompleted": "2022-01-04T04:03:27.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2340999,
+      "members": [
+        "136075018",
+        "175600082",
+        "191488342",
+        "191622134",
+        "191815747"
+      ],
+      "count": 5,
+      "scoreColor": "#40f03d",
+      "timeDiff": -896402,
+      "percDiff": -0.3829143028254177
     }
   }
 }
