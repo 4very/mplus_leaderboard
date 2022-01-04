@@ -19367,6 +19367,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonymousoj"
     }
   },
+  "191622134": {
+    "name": "Ashkrage",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 37,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Ashkrage",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashkrage",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashkrage",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashkrage"
+    }
+  },
   "191630216": {
     "name": "Penguen",
     "realm": "sargeras",
