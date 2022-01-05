@@ -13121,6 +13121,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrocheese"
     }
   },
+  "139080236": {
+    "name": "Kirax",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 2,
+    "rank": 9,
+    "score": 954.7,
+    "scoreColor": "#59d46d",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Kirax",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kirax",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kirax",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kirax"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
