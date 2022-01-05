@@ -12410,8 +12410,8 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 1032.9,
-    "scoreColor": "#5dc87c",
+    "score": 1115.3,
+    "scoreColor": "#5fc086",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Odiiyn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Odiiyn",
@@ -19527,6 +19527,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lynskychaser",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lynskychaser",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lynskychaser"
+    }
+  },
+  "169263657": {
+    "name": "Xerosoul",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Xerosoul",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Xerosoul",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Xerosoul",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Xerosoul"
     }
   }
 }
