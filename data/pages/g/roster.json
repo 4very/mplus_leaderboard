@@ -6029,24 +6029,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gexius"
     }
   },
-  "196761504": {
-    "name": "Turawk",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Turawk",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Turawk",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Turawk",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Turawk"
-    }
-  },
   "196883645": {
     "name": "Pastload",
     "realm": "illidan",
@@ -13119,24 +13101,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Afrocheese",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Afrocheese",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrocheese"
-    }
-  },
-  "139080236": {
-    "name": "Kirax",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 2,
-    "rank": 9,
-    "score": 954.7,
-    "scoreColor": "#59d46d",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kirax",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kirax",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kirax",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kirax"
     }
   },
   "989898": {
