@@ -13121,6 +13121,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Afrocheese"
     }
   },
+  "221481509": {
+    "name": "Rippingass",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Rippingass",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rippingass",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rippingass",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rippingass"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
