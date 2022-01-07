@@ -8207,6 +8207,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maxfries"
     }
   },
+  "213525010": {
+    "name": "Onebeer",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Onebeer",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Onebeer",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Onebeer",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Onebeer"
+    }
+  },
   "213555984": {
     "name": "Slyphox",
     "realm": "illidan",
