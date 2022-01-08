@@ -8729,24 +8729,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Borkyborc"
     }
   },
-  "214671747": {
-    "name": "Nidzo",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Nidzo",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nidzo",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Nidzo",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Nidzo"
-    }
-  },
   "214681350": {
     "name": "Thantara",
     "realm": "illidan",
