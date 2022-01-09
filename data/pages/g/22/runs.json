@@ -61,6 +61,73 @@
       "scoreColor": "#5dc87c",
       "timeDiff": -967874,
       "percDiff": -0.5038388879952567
+    },
+    "17086880": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17086880-15-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 126.3,
+      "keystoneLevel": 15,
+      "clearTime": 2308497,
+      "dateCompleted": "2022-01-09T03:25:16.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "181292605",
+        "198227227",
+        "219591485",
+        "220065005",
+        "220696506"
+      ],
+      "count": 5,
+      "scoreColor": "#7b56e7",
+      "timeDiff": -272502,
+      "percDiff": -0.10558004865557868
+    },
+    "17086885": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17086885-15-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 125.8,
+      "keystoneLevel": 15,
+      "clearTime": 1680357,
+      "dateCompleted": "2022-01-09T04:11:55.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "189411814",
+        "199498006",
+        "219591485",
+        "221369355"
+      ],
+      "count": 4,
+      "scoreColor": "#715be5",
+      "timeDiff": -120642,
+      "percDiff": -0.06698615601674407
+    },
+    "17086877": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17086877-17-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 128,
+      "keystoneLevel": 17,
+      "clearTime": 2984482,
+      "dateCompleted": "2022-01-09T05:11:21.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "192926058",
+        "219591485",
+        "220065005",
+        "221369355"
+      ],
+      "count": 4,
+      "scoreColor": "#8351e8",
+      "timeDiff": 403483,
+      "percDiff": 0.15632822794584578
     }
   }
 }
