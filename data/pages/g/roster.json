@@ -1907,24 +1907,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gulj\u00ecn"
     }
   },
-  "170323036": {
-    "name": "Sqweasel",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 35,
-    "rank": 8,
-    "score": 2214.6,
-    "scoreColor": "#ad38e3",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sqweasel",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sqweasel",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sqweasel",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sqweasel"
-    }
-  },
   "170598347": {
     "name": "Propulse",
     "realm": "illidan",
@@ -3995,24 +3977,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dhurock"
     }
   },
-  "187046356": {
-    "name": "Sq\u00f9ishy",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 26,
-    "rank": 9,
-    "score": 560,
-    "scoreColor": "#48ff2e",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sq\u00f9ishy",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sq\u00f9ishy",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sq\u00f9ishy",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sq\u00f9ishy"
-    }
-  },
   "187231712": {
     "name": "Mileyl\u00f6l",
     "realm": "illidan",
@@ -4319,24 +4283,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Thoriss"
     }
   },
-  "189076368": {
-    "name": "R\u00f4dan",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/R\u00f4dan",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/R\u00f4dan",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/R\u00f4dan",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=R\u00f4dan"
-    }
-  },
   "189081947": {
     "name": "Azajin",
     "realm": "illidan",
@@ -4425,24 +4371,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Yueri",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Yueri",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Yueri"
-    }
-  },
-  "189391868": {
-    "name": "Simb\u00e5",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 31,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Simb\u00e5",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Simb\u00e5",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Simb\u00e5",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Simb\u00e5"
     }
   },
   "189411814": {
@@ -4875,24 +4803,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rotriss",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rotriss",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rotriss"
-    }
-  },
-  "190440476": {
-    "name": "Gojir\u00e5",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 4,
-    "score": 383.1,
-    "scoreColor": "#b9ffa1",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Gojir\u00e5",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gojir\u00e5",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gojir\u00e5",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gojir\u00e5"
     }
   },
   "190464322": {
@@ -6353,24 +6263,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Machikilnama"
     }
   },
-  "198662511": {
-    "name": "Sqwonkal",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 5,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Sqwonkal",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sqwonkal",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sqwonkal",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sqwonkal"
-    }
-  },
   "198834143": {
     "name": "Snowchild",
     "realm": "illidan",
@@ -7107,24 +6999,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Thiannia",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Thiannia",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Thiannia"
-    }
-  },
-  "200387474": {
-    "name": "Fwump",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 35,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Fwump",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fwump",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Fwump",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Fwump"
     }
   },
   "200414382": {
@@ -18728,7 +18602,7 @@
     "classColor": "#C69B6D",
     "race": 4,
     "rank": 8,
-    "score": 2027.9,
+    "score": 2031.8,
     "scoreColor": "#7b56e7",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Truths",
