@@ -12995,6 +12995,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rippingass"
     }
   },
+  "221531980": {
+    "name": "Berzooka",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Berzooka",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Berzooka",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Berzooka"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
