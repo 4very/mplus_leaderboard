@@ -16163,6 +16163,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Spaceleather"
     }
   },
+  "169263657": {
+    "name": "Xerosoul",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Xerosoul",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Xerosoul",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Xerosoul",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Xerosoul"
+    }
+  },
   "169439545": {
     "name": "Failcher",
     "realm": "sargeras",
@@ -17727,6 +17745,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Hallan",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Hallan",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Hallan"
+    }
+  },
+  "188833017": {
+    "name": "Zedmis",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Zedmis",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zedmis",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Zedmis",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zedmis"
     }
   },
   "188850277": {
@@ -19419,42 +19455,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lynskychaser",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lynskychaser",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lynskychaser"
-    }
-  },
-  "169263657": {
-    "name": "Xerosoul",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Xerosoul",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Xerosoul",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Xerosoul",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Xerosoul"
-    }
-  },
-  "188833017": {
-    "name": "Zedmis",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 6,
-    "className": "Death Knight",
-    "classColor": "#C41E3A",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Zedmis",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Zedmis",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Zedmis",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zedmis"
     }
   }
 }
