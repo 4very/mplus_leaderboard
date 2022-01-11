@@ -303,6 +303,29 @@
       "scoreColor": "#5c63e3",
       "timeDiff": -392642,
       "percDiff": -0.18169466991886618
+    },
+    "17284304": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17284304-8-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 84.5,
+      "keystoneLevel": 8,
+      "clearTime": 1459637,
+      "dateCompleted": "2022-01-11T01:41:25.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "159787507",
+        "175600082",
+        "189980882",
+        "190274715",
+        "191594602"
+      ],
+      "count": 5,
+      "scoreColor": "#5ca4a6",
+      "timeDiff": -821362,
+      "percDiff": -0.3600887155145618
     }
   }
 }
