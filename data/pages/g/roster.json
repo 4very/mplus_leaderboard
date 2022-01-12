@@ -3905,24 +3905,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Holyd\u00eever"
     }
   },
-  "186866705": {
-    "name": "Shivanno",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 8,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Shivanno",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Shivanno",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Shivanno",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Shivanno"
-    }
-  },
   "186891238": {
     "name": "Symbolah",
     "realm": "illidan",
