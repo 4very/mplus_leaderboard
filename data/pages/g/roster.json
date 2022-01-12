@@ -19456,5 +19456,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Lynskychaser",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Lynskychaser"
     }
+  },
+  "191334918": {
+    "name": "Ludociel",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Ludociel",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ludociel",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ludociel",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ludociel"
+    }
   }
 }
