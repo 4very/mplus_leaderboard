@@ -12545,6 +12545,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Burtmcsquirt"
     }
   },
+  "220980883": {
+    "name": "Tralivar",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Tralivar",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tralivar",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tralivar",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tralivar"
+    }
+  },
   "220986443": {
     "name": "Villaneuve",
     "realm": "illidan",
