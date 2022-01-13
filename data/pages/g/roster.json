@@ -13013,6 +13013,42 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Berzooka"
     }
   },
+  "221545802": {
+    "name": "Xybrew",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 5,
+    "rank": 9,
+    "score": 2542.6,
+    "scoreColor": "#dd5498",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Xybrew",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xybrew",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Xybrew",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xybrew"
+    }
+  },
+  "221545742": {
+    "name": "Xyerst",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 10,
+    "rank": 9,
+    "score": 191.7,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Xyerst",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xyerst",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Xyerst",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xyerst"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
