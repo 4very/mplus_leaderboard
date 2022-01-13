@@ -12986,8 +12986,8 @@
     "classColor": "#3FC7EB",
     "race": 2,
     "rank": 9,
-    "score": 362.7,
-    "scoreColor": "#c4ffaf",
+    "score": 412.2,
+    "scoreColor": "#adff94",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Rippingass",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rippingass",
@@ -16028,7 +16028,7 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 2139.5,
+    "score": 2144.1,
     "scoreColor": "#9c3eed",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Gharah",
@@ -19455,6 +19455,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ludociel",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ludociel",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ludociel"
+    }
+  },
+  "97557168": {
+    "name": "Astrylle",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 29,
+    "rank": 9,
+    "score": 1866.1,
+    "scoreColor": "#0070dd",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Astrylle",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Astrylle",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Astrylle",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Astrylle"
     }
   }
 }
