@@ -19510,5 +19510,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Astrylle",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Astrylle"
     }
+  },
+  "143404292": {
+    "name": "Wreckkz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 22,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Wreckkz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Wreckkz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Wreckkz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Wreckkz"
+    }
   }
 }
