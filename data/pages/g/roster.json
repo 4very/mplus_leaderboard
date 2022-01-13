@@ -17369,24 +17369,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Morhigahn"
     }
   },
-  "187167447": {
-    "name": "Ad\u00e9lie",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Ad\u00e9lie",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ad\u00e9lie",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ad\u00e9lie",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ad\u00e9lie"
-    }
-  },
   "187192217": {
     "name": "Rebear",
     "realm": "sargeras",
