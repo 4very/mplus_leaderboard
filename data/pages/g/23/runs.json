@@ -83,6 +83,48 @@
       "scoreColor": "#7b56e7",
       "timeDiff": -370946,
       "percDiff": -0.1716548688824011
+    },
+    "17457129": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17457129-3-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 50,
+      "keystoneLevel": 3,
+      "clearTime": 1545764,
+      "dateCompleted": "2022-01-14T04:54:56.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "179483671",
+        "183421074",
+        "188645544"
+      ],
+      "count": 3,
+      "scoreColor": "#4de554",
+      "timeDiff": -1035235,
+      "percDiff": -0.4010985668727497
+    },
+    "17457130": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17457130-4-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 59,
+      "keystoneLevel": 4,
+      "clearTime": 1304659,
+      "dateCompleted": "2022-01-14T04:21:23.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 1920999,
+      "members": [
+        "179483671",
+        "183421074",
+        "188645544"
+      ],
+      "count": 3,
+      "scoreColor": "#59d46d",
+      "timeDiff": -616340,
+      "percDiff": -0.32084347779462663
     }
   }
 }
