@@ -16550,8 +16550,8 @@
     "classColor": "#FFFFFF",
     "race": 29,
     "rank": 9,
-    "score": 726.7,
-    "scoreColor": "#44ee44",
+    "score": 746.3,
+    "scoreColor": "#47eb49",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Lollipopss",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lollipopss",
@@ -18789,6 +18789,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kamarun",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kamarun",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kamarun"
+    }
+  },
+  "191013857": {
+    "name": "D\u00e9thl\u00f5k",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 22,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/D\u00e9thl\u00f5k",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/D\u00e9thl\u00f5k",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/D\u00e9thl\u00f5k",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=D\u00e9thl\u00f5k"
     }
   },
   "191069301": {
