@@ -5939,6 +5939,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Pastload"
     }
   },
+  "197155671": {
+    "name": "Huntwabbit",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Huntwabbit",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Huntwabbit",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Huntwabbit",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Huntwabbit"
+    }
+  },
   "197274132": {
     "name": "Seranide",
     "realm": "illidan",
@@ -13039,7 +13057,7 @@
     "className": "Hunter",
     "classColor": "#AAD372",
     "race": 10,
-    "rank": 9,
+    "rank": 3,
     "score": 474.8,
     "scoreColor": "#93ff77",
     "links": {
