@@ -1217,7 +1217,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Steriks",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Steriks",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Steriks",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Steriks"
@@ -6110,8 +6110,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 1184.3,
-    "scoreColor": "#5fb790",
+    "score": 1292.2,
+    "scoreColor": "#5eac9d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Yumiqt",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Yumiqt",
@@ -11348,7 +11348,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 3,
-    "score": 1797.7,
+    "score": 1812.1,
     "scoreColor": "#1773da",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dracuhl",
@@ -11546,8 +11546,8 @@
     "classColor": "#AAD372",
     "race": 2,
     "rank": 9,
-    "score": 1959.2,
-    "scoreColor": "#5c63e3",
+    "score": 2031.6,
+    "scoreColor": "#7b56e7",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dannyshot",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dannyshot",
