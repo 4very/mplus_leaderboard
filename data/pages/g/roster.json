@@ -5624,8 +5624,8 @@
     "classColor": "#C69B6D",
     "race": 2,
     "rank": 9,
-    "score": 820,
-    "scoreColor": "#50e258",
+    "score": 980,
+    "scoreColor": "#5bd171",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Qito",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Qito",
@@ -11708,8 +11708,8 @@
     "classColor": "#FFF468",
     "race": 5,
     "rank": 9,
-    "score": 251.4,
-    "scoreColor": "#edffe4",
+    "score": 439.8,
+    "scoreColor": "#a0ff85",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Jackarta",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Jackarta",
@@ -13076,8 +13076,8 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 3,
-    "score": 1000.3,
-    "scoreColor": "#5cce75",
+    "score": 1104,
+    "scoreColor": "#5fc086",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Xyerst",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xyerst",
@@ -14487,24 +14487,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Avasive",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Avasive",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Avasive"
-    }
-  },
-  "147019427": {
-    "name": "Tr\u00f3uble",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Tr\u00f3uble",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Tr\u00f3uble",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Tr\u00f3uble",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Tr\u00f3uble"
     }
   },
   "148452931": {
