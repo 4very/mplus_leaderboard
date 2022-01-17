@@ -19582,5 +19582,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Wreckkz",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Wreckkz"
     }
+  },
+  "191912703": {
+    "name": "Dracuhl",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 4,
+    "rank": 9,
+    "score": 376.5,
+    "scoreColor": "#b9ffa1",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Dracuhl",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dracuhl",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
+    }
   }
 }
