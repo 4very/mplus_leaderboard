@@ -15029,6 +15029,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dieyoung"
     }
   },
+  "157840971": {
+    "name": "W\u00ecllow",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 7,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/W\u00ecllow",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/W\u00ecllow",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/W\u00ecllow",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=W\u00ecllow"
+    }
+  },
   "157857826": {
     "name": "Mardymcfly",
     "realm": "sargeras",
