@@ -13085,6 +13085,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xyerst"
     }
   },
+  "189518400": {
+    "name": "Grogamonk",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 2,
+    "rank": 9,
+    "score": 348.4,
+    "scoreColor": "#cfffbc",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Grogamonk",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Grogamonk",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Grogamonk",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Grogamonk"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
