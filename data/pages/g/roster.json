@@ -6047,6 +6047,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylondeath"
     }
   },
+  "197813278": {
+    "name": "Silverlee",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 4,
+    "className": "Rogue",
+    "classColor": "#FFF468",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Silverlee",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Silverlee",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Silverlee",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Silverlee"
+    }
+  },
   "197931117": {
     "name": "Spiffi",
     "realm": "illidan",
@@ -19473,6 +19491,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Anonmonk",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Anonmonk",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Anonmonk"
+    }
+  },
+  "191732328": {
+    "name": "Tuggintotems",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Tuggintotems",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Tuggintotems",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Tuggintotems",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Tuggintotems"
     }
   },
   "191815747": {
