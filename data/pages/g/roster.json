@@ -1610,8 +1610,8 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 9,
-    "score": 997.1,
-    "scoreColor": "#5cce75",
+    "score": 1030.5,
+    "scoreColor": "#5dc87c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nahtury",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nahtury",
@@ -10691,6 +10691,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Antipulse"
     }
   },
+  "218414888": {
+    "name": "Demonstate",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 27,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Demonstate",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Demonstate",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Demonstate",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Demonstate"
+    }
+  },
   "218434275": {
     "name": "Theogonia",
     "realm": "illidan",
@@ -13076,8 +13094,8 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 3,
-    "score": 1371.9,
-    "scoreColor": "#5aa1a9",
+    "score": 1567,
+    "scoreColor": "#4b8bc1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Xyerst",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xyerst",
