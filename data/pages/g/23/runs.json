@@ -631,6 +631,46 @@
       "scoreColor": "#387dcf",
       "timeDiff": -83277,
       "percDiff": -0.03853634360774805
+    },
+    "17807555": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17807555-4-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 58.5,
+      "keystoneLevel": 4,
+      "clearTime": 1677179,
+      "dateCompleted": "2022-01-18T09:00:56.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2340999,
+      "members": [
+        "171995052",
+        "172018889"
+      ],
+      "count": 2,
+      "scoreColor": "#59d46d",
+      "timeDiff": -663820,
+      "percDiff": -0.283562701222854
+    },
+    "17807654": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/17807654-2-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 43.4,
+      "keystoneLevel": 2,
+      "clearTime": 1651551,
+      "dateCompleted": "2022-01-18T08:24:51.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "171995052",
+        "172018889"
+      ],
+      "count": 2,
+      "scoreColor": "#3bf336",
+      "timeDiff": -629448,
+      "percDiff": -0.2759527733243198
     }
   }
 }
