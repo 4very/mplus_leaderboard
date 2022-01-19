@@ -16451,6 +16451,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Avelaa"
     }
   },
+  "170431897": {
+    "name": "Kavani",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 29,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Kavani",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kavani",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kavani",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kavani"
+    }
+  },
   "170533917": {
     "name": "Lado",
     "realm": "sargeras",
