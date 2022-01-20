@@ -16434,21 +16434,21 @@
     }
   },
   "170431897": {
-    "name": "Kavani",
+    "name": "Holycoltz",
     "realm": "sargeras",
     "faction": "alliance",
     "class": 5,
     "className": "Priest",
     "classColor": "#FFFFFF",
-    "race": 29,
+    "race": 1,
     "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Kavani",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kavani",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kavani",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kavani"
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Holycoltz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Holycoltz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Holycoltz"
     }
   },
   "170533917": {
