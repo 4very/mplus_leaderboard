@@ -9224,10 +9224,10 @@
     "classColor": "#00FF98",
     "race": 10,
     "rank": 9,
-    "score": 1562.9,
-    "scoreColor": "#4b8bc1",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Drunkcredan",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Drunkcredan",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Drunkcredan",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Drunkcredan"
@@ -10934,10 +10934,10 @@
     "classColor": "#FF7C0A",
     "race": 28,
     "rank": 8,
-    "score": 1433.2,
-    "scoreColor": "#589baf",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Credan",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Credan",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Credan",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Credan"
