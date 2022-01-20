@@ -13094,8 +13094,8 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 3,
-    "score": 1631,
-    "scoreColor": "#4183c9",
+    "score": 1693.9,
+    "scoreColor": "#387dcf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Xyerst",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xyerst",
@@ -18785,7 +18785,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Pikamein",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Pikamein",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Pikamein",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Pikamein"
