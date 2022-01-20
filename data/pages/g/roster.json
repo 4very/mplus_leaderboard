@@ -9215,24 +9215,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Panddington"
     }
   },
-  "215572555": {
-    "name": "Drunkcredan",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Drunkcredan",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Drunkcredan",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Drunkcredan"
-    }
-  },
   "215648926": {
     "name": "Hashiryuu",
     "realm": "illidan",
@@ -10925,24 +10907,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Pikamage"
     }
   },
-  "218886755": {
-    "name": "Credan",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 28,
-    "rank": 8,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Credan",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Credan",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Credan"
-    }
-  },
   "218888847": {
     "name": "Akalree",
     "realm": "illidan",
@@ -11967,6 +11931,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
+    }
+  },
+  "220174086": {
+    "name": "Creduardo",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Creduardo",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Creduardo",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Creduardo",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Creduardo"
     }
   },
   "220193831": {
@@ -13094,8 +13076,8 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 3,
-    "score": 1753.9,
-    "scoreColor": "#2375d7",
+    "score": 1814,
+    "scoreColor": "#1773da",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Xyerst",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xyerst",
