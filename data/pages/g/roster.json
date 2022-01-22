@@ -12779,24 +12779,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Irisromantin"
     }
   },
-  "221134863": {
-    "name": "Hurnoho",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 31,
-    "rank": 9,
-    "score": 159.8,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Hurnoho",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hurnoho",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Hurnoho",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Hurnoho"
-    }
-  },
   "221161943": {
     "name": "F\u00ebanoramari\u00eb",
     "realm": "illidan",
@@ -13101,6 +13083,42 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xybrew",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Xybrew",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xybrew"
+    }
+  },
+  "188765449": {
+    "name": "Dannyexcutie",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dannyexcutie",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dannyexcutie",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dannyexcutie",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dannyexcutie"
+    }
+  },
+  "217274552": {
+    "name": "Lightzs",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 1175.5,
+    "scoreColor": "#5fb98f",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lightzs",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lightzs",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lightzs",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lightzs"
     }
   },
   "989898": {
