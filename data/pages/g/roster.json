@@ -1217,7 +1217,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Steriks",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Steriks",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Steriks",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Steriks"
@@ -14336,7 +14336,7 @@
     "classColor": "#FFF468",
     "race": 22,
     "rank": 9,
-    "score": 65.8,
+    "score": 154.1,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Wreckkz",
