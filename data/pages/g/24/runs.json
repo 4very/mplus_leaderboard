@@ -80,6 +80,70 @@
       "scoreColor": "#58d66b",
       "timeDiff": -746147,
       "percDiff": -0.3452787345112145
+    },
+    "18117426": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18117426-8-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 83.6,
+      "keystoneLevel": 8,
+      "clearTime": 1531325,
+      "dateCompleted": "2022-01-22T18:45:14.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2160999,
+      "members": [
+        "179483671",
+        "183421074",
+        "203713399",
+        "220489805"
+      ],
+      "count": 4,
+      "scoreColor": "#5da8a2",
+      "timeDiff": -629674,
+      "percDiff": -0.29138097703886023
+    },
+    "18117429": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18117429-6-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 69,
+      "keystoneLevel": 6,
+      "clearTime": 1303218,
+      "dateCompleted": "2022-01-22T18:13:15.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 1920999,
+      "members": [
+        "179483671",
+        "183421074",
+        "220489805"
+      ],
+      "count": 3,
+      "scoreColor": "#5ec481",
+      "timeDiff": -617781,
+      "percDiff": -0.3215936083256681
+    },
+    "18118710": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18118710-4-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 59.8,
+      "keystoneLevel": 4,
+      "clearTime": 1105886,
+      "dateCompleted": "2022-01-22T20:24:37.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "184382892",
+        "190011038",
+        "220489805"
+      ],
+      "count": 3,
+      "scoreColor": "#58d66b",
+      "timeDiff": -695113,
+      "percDiff": -0.3859596812657864
     }
   }
 }
