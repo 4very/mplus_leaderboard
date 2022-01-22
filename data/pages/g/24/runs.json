@@ -144,6 +144,49 @@
       "scoreColor": "#58d66b",
       "timeDiff": -695113,
       "percDiff": -0.3859596812657864
+    },
+    "18122646": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18122646-15-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 127,
+      "keystoneLevel": 15,
+      "clearTime": 1967172,
+      "dateCompleted": "2022-01-22T21:12:09.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "184382892",
+        "198227227",
+        "220065005",
+        "221390117"
+      ],
+      "count": 4,
+      "scoreColor": "#7b56e7",
+      "timeDiff": -373827,
+      "percDiff": -0.159686954159314
+    },
+    "18122332": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18122332-2-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 1025720,
+      "dateCompleted": "2022-01-22T19:44:33.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "184382892",
+        "190011038",
+        "221390117"
+      ],
+      "count": 3,
+      "scoreColor": "#3cf337",
+      "timeDiff": -1255279,
+      "percDiff": -0.5503198379306611
     }
   }
 }
