@@ -4616,8 +4616,8 @@
     "classColor": "#3FC7EB",
     "race": 31,
     "rank": 9,
-    "score": 665.4,
-    "scoreColor": "#30f925",
+    "score": 767.2,
+    "scoreColor": "#48ea4a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Pirea",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Pirea",
@@ -6164,7 +6164,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 1816.9,
+    "score": 1829.7,
     "scoreColor": "#1773da",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Yumiqt",
@@ -16449,24 +16449,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Avelaa",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Avelaa",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Avelaa"
-    }
-  },
-  "170431897": {
-    "name": "Holycoltz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Holycoltz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Holycoltz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Holycoltz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Holycoltz"
     }
   },
   "170533917": {
