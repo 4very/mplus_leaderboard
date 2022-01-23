@@ -16,7 +16,7 @@
         "221369355"
       ],
       "count": 2,
-      "scoreColor": "#9445eb",
+      "scoreColor": "#9246eb",
       "timeDiff": -305724,
       "percDiff": -0.11845180877636918
     },
@@ -37,7 +37,7 @@
         "221369355"
       ],
       "count": 3,
-      "scoreColor": "#9445eb",
+      "scoreColor": "#9246eb",
       "timeDiff": -168920,
       "percDiff": -0.0937923896681786
     },
@@ -57,7 +57,7 @@
         "192926058"
       ],
       "count": 2,
-      "scoreColor": "#9c3eed",
+      "scoreColor": "#9b3eec",
       "timeDiff": -502688,
       "percDiff": -0.19476489529829344
     },
@@ -77,7 +77,7 @@
         "172018889"
       ],
       "count": 2,
-      "scoreColor": "#58d66b",
+      "scoreColor": "#58d669",
       "timeDiff": -746147,
       "percDiff": -0.3452787345112145
     },
@@ -99,7 +99,7 @@
         "220489805"
       ],
       "count": 4,
-      "scoreColor": "#5da8a2",
+      "scoreColor": "#5da9a0",
       "timeDiff": -629674,
       "percDiff": -0.29138097703886023
     },
@@ -120,7 +120,7 @@
         "220489805"
       ],
       "count": 3,
-      "scoreColor": "#5ec481",
+      "scoreColor": "#5ec580",
       "timeDiff": -617781,
       "percDiff": -0.3215936083256681
     },
@@ -141,7 +141,7 @@
         "220489805"
       ],
       "count": 3,
-      "scoreColor": "#58d66b",
+      "scoreColor": "#58d669",
       "timeDiff": -695113,
       "percDiff": -0.3859596812657864
     },
@@ -163,7 +163,7 @@
         "221390117"
       ],
       "count": 4,
-      "scoreColor": "#7b56e7",
+      "scoreColor": "#7658e6",
       "timeDiff": -373827,
       "percDiff": -0.159686954159314
     },
@@ -184,7 +184,7 @@
         "221390117"
       ],
       "count": 3,
-      "scoreColor": "#3cf337",
+      "scoreColor": "#3bf336",
       "timeDiff": -1255279,
       "percDiff": -0.5503198379306611
     },
@@ -206,7 +206,7 @@
         "221390117"
       ],
       "count": 4,
-      "scoreColor": "#7b56e7",
+      "scoreColor": "#7658e6",
       "timeDiff": -304430,
       "percDiff": -0.1408746602844333
     },
@@ -229,7 +229,7 @@
         "221390117"
       ],
       "count": 5,
-      "scoreColor": "#715be5",
+      "scoreColor": "#6c5de5",
       "timeDiff": 41333,
       "percDiff": 0.021516408910155604
     },
@@ -272,9 +272,30 @@
         "221390117"
       ],
       "count": 5,
-      "scoreColor": "#8351e8",
+      "scoreColor": "#8053e8",
       "timeDiff": -381551,
       "percDiff": -0.2118551981428085
+    },
+    "18149002": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18149002-16-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 132.7,
+      "keystoneLevel": 16,
+      "clearTime": 1780834,
+      "dateCompleted": "2022-01-23T02:48:31.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "198227227",
+        "219591485",
+        "219794560"
+      ],
+      "count": 3,
+      "scoreColor": "#9b3eec",
+      "timeDiff": -500165,
+      "percDiff": -0.21927453716551393
     }
   }
 }
