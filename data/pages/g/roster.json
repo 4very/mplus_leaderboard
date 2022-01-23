@@ -4193,6 +4193,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Phits"
     }
   },
+  "188765449": {
+    "name": "Dannyexcutie",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 2,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Dannyexcutie",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dannyexcutie",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dannyexcutie",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dannyexcutie"
+    }
+  },
   "188774719": {
     "name": "Taichipawnda",
     "realm": "illidan",
@@ -5685,24 +5703,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dranoosh",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dranoosh",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dranoosh"
-    }
-  },
-  "195238793": {
-    "name": "Credahn",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 10,
-    "rank": 8,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Credahn",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Credahn",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Credahn",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Credahn"
     }
   },
   "195388458": {
@@ -9089,24 +9089,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ka\u00edn"
     }
   },
-  "215416887": {
-    "name": "Hexycredan",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 2,
-    "rank": 9,
-    "score": 583.3,
-    "scoreColor": "#46ff2d",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Hexycredan",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hexycredan",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Hexycredan",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Hexycredan"
-    }
-  },
   "215427257": {
     "name": "Afkgo\u00f0",
     "realm": "illidan",
@@ -9897,6 +9879,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tagem",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tagem",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tagem"
+    }
+  },
+  "217274552": {
+    "name": "Lightzs",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 1196.8,
+    "scoreColor": "#5fba8d",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Lightzs",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lightzs",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lightzs",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lightzs"
     }
   },
   "217372651": {
@@ -13083,42 +13083,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xybrew",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Xybrew",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xybrew"
-    }
-  },
-  "188765449": {
-    "name": "Dannyexcutie",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Dannyexcutie",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dannyexcutie",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dannyexcutie",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dannyexcutie"
-    }
-  },
-  "217274552": {
-    "name": "Lightzs",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 10,
-    "rank": 9,
-    "score": 1196.8,
-    "scoreColor": "#5fba8d",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lightzs",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lightzs",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lightzs",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lightzs"
     }
   },
   "989898": {
