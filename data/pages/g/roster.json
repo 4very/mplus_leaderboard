@@ -13031,6 +13031,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rippingass"
     }
   },
+  "221526297": {
+    "name": "Minidrew",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Minidrew",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Minidrew",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Minidrew",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Minidrew"
+    }
+  },
   "221531980": {
     "name": "Berzooka",
     "realm": "illidan",
@@ -19268,7 +19286,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 8,
-    "score": 2118.8,
+    "score": 2122.3,
     "scoreColor": "#9b3eec",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Flemtality",
@@ -19646,8 +19664,8 @@
     "classColor": "#A330C9",
     "race": 4,
     "rank": 9,
-    "score": 556,
-    "scoreColor": "#5eff43",
+    "score": 755.8,
+    "scoreColor": "#44ee44",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Dracuhl",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dracuhl",
