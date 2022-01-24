@@ -319,6 +319,27 @@
       "scoreColor": "#7658e6",
       "timeDiff": -421627,
       "percDiff": -0.1848431323292996
+    },
+    "18236927": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18236927-16-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 133.2,
+      "keystoneLevel": 16,
+      "clearTime": 1836820,
+      "dateCompleted": "2022-01-24T03:03:58.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2460999,
+      "members": [
+        "159787507",
+        "191546276",
+        "191912703"
+      ],
+      "count": 3,
+      "scoreColor": "#9b3eec",
+      "timeDiff": -624179,
+      "percDiff": -0.2536283029777745
     }
   }
 }
