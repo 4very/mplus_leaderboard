@@ -11942,10 +11942,10 @@
     "classColor": "#FFFFFF",
     "race": 10,
     "rank": 9,
-    "score": 192.3,
+    "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Creduardo",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Creduardo",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Creduardo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Creduardo"
