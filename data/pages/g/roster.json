@@ -7351,7 +7351,7 @@
     "className": "Paladin",
     "classColor": "#F48CBA",
     "race": 10,
-    "rank": 2,
+    "rank": 4,
     "score": 2111.1,
     "scoreColor": "#9246eb",
     "links": {
@@ -9421,7 +9421,7 @@
     "className": "Monk",
     "classColor": "#00FF98",
     "race": 10,
-    "rank": 9,
+    "rank": 2,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -11231,6 +11231,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Woodsychan"
     }
   },
+  "219282449": {
+    "name": "Sathier",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 27,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Sathier",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Sathier",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Sathier",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Sathier"
+    }
+  },
   "219295963": {
     "name": "Ammast",
     "realm": "illidan",
@@ -11931,24 +11949,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Welldonewar",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Welldonewar",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Welldonewar"
-    }
-  },
-  "220174086": {
-    "name": "Creduardo",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Creduardo",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Creduardo",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Creduardo"
     }
   },
   "220193831": {
@@ -13049,6 +13049,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Berzooka"
     }
   },
+  "221538892": {
+    "name": "Caprisongs",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Caprisongs",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Caprisongs",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Caprisongs",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Caprisongs"
+    }
+  },
   "221545742": {
     "name": "Xyerst",
     "realm": "illidan",
@@ -13083,6 +13101,78 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xybrew",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Xybrew",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xybrew"
+    }
+  },
+  "221619204": {
+    "name": "Chaosbacon",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": null,
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Chaosbacon",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Chaosbacon",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Chaosbacon"
+    }
+  },
+  "221620718": {
+    "name": "Ashpal",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 31,
+    "rank": 1,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Ashpal",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ashpal",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ashpal",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ashpal"
+    }
+  },
+  "196071493": {
+    "name": "Cylonguard",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Cylonguard",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cylonguard",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cylonguard",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonguard"
+    }
+  },
+  "213521472": {
+    "name": "Gottotem",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 31,
+    "rank": 9,
+    "score": 412.1,
+    "scoreColor": "#b3ff9b",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gottotem",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gottotem",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gottotem",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gottotem"
     }
   },
   "989898": {
