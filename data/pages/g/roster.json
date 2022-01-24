@@ -1286,7 +1286,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 153.3,
+    "score": 175.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Linderof",
@@ -18501,24 +18501,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cindermoon",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cindermoon",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cindermoon"
-    }
-  },
-  "190458085": {
-    "name": "Ashpal",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 3,
-    "rank": 1,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Ashpal",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashpal",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashpal",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashpal"
     }
   },
   "190482627": {
