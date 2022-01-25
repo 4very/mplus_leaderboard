@@ -5813,6 +5813,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonbruiser"
     }
   },
+  "196071493": {
+    "name": "Cylonguard",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Cylonguard",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cylonguard",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cylonguard",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonguard"
+    }
+  },
   "196078710": {
     "name": "Gerrg",
     "realm": "illidan",
@@ -8097,6 +8115,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Maxfries",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Maxfries",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Maxfries"
+    }
+  },
+  "213521472": {
+    "name": "Gottotem",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 31,
+    "rank": 9,
+    "score": 469.9,
+    "scoreColor": "#9bff80",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gottotem",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gottotem",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gottotem",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gottotem"
     }
   },
   "213525010": {
@@ -13157,40 +13193,22 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ashpal"
     }
   },
-  "196071493": {
-    "name": "Cylonguard",
+  "82483966": {
+    "name": "Cleavy",
     "realm": "illidan",
     "faction": "horde",
     "class": 1,
     "className": "Warrior",
     "classColor": "#C69B6D",
-    "race": 5,
+    "race": 10,
     "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 884.7,
+    "scoreColor": "#52df5d",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Cylonguard",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cylonguard",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cylonguard",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonguard"
-    }
-  },
-  "213521472": {
-    "name": "Gottotem",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 31,
-    "rank": 9,
-    "score": 469.9,
-    "scoreColor": "#9bff80",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Gottotem",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gottotem",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gottotem",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gottotem"
+      "rio": "https://raider.io/characters/us/illidan/Cleavy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cleavy",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cleavy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cleavy"
     }
   },
   "989898": {
@@ -14613,6 +14631,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Avasive",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Avasive",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Avasive"
+    }
+  },
+  "148065999": {
+    "name": "Rashwho",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Rashwho",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Rashwho",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Rashwho",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Rashwho"
     }
   },
   "148452931": {
@@ -17683,7 +17719,7 @@
     "className": "Paladin",
     "classColor": "#F48CBA",
     "race": 1,
-    "rank": 8,
+    "rank": 5,
     "score": 1723,
     "scoreColor": "#387dcf",
     "links": {
@@ -19671,24 +19707,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dracuhl",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
-    }
-  },
-  "148065999": {
-    "name": "Rashwho",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Rashwho",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Rashwho",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Rashwho",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Rashwho"
     }
   }
 }
