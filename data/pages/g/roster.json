@@ -6569,24 +6569,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tamirin"
     }
   },
-  "199516037": {
-    "name": "Tyrodon",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 2,
-    "rank": 9,
-    "score": 184.4,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Tyrodon",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tyrodon",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tyrodon",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tyrodon"
-    }
-  },
   "199519138": {
     "name": "K\u00eellstar",
     "realm": "illidan",
