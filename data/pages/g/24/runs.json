@@ -423,6 +423,51 @@
       "scoreColor": "#9246eb",
       "timeDiff": -192456,
       "percDiff": -0.10686069231576478
+    },
+    "18298526": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18298526-15-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 127.1,
+      "keystoneLevel": 15,
+      "clearTime": 1590774,
+      "dateCompleted": "2022-01-25T01:49:41.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1920999,
+      "members": [
+        "112259843",
+        "187336568",
+        "190562532",
+        "220022320"
+      ],
+      "count": 4,
+      "scoreColor": "#7658e6",
+      "timeDiff": -330225,
+      "percDiff": -0.17190274435332864
+    },
+    "18295651": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18295651-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 127.7,
+      "keystoneLevel": 15,
+      "clearTime": 1782232,
+      "dateCompleted": "2022-01-25T00:53:37.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "112259843",
+        "187336568",
+        "195117666",
+        "201274632",
+        "220022320"
+      ],
+      "count": 5,
+      "scoreColor": "#8053e8",
+      "timeDiff": -498767,
+      "percDiff": -0.2186616478130854
     }
   }
 }
