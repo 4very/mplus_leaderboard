@@ -19672,5 +19672,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
     }
+  },
+  "148065999": {
+    "name": "Rashwho",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Rashwho",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Rashwho",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Rashwho",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Rashwho"
+    }
   }
 }
