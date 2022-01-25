@@ -13121,6 +13121,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xybrew"
     }
   },
+  "221607968": {
+    "name": "Alecazzam",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 8,
+    "className": "Mage",
+    "classColor": "#3FC7EB",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Alecazzam",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alecazzam",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Alecazzam",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Alecazzam"
+    }
+  },
   "221619204": {
     "name": "Chaosbacon",
     "realm": "illidan",
