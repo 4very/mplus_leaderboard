@@ -3985,7 +3985,7 @@
     "className": "Hunter",
     "classColor": "#AAD372",
     "race": 2,
-    "rank": 9,
+    "rank": 8,
     "score": 2240.5,
     "scoreColor": "#b23ade",
     "links": {
@@ -7784,8 +7784,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 1623.1,
-    "scoreColor": "#4888c3",
+    "score": 1700.6,
+    "scoreColor": "#3c80cc",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Hellmerfudd",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hellmerfudd",
@@ -13021,7 +13021,7 @@
     "className": "Warlock",
     "classColor": "#8788EE",
     "race": 2,
-    "rank": 9,
+    "rank": 8,
     "score": 2056.8,
     "scoreColor": "#8053e8",
     "links": {
@@ -13166,7 +13166,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 0,
+    "score": 67.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Chaosbacon",
