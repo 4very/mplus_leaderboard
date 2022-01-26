@@ -19708,5 +19708,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dracuhl",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dracuhl"
     }
+  },
+  "191701130": {
+    "name": "Forgebrow",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 34,
+    "rank": 9,
+    "score": 202.5,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Forgebrow",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Forgebrow",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Forgebrow",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Forgebrow"
+    }
   }
 }
