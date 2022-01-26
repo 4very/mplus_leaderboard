@@ -1,3 +1,105 @@
 {
-  "data": {}
+  "data": {
+    "18381715": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18381715-4-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 59.7,
+      "keystoneLevel": 4,
+      "clearTime": 1421302,
+      "dateCompleted": "2022-01-26T00:32:02.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "88522035",
+        "88523732",
+        "208670458"
+      ],
+      "count": 3,
+      "scoreColor": "#58d669",
+      "timeDiff": -859697,
+      "percDiff": -0.3768949482222482
+    },
+    "18381723": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18381723-3-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 50,
+      "keystoneLevel": 3,
+      "clearTime": 953484,
+      "dateCompleted": "2022-01-26T02:42:50.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "88523732",
+        "208670458"
+      ],
+      "count": 2,
+      "scoreColor": "#4be84f",
+      "timeDiff": -847515,
+      "percDiff": -0.4705804944922235
+    },
+    "18381694": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18381694-2-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 1346151,
+      "dateCompleted": "2022-01-26T02:14:10.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "88523732",
+        "208670458"
+      ],
+      "count": 2,
+      "scoreColor": "#3bf336",
+      "timeDiff": -994848,
+      "percDiff": -0.42496728960584773
+    },
+    "18381690": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18381690-4-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 60,
+      "keystoneLevel": 4,
+      "clearTime": 953648,
+      "dateCompleted": "2022-01-26T01:41:24.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2160999,
+      "members": [
+        "88523732",
+        "208670458"
+      ],
+      "count": 2,
+      "scoreColor": "#58d669",
+      "timeDiff": -1207351,
+      "percDiff": -0.5587003973625162
+    },
+    "18381635": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18381635-2-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 45,
+      "keystoneLevel": 2,
+      "clearTime": 1221830,
+      "dateCompleted": "2022-01-26T02:33:41.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "221607968",
+        "221619204"
+      ],
+      "count": 2,
+      "scoreColor": "#3bf336",
+      "timeDiff": -1119169,
+      "percDiff": -0.47807324992449807
+    }
+  }
 }
