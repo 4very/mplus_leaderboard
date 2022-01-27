@@ -19726,5 +19726,41 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Forgebrow",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Forgebrow"
     }
+  },
+  "191940553": {
+    "name": "Boomstenlaka",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 1555.3,
+    "scoreColor": "#5090bb",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Boomstenlaka",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Boomstenlaka",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Boomstenlaka",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Boomstenlaka"
+    }
+  },
+  "191248449": {
+    "name": "Cylonraider",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 22,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Cylonraider",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cylonraider",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cylonraider",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cylonraider"
+    }
   }
 }
