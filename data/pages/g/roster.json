@@ -7784,8 +7784,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 1734.8,
-    "scoreColor": "#327bd2",
+    "score": 1766.9,
+    "scoreColor": "#2b78d5",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Hellmerfudd",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hellmerfudd",
@@ -13148,8 +13148,8 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 352.5,
-    "scoreColor": "#c8ffb4",
+    "score": 450,
+    "scoreColor": "#a8ff8d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alecazzam",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alecazzam",
@@ -18857,7 +18857,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Pikamein",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Pikamein",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Pikamein",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Pikamein"
