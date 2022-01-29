@@ -13166,8 +13166,8 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 262.5,
-    "scoreColor": "#eeffe6",
+    "score": 330,
+    "scoreColor": "#d2ffc1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Chaosbacon",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Chaosbacon",
@@ -13209,6 +13209,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cleavy",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cleavy",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cleavy"
+    }
+  },
+  "195577124": {
+    "name": "Cylonsuport",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 26,
+    "rank": 9,
+    "score": 368.5,
+    "scoreColor": "#c8ffb4",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Cylonsuport",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cylonsuport",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Cylonsuport",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonsuport"
     }
   },
   "989898": {
