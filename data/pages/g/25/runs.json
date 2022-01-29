@@ -370,6 +370,48 @@
       "scoreColor": "#7658e6",
       "timeDiff": -265538,
       "percDiff": -0.14743928230942938
+    },
+    "18574714": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18574714-4-the-necrotic-wake",
+      "dunegonName": "The Necrotic Wake",
+      "dungeonAbbr": "NW",
+      "score": 60,
+      "keystoneLevel": 4,
+      "clearTime": 1164370,
+      "dateCompleted": "2022-01-29T03:26:50.000Z",
+      "keyMod": 3,
+      "faction": "alliance",
+      "partime": 2160999,
+      "members": [
+        "191403307",
+        "191406060",
+        "191550935"
+      ],
+      "count": 3,
+      "scoreColor": "#58d669",
+      "timeDiff": -996629,
+      "percDiff": -0.46118901489542563
+    },
+    "18574718": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/18574718-2-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 43.2,
+      "keystoneLevel": 2,
+      "clearTime": 1689147,
+      "dateCompleted": "2022-01-29T02:47:26.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "191403307",
+        "191406060",
+        "191550935"
+      ],
+      "count": 3,
+      "scoreColor": "#36f62f",
+      "timeDiff": -591852,
+      "percDiff": -0.2594705214688827
     }
   }
 }
