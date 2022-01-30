@@ -16415,6 +16415,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Xerosoul"
     }
   },
+  "169266628": {
+    "name": "Beastin",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 32,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Beastin",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Beastin",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Beastin",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Beastin"
+    }
+  },
   "169439545": {
     "name": "Failcher",
     "realm": "sargeras",
