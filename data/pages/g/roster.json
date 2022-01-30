@@ -152,7 +152,7 @@
     "classColor": "#C41E3A",
     "race": 9,
     "rank": 9,
-    "score": 67.1,
+    "score": 131.9,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Panamagreen",
@@ -2924,7 +2924,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 0,
+    "score": 151.8,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Th\u00fbnderlips",
@@ -8846,7 +8846,7 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 67.1,
+    "score": 218.9,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Hoohjay",
@@ -11564,8 +11564,8 @@
     "classColor": "#C41E3A",
     "race": 10,
     "rank": 9,
-    "score": 744.3,
-    "scoreColor": "#40f03d",
+    "score": 838.1,
+    "scoreColor": "#4de554",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Andraxias",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Andraxias",
@@ -13193,6 +13193,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Cylonsuport"
     }
   },
+  "201723784": {
+    "name": "Y\u00f5so",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 35,
+    "rank": 9,
+    "score": 241.4,
+    "scoreColor": "#f6fff3",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Y\u00f5so",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Y\u00f5so",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Y\u00f5so",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Y\u00f5so"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -14255,24 +14273,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zubaladin"
     }
   },
-  "136281301": {
-    "name": "Jaenisch",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 7,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Jaenisch",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jaenisch",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jaenisch",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jaenisch"
-    }
-  },
   "137090062": {
     "name": "Rits",
     "realm": "sargeras",
@@ -14343,24 +14343,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Shamluck",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Shamluck",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Shamluck"
-    }
-  },
-  "141131725": {
-    "name": "Maxamos",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Maxamos",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Maxamos",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Maxamos",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Maxamos"
     }
   },
   "141661026": {
