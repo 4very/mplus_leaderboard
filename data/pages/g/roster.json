@@ -7127,6 +7127,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Matrise"
     }
   },
+  "201005863": {
+    "name": "Do\u00f4ker",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Do\u00f4ker",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Do\u00f4ker",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Do\u00f4ker",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Do\u00f4ker"
+    }
+  },
   "201173652": {
     "name": "Bahndis",
     "realm": "illidan",
@@ -13209,6 +13227,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Y\u00f5so",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Y\u00f5so",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Y\u00f5so"
+    }
+  },
+  "221650801": {
+    "name": "Frogsmash",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 35,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Frogsmash",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Frogsmash",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Frogsmash",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
     }
   },
   "989898": {
@@ -19725,6 +19761,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Cylonraider",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Cylonraider",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Cylonraider"
+    }
+  },
+  "104222255": {
+    "name": "Huntinw\u00e5bbit",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Huntinw\u00e5bbit",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Huntinw\u00e5bbit",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Huntinw\u00e5bbit",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Huntinw\u00e5bbit"
     }
   }
 }
