@@ -13571,24 +13571,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=\u00c4kum\u00e4"
     }
   },
-  "87749666": {
-    "name": "Bradysr",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 1779.8,
-    "scoreColor": "#2375d7",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Bradysr",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Bradysr",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Bradysr",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Bradysr"
-    }
-  },
   "88062598": {
     "name": "Hisako",
     "realm": "sargeras",
@@ -16963,7 +16945,7 @@
     "className": "Rogue",
     "classColor": "#FFF468",
     "race": 1,
-    "rank": 5,
+    "rank": 8,
     "score": 361.5,
     "scoreColor": "#c8ffb4",
     "links": {
@@ -18755,6 +18737,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Amyalang"
     }
   },
+  "190613759": {
+    "name": "Ashslaps",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 34,
+    "rank": 1,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Ashslaps",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ashslaps",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ashslaps",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ashslaps"
+    }
+  },
   "190625827": {
     "name": "Quelquun",
     "realm": "sargeras",
@@ -19771,7 +19771,7 @@
     "className": "Warrior",
     "classColor": "#C69B6D",
     "race": 22,
-    "rank": 9,
+    "rank": 2,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
