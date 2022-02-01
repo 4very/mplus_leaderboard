@@ -13427,24 +13427,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Orgazmo"
     }
   },
-  "78106364": {
-    "name": "G\u00efbbz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 29,
-    "rank": 9,
-    "score": 135,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/G\u00efbbz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/G\u00efbbz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/G\u00efbbz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=G\u00efbbz"
-    }
-  },
   "80958054": {
     "name": "T\u00e5r\u00e5",
     "realm": "sargeras",
