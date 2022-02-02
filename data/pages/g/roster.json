@@ -13229,6 +13229,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
     }
   },
+  "220581171": {
+    "name": "Gh\u00f8stitz",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gh\u00f8stitz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gh\u00f8stitz",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gh\u00f8stitz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gh\u00f8stitz"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
