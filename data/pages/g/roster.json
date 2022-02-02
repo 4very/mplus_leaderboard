@@ -8162,8 +8162,8 @@
     "classColor": "#0070DD",
     "race": 31,
     "rank": 9,
-    "score": 879.4,
-    "scoreColor": "#52df5d",
+    "score": 890.8,
+    "scoreColor": "#54dc61",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Stormkeep\u00e8r",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Stormkeep\u00e8r",
@@ -19169,24 +19169,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Gnofrommedog"
     }
   },
-  "191406060": {
-    "name": "Durronbolt",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 893.6,
-    "scoreColor": "#54dc61",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Durronbolt",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durronbolt",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durronbolt",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durronbolt"
-    }
-  },
   "191434774": {
     "name": "Avanescent",
     "realm": "sargeras",
@@ -19421,24 +19403,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemzy"
     }
   },
-  "191590217": {
-    "name": "Barkatdemoon",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 22,
-    "rank": 9,
-    "score": 763.7,
-    "scoreColor": "#44ee44",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Barkatdemoon",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Barkatdemoon",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Barkatdemoon",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Barkatdemoon"
-    }
-  },
   "191594602": {
     "name": "Stormyshadow",
     "realm": "sargeras",
@@ -19617,24 +19581,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kaitya",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kaitya",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kaitya"
-    }
-  },
-  "191701130": {
-    "name": "Forgebrow",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 7,
-    "className": "Shaman",
-    "classColor": "#0070DD",
-    "race": 34,
-    "rank": 9,
-    "score": 202.5,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Forgebrow",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Forgebrow",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Forgebrow",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Forgebrow"
     }
   },
   "191713217": {
