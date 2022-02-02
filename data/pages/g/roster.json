@@ -13076,8 +13076,8 @@
     "classColor": "#3FC7EB",
     "race": 5,
     "rank": 9,
-    "score": 539.1,
-    "scoreColor": "#70ff54",
+    "score": 606.6,
+    "scoreColor": "#1eff00",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Minidrew",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Minidrew",
@@ -18713,7 +18713,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/sargeras/Amyalang",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Amyalang",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Amyalang",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Amyalang"
