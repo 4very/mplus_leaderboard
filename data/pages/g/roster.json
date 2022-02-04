@@ -2726,8 +2726,8 @@
     "classColor": "#3FC7EB",
     "race": 27,
     "rank": 9,
-    "score": 247.5,
-    "scoreColor": "#f6fff3",
+    "score": 282.2,
+    "scoreColor": "#e5ffda",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Bapu",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Bapu",
@@ -19167,24 +19167,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Smroo",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Smroo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Smroo"
-    }
-  },
-  "191403307": {
-    "name": "Gnofrommedog",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 7,
-    "rank": 9,
-    "score": 849.2,
-    "scoreColor": "#50e258",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Gnofrommedog",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gnofrommedog",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Gnofrommedog",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Gnofrommedog"
     }
   },
   "191434774": {
