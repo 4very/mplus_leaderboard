@@ -10781,24 +10781,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Theogonia"
     }
   },
-  "218449422": {
-    "name": "Khardus",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 6,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Khardus",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Khardus",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Khardus",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Khardus"
-    }
-  },
   "218461684": {
     "name": "Arrod",
     "realm": "illidan",
