@@ -190,6 +190,66 @@
       "scoreColor": "#3bf336",
       "timeDiff": -1086422,
       "percDiff": -0.47629218601148005
+    },
+    "19024870": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19024870-16-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 123.4,
+      "keystoneLevel": 16,
+      "clearTime": 2575262,
+      "dateCompleted": "2022-02-04T01:17:43.000Z",
+      "keyMod": 0,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "187336568",
+        "192926058"
+      ],
+      "count": 2,
+      "scoreColor": "#6062e3",
+      "timeDiff": 294263,
+      "percDiff": 0.12900619421578008
+    },
+    "19024313": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19024313-3-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 50,
+      "keystoneLevel": 3,
+      "clearTime": 789484,
+      "dateCompleted": "2022-02-04T01:55:17.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "208670458",
+        "221494421"
+      ],
+      "count": 2,
+      "scoreColor": "#4be84f",
+      "timeDiff": -1491515,
+      "percDiff": -0.6538867399766506
+    },
+    "19024028": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19024028-3-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 50,
+      "keystoneLevel": 3,
+      "clearTime": 1016118,
+      "dateCompleted": "2022-02-04T01:30:16.000Z",
+      "keyMod": 3,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "208670458",
+        "221494421"
+      ],
+      "count": 2,
+      "scoreColor": "#4be84f",
+      "timeDiff": -1264881,
+      "percDiff": -0.5545293969878987
     }
   }
 }

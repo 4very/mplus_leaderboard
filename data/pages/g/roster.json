@@ -13211,24 +13211,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
     }
   },
-  "220581171": {
-    "name": "Gh\u00f8stitz",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 5,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Gh\u00f8stitz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gh\u00f8stitz",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gh\u00f8stitz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gh\u00f8stitz"
-    }
-  },
   "178375172": {
     "name": "Suramarr",
     "realm": "illidan",
@@ -13245,6 +13227,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Suramarr",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Suramarr",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Suramarr"
+    }
+  },
+  "221494421": {
+    "name": "Herefishy",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 6,
+    "rank": 9,
+    "score": 285,
+    "scoreColor": "#e5ffda",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Herefishy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Herefishy",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Herefishy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Herefishy"
     }
   },
   "989898": {
@@ -19365,24 +19365,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Mich\u00edru",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Mich\u00edru",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Mich\u00edru"
-    }
-  },
-  "191550935": {
-    "name": "Warglox",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 22,
-    "rank": 9,
-    "score": 372.4,
-    "scoreColor": "#c8ffb4",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Warglox",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Warglox",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Warglox",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Warglox"
     }
   },
   "191567489": {
