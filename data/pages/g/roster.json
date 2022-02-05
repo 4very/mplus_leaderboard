@@ -7028,8 +7028,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1215.9,
-    "scoreColor": "#5fb790",
+    "score": 1280.4,
+    "scoreColor": "#5faf9a",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Thiannia",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Thiannia",
@@ -8918,8 +8918,8 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 810.6,
-    "scoreColor": "#4be84f",
+    "score": 998.5,
+    "scoreColor": "#5bd171",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Ojayy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ojayy",
@@ -11582,8 +11582,8 @@
     "classColor": "#C41E3A",
     "race": 10,
     "rank": 9,
-    "score": 1311.9,
-    "scoreColor": "#5eac9d",
+    "score": 1374.7,
+    "scoreColor": "#5ca4a6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Andraxias",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Andraxias",
@@ -13245,6 +13245,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Korhn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Korhn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Korhn"
+    }
+  },
+  "200000351": {
+    "name": "D\u00f3me",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 31,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/D\u00f3me",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/D\u00f3me",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/D\u00f3me",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=D\u00f3me"
     }
   },
   "989898": {
