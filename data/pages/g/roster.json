@@ -8910,21 +8910,21 @@
     }
   },
   "215019058": {
-    "name": "Hoohjay",
+    "name": "Ojayy",
     "realm": "illidan",
     "faction": "horde",
     "class": 2,
     "className": "Paladin",
     "classColor": "#F48CBA",
-    "race": 10,
+    "race": 6,
     "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 600.7,
+    "scoreColor": "#1eff00",
     "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hoohjay",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Hoohjay",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Hoohjay"
+      "rio": "https://raider.io/characters/us/illidan/Ojayy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ojayy",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ojayy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ojayy"
     }
   },
   "215025247": {
@@ -12147,24 +12147,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Daenisse",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Daenisse",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Daenisse"
-    }
-  },
-  "220538756": {
-    "name": "Tuckes",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Tuckes",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tuckes",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tuckes",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tuckes"
     }
   },
   "220543124": {
@@ -16244,8 +16226,8 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 2216.6,
-    "scoreColor": "#ad38e3",
+    "score": 2226.8,
+    "scoreColor": "#b23ade",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Gharah",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gharah",
@@ -16809,24 +16791,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jumps",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jumps",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jumps"
-    }
-  },
-  "173142267": {
-    "name": "Jimmerhardy",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Jimmerhardy",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jimmerhardy",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jimmerhardy",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jimmerhardy"
     }
   },
   "173231878": {
