@@ -1235,7 +1235,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Steriks",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Steriks",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Steriks",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Steriks"
@@ -4364,8 +4364,8 @@
     "classColor": "#00FF98",
     "race": 35,
     "rank": 9,
-    "score": 356.1,
-    "scoreColor": "#c8ffb4",
+    "score": 449.2,
+    "scoreColor": "#a8ff8d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Yueri",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Yueri",
@@ -8918,10 +8918,10 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 600.7,
-    "scoreColor": "#1eff00",
+    "score": 0,
+    "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Hoohjay",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hoohjay",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Hoohjay",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Hoohjay"
@@ -9227,7 +9227,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": "https://raider.io/characters/us/illidan/Lunn",
+      "rio": null,
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
