@@ -7028,8 +7028,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1305,
-    "scoreColor": "#5eac9d",
+    "score": 1373.1,
+    "scoreColor": "#5ca4a6",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Thiannia",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Thiannia",
@@ -8918,8 +8918,8 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 1281,
-    "scoreColor": "#5faf9a",
+    "score": 1319.4,
+    "scoreColor": "#5eac9d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Ojayy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ojayy",
@@ -13076,8 +13076,8 @@
     "classColor": "#AAD372",
     "race": 10,
     "rank": 3,
-    "score": 2263.1,
-    "scoreColor": "#b63cd9",
+    "score": 2284.2,
+    "scoreColor": "#ba3ed4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Xyerst",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Xyerst",
@@ -13202,8 +13202,8 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 642.5,
-    "scoreColor": "#28fc18",
+    "score": 802.2,
+    "scoreColor": "#4be84f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Herefishy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Herefishy",
@@ -19707,6 +19707,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Andraxias",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Andraxias",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Andraxias"
+    }
+  },
+  "188233083": {
+    "name": "Grimlar",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 37,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Grimlar",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Grimlar",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Grimlar",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Grimlar"
     }
   }
 }
