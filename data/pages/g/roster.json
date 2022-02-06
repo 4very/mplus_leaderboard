@@ -152,8 +152,8 @@
     "classColor": "#C69B6D",
     "race": 10,
     "rank": 9,
-    "score": 1429.5,
-    "scoreColor": "#599eac",
+    "score": 1514.3,
+    "scoreColor": "#5293b8",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Cleavy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cleavy",
@@ -2499,24 +2499,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gito",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gito",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gito"
-    }
-  },
-  "179139255": {
-    "name": "Hugsnk\u00edsses",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Hugsnk\u00edsses",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Hugsnk\u00edsses",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Hugsnk\u00edsses",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Hugsnk\u00edsses"
     }
   },
   "179181813": {
