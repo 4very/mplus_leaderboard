@@ -5120,8 +5120,8 @@
     "classColor": "#C41E3A",
     "race": 10,
     "rank": 2,
-    "score": 125.1,
-    "scoreColor": "#ffffff",
+    "score": 372.6,
+    "scoreColor": "#c8ffb4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/B\u00f2ogerz",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/B\u00f2ogerz",
@@ -13058,8 +13058,8 @@
     "classColor": "#0070DD",
     "race": 6,
     "rank": 9,
-    "score": 977.6,
-    "scoreColor": "#59d46d",
+    "score": 1082.5,
+    "scoreColor": "#5ec580",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Herefishy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Herefishy",
@@ -13245,6 +13245,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Frogsmash",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Frogsmash",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
+    }
+  },
+  "219107694": {
+    "name": "Retvandal",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Retvandal",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Retvandal",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Retvandal",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Retvandal"
     }
   },
   "989898": {
