@@ -152,8 +152,8 @@
     "classColor": "#C69B6D",
     "race": 10,
     "rank": 9,
-    "score": 1533.7,
-    "scoreColor": "#5293b8",
+    "score": 1573.3,
+    "scoreColor": "#4e8ebe",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Cleavy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Cleavy",
@@ -3003,24 +3003,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dabnaenaedab",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Dabnaenaedab",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Dabnaenaedab"
-    }
-  },
-  "182936927": {
-    "name": "Kissofd\u00e9ath",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 9,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Kissofd\u00e9ath",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Kissofd\u00e9ath",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Kissofd\u00e9ath",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Kissofd\u00e9ath"
     }
   },
   "182944491": {
