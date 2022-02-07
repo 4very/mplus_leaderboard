@@ -1628,8 +1628,8 @@
     "classColor": "#FF7C0A",
     "race": 6,
     "rank": 9,
-    "score": 1289.3,
-    "scoreColor": "#5faf9a",
+    "score": 1364.8,
+    "scoreColor": "#5da6a3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nahtury",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nahtury",
@@ -13263,6 +13263,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Retvandal",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Retvandal",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Retvandal"
+    }
+  },
+  "195599103": {
+    "name": "Tiara",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 10,
+    "rank": 9,
+    "score": 1959.5,
+    "scoreColor": "#5366e2",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Tiara",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tiara",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tiara",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tiara"
     }
   },
   "989898": {
