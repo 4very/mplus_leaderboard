@@ -13265,6 +13265,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tiara"
     }
   },
+  "220223891": {
+    "name": "Chocony",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 9,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Chocony",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Chocony",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Chocony",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Chocony"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
