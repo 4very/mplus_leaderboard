@@ -19727,6 +19727,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Draxxkk"
     }
   },
+  "192017241": {
+    "name": "Kaz\u00ed",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 30,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Kaz\u00ed",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kaz\u00ed",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kaz\u00ed",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kaz\u00ed"
+    }
+  },
   "188233083": {
     "name": "Grimlar",
     "realm": "sargeras",
