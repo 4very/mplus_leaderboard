@@ -6200,8 +6200,8 @@
     "classColor": "#AAD372",
     "race": 6,
     "rank": 3,
-    "score": 1900.6,
-    "scoreColor": "#2e6ddf",
+    "score": 1972.8,
+    "scoreColor": "#6062e3",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Oldirtycoon",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Oldirtycoon",
@@ -13245,24 +13245,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ashpal",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ashpal",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ashpal"
-    }
-  },
-  "221626276": {
-    "name": "Idunitx",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 31,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Idunitx",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Idunitx",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Idunitx",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Idunitx"
     }
   },
   "221650801": {
