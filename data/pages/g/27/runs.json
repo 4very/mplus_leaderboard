@@ -42,6 +42,51 @@
       "scoreColor": "#2375d7",
       "timeDiff": -194046,
       "percDiff": -0.08507062037291557
+    },
+    "19432850": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19432850-4-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 60,
+      "keystoneLevel": 4,
+      "clearTime": 1372603,
+      "dateCompleted": "2022-02-09T04:01:44.000Z",
+      "keyMod": 3,
+      "faction": "alliance",
+      "partime": 2460999,
+      "members": [
+        "183061786",
+        "189980882",
+        "191815747",
+        "191900049",
+        "192017241"
+      ],
+      "count": 5,
+      "scoreColor": "#58d669",
+      "timeDiff": -1088396,
+      "percDiff": -0.4422577985606658
+    },
+    "19432737": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19432737-5-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 63.2,
+      "keystoneLevel": 5,
+      "clearTime": 1923041,
+      "dateCompleted": "2022-02-09T03:25:54.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2580999,
+      "members": [
+        "183061786",
+        "189980882",
+        "191900049",
+        "192017241"
+      ],
+      "count": 4,
+      "scoreColor": "#5cce75",
+      "timeDiff": -657958,
+      "percDiff": -0.254923771764344
     }
   }
 }
