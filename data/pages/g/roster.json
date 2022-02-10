@@ -1439,6 +1439,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Laffter"
     }
   },
+  "157330177": {
+    "name": "Prephaired",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Prephaired",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Prephaired",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Prephaired",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Prephaired"
+    }
+  },
   "157401863": {
     "name": "Cycl\u00f4n",
     "realm": "illidan",
@@ -14642,7 +14660,7 @@
     "classColor": "#FF7C0A",
     "race": 4,
     "rank": 9,
-    "score": 0,
+    "score": 64.4,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Rashwho",
