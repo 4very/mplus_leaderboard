@@ -6073,7 +6073,7 @@
     "className": "Hunter",
     "classColor": "#AAD372",
     "race": 10,
-    "rank": 4,
+    "rank": 9,
     "score": 285.8,
     "scoreColor": "#e5ffda",
     "links": {
@@ -8954,8 +8954,8 @@
     "classColor": "#F48CBA",
     "race": 6,
     "rank": 9,
-    "score": 1541.4,
-    "scoreColor": "#5090bb",
+    "score": 1593,
+    "scoreColor": "#4b8bc1",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Ojayy",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ojayy",
