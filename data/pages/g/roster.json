@@ -10790,8 +10790,8 @@
     "classColor": "#8788EE",
     "race": 27,
     "rank": 9,
-    "score": 601.7,
-    "scoreColor": "#1eff00",
+    "score": 652.2,
+    "scoreColor": "#30f925",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Demonstate",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Demonstate",
@@ -13382,8 +13382,8 @@
     "classColor": "#F48CBA",
     "race": 1,
     "rank": 9,
-    "score": 173.4,
-    "scoreColor": "#ffffff",
+    "score": 288.5,
+    "scoreColor": "#e5ffda",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Rowly",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Rowly",
@@ -19815,6 +19815,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kaz\u00ed",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kaz\u00ed",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kaz\u00ed"
+    }
+  },
+  "191356738": {
+    "name": "Noriania",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Noriania",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Noriania",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Noriania",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Noriania"
     }
   }
 }
