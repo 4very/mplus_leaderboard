@@ -16784,8 +16784,8 @@
     "classColor": "#FFFFFF",
     "race": 29,
     "rank": 9,
-    "score": 898.9,
-    "scoreColor": "#54dc61",
+    "score": 925.8,
+    "scoreColor": "#56d965",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Lollipopss",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Lollipopss",
@@ -19833,6 +19833,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Noriania",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Noriania",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Noriania"
+    }
+  },
+  "173142267": {
+    "name": "Jimmerhardy",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Jimmerhardy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jimmerhardy",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jimmerhardy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jimmerhardy"
     }
   }
 }
