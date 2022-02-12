@@ -1304,8 +1304,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 894.9,
-    "scoreColor": "#54dc61",
+    "score": 1075.9,
+    "scoreColor": "#5dc87c",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Linderof",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Linderof",
@@ -2870,8 +2870,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 3,
-    "score": 2061.4,
-    "scoreColor": "#8053e8",
+    "score": 2065.6,
+    "scoreColor": "#8a4de9",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Dodsfalle",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Dodsfalle",
@@ -10790,8 +10790,8 @@
     "classColor": "#8788EE",
     "race": 27,
     "rank": 9,
-    "score": 474.2,
-    "scoreColor": "#9bff80",
+    "score": 601.7,
+    "scoreColor": "#1eff00",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Demonstate",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Demonstate",
@@ -15891,6 +15891,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sturmbear",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sturmbear",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sturmbear"
+    }
+  },
+  "163537496": {
+    "name": "Rellekkz",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Rellekkz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Rellekkz",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Rellekkz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Rellekkz"
     }
   },
   "163572638": {
