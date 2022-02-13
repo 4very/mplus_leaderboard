@@ -2663,6 +2663,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rhorl"
     }
   },
+  "179626045": {
+    "name": "Gamis",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 7,
+    "className": "Shaman",
+    "classColor": "#0070DD",
+    "race": 28,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gamis",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gamis",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gamis",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gamis"
+    }
+  },
   "179786014": {
     "name": "Reemna",
     "realm": "illidan",
@@ -19581,6 +19599,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Penguen",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Penguen",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Penguen"
+    }
+  },
+  "191640831": {
+    "name": "Afrohunt",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 30,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Afrohunt",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Afrohunt",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Afrohunt",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Afrohunt"
     }
   },
   "191658123": {
