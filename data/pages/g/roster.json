@@ -1235,7 +1235,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Steriks",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Steriks",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Steriks",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Steriks"
@@ -9263,7 +9263,7 @@
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
-      "rio": null,
+      "rio": "https://raider.io/characters/us/illidan/Lunn",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Lunn",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Lunn",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Lunn"
@@ -13220,8 +13220,8 @@
     "classColor": "#3FC7EB",
     "race": 8,
     "rank": 9,
-    "score": 750.5,
-    "scoreColor": "#44ee44",
+    "score": 810.2,
+    "scoreColor": "#4be84f",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Alecazzam",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Alecazzam",
