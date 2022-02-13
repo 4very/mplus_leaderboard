@@ -15,9 +15,10 @@
         "112259843",
         "183248381",
         "191896537",
-        "221650801"
+        "221650801",
+        "190440476"
       ],
-      "count": 4,
+      "count": 5,
       "scoreColor": "#2375d7",
       "timeDiff": -389905,
       "percDiff": -0.15106747426093536
@@ -462,12 +463,35 @@
         "178766201",
         "191896537",
         "213995243",
-        "219901803"
+        "219901803",
+        "190440476"
       ],
-      "count": 4,
+      "count": 5,
       "scoreColor": "#1773da",
       "timeDiff": 601530,
       "percDiff": 0.2637133992605871
+    },
+    "19673154": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19673154-15-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 126.6,
+      "keystoneLevel": 15,
+      "clearTime": 2253732,
+      "dateCompleted": "2022-02-13T03:53:46.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "partime": 2580999,
+      "members": [
+        "168845102",
+        "190027755",
+        "191295752",
+        "191994250"
+      ],
+      "count": 4,
+      "scoreColor": "#7658e6",
+      "timeDiff": -327267,
+      "percDiff": -0.1267985768301344
     }
   }
 }

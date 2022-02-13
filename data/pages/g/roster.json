@@ -3716,8 +3716,8 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 9,
-    "score": 2263.7,
-    "scoreColor": "#b63cd9",
+    "score": 2285.4,
+    "scoreColor": "#ba3ed4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gharaelle",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gharaelle",
@@ -13283,6 +13283,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
     }
   },
+  "190440476": {
+    "name": "Gojir\u00e5",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 910,
+    "scoreColor": "#54dc61",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gojir\u00e5",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gojir\u00e5",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gojir\u00e5",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gojir\u00e5"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -16298,7 +16316,7 @@
     "classColor": "#F48CBA",
     "race": 30,
     "rank": 9,
-    "score": 2231.7,
+    "score": 2232.7,
     "scoreColor": "#b23ade",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Gharah",
@@ -19790,8 +19808,8 @@
     "classColor": "#C41E3A",
     "race": 29,
     "rank": 9,
-    "score": 1147.1,
-    "scoreColor": "#5fc086",
+    "score": 1210.4,
+    "scoreColor": "#5fb790",
     "links": {
       "rio": "https://raider.io/characters/us/sargeras/Andraxias",
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Andraxias",
