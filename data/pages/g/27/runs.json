@@ -515,6 +515,69 @@
       "scoreColor": "#6c5de5",
       "timeDiff": -87361,
       "percDiff": -0.04850696752191419
+    },
+    "19680897": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19680897-14-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 120.7,
+      "keystoneLevel": 14,
+      "clearTime": 2203980,
+      "dateCompleted": "2022-02-13T04:04:04.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "178766201",
+        "191896537",
+        "213995243",
+        "219901803",
+        "190440476"
+      ],
+      "count": 5,
+      "scoreColor": "#4369e0",
+      "timeDiff": -137019,
+      "percDiff": -0.058530140337522574
+    },
+    "19680984": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19680984-12-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 111.7,
+      "keystoneLevel": 12,
+      "clearTime": 2228273,
+      "dateCompleted": "2022-02-13T06:24:46.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2580999,
+      "members": [
+        "191896537",
+        "213995243"
+      ],
+      "count": 2,
+      "scoreColor": "#2375d7",
+      "timeDiff": -352726,
+      "percDiff": -0.13666258685106036
+    },
+    "19680891": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19680891-11-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 107.3,
+      "keystoneLevel": 11,
+      "clearTime": 2011367,
+      "dateCompleted": "2022-02-13T05:23:17.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2460999,
+      "members": [
+        "191896537",
+        "213995243"
+      ],
+      "count": 2,
+      "scoreColor": "#387dcf",
+      "timeDiff": -449632,
+      "percDiff": -0.1827030405132225
     }
   }
 }
