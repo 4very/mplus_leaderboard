@@ -4787,6 +4787,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rotriss"
     }
   },
+  "190440476": {
+    "name": "Gojir\u00e5",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 910,
+    "scoreColor": "#54dc61",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Gojir\u00e5",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gojir\u00e5",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gojir\u00e5",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gojir\u00e5"
+    }
+  },
   "190464322": {
     "name": "Zubaladin",
     "realm": "illidan",
@@ -13103,42 +13121,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ashpal"
     }
   },
-  "221650801": {
-    "name": "Frogsmash",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 35,
-    "rank": 9,
-    "score": 1449,
-    "scoreColor": "#589baf",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Frogsmash",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Frogsmash",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Frogsmash",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
-    }
-  },
-  "190440476": {
-    "name": "Gojir\u00e5",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 12,
-    "className": "Demon Hunter",
-    "classColor": "#A330C9",
-    "race": 10,
-    "rank": 9,
-    "score": 910,
-    "scoreColor": "#54dc61",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Gojir\u00e5",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gojir\u00e5",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Gojir\u00e5",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gojir\u00e5"
-    }
-  },
   "221623753": {
     "name": "Haxz",
     "realm": "illidan",
@@ -13155,6 +13137,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Haxz",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Haxz",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Haxz"
+    }
+  },
+  "221650801": {
+    "name": "Frogsmash",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 35,
+    "rank": 9,
+    "score": 1449,
+    "scoreColor": "#589baf",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Frogsmash",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Frogsmash",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Frogsmash",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
     }
   },
   "989898": {
@@ -16757,6 +16757,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jumps"
     }
   },
+  "173142267": {
+    "name": "Jimmerhardy",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 1,
+    "className": "Warrior",
+    "classColor": "#C69B6D",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Jimmerhardy",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jimmerhardy",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jimmerhardy",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jimmerhardy"
+    }
+  },
   "173231878": {
     "name": "Tralorian",
     "realm": "sargeras",
@@ -19097,6 +19115,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ludociel"
     }
   },
+  "191356738": {
+    "name": "Noriania",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 11,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Noriania",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Noriania",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Noriania",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Noriania"
+    }
+  },
   "191400391": {
     "name": "Smroo",
     "realm": "sargeras",
@@ -19743,42 +19779,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kaz\u00ed",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kaz\u00ed",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kaz\u00ed"
-    }
-  },
-  "191356738": {
-    "name": "Noriania",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Noriania",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Noriania",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Noriania",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Noriania"
-    }
-  },
-  "173142267": {
-    "name": "Jimmerhardy",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Jimmerhardy",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Jimmerhardy",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Jimmerhardy",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Jimmerhardy"
     }
   }
 }
