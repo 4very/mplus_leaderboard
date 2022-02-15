@@ -1286,8 +1286,8 @@
     "classColor": "#F48CBA",
     "race": 10,
     "rank": 9,
-    "score": 1318.8,
-    "scoreColor": "#5eac9d",
+    "score": 1330.2,
+    "scoreColor": "#5da9a0",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Linderof",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Linderof",
@@ -5066,8 +5066,8 @@
     "classColor": "#FFF468",
     "race": 2,
     "rank": 9,
-    "score": 1688.5,
-    "scoreColor": "#3c80cc",
+    "score": 1707,
+    "scoreColor": "#387dcf",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Gorgman",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Gorgman",
@@ -13139,6 +13139,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Gojir\u00e5"
     }
   },
+  "221623753": {
+    "name": "Haxz",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 12,
+    "className": "Demon Hunter",
+    "classColor": "#A330C9",
+    "race": 10,
+    "rank": 9,
+    "score": 2396.7,
+    "scoreColor": "#cc47b9",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Haxz",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Haxz",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Haxz",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Haxz"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -16377,6 +16395,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Sp\u00e2rkbud",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Sp\u00e2rkbud",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Sp\u00e2rkbud"
+    }
+  },
+  "169837290": {
+    "name": "T\u00f8rquemada",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 3,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/T\u00f8rquemada",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/T\u00f8rquemada",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/T\u00f8rquemada",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=T\u00f8rquemada"
     }
   },
   "170247237": {
