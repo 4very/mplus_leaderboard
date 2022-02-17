@@ -431,24 +431,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Prints"
     }
   },
-  "93693519": {
-    "name": "Tankgoodness",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 10,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Tankgoodness",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Tankgoodness",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Tankgoodness",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Tankgoodness"
-    }
-  },
   "94969828": {
     "name": "Killerkelly",
     "realm": "illidan",
@@ -13157,6 +13139,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Frogsmash"
     }
   },
+  "174997228": {
+    "name": "Ramide",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 2,
+    "rank": 9,
+    "score": 1639.9,
+    "scoreColor": "#4485c6",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Ramide",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ramide",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ramide",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ramide"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -14325,24 +14325,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Z\u00earo",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Z\u00earo",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Z\u00earo"
-    }
-  },
-  "143404292": {
-    "name": "Wreckkz",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 4,
-    "className": "Rogue",
-    "classColor": "#FFF468",
-    "race": 22,
-    "rank": 9,
-    "score": 371,
-    "scoreColor": "#c8ffb4",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Wreckkz",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Wreckkz",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Wreckkz",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Wreckkz"
     }
   },
   "144231662": {
@@ -19779,6 +19761,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Kaz\u00ed",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Kaz\u00ed",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kaz\u00ed"
+    }
+  },
+  "192039663": {
+    "name": "Haywood",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 5,
+    "className": "Priest",
+    "classColor": "#FFFFFF",
+    "race": 4,
+    "rank": 9,
+    "score": 2243.3,
+    "scoreColor": "#b23ade",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Haywood",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Haywood",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Haywood",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Haywood"
     }
   }
 }
