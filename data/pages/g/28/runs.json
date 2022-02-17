@@ -1,3 +1,69 @@
 {
-  "data": {}
+  "data": {
+    "19914533": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19914533-14-halls-of-atonement",
+      "dunegonName": "Halls of Atonement",
+      "dungeonAbbr": "HOA",
+      "score": 122.3,
+      "keystoneLevel": 14,
+      "clearTime": 1565438,
+      "dateCompleted": "2022-02-17T04:04:05.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1920999,
+      "members": [
+        "191896537",
+        "200000351",
+        "213995243"
+      ],
+      "count": 3,
+      "scoreColor": "#5366e2",
+      "timeDiff": -355561,
+      "percDiff": -0.18509171530021618
+    },
+    "19914056": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19914056-15-theater-of-pain",
+      "dunegonName": "Theater of Pain",
+      "dungeonAbbr": "TOP",
+      "score": 118.1,
+      "keystoneLevel": 15,
+      "clearTime": 2622939,
+      "dateCompleted": "2022-02-17T03:55:52.000Z",
+      "keyMod": 0,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "188463632",
+        "190275632",
+        "191900049",
+        "192017241"
+      ],
+      "count": 4,
+      "scoreColor": "#0070dd",
+      "timeDiff": 341940,
+      "percDiff": 0.1499080008364757
+    },
+    "19913922": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19913922-15-sanguine-depths",
+      "dunegonName": "Sanguine Depths",
+      "dungeonAbbr": "SD",
+      "score": 126.1,
+      "keystoneLevel": 15,
+      "clearTime": 2247565,
+      "dateCompleted": "2022-02-17T03:40:38.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "partime": 2460999,
+      "members": [
+        "191456611",
+        "191546276",
+        "191549898",
+        "191940553"
+      ],
+      "count": 4,
+      "scoreColor": "#6c5de5",
+      "timeDiff": -213434,
+      "percDiff": -0.08672656916967458
+    }
+  }
 }
