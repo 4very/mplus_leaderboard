@@ -18647,6 +18647,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Nat\u00e2s"
     }
   },
+  "190560149": {
+    "name": "Artemass",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Artemass",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Artemass",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Artemass",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Artemass"
+    }
+  },
   "190573045": {
     "name": "Cheeken",
     "realm": "sargeras",
