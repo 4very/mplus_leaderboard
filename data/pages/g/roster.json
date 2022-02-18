@@ -19798,5 +19798,23 @@
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Haywood",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Haywood"
     }
+  },
+  "148389937": {
+    "name": "Corrie",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 11,
+    "className": "Druid",
+    "classColor": "#FF7C0A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Corrie",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Corrie",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Corrie",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Corrie"
+    }
   }
 }
