@@ -8675,24 +8675,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mendme"
     }
   },
-  "214792237": {
-    "name": "Mcthornbody",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 28,
-    "rank": 9,
-    "score": 2680.5,
-    "scoreColor": "#e95f7b",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Mcthornbody",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mcthornbody",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mcthornbody",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mcthornbody"
-    }
-  },
   "214834208": {
     "name": "Agaryulnaer",
     "realm": "illidan",
@@ -13155,6 +13137,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Ramide",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Ramide",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Ramide"
+    }
+  },
+  "215738672": {
+    "name": "Iandrew",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 3,
+    "className": "Hunter",
+    "classColor": "#AAD372",
+    "race": 8,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Iandrew",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Iandrew",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Iandrew",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Iandrew"
     }
   },
   "989898": {
