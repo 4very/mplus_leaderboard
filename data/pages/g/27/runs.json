@@ -330,9 +330,10 @@
       "partime": 2460999,
       "members": [
         "181624294",
-        "215019058"
+        "215019058",
+        "177187829"
       ],
-      "count": 2,
+      "count": 3,
       "scoreColor": "#1773da",
       "timeDiff": -190272,
       "percDiff": -0.07731494405320771
@@ -798,6 +799,46 @@
       "scoreColor": "#7658e6",
       "timeDiff": -461085,
       "percDiff": -0.20214169317917285
+    },
+    "19744095": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19744095-13-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 117.3,
+      "keystoneLevel": 13,
+      "clearTime": 1472046,
+      "dateCompleted": "2022-02-14T01:52:24.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "181292605",
+        "177187829"
+      ],
+      "count": 2,
+      "scoreColor": "#0070dd",
+      "timeDiff": -328953,
+      "percDiff": -0.182650295752524
+    },
+    "19744092": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/19744092-12-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 112.3,
+      "keystoneLevel": 12,
+      "clearTime": 1909553,
+      "dateCompleted": "2022-02-14T01:17:22.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "181292605",
+        "177187829"
+      ],
+      "count": 2,
+      "scoreColor": "#2375d7",
+      "timeDiff": -431446,
+      "percDiff": -0.1842999505766555
     }
   }
 }
