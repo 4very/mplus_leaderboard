@@ -402,6 +402,67 @@
       "scoreColor": "#5dcb79",
       "timeDiff": -1140465,
       "percDiff": -0.5277489716561645
+    },
+    "20077415": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20077415-8-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 80,
+      "keystoneLevel": 8,
+      "clearTime": 2274242,
+      "dateCompleted": "2022-02-19T22:48:52.000Z",
+      "keyMod": 1,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "189955869",
+        "191640831"
+      ],
+      "count": 2,
+      "scoreColor": "#5faf9a",
+      "timeDiff": -6757,
+      "percDiff": -0.002962298536737684
+    },
+    "20078914": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20078914-4-de-other-side",
+      "dunegonName": "De Other Side",
+      "dungeonAbbr": "DOS",
+      "score": 60,
+      "keystoneLevel": 4,
+      "clearTime": 1339919,
+      "dateCompleted": "2022-02-19T21:34:53.000Z",
+      "keyMod": 3,
+      "faction": "alliance",
+      "partime": 2580999,
+      "members": [
+        "189955869",
+        "191640831",
+        "191815747"
+      ],
+      "count": 3,
+      "scoreColor": "#58d669",
+      "timeDiff": -1241080,
+      "percDiff": -0.48085256910211893
+    },
+    "20078917": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20078917-6-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 69.9,
+      "keystoneLevel": 6,
+      "clearTime": 1379147,
+      "dateCompleted": "2022-02-19T21:02:34.000Z",
+      "keyMod": 2,
+      "faction": "alliance",
+      "partime": 2280999,
+      "members": [
+        "189955869",
+        "191815747"
+      ],
+      "count": 2,
+      "scoreColor": "#5fc283",
+      "timeDiff": -901852,
+      "percDiff": -0.39537588574129146
     }
   }
 }
