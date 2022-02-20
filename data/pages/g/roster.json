@@ -7063,7 +7063,7 @@
     "className": "Paladin",
     "classColor": "#F48CBA",
     "race": 10,
-    "rank": 2,
+    "rank": 4,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -13193,6 +13193,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Parisite"
     }
   },
+  "221478759": {
+    "name": "Fishpown",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 6,
+    "rank": 9,
+    "score": 67.5,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Fishpown",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fishpown",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Fishpown",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Fishpown"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
@@ -18069,24 +18087,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Maxentium",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Maxentium",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Maxentium"
-    }
-  },
-  "189024091": {
-    "name": "Superpred",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 32,
-    "rank": 9,
-    "score": 268.8,
-    "scoreColor": "#eeffe6",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Superpred",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Superpred",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Superpred",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Superpred"
     }
   },
   "189059655": {
