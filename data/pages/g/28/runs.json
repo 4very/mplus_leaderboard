@@ -463,6 +463,73 @@
       "scoreColor": "#5fc283",
       "timeDiff": -901852,
       "percDiff": -0.39537588574129146
+    },
+    "20091416": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20091416-16-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 130.7,
+      "keystoneLevel": 16,
+      "clearTime": 2219200,
+      "dateCompleted": "2022-02-20T02:59:30.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "181292605",
+        "199498006",
+        "219591485",
+        "220581586"
+      ],
+      "count": 4,
+      "scoreColor": "#9246eb",
+      "timeDiff": -121799,
+      "percDiff": -0.0520286424727221
+    },
+    "20092202": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20092202-15-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 126.3,
+      "keystoneLevel": 15,
+      "clearTime": 2101235,
+      "dateCompleted": "2022-02-20T03:19:53.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "190341445",
+        "192926058",
+        "196071313",
+        "215947624",
+        "219794560"
+      ],
+      "count": 5,
+      "scoreColor": "#7658e6",
+      "timeDiff": -239764,
+      "percDiff": -0.10241952260552012
+    },
+    "20091693": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20091693-15-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 127.8,
+      "keystoneLevel": 15,
+      "clearTime": 1809672,
+      "dateCompleted": "2022-02-20T03:08:18.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "220628488",
+        "221390117",
+        "221494421",
+        "221545802"
+      ],
+      "count": 4,
+      "scoreColor": "#8053e8",
+      "timeDiff": -531327,
+      "percDiff": -0.22696592352239364
     }
   }
 }
