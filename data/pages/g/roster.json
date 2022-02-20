@@ -12914,8 +12914,8 @@
     "classColor": "#C69B6D",
     "race": 31,
     "rank": 9,
-    "score": 1389.1,
-    "scoreColor": "#5ca4a6",
+    "score": 1432.4,
+    "scoreColor": "#599eac",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Rcalpwarrior",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rcalpwarrior",
@@ -13173,6 +13173,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Mestablast",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Mestablast",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Mestablast"
+    }
+  },
+  "221720921": {
+    "name": "Parisite",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 5,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Parisite",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Parisite",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Parisite",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Parisite"
     }
   },
   "989898": {
@@ -19833,6 +19851,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/W\u00edsteria",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/W\u00edsteria",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=W\u00edsteria"
+    }
+  },
+  "187768941": {
+    "name": "Tobyyjackson",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 9,
+    "className": "Warlock",
+    "classColor": "#8788EE",
+    "race": 1,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Tobyyjackson",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Tobyyjackson",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Tobyyjackson",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Tobyyjackson"
     }
   }
 }
