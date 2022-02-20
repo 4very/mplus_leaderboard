@@ -5280,7 +5280,7 @@
     "class": 1,
     "className": "Warrior",
     "classColor": "#C69B6D",
-    "race": 6,
+    "race": 8,
     "rank": 3,
     "score": 2079,
     "scoreColor": "#8a4de9",
@@ -19599,24 +19599,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Dwayneblade",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Dwayneblade",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Dwayneblade"
-    }
-  },
-  "191713217": {
-    "name": "Durrunbolt",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 1,
-    "rank": 9,
-    "score": 2013.8,
-    "scoreColor": "#6c5de5",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Durrunbolt",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Durrunbolt",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Durrunbolt",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Durrunbolt"
     }
   },
   "191727647": {
