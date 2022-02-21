@@ -5264,7 +5264,7 @@
     "classColor": "#C69B6D",
     "race": 8,
     "rank": 3,
-    "score": 2091.5,
+    "score": 2095.7,
     "scoreColor": "#9246eb",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Whiteg\u00f9rlz",
@@ -6218,8 +6218,8 @@
     "classColor": "#C41E3A",
     "race": 31,
     "rank": 8,
-    "score": 529.7,
-    "scoreColor": "#70ff54",
+    "score": 589.2,
+    "scoreColor": "#46ff2d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zandeath",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zandeath",
@@ -7010,8 +7010,8 @@
     "classColor": "#8788EE",
     "race": 10,
     "rank": 9,
-    "score": 176.8,
-    "scoreColor": "#ffffff",
+    "score": 366.1,
+    "scoreColor": "#c8ffb4",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Wito",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Wito",
@@ -10887,24 +10887,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Retvandal",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Retvandal",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Retvandal"
-    }
-  },
-  "219115702": {
-    "name": "Deaddruid",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 28,
-    "rank": 9,
-    "score": 2451.6,
-    "scoreColor": "#d24baf",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Deaddruid",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Deaddruid",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Deaddruid",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Deaddruid"
     }
   },
   "219158426": {
@@ -16665,6 +16647,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Johoba",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Johoba",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Johoba"
+    }
+  },
+  "171897193": {
+    "name": "Desknight",
+    "realm": "sargeras",
+    "faction": "alliance",
+    "class": 6,
+    "className": "Death Knight",
+    "classColor": "#C41E3A",
+    "race": 4,
+    "rank": 9,
+    "score": 0,
+    "scoreColor": "#ffffff",
+    "links": {
+      "rio": "https://raider.io/characters/us/sargeras/Desknight",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Desknight",
+      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Desknight",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Desknight"
     }
   },
   "171995052": {
