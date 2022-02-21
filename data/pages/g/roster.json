@@ -971,24 +971,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Xephy"
     }
   },
-  "125290639": {
-    "name": "Meatshocks",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 6,
-    "rank": 9,
-    "score": 1751.5,
-    "scoreColor": "#2b78d5",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Meatshocks",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatshocks",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatshocks",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatshocks"
-    }
-  },
   "126834068": {
     "name": "Poryphoryion",
     "realm": "illidan",
@@ -13209,6 +13191,24 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Fishpown",
       "wcl": "https://www.warcraftlogs.com/character/us/illidan/Fishpown",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Fishpown"
+    }
+  },
+  "125290639": {
+    "name": "Meatshocks",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 2,
+    "className": "Paladin",
+    "classColor": "#F48CBA",
+    "race": 6,
+    "rank": 9,
+    "score": 1751.5,
+    "scoreColor": "#2b78d5",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Meatshocks",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Meatshocks",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Meatshocks",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatshocks"
     }
   },
   "989898": {
