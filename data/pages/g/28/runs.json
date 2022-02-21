@@ -12,11 +12,10 @@
       "faction": "horde",
       "partime": 1920999,
       "members": [
-        "191896537",
         "200000351",
         "213995243"
       ],
-      "count": 3,
+      "count": 2,
       "scoreColor": "#5366e2",
       "timeDiff": -355561,
       "percDiff": -0.18509171530021618
@@ -215,10 +214,9 @@
         "182359738",
         "189081947",
         "190440476",
-        "191896537",
         "202264022"
       ],
-      "count": 5,
+      "count": 4,
       "scoreColor": "#8053e8",
       "timeDiff": -539631,
       "percDiff": -0.24971367409239897
@@ -848,6 +846,71 @@
       "scoreColor": "#ad38e3",
       "timeDiff": 519182,
       "percDiff": 0.22761167365702484
+    },
+    "20171293": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20171293-15-spires-of-ascension",
+      "dunegonName": "Spires of Ascension",
+      "dungeonAbbr": "SOA",
+      "score": 127,
+      "keystoneLevel": 15,
+      "clearTime": 1966040,
+      "dateCompleted": "2022-02-21T04:49:30.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 2340999,
+      "members": [
+        "189081947",
+        "189783435",
+        "191896537",
+        "200456343"
+      ],
+      "count": 4,
+      "scoreColor": "#7658e6",
+      "timeDiff": -374959,
+      "percDiff": -0.16017050840260927
+    },
+    "20171294": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20171294-15-plaguefall",
+      "dunegonName": "Plaguefall",
+      "dungeonAbbr": "PF",
+      "score": 128.2,
+      "keystoneLevel": 15,
+      "clearTime": 1691419,
+      "dateCompleted": "2022-02-21T04:03:54.000Z",
+      "keyMod": 2,
+      "faction": "horde",
+      "partime": 2280999,
+      "members": [
+        "190562532",
+        "191896537",
+        "199493521",
+        "125290639"
+      ],
+      "count": 4,
+      "scoreColor": "#8053e8",
+      "timeDiff": -589580,
+      "percDiff": -0.2584744666700862
+    },
+    "20171286": {
+      "url": "https://raider.io/mythic-plus-runs/season-sl-2/20171286-15-mists-of-tirna-scithe",
+      "dunegonName": "Mists of Tirna Scithe",
+      "dungeonAbbr": "MISTS",
+      "score": 126.9,
+      "keystoneLevel": 15,
+      "clearTime": 1526601,
+      "dateCompleted": "2022-02-21T03:18:44.000Z",
+      "keyMod": 1,
+      "faction": "horde",
+      "partime": 1800999,
+      "members": [
+        "190562532",
+        "191896537",
+        "125290639"
+      ],
+      "count": 3,
+      "scoreColor": "#7658e6",
+      "timeDiff": -274398,
+      "percDiff": -0.15235877421364474
     }
   }
 }
