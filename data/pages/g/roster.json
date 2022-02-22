@@ -2591,24 +2591,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Friedeggs"
     }
   },
-  "179617540": {
-    "name": "Rhorl",
-    "realm": "illidan",
-    "faction": "horde",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 2,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/illidan/Rhorl",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Rhorl",
-      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Rhorl",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Rhorl"
-    }
-  },
   "179626045": {
     "name": "Gamis",
     "realm": "illidan",
