@@ -13,9 +13,9 @@ import WeekNav from '../../components/g/weekNav';
 import HeaderBase from '../../components/misc/headerBase';
 import Indent from '../../components/misc/indent';
 import UpdateText from '../../components/update';
+import { getRoster, getWeekData } from '../../firebase/gdata';
 import {
   GuildMetaData,
-  GuildPageMetaData,
   GuildPropsType,
   GuildRosterColumns,
   GuildRosterRow,
@@ -61,13 +61,13 @@ export async function getStaticProps(context: any) {
   }
 
   const folderPath: string = path.join(defFolderPath, week);
-  const rosterPath: string = path.join(
-    process.cwd(),
-    'data',
-    'pages',
-    'g',
-    'roster.json'
-  );
+  // const rosterPath: string = path.join(
+  //   process.cwd(),
+  //   'data',
+  //   'pages',
+  //   'g',
+  //   'roster.json'
+  // );
 
   // check if page is valid tournament
   // this is already covered by getStaticPaths but this is reassurance
@@ -75,8 +75,19 @@ export async function getStaticProps(context: any) {
     return { notFound: true };
   }
 
+  // const rosterRows: GuildRosterRow[] = [];
+  // const rosterObj = await jsonfile.readFile(rosterPath);
+  // Object.keys(rosterObj).forEach((key) => {
+  //   rosterRows.push({
+  //     id: key,
+  //     ...rosterObj[key],
+  //   });
+  // });
+
+  const { runs, meta, update } = await getWeekData(week);
+
   const rosterRows: GuildRosterRow[] = [];
-  const rosterObj = await jsonfile.readFile(rosterPath);
+  const rosterObj = await getRoster();
   Object.keys(rosterObj).forEach((key) => {
     rosterRows.push({
       id: key,
@@ -85,32 +96,22 @@ export async function getStaticProps(context: any) {
   });
 
   const runRows: GuildRunRow[] = [];
-  const runObj = await jsonfile.readFile(path.join(folderPath, 'runs.json'));
-  Object.keys(runObj.data).forEach((key) => {
+  Object.keys(runs.data).forEach((key) => {
     runRows.push({
       id: key,
-      ...runObj.data[key],
+      ...runs.data[key],
     });
   });
 
-  const upDATE: string = fs.readFileSync(
-    path.join(folderPath, 'upDATE'),
-    'utf8'
-  );
-
-  const pageMetaData: GuildPageMetaData = await jsonfile.readFile(
-    path.join(folderPath, 'meta.json')
-  );
-
-  pageMetaData.nextLink = curWeek > pageMetaData.num;
-  pageMetaData.prevLink = pageMetaData.num > 2;
+  meta.nextLink = curWeek > meta.num;
+  meta.prevLink = meta.num > 2;
 
   return {
     props: {
       runRows,
       rosterRows,
-      pageMetaData,
-      upDATE,
+      pageMetaData: meta,
+      upDATE: update,
     },
   };
 }

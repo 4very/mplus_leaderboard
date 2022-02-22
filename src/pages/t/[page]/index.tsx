@@ -1,5 +1,4 @@
 // import { useRouter } from 'next/router';
-import * as fs from 'fs';
 import path from 'path';
 
 import React from 'react';
@@ -15,8 +14,8 @@ import HeaderBase from '../../../components/misc/headerBase';
 import Indent from '../../../components/misc/indent';
 import TeamSection from '../../../components/t/teams';
 import UpdateText from '../../../components/update';
+import { getMeta, getRuns, getTeams, getUpdate } from '../../../firebase/tdata';
 import {
-  TMetaData,
   tTeamColumns,
   TRunRow,
   TTeamData,
@@ -71,23 +70,10 @@ export default function ContentPage(props: any) {
 
 export async function getStaticProps(context: any) {
   const { page } = context.params;
-  const folderPath: string = path.join(
-    process.cwd(),
-    'data',
-    'pages',
-    't',
-    page
-  );
-  const pagesFile = path.join(process.cwd(), 'data', 'pages.json');
-
-  // check if page is valid tournament
-  // this is already covered by getStaticPaths but this is reassurance
-  if (!fs.existsSync(folderPath)) {
-    return { notFound: true };
-  }
+  console.log(page);
 
   const teamData: TTeamData[] = [];
-  const teamObj = await jsonfile.readFile(path.join(folderPath, 'teams.json'));
+  const teamObj = await getTeams(page);
   Object.keys(teamObj).forEach((key) => {
     teamData.push({
       id: key,
@@ -97,7 +83,7 @@ export async function getStaticProps(context: any) {
   });
 
   const runRows: TRunRow[] = [];
-  const runObj = await jsonfile.readFile(path.join(folderPath, 'runs.json'));
+  const runObj = await getRuns(page);
   Object.keys(runObj.data).forEach((key) => {
     runRows.push({
       id: key,
@@ -105,13 +91,9 @@ export async function getStaticProps(context: any) {
     });
   });
 
-  const upDATE: string = fs.readFileSync(
-    path.join(folderPath, 'upDATE'),
-    'utf8'
-  );
+  const upDATE: string = await getUpdate(page);
 
-  const metaDataData = await jsonfile.readFile(pagesFile);
-  const metaData: TMetaData = await metaDataData[page];
+  const metaData = await getMeta(page);
 
   return {
     props: {
