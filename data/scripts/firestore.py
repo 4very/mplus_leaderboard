@@ -93,16 +93,29 @@ __location__ = realpath(join(getcwd(), 'data'))
 #   roster = load(f)
 # gref.document(u'roster').set(roster)
 
-gref = db.collection(u'tdata')
-gfold = join(__location__, 'pages', 't')
+# gref = db.collection(u'tdata')
+# gfold = join(__location__, 'pages', 't')
 
-for gfolder in listdir(gfold):
-  full = join(gfold, gfolder)
-  if not isdir(full) or not exists(join(full,'historical.json')): continue
+# for gfolder in listdir(gfold):
+#   full = join(gfold, gfolder)
+#   if not isdir(full) or not exists(join(full,'historical.json')): continue
 
-  with open(join(full,'historical.json'), 'r') as f:
-    historical = load(f)
+#   with open(join(full,'historical.json'), 'r') as f:
+#     historical = load(f)
 
   
 
-  gref.document(gfolder).update({'historical': historical})
+#   gref.document(gfolder).update({'historical': historical})
+
+
+db.collection(u'meta').document(u'dungeon-timers').set({
+  "DOS": 2580000,
+  "HOA": 1920000,
+  "MISTS": 1800000,
+  "PF": 2280000,
+  "SD": 2460000,
+  "SOA": 2340000,
+  "NW": 2160000,
+  "TOP": 2280000
+}
+)

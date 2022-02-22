@@ -1,8 +1,5 @@
 from time import strftime
-from json import dump, load
 from logging import root
-from os.path import join, exists
-from os import mkdir
 from datetime import datetime, timedelta
 from requests.api import get
 import pytz
@@ -11,12 +8,11 @@ from WOW import WOW_getGuildRoster
 from updateMeta import NumberToClassName, getColorForRunScore, getColorForScore, NumberToClassColor
 from RIO import RIO_GetCharData, RIO_GetCharRankings, RIO_GetRecentRuns
 from updatePage import AddScoreColors, AddTimeAndPercDiff
-from updateMeta import updateTimeFile
+import fb
 
 
 
-
-def UpdateGuildRoster(rosterfile):
+def UpdateGuildRoster():
   guildData = WOW_getGuildRoster()
   writeObj = {}
 
@@ -57,40 +53,28 @@ def UpdateGuildRoster(rosterfile):
         }
       }
   
-  with open(rosterfile,'w') as f:
-    dump(writeObj, f, indent=2)
+  fb.getGuildRoster(writeObj)
   root.info("updated guild roster")
   
 
 
-def UpdateGuildRuns(folder, roster, startDate, endDate):
+def UpdateGuildRuns(week, startDate, endDate):
 
-  rosterData = getRosterData(roster)
+  rosterData = fb.getGuildRoster()
   runData = getAllRuns(rosterData)
   runData = removeInvalid(runData, startDate, endDate)
 
   AddScoreColors(runData)
   AddTimeAndPercDiff(runData)
 
-  runsFile = join(folder, 'runs.json')
-  if exists(runsFile):
-    with open(runsFile,'r') as f:
-      oldRunData = load(f)
-  else:
-    oldRunData = {'data': {}}
+  oldRunData = fb.getGuildRuns(week)
   
   oldRunData['data'] = {**oldRunData['data'], **runData}
 
-  with open(join(folder,'runs.json'),'w') as f:
-    dump(oldRunData, f, indent=2)
-
-  updateTimeFile(folder)
+  fb.setGuildRuns(week, oldRunData)
+  fb.updateUpdate(u'gdata',week)
+  
   return
-
-
-def getRosterData(rosterFile):
-  with open(rosterFile, 'r') as f:
-    return load(f)
 
 
 def getAllRuns(rosterData):
@@ -109,7 +93,6 @@ def getAllRuns(rosterData):
         retval[runId]['members'] = [id]
         retval[runId]['count'] = 1
   
-
   return retval
 
 
@@ -126,32 +109,4 @@ def removeInvalid(runs, start, end):
       retval[runId] = runData
   
   return retval
-    
-def suffix(d):
-  return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
-
-
-def PrepFolder(folder,start,end,weekNum):
-  if not exists(folder):
-    mkdir(folder)
-
-  metaFile = join(folder,'meta.json')
-  if exists(metaFile): return
-
-  start = datetime.utcfromtimestamp(start) - timedelta(hours=5)
-  end = datetime.utcfromtimestamp(end) - timedelta(hours=5)
-  with open(metaFile, 'w') as f:
-    dump({
-      'num': weekNum,
-      #11 am, Tuesday August 17th
-      'start': start.strftime(f'%-I %P, %A %B %-d{suffix(start.day)}'),
-      'end': end.strftime(f'%-I %P, %A %B %-d{suffix(end.day)}'),
-    },f, indent=2)
-
-
-def updateGuildMeta(folder, weeknumber):
-  with open(join(folder,'meta.json'),'w') as f:
-    dump({
-      'weekNum' : weeknumber
-    }, f)
-  return
+  

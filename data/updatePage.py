@@ -1,46 +1,26 @@
-from json import dump, load
-from os.path import join, realpath, dirname, isdir
-from os import getcwd, mkdir
 from RIO import RIO_GetCharRankings, RIO_GetRecentRuns
-from updateMeta import NumberToClassColor, NumberToClassName, getColorForRunScore, getColorForScore, getDungeonTimings, updateTimeFile
+from updateMeta import NumberToClassColor, NumberToClassName, getColorForRunScore, getColorForScore
 from datetime import datetime
 from WOW import WOW_GetCharData, WOW_getRenderLink, getRender
 from time import time
+from operator import attrgetter
+import fb
 
 import logging
 
 
-def updatePage(folder: str, pageParams: dict):
-    makeFiles(folder)
-    runs = getRuns(folder, pageParams)
-    writeRunsToFile(runs, folder)
-    updateTimeFile(folder)
-    updateRosterData(folder)
-    if pageParams['collectGraphs']:
-        addHistoricalPoints(folder, pageParams['start-date'])
+def updatePage(tourn):
+    fb.prepTourn(tourn)
+    runs = getRuns(tourn)
+    fb.setTournRuns(tourn, runs)
+    fb.updateUpdate(u'tdata',tourn)
+    updateRosterData(tourn)
+    if fb.getTournMeta['collectGraphs']:
+        addHistoricalPoints(tourn, fb.getTournMeta['start-date'])
 
 
-def makeFiles(folder):
-    if not isdir(join(folder, 'runs.json')):
-        with open(join(folder, 'runs.json'), 'w') as f:
-            dump({'data': {}}, f, indent=2)
-
-
-def writeRunsToFile(runs: dict, folder: str):
-    runsFile = join(folder, 'runs.json')
-
-    with open(runsFile, 'r') as f:
-        jsonData = load(f)
-
-    jsonData['data'] = {**jsonData['data'], **runs}
-
-    with open(runsFile, 'w') as f:
-        dump(jsonData, f, indent=2)
-        logging.info(f'Wrote {len(runs)} new runs to file')
-
-
-def getRuns(folder: str, pageParams: dict) -> dict:
-    runs = getAllRuns(folder, pageParams)
+def getRuns(tourn) -> dict:
+    runs = getAllRuns(tourn)
 
     AddScoreColors(runs)
     AddTimeAndPercDiff(runs)
@@ -62,8 +42,9 @@ def AddTimeAndPercDiff(runs):
             run['clearTime'] / run['partime'] - 1
 
 
-def getAllRuns(folder: str, pageParams: dict) -> dict:
-    teams = getTeams(folder)
+def getAllRuns(tourn) -> dict:
+    teams = fb.getTournTeams(tourn)
+    params = fb.getTournParams(tourn)
     returnValue = {}
 
     for teamId, team in teams.items():
@@ -71,7 +52,7 @@ def getAllRuns(folder: str, pageParams: dict) -> dict:
 
         for player in team['players']:
             for runId, run in getPlayerRuns(player['name'].lower(), player['realm'].lower()).items():
-                if not isValidRun(runId, run, folder, pageParams):
+                if not isValidRun(runId, run, params):
                   continue
                 if runId in validRuns.keys():
                     validRuns[runId]['count'] += 1
@@ -84,32 +65,18 @@ def getAllRuns(folder: str, pageParams: dict) -> dict:
                         validRuns[runId]['faction'] = 'unknown'
                     validRuns[runId]['count'] = 1
 
-        validRuns = removeNonFullTeamRuns(validRuns, pageParams)
+        validRuns = removeNonFullTeamRuns(validRuns, params)
         returnValue = {**returnValue, **validRuns}
 
     return returnValue
 
-
-def getTeams(folder: str) -> dict:
-    with open(join(folder, 'teams.json'), 'r') as f:
-        return load(f)
-
-
-def dumpTeams(folder: str, teamData: object) -> dict:
-    with open(join(folder, 'teams.json'), 'w') as f:
-        return dump(teamData, f, indent=2, ensure_ascii=False)
-
-
-def getRunsFromFile(folder: str) -> dict:
-    with open(join(folder, 'runs.json'), 'r') as f:
-        return load(f)
 
 
 def getPlayerRuns(name: str, realm: str) -> list:
     return RIO_GetRecentRuns(name, realm)
 
 
-def isValidRun(id: str, run: object, folder: str, pageParams: object):
+def isValidRun(id: str, run: object, pageParams: object):
     return isValidDate(run['dateCompleted'], pageParams['start-date'])
         # not isDuplicate(id, folder) and \
         
@@ -126,37 +93,26 @@ def removeNonFullTeamRuns(validRuns: object, pageParams: object):
     return returnValue
 
 
-def isDuplicate(id: str, folder: str) -> bool:
-    with open(join(folder, 'runs.json'), 'r') as f:
-        jsonData = load(f)
-
-    return str(id) in jsonData['data'].keys()
-
-
 def isValidDate(completeDate: str, pageStart: int) -> bool:
     return \
         datetime.strptime(completeDate, "%Y-%m-%dT%H:%M:%S.000Z") > \
         datetime.utcfromtimestamp(pageStart)
 
 
-def updateAllColors(folder: str):
-    with open(join(folder, 'runs.json'), 'r') as f:
-        jsonData = load(f)
+def updateAllColors(tourn):
+    runData = fb.getTournRuns(tourn)
+    for runId, run in runData['data'].items():
+        runData['data'][runId]['scoreColor'] = getColorForRunScore(run['score'])
 
-    for runId, run in jsonData['data'].items():
-        jsonData['data'][runId]['scoreColor'] = getColorForRunScore(
-            run['score'])
-
-    with open(join(folder, 'runs.json'), 'w') as f:
-        dump(jsonData, f, indent=2)
+    fb.setTournRuns(tourn, runData)
 
 
-def updateRosterData(folder):
+def updateRosterData(tourn):
 
-    teams = getTeams(folder)
+    runs, teams = attrgetter('runs', 'teams')(fb.getTournData(tourn))
 
-    keyNums = getKeysCompleted(folder)
-    highKeys = getHighestKeys(folder)
+    keyNums = getKeysCompleted(runs,teams)
+    highKeys = getHighestKeys(runs,teams)
 
     for key, team in teams.items():
         team_score = 0
@@ -236,12 +192,10 @@ def updateRosterData(folder):
             'numkeys': keyNums[key]
         }
 
-    dumpTeams(folder, teams)
+    fb.setTournTeams(tourn, teams)
 
 
-def getKeysCompleted(folder):
-    runs = getRunsFromFile(folder)
-    teams = getTeams(folder)
+def getKeysCompleted(runs,teams):
 
     runObj = {}
     for id, _ in teams.items():
@@ -253,9 +207,7 @@ def getKeysCompleted(folder):
     return runObj
 
 
-def getHighestKeys(folder):
-    runs = getRunsFromFile(folder)
-    teams = getTeams(folder)
+def getHighestKeys(runs, teams):
 
     highKeyObj = {}
     for tid, _ in teams.items():
@@ -278,26 +230,23 @@ def getHighestKeys(folder):
     return highKeyObj
 
 
-def addHistoricalPoints(folder, start):
-    with open(join(folder, 'teams.json'), 'r') as f:
-        teams = load(f)
+def addHistoricalPoints(tourn, start):
 
-    with open(join(folder, 'historical.json'), 'r') as f:
-        hist = load(f)
+  hist, teams = attrgetter('hist', 'teams')(fb.getTournData(tourn))
 
-    cday = (time()-start)/86400
-    ilvlobj = {"day": cday}
-    scoreobj = {"day": cday}
 
-    for key, item in teams.items():
-        ilvlobj[key] = item["avgilvl"]
-        scoreobj[key] = item["score"]
+  cday = (time()-start)/86400
+  ilvlobj = {"day": cday}
+  scoreobj = {"day": cday}
 
-    hist['ilvl'].append(ilvlobj)
-    hist['tscore'].append(scoreobj)
+  for key, item in teams.items():
+      ilvlobj[key] = item["avgilvl"]
+      scoreobj[key] = item["score"]
 
-    with open(join(folder, 'historical.json'), 'w') as f:
-        dump(hist, f, indent=2)
+  hist['ilvl'].append(ilvlobj)
+  hist['tscore'].append(scoreobj)
+
+  fb.setTournHist(tourn, hist)
 
 
 def getFullRawRender(realm, name):

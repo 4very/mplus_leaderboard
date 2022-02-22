@@ -7,6 +7,7 @@ from os import getcwd
 import logging
 import json
 
+import fb
 __MetaFolder__ = join(realpath(join(getcwd(), dirname(__file__))),"meta")
 
 
@@ -22,45 +23,26 @@ def updateColorData(folder):
   for scoreColor in RIOColorData:
     returnValue[scoreColor['score']] = scoreColor['rgbHex']
   
-  with open(join(folder,'coloring.json'), 'w') as f:
-    json.dump(returnValue, f, indent=2)
+  fb.setColoring(returnValue)
   
   logging.info("Updated Color data")
 
 
 def getColorForRunScore(score: float):
-  with open(join(__MetaFolder__,'coloring.json'),'r') as f:
-    jsonData = json.load(f)
-  for colorScore, color in jsonData.items():
+  coloringData = fb.getColoring()
+  for colorScore, color in coloringData.items():
     if int(colorScore)/16.0 < score:
       return color
 
 def getColorForScore(score: float):
-  with open(join(__MetaFolder__,'coloring.json'),'r') as f:
-    jsonData = json.load(f)
-  for colorScore, color in jsonData.items():
+  coloringData = fb.getColoring()
+  for colorScore, color in coloringData.items():
     if int(colorScore) < score:
       return color
   return '#ffffff'
 
 def updateRankings(folder):
   return
-
-
-def getDungeonTimings():
-  with open(join(__MetaFolder__,'dungeontimers.json'),'r') as f:
-    return json.load(f)
-  
-
-
-
-
-
-def updateTimeFile(folder: str):
-  with open(join(folder,"upDATE"),'w') as f:
-    f.write(
-      datetime.now(tz=timezone('America/New_York')).strftime("%A, %B %d at %H:%M:%S EDT"))
-
 
 
 NumberToClassName = {
