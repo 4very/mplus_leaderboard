@@ -13175,6 +13175,24 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Meatshocks"
     }
   },
+  "221817576": {
+    "name": "Girthwyrm",
+    "realm": "illidan",
+    "faction": "horde",
+    "class": 10,
+    "className": "Monk",
+    "classColor": "#00FF98",
+    "race": 2,
+    "rank": 9,
+    "score": 253.1,
+    "scoreColor": "#eeffe6",
+    "links": {
+      "rio": "https://raider.io/characters/us/illidan/Girthwyrm",
+      "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Girthwyrm",
+      "wcl": "https://www.warcraftlogs.com/character/us/illidan/Girthwyrm",
+      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=illidan&name=Girthwyrm"
+    }
+  },
   "989898": {
     "name": "Narlak",
     "realm": "sargeras",
