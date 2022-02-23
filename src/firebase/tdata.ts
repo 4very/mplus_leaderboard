@@ -1,4 +1,4 @@
-import { doc, getDoc } from 'firebase/firestore';
+import { collection, doc, getDoc, getDocs } from 'firebase/firestore';
 
 import { firestore } from './init';
 
@@ -24,4 +24,17 @@ export async function getHistorical(tournament: string) {
 export async function getUpdate(tournament: string) {
   const val = await getDoc(doc(firestore, 'tdata', tournament));
   return val.data().update;
+}
+
+export async function getTournaments() {
+  const val = await getDocs(collection(firestore, 'tdata'));
+  const retval: string[] = [];
+  val.forEach((doc2) => {
+    retval.push(doc2.id);
+  });
+  return retval;
+}
+export async function getTData(tournament: string) {
+  const val = await getDoc(doc(firestore, 'tdata', tournament));
+  return val.data();
 }

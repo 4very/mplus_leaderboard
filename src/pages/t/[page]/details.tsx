@@ -1,4 +1,3 @@
-import * as fs from 'fs';
 import path from 'path';
 
 import React from 'react';
@@ -11,7 +10,8 @@ import Link from 'next/link';
 import HeaderBase from '../../../components/misc/headerBase';
 import Indent from '../../../components/misc/indent';
 import UpdateText from '../../../components/update';
-import { TMetaData, TournTeamDetails, TPlayerRow } from '../../../types/tTypes';
+import { getTData } from '../../../firebase/tdata';
+import { TournTeamDetails, TPlayerRow } from '../../../types/tTypes';
 
 export default function ContentPage(props: any) {
   return (
@@ -44,25 +44,12 @@ export default function ContentPage(props: any) {
 
 export async function getStaticProps(context: any) {
   const { page } = context.params;
-  const folderPath: string = path.join(
-    process.cwd(),
-    'data',
-    'pages',
-    't',
-    page
-  );
-  const pagesFile = path.join(process.cwd(), 'data', 'pages.json');
 
-  // check if page is valid tournament
-  // this is already covered by getStaticPaths but this is reassurance
-  if (!fs.existsSync(folderPath)) {
-    return { notFound: true };
-  }
+  const { teams, update, meta } = await getTData(page);
 
   const playerData: TPlayerRow[] = [];
-  const teamObj = await jsonfile.readFile(path.join(folderPath, 'teams.json'));
-  Object.keys(teamObj).forEach((key) => {
-    teamObj[key].players.map((player: TPlayerRow) =>
+  Object.keys(teams).forEach((key) => {
+    teams[key].players.map((player: TPlayerRow) =>
       playerData.push({
         ...player,
         team: key,
@@ -70,19 +57,11 @@ export async function getStaticProps(context: any) {
     );
   });
 
-  const upDATE: string = fs.readFileSync(
-    path.join(folderPath, 'upDATE'),
-    'utf8'
-  );
-
-  const metaDataData = await jsonfile.readFile(pagesFile);
-  const metaData: TMetaData = await metaDataData[page];
-
   return {
     props: {
       playerData,
-      upDATE,
-      metaData,
+      update,
+      metaData: meta,
       page,
     },
   };
