@@ -41,7 +41,7 @@ def prepGuildWeek(week, start, end):
       #11 am, Tuesday August 17th
       'start': start.strftime(f'%-I %P, %A %B %-d{suffix(start.day)}'),
       'end': end.strftime(f'%-I %P, %A %B %-d{suffix(end.day)}'),
-    }, 'runs':{}, 'update':""})
+    }, 'runs':{ 'data': {} }, 'update':""})
 
 def setGuildRoster(roster):
   print(roster)
@@ -58,10 +58,10 @@ def setGuildRuns(week, runs):
 
 def getGuildRuns(week):
   doc = db.collection(u'gdata').document(str(week)).get()
-  if doc.exists:
-    return doc.to_dict()
+  if doc.exists and 'runs' in doc.to_dict():
+    return doc.to_dict()['runs']
   else:
-    return {}
+    return {'data':{}}
 
 def setWeekNum(week):
   db.collection(u'gdata').document(u'meta').update({'weekNum':week})
