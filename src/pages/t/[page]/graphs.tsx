@@ -8,7 +8,7 @@ import Link from 'next/link';
 import HeaderBase from '../../../components/misc/headerBase';
 import Indent from '../../../components/misc/indent';
 import TournGraph from '../../../components/t/graph';
-import { getTData, getTournaments } from '../../../firebase/tdata';
+import { getGraphTournaments, getTData } from '../../../firebase/tdata';
 
 export default function graphPage(props: any) {
   return (
@@ -54,7 +54,7 @@ export async function getStaticProps(context: any) {
 
 export async function getStaticPaths() {
   const paths: Object[] = [];
-  (await getTournaments()).forEach((tournament) => {
+  (await getGraphTournaments()).forEach((tournament) => {
     paths.push({
       params: {
         page: tournament,

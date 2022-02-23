@@ -38,3 +38,14 @@ export async function getTData(tournament: string) {
   const val = await getDoc(doc(firestore, 'tdata', tournament));
   return val.data();
 }
+
+export async function getGraphTournaments() {
+  const val = await getDocs(collection(firestore, 'tdata'));
+  const retval: string[] = [];
+  val.forEach((doc2) => {
+    if (doc2.data().meta.collectGraphs) {
+      retval.push(doc2.id);
+    }
+  });
+  return retval;
+}
