@@ -2,7 +2,7 @@ import time
 from math import ceil
 
 from updatePage import updatePage
-from updateGuild import UpdateGuildRoster, UpdateGuildRuns
+from updateGuild import UpdateGuildRuns, UpdateGuildRoster
 import fb
 
 
@@ -40,7 +40,7 @@ def updateGuild():
   return
 
 def updateGuildRoster():
-    updateGuild.UpdateGuildRoster()
+    UpdateGuildRoster()
 
 
 
