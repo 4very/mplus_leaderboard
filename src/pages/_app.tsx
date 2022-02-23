@@ -1,10 +1,16 @@
+/* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
+
+import { UserProvider } from '@auth0/nextjs-auth0';
 
 import '../styles/main.css';
 
 function MyApp({ Component, pageProps }: any) {
-  // eslint-disable-next-line react/jsx-props-no-spreading
-  return <Component {...pageProps} />;
+  return (
+    <UserProvider>
+      <Component {...pageProps} />
+    </UserProvider>
+  );
 }
 
 export default MyApp;
