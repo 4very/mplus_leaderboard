@@ -1,4 +1,5 @@
-import datetime
+from datetime import datetime
+from pytz import timezone
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
@@ -25,7 +26,7 @@ def getDungeonTimers():
 def updateUpdate(col, doc):
   db.collection(str(col)).document(str(doc)).update({'update':
     datetime.now(
-        tz=datetime.timezone('America/New_York'))
+        tz=timezone('America/New_York'))
         .strftime("%A, %B %d at %H:%M:%S EDT")
     })
 
