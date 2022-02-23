@@ -2,6 +2,11 @@ import datetime
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
+from os import environ
+from json import dump
+
+with open("./auth.json",'r') as f:
+  dump(environ.get('FIREBASE_AUTH_JSON'), f)
 
 cred = credentials.Certificate('./auth.json')
 firebase_admin.initialize_app(cred)

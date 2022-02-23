@@ -26,18 +26,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests croniter pytz pandas
+        pip install requests croniter pytz pandas firebase_admin
     
     - name: Run scraper
       run: python ./data/main.py --info --guild --roster --meta --pages
       env:
           WOW_CLIENT_ID: ${{ secrets.WOW_CLIENT_ID }}
           WOW_CLIENT_SECRET: ${{ secrets.WOW_CLIENT_SECRET }}
-      
-    - name: Commit files
-      run: |
-        git config user.name Scraper
-        git add .
-        git commit -m "Commit `date +'%Y-%m-%d %H:%M:%S'`" || echo "Nothing to commit"
-        git pull origin main -s recursive -X ours --rebase
-        git push origin main
+          FIREBASE_AUTH_JSON: ${{ secrets.FIREBASE_AUTH_JSON }}
