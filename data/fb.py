@@ -1,4 +1,5 @@
-import datetime
+from datetime import datetime
+from pytz import timezone
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
@@ -14,7 +15,7 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 def setColoring(coloring):
-  db.collection(u'meta').document(u'coloring').set(coloring)
+  db.collection(u'meta').document(u'coloring').set(__fieldStr(coloring))
 
 def getColoring():
   return db.collection(u'meta').document(u'coloring').get().to_dict()
@@ -23,9 +24,9 @@ def getDungeonTimers():
   return db.collection(u'meta').document(u'dungeon-timers').get().to_dict()
 
 def updateUpdate(col, doc):
-  db.collection(col).document(doc).update({'update':
+  db.collection(str(col)).document(str(doc)).update({'update':
     datetime.now(
-        tz=datetime.timezone('America/New_York'))
+        tz=timezone('America/New_York'))
         .strftime("%A, %B %d at %H:%M:%S EDT")
     })
 
@@ -41,27 +42,26 @@ def prepGuildWeek(week, start, end):
       #11 am, Tuesday August 17th
       'start': start.strftime(f'%-I %P, %A %B %-d{suffix(start.day)}'),
       'end': end.strftime(f'%-I %P, %A %B %-d{suffix(end.day)}'),
-    }, 'runs':{}, 'update':""})
+    }, 'runs':{ 'data': {} }, 'update':""})
 
 def setGuildRoster(roster):
-  print(roster)
-  db.collection(u'gdata').document(u'roster').set(roster)
+  db.collection(u'gdata').document(u'roster').set(__fieldStr(roster))
 
 def getGuildRoster():
   return db.collection(u'gdata').document(u'roster').get().to_dict()
 
 def updateGuildRuns(week, runs):
-  db.collection(u'gdata').document(str(week)).update({'runs': runs})
+  db.collection(u'gdata').document(str(week)).update({'runs': __fieldStr(runs)})
 
 def setGuildRuns(week, runs):
-  db.collection(u'gdata').document(str(week)).update({'runs': runs})
+  db.collection(u'gdata').document(str(week)).update({'runs': __fieldStr(runs)})
 
 def getGuildRuns(week):
   doc = db.collection(u'gdata').document(str(week)).get()
-  if doc.exists:
-    return doc.to_dict()
+  if doc.exists and 'runs' in doc.to_dict():
+    return doc.to_dict()['runs']
   else:
-    return {}
+    return {'data':{}}
 
 def setWeekNum(week):
   db.collection(u'gdata').document(u'meta').update({'weekNum':week})
@@ -81,7 +81,7 @@ def getTournData(tourn):
 
 def prepTourn(tourn):
   if not db.collection(u'tdata').document(str(tourn)).get().exists:
-    db.collection(u'tdata').document(str(tourn)).set({'meta':{}, 'runs':{}, 'teams':{}, 'update': ""})
+    db.collection(u'tdata').document(str(tourn)).set({'meta':{}, 'runs':{ 'data': {}}, 'teams':{}, 'update': ""})
 
 def __getTourn(tourn, field):
   return db.collection(u'tdata').document(str(tourn)).get().to_dict()[field]
@@ -103,7 +103,7 @@ def getTournRunExists(tourn, run):
 
 
 def __setTourn(tourn, field, data):
-  db.collection(u'tdata').document(str(tourn)).update({field:data})
+  db.collection(u'tdata').document(str(tourn)).update({field:__fieldStr(data)})
 
 def setTournRuns(tourn, runs):
   __setTourn(tourn, u'runs', runs)
@@ -116,3 +116,15 @@ def setTournMeta(tourn, meta):
 
 def setTournHist(tourn, hist):
   __setTourn(tourn, u'historical', hist)
+
+
+
+
+def __fieldStr(data):
+  if not type(data) is dict: return data
+  retval = {}
+  for key, val in data.items(): retval[str(key)] = __fieldStr(val)
+  return retval
+
+
+
