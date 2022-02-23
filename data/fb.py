@@ -14,7 +14,7 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 def setColoring(coloring):
-  db.collection(u'meta').document(u'coloring').set(coloring)
+  db.collection(u'meta').document(u'coloring').set(__fieldStr(coloring))
 
 def getColoring():
   return db.collection(u'meta').document(u'coloring').get().to_dict()
@@ -44,16 +44,16 @@ def prepGuildWeek(week, start, end):
     }, 'runs':{ 'data': {} }, 'update':""})
 
 def setGuildRoster(roster):
-  db.collection(u'gdata').document(u'roster').set(roster)
+  db.collection(u'gdata').document(u'roster').set(__fieldStr(roster))
 
 def getGuildRoster():
   return db.collection(u'gdata').document(u'roster').get().to_dict()
 
 def updateGuildRuns(week, runs):
-  db.collection(u'gdata').document(str(week)).update({'runs': runs})
+  db.collection(u'gdata').document(str(week)).update({'runs': __fieldStr(runs)})
 
 def setGuildRuns(week, runs):
-  db.collection(u'gdata').document(str(week)).update({'runs': runs})
+  db.collection(u'gdata').document(str(week)).update({'runs': __fieldStr(runs)})
 
 def getGuildRuns(week):
   doc = db.collection(u'gdata').document(str(week)).get()
@@ -80,7 +80,7 @@ def getTournData(tourn):
 
 def prepTourn(tourn):
   if not db.collection(u'tdata').document(str(tourn)).get().exists:
-    db.collection(u'tdata').document(str(tourn)).set({'meta':{}, 'runs':{}, 'teams':{}, 'update': ""})
+    db.collection(u'tdata').document(str(tourn)).set({'meta':{}, 'runs':{ 'data': {}}, 'teams':{}, 'update': ""})
 
 def __getTourn(tourn, field):
   return db.collection(u'tdata').document(str(tourn)).get().to_dict()[field]
@@ -102,7 +102,7 @@ def getTournRunExists(tourn, run):
 
 
 def __setTourn(tourn, field, data):
-  db.collection(u'tdata').document(str(tourn)).update({field:data})
+  db.collection(u'tdata').document(str(tourn)).update({field:__fieldStr(data)})
 
 def setTournRuns(tourn, runs):
   __setTourn(tourn, u'runs', runs)
@@ -115,3 +115,15 @@ def setTournMeta(tourn, meta):
 
 def setTournHist(tourn, hist):
   __setTourn(tourn, u'historical', hist)
+
+
+
+
+def __fieldStr(data):
+  if not type(data) is dict: return data
+  retval = {}
+  for key, val in data.items(): retval[str(key)] = __fieldStr(val)
+  return retval
+
+
+

@@ -34,7 +34,7 @@ def UpdateGuildRoster():
         rio_score = 0
         rio_scoreColor = '#ffffff'
 
-      writeObj[str(char['id'])] = {
+      writeObj[char['id']] = {
         'name': name,
         'realm': realm,
         'faction': 'horde' if char['realm']['slug'] == 'illidan' else 'alliance',
