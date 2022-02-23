@@ -5,7 +5,7 @@ from firebase_admin import firestore
 from os import environ
 from json import dump
 
-with open("./auth.json",'r') as f:
+with open("./auth.json",'w') as f:
   dump(environ.get('FIREBASE_AUTH_JSON'), f)
 
 cred = credentials.Certificate('./auth.json')
