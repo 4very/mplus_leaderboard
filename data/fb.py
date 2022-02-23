@@ -26,7 +26,7 @@ def getDungeonTimers():
 def updateUpdate(col, doc):
   db.collection(str(col)).document(str(doc)).update({'update':
     datetime.now(
-        tz=datetime.timezone('America/New_York'))
+        tz=timezone('America/New_York'))
         .strftime("%A, %B %d at %H:%M:%S EDT")
     })
 
