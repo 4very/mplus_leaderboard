@@ -2131,7 +2131,7 @@
     "className": "Druid",
     "classColor": "#FF7C0A",
     "race": 6,
-    "rank": 4,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -2942,8 +2942,8 @@
     "classColor": "#C41E3A",
     "race": 2,
     "rank": 2,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 439.3,
+    "scoreColor": "#a8ff8d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Nottito",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Nottito",
@@ -4166,8 +4166,8 @@
     "classColor": "#FF7C0A",
     "race": 8,
     "rank": 4,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 439.3,
+    "scoreColor": "#a8ff8d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Azajin",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Azajin",
@@ -4382,8 +4382,8 @@
     "classColor": "#0070DD",
     "race": 2,
     "rank": 2,
-    "score": 0,
-    "scoreColor": "#ffffff",
+    "score": 439.3,
+    "scoreColor": "#a8ff8d",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Zandak",
       "armory": "https://worldofwarcraft.com/en-us/character/us/illidan/Zandak",
@@ -6811,7 +6811,7 @@
     "className": "Paladin",
     "classColor": "#F48CBA",
     "race": 10,
-    "rank": 4,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -9259,7 +9259,7 @@
     "className": "Shaman",
     "classColor": "#0070DD",
     "race": 2,
-    "rank": 4,
+    "rank": 9,
     "score": 0,
     "scoreColor": "#ffffff",
     "links": {
@@ -12608,7 +12608,7 @@
     "classColor": "#A330C9",
     "race": 10,
     "rank": 9,
-    "score": 0,
+    "score": 222.8,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Haxz",
@@ -12752,7 +12752,7 @@
     "classColor": "#FFF468",
     "race": 10,
     "rank": 9,
-    "score": 0,
+    "score": 216.5,
     "scoreColor": "#ffffff",
     "links": {
       "rio": "https://raider.io/characters/us/illidan/Meowzerk",
@@ -12903,24 +12903,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Alvahalla",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Alvahalla",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Alvahalla"
-    }
-  },
-  "68520921": {
-    "name": "Gamov",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Gamov",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gamov",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Gamov",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Gamov"
     }
   },
   "73165146": {
@@ -13823,24 +13805,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Zubaladin"
     }
   },
-  "137090062": {
-    "name": "Rits",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Rits",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Rits",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Rits",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Rits"
-    }
-  },
   "137426002": {
     "name": "Kylesthename",
     "realm": "sargeras",
@@ -14039,24 +14003,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Urbrochadd"
     }
   },
-  "145288456": {
-    "name": "Waylade",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 10,
-    "className": "Monk",
-    "classColor": "#00FF98",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Waylade",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Waylade",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Waylade",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Waylade"
-    }
-  },
   "145696079": {
     "name": "Razorclaw",
     "realm": "sargeras",
@@ -14181,24 +14127,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Vallenia",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Vallenia",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Vallenia"
-    }
-  },
-  "148506554": {
-    "name": "Basicwitch",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 9,
-    "className": "Warlock",
-    "classColor": "#8788EE",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Basicwitch",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Basicwitch",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Basicwitch",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Basicwitch"
     }
   },
   "150105664": {
@@ -14597,24 +14525,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Otherxbarry"
     }
   },
-  "155269586": {
-    "name": "Viv\u00ecen",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Viv\u00ecen",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Viv\u00ecen",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Viv\u00ecen",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Viv\u00ecen"
-    }
-  },
   "155282123": {
     "name": "Xmendxmend",
     "realm": "sargeras",
@@ -15011,24 +14921,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Th\u00fcnderlipz"
     }
   },
-  "160002996": {
-    "name": "Xaandria",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 11,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Xaandria",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Xaandria",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Xaandria",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Xaandria"
-    }
-  },
   "160218389": {
     "name": "Th\u00fbndershots",
     "realm": "sargeras",
@@ -15135,24 +15027,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flippyflops",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flippyflops",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flippyflops"
-    }
-  },
-  "161488240": {
-    "name": "Holyjiggle",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 2,
-    "className": "Paladin",
-    "classColor": "#F48CBA",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Holyjiggle",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Holyjiggle",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Holyjiggle",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Holyjiggle"
     }
   },
   "161499990": {
@@ -15551,24 +15425,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Kelvaridin"
     }
   },
-  "165943775": {
-    "name": "Holdencross",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 1,
-    "className": "Warrior",
-    "classColor": "#C69B6D",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Holdencross",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Holdencross",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Holdencross",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Holdencross"
-    }
-  },
   "166113954": {
     "name": "Beerhammer",
     "realm": "sargeras",
@@ -15801,24 +15657,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Gharah",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Gharah",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Gharah"
-    }
-  },
-  "168886068": {
-    "name": "Ghrizzley",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 11,
-    "className": "Druid",
-    "classColor": "#FF7C0A",
-    "race": 32,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Ghrizzley",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Ghrizzley",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Ghrizzley",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Ghrizzley"
     }
   },
   "168891852": {
@@ -16991,24 +16829,6 @@
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Felrel"
     }
   },
-  "186352172": {
-    "name": "Iolshield",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 5,
-    "className": "Priest",
-    "classColor": "#FFFFFF",
-    "race": 1,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": null,
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Iolshield",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Iolshield",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Iolshield"
-    }
-  },
   "186386760": {
     "name": "Dynka",
     "realm": "sargeras",
@@ -17439,24 +17259,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/N\u00f6d",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/N\u00f6d",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=N\u00f6d"
-    }
-  },
-  "188608072": {
-    "name": "Hajnae",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 3,
-    "className": "Hunter",
-    "classColor": "#AAD372",
-    "race": 4,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Hajnae",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Hajnae",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Hajnae",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Hajnae"
     }
   },
   "188748726": {
@@ -17907,24 +17709,6 @@
       "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Flemzor",
       "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Flemzor",
       "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Flemzor"
-    }
-  },
-  "189766900": {
-    "name": "Steppdincrit",
-    "realm": "sargeras",
-    "faction": "alliance",
-    "class": 8,
-    "className": "Mage",
-    "classColor": "#3FC7EB",
-    "race": 29,
-    "rank": 9,
-    "score": 0,
-    "scoreColor": "#ffffff",
-    "links": {
-      "rio": "https://raider.io/characters/us/sargeras/Steppdincrit",
-      "armory": "https://worldofwarcraft.com/en-us/character/us/sargeras/Steppdincrit",
-      "wcl": "https://www.warcraftlogs.com/character/us/sargeras/Steppdincrit",
-      "rbot": "https://www.raidbots.com/simbot/quick?region=us&realm=sargeras&name=Steppdincrit"
     }
   },
   "189792109": {
