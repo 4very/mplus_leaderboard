@@ -44,7 +44,6 @@ def prepGuildWeek(week, start, end):
     }, 'runs':{ 'data': {} }, 'update':""})
 
 def setGuildRoster(roster):
-  print(roster)
   db.collection(u'gdata').document(u'roster').set(roster)
 
 def getGuildRoster():
