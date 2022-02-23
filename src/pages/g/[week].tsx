@@ -8,8 +8,14 @@ import WeekNav from '../../components/g/weekNav';
 import HeaderBase from '../../components/misc/headerBase';
 import Indent from '../../components/misc/indent';
 import UpdateText from '../../components/update';
-import { getRoster, getWeekData, getWeekPaths } from '../../firebase/gdata';
 import {
+  getRoster,
+  getWeekData,
+  getWeekPaths,
+  getMetaData,
+} from '../../firebase/gdata';
+import {
+  GuildMetaData,
   GuildPropsType,
   GuildRosterColumns,
   GuildRosterRow,
@@ -43,12 +49,14 @@ export default function GuildPage(props: GuildPropsType) {
 export async function getStaticProps(context: any) {
   let { week } = context.params;
 
-  const { runs, meta, update } = await getWeekData(week);
+  const metaData: GuildMetaData = await getMetaData();
+  const curWeek = metaData.weekNum;
 
-  const curWeek = meta.weekNum;
   if (week === 'current') {
     week = curWeek.toString();
   }
+
+  const { runs, meta, update } = await getWeekData(week);
 
   const rosterRows: GuildRosterRow[] = [];
   const rosterObj = await getRoster();
