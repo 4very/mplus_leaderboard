@@ -53,7 +53,7 @@ def UpdateGuildRoster():
         }
       }
   
-  fb.getGuildRoster(writeObj)
+  fb.setGuildRoster(writeObj)
   root.info("updated guild roster")
   
 
