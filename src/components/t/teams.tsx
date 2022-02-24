@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Typography } from '@material-ui/core';
-import { DataGrid } from '@material-ui/data-grid';
+import { Typography } from '@mui/material';
+import { DataGrid } from '@mui/x-data-grid';
 
 import { TTeamData } from '../../types/tTypes';
 import Indent from '../misc/indent';

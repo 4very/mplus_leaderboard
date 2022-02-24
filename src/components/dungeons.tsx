@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Typography } from '@material-ui/core';
-import { DataGrid, GridSortModel } from '@material-ui/data-grid';
+import { Typography } from '@mui/material';
+import { DataGrid, GridSortModel } from '@mui/x-data-grid';
 
 import { GuildRunRow } from '../types/gTypes';
 import { TRunRow } from '../types/tTypes';

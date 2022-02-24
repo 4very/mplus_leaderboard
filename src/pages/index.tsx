@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
 import React from 'react';
 
-import { Typography } from '@material-ui/core';
+import { Typography } from '@mui/material';
 import Link from 'next/link';
 
 export default function HomePage() {
