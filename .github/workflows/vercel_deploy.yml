@@ -9,7 +9,7 @@ on:
   
 
 jobs:
-  Scrape:
+  Deploy:
     runs-on: ubuntu-latest
     steps:
    
