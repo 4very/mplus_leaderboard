@@ -29,7 +29,7 @@ jobs:
         pip install requests croniter pytz pandas firebase_admin
     
     - name: Run scraper
-      run: python ./data/main.py --info --guild --roster --meta --pages
+      run: python ./data/main.py --info --guild --meta --pages
       env:
           WOW_CLIENT_ID: ${{ secrets.WOW_CLIENT_ID }}
           WOW_CLIENT_SECRET: ${{ secrets.WOW_CLIENT_SECRET }}
