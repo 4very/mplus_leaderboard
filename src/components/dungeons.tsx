@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Typography } from '@mui/core';
+import { Typography } from '@mui/base';
 import { DataGrid, GridSortModel } from '@mui/data-grid';
 
 import { GuildRunRow } from '../types/gTypes';
