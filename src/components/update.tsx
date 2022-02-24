@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Typography } from '@mui/base';
+import { Typography } from '@mui/material';
 
 export default function UpdateText({ text }: { text: String }) {
   return (

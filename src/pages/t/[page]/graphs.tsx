@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { Typography } from '@mui/base';
+import { Typography } from '@mui/material';
 import Link from 'next/link';
 
 import HeaderBase from '../../../components/misc/headerBase';

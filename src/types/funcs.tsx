@@ -1,4 +1,4 @@
-import { GridCellParams } from '@mui/data-grid';
+import { GridCellParams } from '@mui/x-data-grid';
 import moment from 'moment';
 
 export interface Links {

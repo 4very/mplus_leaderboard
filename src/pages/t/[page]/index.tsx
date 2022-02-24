@@ -4,7 +4,7 @@ import React from 'react';
 
 import '@fontsource/roboto';
 
-import { Typography } from '@mui/base';
+import { Typography } from '@mui/material';
 import Link from 'next/link';
 
 import Dungeons from '../../../components/dungeons';

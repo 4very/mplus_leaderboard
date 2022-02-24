@@ -9,7 +9,7 @@ import {
   ArgumentAxis,
   Legend,
 } from '@devexpress/dx-react-chart-material-ui';
-import { Typography } from '@mui/base';
+import { Typography } from '@mui/material';
 
 import Indent from '../misc/indent';
 

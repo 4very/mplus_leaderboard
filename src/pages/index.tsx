@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Typography } from '@mui/base';
+import { Typography } from '@mui/material';
 import Link from 'next/link';
 
 export default function HomePage() {

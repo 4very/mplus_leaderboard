@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Typography } from '@mui/base';
-import { DataGrid, GridSortModel } from '@mui/data-grid';
+import { Typography } from '@mui/material';
+import { DataGrid, GridSortModel } from '@mui/x-data-grid';
 
 import { GuildRosterRow } from '../../types/gTypes';
 import Indent from '../misc/indent';

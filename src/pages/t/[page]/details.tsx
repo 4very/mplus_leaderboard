@@ -2,8 +2,8 @@ import path from 'path';
 
 import React from 'react';
 
-import { Typography } from '@mui/base';
-import { DataGrid, GridToolbar } from '@mui/data-grid';
+import { Typography } from '@mui/material';
+import { DataGrid, GridToolbar } from '@mui/x-data-grid';
 import jsonfile from 'jsonfile';
 import Link from 'next/link';
 
