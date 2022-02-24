@@ -38,3 +38,4 @@ data/temp.py
 ./data/__pycache__/*
 data/__pycache__/*
 auth.json
+data/scripts/firestore.py

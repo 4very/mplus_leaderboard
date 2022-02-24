@@ -8,9 +8,10 @@ from firebase_admin import firestore
 from os.path import join, realpath, dirname, isdir, exists
 from os import getcwd, listdir, walk
 from math import ceil
-from json import load
+from json import load, dump
 
 import os
+
 
 # print(os.environ.get('FIREBASE_AUTH_JSON'))
 
@@ -19,6 +20,16 @@ cred = credentials.Certificate('./auth.json')
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
+
+__location__ = realpath(join(getcwd(), 'data'))
+tdata = db.collection(u'tdata')
+obj = {}
+
+
+
+
+with open(join(__location__,'tdata.json'), 'w') as f:
+  dump(obj, f)
 
 
 

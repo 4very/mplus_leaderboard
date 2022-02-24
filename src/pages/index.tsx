@@ -4,7 +4,10 @@ import React from 'react';
 import { Typography } from '@mui/material';
 import Link from 'next/link';
 
-export default function HomePage() {
+import { getMeta } from '../firebase/home';
+import { HomePropsType } from '../types/home';
+
+export default function HomePage(_props: HomePropsType) {
   return (
     <>
       <div className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border text-center">
@@ -63,4 +66,17 @@ export default function HomePage() {
       </div>
     </>
   );
+}
+
+export async function getStaticProps() {
+  const { footer, guildname, redeploy, tagline } = await getMeta();
+
+  return {
+    props: {
+      footer,
+      guildname,
+      redeploy,
+      tagline,
+    },
+  };
 }
