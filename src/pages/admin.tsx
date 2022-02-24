@@ -2,7 +2,7 @@
 import React from 'react';
 
 import { useUser } from '@auth0/nextjs-auth0';
-import { Typography } from '@material-ui/core';
+import { Typography } from '@mui/material';
 
 export default function AdminPage() {
   const { user, error, isLoading } = useUser();
