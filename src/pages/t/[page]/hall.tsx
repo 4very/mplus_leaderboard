@@ -1,15 +1,12 @@
-import * as fs from 'fs';
-import path from 'path';
-
 import React from 'react';
 
 import { Typography } from '@material-ui/core';
-import jsonfile from 'jsonfile';
 import Link from 'next/link';
 
 import HeaderBase from '../../../components/misc/headerBase';
 import Indent from '../../../components/misc/indent';
-import { TMetaData, TTeamData } from '../../../types/tTypes';
+import { getTData, getTournaments } from '../../../firebase/tdata';
+import { TTeamData } from '../../../types/tTypes';
 
 export default function teamHall(props: any) {
   return (
@@ -97,49 +94,34 @@ export default function teamHall(props: any) {
 
 export async function getStaticProps(context: any) {
   const { page } = context.params;
-  const folderPath: string = path.join(
-    process.cwd(),
-    'data',
-    'pages',
-    't',
-    page
-  );
-  const pagesFile = path.join(process.cwd(), 'data', 'pages.json');
 
-  // check if page is valid tournament
-  // this is already covered by getStaticPaths but this is reassurance
-  if (!fs.existsSync(folderPath)) {
-    return { notFound: true };
-  }
+  const { teams, meta } = await getTData(page);
 
   const teamData: TTeamData[] = [];
-  const teamObj = await jsonfile.readFile(path.join(folderPath, 'teams.json'));
-  Object.keys(teamObj).forEach((key) => {
+  Object.keys(teams).forEach((key) => {
     teamData.push({
       id: key,
-      ...teamObj[key],
+      ...teams[key],
       runsComplete: 0,
     });
   });
 
-  const metaDataData = await jsonfile.readFile(pagesFile);
-  const metaData: TMetaData = await metaDataData[page];
-
   return {
     props: {
       teamData,
-      metaData,
+      metaData: meta,
       page,
     },
   };
 }
 
 export async function getStaticPaths() {
-  const obj = jsonfile.readFile(path.join(process.cwd(), 'data', 'pages.json'));
   const paths: Object[] = [];
-  Object.keys(await obj).forEach((page) => {
+  (await getTournaments()).forEach((tournament) => {
     paths.push({
-      params: { page },
+      params: {
+        page: tournament,
+      },
     });
   });
 
