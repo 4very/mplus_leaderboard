@@ -1,5 +1,6 @@
+/* eslint-disable import/no-mutable-exports */
 import { initializeApp } from 'firebase/app';
-import { getFirestore } from 'firebase/firestore';
+import { connectFirestoreEmulator, getFirestore } from 'firebase/firestore';
 
 const app = initializeApp({
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
@@ -10,7 +11,10 @@ const app = initializeApp({
   appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
   measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
 });
-
 const firestore = getFirestore(app);
+
+if (process.env.NODE_ENV === 'development') {
+  connectFirestoreEmulator(firestore, 'localhost', 8080);
+}
 
 export { firestore };

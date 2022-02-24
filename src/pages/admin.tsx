@@ -16,9 +16,7 @@ export default function AdminPage() {
           You are not logged in
         </Typography>
         <Typography variant="h4" className="font-serif">
-          <a href="/api/auth/login?redirect_uri=http://localhost:3000/admin">
-            Click here to login
-          </a>
+          <a href="/api/auth/login">Click here to login</a>
         </Typography>
       </div>
     );
