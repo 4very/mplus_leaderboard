@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Typography } from '@material-ui/core';
+import { Typography } from '@mui/core';
 import Link from 'next/link';
 
 import Indent from './indent';
