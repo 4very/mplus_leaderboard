@@ -36,6 +36,11 @@ def updateUpdate(col, doc):
 #region guild
 
 def prepGuildWeek(week, start, end):
+  
+  start = datetime.utcfromtimestamp(start) - timedelta(hours=5)
+  end = datetime.utcfromtimestamp(end) - timedelta(hours=5)
+  
+  
   if not db.collection(u'gdata').document(str(week)).get().exists:
     db.collection(u'gdata').document(str(week)).set({'meta':{
       'num': week,
