@@ -15,8 +15,9 @@ def updatePage(tourn):
     fb.setTournRuns(tourn, runs)
     fb.updateUpdate(u'tdata',tourn)
     updateRosterData(tourn)
-    if fb.getTournMeta['collectGraphs']:
-        addHistoricalPoints(tourn, fb.getTournMeta['start-date'])
+    meta = fb.getTournMeta(tourn)
+    if meta['collectGraphs']:
+        addHistoricalPoints(tourn, meta['start-date'])
 
 
 def getRuns(tourn) -> dict:
@@ -221,7 +222,7 @@ def getHighestKeys(runs, teams):
 
     if 'data' not in runs.keys():
         return highKeyObj
-        
+
     for _, run in runs['data'].items():
         if (run['keyMod'] == 0):
             continue
@@ -241,7 +242,8 @@ def getHighestKeys(runs, teams):
 
 def addHistoricalPoints(tourn, start):
 
-  hist, teams = attrgetter('hist', 'teams')(fb.getTournData(tourn))
+  hist = fb.getTournHist(tourn)
+  teams = fb.getTournTeams(tourn)
 
 
   cday = (time()-start)/86400
