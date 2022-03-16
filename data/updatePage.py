@@ -109,7 +109,8 @@ def updateAllColors(tourn):
 
 def updateRosterData(tourn):
 
-    runs, teams = attrgetter('runs', 'teams')(fb.getTournData(tourn))
+    runs = fb.getTournRuns(tourn)
+    teams = fb.getTournTeams(tourn)
 
     keyNums = getKeysCompleted(runs,teams)
     highKeys = getHighestKeys(runs,teams)
