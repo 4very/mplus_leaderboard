@@ -43,5 +43,5 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ]
+, "src/firebase/tmp.js"  ]
 }

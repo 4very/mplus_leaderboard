@@ -7,16 +7,17 @@ import Link from 'next/link';
 import { getMeta } from '../firebase/home';
 import { HomePropsType } from '../types/home';
 
-export default function HomePage(_props: HomePropsType) {
+// eslint-disable-next-line unused-imports/no-unused-vars
+export default function HomePage(props: HomePropsType) {
   return (
     <>
       <div className="pt-10 sm:pl-2 lg:pl-6 pb-0 box-border text-center">
         <div className="mb-20">
           <Typography variant="h1" className="font-serif">
-            <Link href="www.currentlyonline.org"> Currently Online </Link>
+            <Link href="www.currentlyonline.org">{props.guildname}</Link>
           </Typography>
           <Typography variant="h3" className="font-serif">
-            Mythic+ Tracker
+            {props.tagline}
           </Typography>
         </div>
         <div className="flex self-center justify-center flex-col mb-20">
@@ -69,13 +70,13 @@ export default function HomePage(_props: HomePropsType) {
 }
 
 export async function getStaticProps() {
-  const { footer, guildname, redeploy, tagline } = await getMeta();
+  const { footer, guildname, tagline } = (await getMeta()) as HomePropsType;
 
   return {
     props: {
       footer,
       guildname,
-      redeploy,
+      // redeploy,
       tagline,
     },
   };
