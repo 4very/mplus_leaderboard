@@ -24,10 +24,12 @@ export default function graphPage(props: any) {
           <Link href={`/t/${props.page}`}>{'<< Go back to main page'}</Link>
         </Typography>
         <TournGraph
+          lines = {props.lines}
           graphData={props.ilvlGraphData}
           header="Average Item Level:"
         />
         <TournGraph
+          lines = {props.lines}
           graphData={props.scoreGraphData}
           header="Team Raider.io Score:"
         />
@@ -39,12 +41,15 @@ export default function graphPage(props: any) {
 export async function getStaticProps(context: any) {
   const { page } = context.params;
 
-  const { historical, update, meta } = await getTData(page);
+  const { historical, update, meta, teams } = await getTData(page);
+
+  const lines = Object.keys(teams);
 
   return {
     props: {
       ilvlGraphData: historical.ilvl,
       scoreGraphData: historical.tscore,
+      lines,
       update,
       metaData: meta,
       page,

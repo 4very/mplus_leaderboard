@@ -31,9 +31,11 @@ const renderGreyText = (data: any) => {
 };
 
 export default function TournGraph({
+  lines,
   graphData,
   header,
 }: {
+  lines: string[];
   graphData: any;
   header: String;
 }) {
@@ -63,13 +65,16 @@ export default function TournGraph({
           {/* <ArgumentAxis /> */}
           <ValueAxis labelComponent={renderGreyText} showLine />
 
-          <LineSeries name="TTC" valueField="TTC" argumentField="day" />
-          <LineSeries name="ASC" valueField="ASC" argumentField="day" />
-          <LineSeries name="meat" valueField="meat" argumentField="day" />
-          <LineSeries name="WSRF2T" valueField="WSRF2T" argumentField="day" />
-          <LineSeries name="TST" valueField="TST" argumentField="day" />
-          <LineSeries name="STISB" valueField="STISB" argumentField="day" />
-          <LineSeries name="inv" valueField="inv" argumentField="day" />
+          {lines.map((line) => {
+            return (
+              <LineSeries
+                name={line}
+                valueField={line}
+                argumentField="day"
+              />
+            )
+          })}
+
 
           <Legend />
           <Tooltip />

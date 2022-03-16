@@ -43,6 +43,11 @@ export default function HomePage() {
               Previous Tournaments
             </Typography>
             <Typography variant="h5" className="underline">
+            <Link href="/t/tournament-3">
+                the Spooky Specs Mythic+ Tournament
+              </Link>
+            </Typography>
+            <Typography variant="h5" className="underline">
               <Link href="/t/tournament-2">
                 the September(ish) M+ Tournament!
               </Link>
