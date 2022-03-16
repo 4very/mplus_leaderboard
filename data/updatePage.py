@@ -198,9 +198,14 @@ def updateRosterData(tourn):
 
 def getKeysCompleted(runs,teams):
 
+
+
     runObj = {}
     for id, _ in teams.items():
         runObj[id] = 0
+
+    if 'data' not in runs.keys():
+        return runObj
 
     for _, run in runs['data'].items():
         runObj[run['team']] += 1
@@ -214,6 +219,9 @@ def getHighestKeys(runs, teams):
     for tid, _ in teams.items():
         highKeyObj[tid] = {'key': 0, 'per': 0, 'str': 'none'}
 
+    if 'data' not in runs.keys():
+        return highKeyObj
+        
     for _, run in runs['data'].items():
         if (run['keyMod'] == 0):
             continue
