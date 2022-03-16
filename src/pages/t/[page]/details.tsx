@@ -1,16 +1,13 @@
-import path from 'path';
-
 import React from 'react';
 
 import { Typography } from '@mui/material';
 import { DataGrid, GridToolbar } from '@mui/x-data-grid';
-import jsonfile from 'jsonfile';
 import Link from 'next/link';
 
 import HeaderBase from '../../../components/misc/headerBase';
 import Indent from '../../../components/misc/indent';
 import UpdateText from '../../../components/update';
-import { getTData } from '../../../firebase/tdata';
+import { getTData, getTournaments } from '../../../firebase/tdata';
 import { TournTeamDetails, TPlayerRow } from '../../../types/tTypes';
 
 export default function ContentPage(props: any) {
@@ -68,11 +65,12 @@ export async function getStaticProps(context: any) {
 }
 
 export async function getStaticPaths() {
-  const obj = jsonfile.readFile(path.join(process.cwd(), 'data', 'pages.json'));
   const paths: Object[] = [];
-  Object.keys(await obj).forEach((page) => {
+  (await getTournaments()).forEach((tournament) => {
     paths.push({
-      params: { page },
+      params: {
+        page: tournament,
+      },
     });
   });
 
