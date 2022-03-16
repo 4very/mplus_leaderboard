@@ -67,7 +67,12 @@ export default function TournGraph({
 
           {lines.map((line: string) => {
             return (
-              <LineSeries name={line} valueField={line} argumentField="day" />
+              <LineSeries
+                key={line}
+                name={line}
+                valueField={line}
+                argumentField="day"
+              />
             );
           })}
 
