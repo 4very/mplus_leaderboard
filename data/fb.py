@@ -111,6 +111,7 @@ def __setTourn(tourn, field, data):
   db.collection(u'tdata').document(str(tourn)).update({field:__fieldStr(data)})
 
 def setTournRuns(tourn, runs):
+  if 'data' not in runs: runs = {'data':runs}
   __setTourn(tourn, u'runs', runs)
 
 def setTournTeams(tourn, teams):
