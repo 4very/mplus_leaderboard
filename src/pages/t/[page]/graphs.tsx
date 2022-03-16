@@ -24,12 +24,12 @@ export default function graphPage(props: any) {
           <Link href={`/t/${props.page}`}>{'<< Go back to main page'}</Link>
         </Typography>
         <TournGraph
-          lines = {props.lines}
+          lines={props.lines}
           graphData={props.ilvlGraphData}
           header="Average Item Level:"
         />
         <TournGraph
-          lines = {props.lines}
+          lines={props.lines}
           graphData={props.scoreGraphData}
           header="Team Raider.io Score:"
         />
