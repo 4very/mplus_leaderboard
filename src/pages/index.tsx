@@ -29,8 +29,8 @@ export default function HomePage() {
               Guild Tournaments
             </Typography>
             <Typography variant="h4" className="underline">
-              <Link href="/t/tournament-3">
-                the Spooky Specs Mythic+ Tournament
+              <Link href="/t/tournament-4">
+                Season 3 Kickoff Tournament!
               </Link>
             </Typography>
 
