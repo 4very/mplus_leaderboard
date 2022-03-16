@@ -26,8 +26,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests croniter pytz pandas
-    
+        pip install requests croniter pytz pandas firebase_admin
+
     - name: Update Pages
       run: python ./data/main.py --info --pages
       env:
