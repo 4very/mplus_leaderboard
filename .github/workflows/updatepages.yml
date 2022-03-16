@@ -33,11 +33,12 @@ jobs:
       env:
           WOW_CLIENT_ID: ${{ secrets.WOW_CLIENT_ID }}
           WOW_CLIENT_SECRET: ${{ secrets.WOW_CLIENT_SECRET }}
-      
-    - name: Commit files
-      run: |
-        git config user.name Scraper
-        git add .
-        git commit -m "Updated Pages `date +'%Y-%m-%d %H:%M:%S'`" || echo "Nothing to commit"
-        git pull origin main -s recursive -X ours --rebase
-        git push origin main
+          FIREBASE_AUTH_JSON: ${{ secrets.FIREBASE_AUTH_JSON }}
+
+    - name: Trigger Vercel Redeploy
+      uses: amondnet/vercel-action@v20
+      with:
+        vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+        vercel-args: '--prod' #Optional
+        vercel-org-id: ${{ secrets.ORG_ID}}  #Required
+        vercel-project-id: ${{ secrets.PROJECT_ID}} #Required 
