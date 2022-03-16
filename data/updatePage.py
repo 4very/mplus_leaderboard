@@ -44,7 +44,7 @@ def AddTimeAndPercDiff(runs):
 
 def getAllRuns(tourn) -> dict:
     teams = fb.getTournTeams(tourn)
-    params = fb.getTournParams(tourn)
+    params = fb.getTournMeta(tourn)
     returnValue = {}
 
     for teamId, team in teams.items():
