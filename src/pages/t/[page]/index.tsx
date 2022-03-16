@@ -81,12 +81,14 @@ export async function getStaticProps(context: any) {
   });
 
   const runRows: TRunRow[] = [];
-  Object.keys(runs.data).forEach((key) => {
-    runRows.push({
-      id: key,
-      ...runs.data[key],
+  if (runs !== undefined && runs.data !== undefined) {
+    Object.keys(runs.data).forEach((key) => {
+      runRows.push({
+        id: key,
+        ...runs.data[key],
+      });
     });
-  });
+  }
 
   return {
     props: {
