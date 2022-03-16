@@ -65,7 +65,7 @@ export default function TournGraph({
           {/* <ArgumentAxis /> */}
           <ValueAxis labelComponent={renderGreyText} showLine />
 
-          {lines.map((line) => {
+          {lines.map((line: string) => {
             return (
               <LineSeries name={line} valueField={line} argumentField="day" />
             );
