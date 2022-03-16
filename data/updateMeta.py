@@ -32,17 +32,20 @@ def getColorForRunScore(score: float):
   try: int(colorScore)
   except: return '#ffffff'
   coloringData = fb.getColoring()
-  for colorScore, color in coloringData.items():
+  vals = list(coloringData.keys()).sort()
+  for colorScore in vals:
     if int(colorScore)/16.0 < score:
-      return color
+      return coloringData[colorScore]
+  return '#ffffff'
 
 def getColorForScore(score: float):
   try: int(colorScore)
   except: return '#ffffff'
   coloringData = fb.getColoring()
-  for colorScore, color in coloringData.items():
+  vals = list(coloringData.keys()).sort()
+  for colorScore in vals:
     if int(colorScore) < score:
-      return color
+      return coloringData[colorScore]
   return '#ffffff'
 
 def updateRankings(folder):
