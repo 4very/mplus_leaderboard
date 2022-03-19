@@ -15,4 +15,4 @@ for id,e in data.items():
   
 
 
-setTournHist(data)
+setTournHist('tournament-4',data)
