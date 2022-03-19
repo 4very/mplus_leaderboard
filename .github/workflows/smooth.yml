@@ -1,0 +1,41 @@
+
+name: Smooth Histogram
+
+# Controls when the action will run. 
+on:
+#   schedule:
+#     - cron:  '*/30 * * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+   
+    - name: Checkout script repo
+      uses: actions/checkout@v2
+            
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install firebase_admin
+    
+    - name: Smooth Graph
+      run: python ./data/smooth.py
+      env:
+          FIREBASE_AUTH_JSON: ${{ secrets.FIREBASE_AUTH_JSON }}
+
+    - name: Trigger Vercel Redeploy
+      uses: amondnet/vercel-action@v20
+      with:
+        vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+        vercel-args: '--prod' #Optional
+        vercel-org-id: ${{ secrets.ORG_ID}}  #Required
+        vercel-project-id: ${{ secrets.PROJECT_ID}} #Required 
