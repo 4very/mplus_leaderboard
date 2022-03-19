@@ -25,7 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install firebase_admin
+        pip install requests croniter pytz pandas firebase_admin
     
     - name: Smooth Graph
       run: python ./data/smooth.py
