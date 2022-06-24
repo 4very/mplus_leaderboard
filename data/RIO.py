@@ -10,7 +10,10 @@ def RIO_GetCharData(name: str, realm, fields: str = ""):
   querystring = {"region":"us","realm":realm.lower(),"name":name.lower(),"fields":fields}
 
   payload = ""
-  response = requests.request("GET", url, data=payload, params=querystring)
+  try: 
+    response = requests.request("GET", url, data=payload, params=querystring)
+  except:
+    return {}
 
   if response.status_code != 200:
     if response.status_code == 400: return {}
