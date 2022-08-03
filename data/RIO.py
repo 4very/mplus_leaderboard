@@ -65,7 +65,8 @@ def RIO_GetColorData():
   if error(response): return RIO_GetColorData()
 
   try: data = json.loads(response.text)
-  except: 
+  except:
+    if response.status_code == 400: return {}
     warn("Cannot get RIO color data")
     sleep(30)
     return RIO_GetColorData()
