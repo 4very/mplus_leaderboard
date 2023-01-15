@@ -68,7 +68,8 @@ NumberToClassName = {
   9: 'Warlock',
   10: 'Monk',
   11: 'Druid',
-  12: 'Demon Hunter'
+  12: 'Demon Hunter',
+  13: 'Evoker'
 }
 
 NumberToClassColor = {
@@ -84,5 +85,6 @@ NumberToClassColor = {
   9: '#8788EE',
   10: '#00FF98',
   11: '#FF7C0A',
-  12: '#A330C9'
+  12: '#A330C9',
+  13: "#33937f"
 }
